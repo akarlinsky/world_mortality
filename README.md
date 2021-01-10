@@ -27,7 +27,7 @@ Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monda
 ### Colombia
 
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
-Direct link to the latest table in XLS (November 2020): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-01nov.xlsx.
+Direct link to the latest table in XLS (November 2020): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-01nov.xlsx.  
 Here we sum values in three categories: Natural, Violenta, and En estudio (unclassified deaths). 
 
 ### Georgia
@@ -42,7 +42,7 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 
 ### Russia
 
-https://www.fedstat.ru/indicator/33556 (data available from 2006)
+https://www.fedstat.ru/indicator/33556 (data available from 2006)  
 The latest month is published on *rosstat.gov.ru* first and it takes several days for the data to appear on *fedstat.ru*. The exact URL is always different. For November 2020, the URL is https://rosstat.gov.ru/storage/mediabank/ldMWepjj/edn11-2020.htm.
 
 
