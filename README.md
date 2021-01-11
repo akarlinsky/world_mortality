@@ -16,6 +16,16 @@ Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monda
 
 ## Sources
 
+### Eurostat
+
+We collect the weekly data from Eurostat for the following countries: **LIST ALL COUNTRIES HERE**
+
+### Human Mortality Database, Short-Term Mortality Flucations
+
+We collect the weekly STMF data for the following countries: **LIST ALL NON-EUROSTAT COUNTRIES HERE**
+
+For some European countries, STMF sometimes has more up-to-date data than Eurostat. In that case, we append additional STMF data points to the Eurostat data. 
+
 ### Armenia (monthly)
 
 2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
