@@ -1,4 +1,4 @@
-# Weekly/monthly mortality 2015--2021
+# Weekly/monthly mortality 2015–2021
 
 This repository contains country-level data on all-cause mortality collected from various sources, see below. Please note:
 
@@ -7,7 +7,7 @@ This repository contains country-level data on all-cause mortality collected fro
 * We only collect weekly, monthly, or quarterly data. 
 * We only provide all-cause mortality numbers, without splitting by age or gender.
 * We only provide country-level data, without splitting it by regions or individual cities.
-* The data for the European countries are sourced from the EuroStat **(LINK NEEDED)**.
+* The data for the European countries are sourced from the [EuroStat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Weekly_death_statistics&stable).
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset.
 
 We welcome any contributions.
@@ -26,18 +26,18 @@ Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monda
 2020: https://www.armstat.am/file/article/sv_10_20r_520.pdf  
 
 
-### Azerbijan (monthly)
-2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
-
+### Azerbaijan (monthly)
+2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2019 to 2020: https://www.stat.gov.az/news/source/2020_11ay.zip
 
 
 ### Bolivia (monthly)
-New York Times Excess Mortality: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths
+New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths.  
+NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." Note also that the value for September 2020 is missing in the data file and was approximated from the NYT graphics.
 
 
-### Brazil
-All years - Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
+### Brazil (monthly)
+Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
 
 
 ### Colombia (weekly)
@@ -59,9 +59,8 @@ https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defuncione
 
 ### Egypt (monthly)
 
-2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
-
-2020: Monthly Bulletin of the Egyptian NSO (CAPMAS) - https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
+2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2020: Monthly Bulletin of the Egyptian NSO (CAPMAS), https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
 
 
 ### Georgia (monthly)
@@ -72,7 +71,7 @@ https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defuncione
 
 ### Hong Kong (monthly)
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094
-2019 to 2020: Hong Kong Monthly Digest of Statistics -  https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
+2019 to 2020: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 
 ### Iran (quarterly)
@@ -86,7 +85,7 @@ Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 ### Japan (monthly)
 
-All years: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
 ### Mexico (weekly)
@@ -137,8 +136,7 @@ Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/pub
 ### South Africa (weekly)
 South Africa Medical Research Council (SARMC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
 
-SAMRC do not publish weekly data for years prior to 2020. Instead, the raw figures for 2018-2019 are used to forecast expected weekly mortality using the excel forecast function. **HOW TO INDICATE THIS IN THE DATA?**.
-
+SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `forecast` function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
 
 ### Thailand (monthly)
 Official Statistics Registration Systems:
