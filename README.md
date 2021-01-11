@@ -9,10 +9,12 @@ This repository contains country-level data on all-cause mortality collected fro
 * We only provide country-level data, without splitting it by regions or individual cities.
 * The data for the European countries are sourced from the [EuroStat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Weekly_death_statistics&stable).
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset.
+* Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015, will have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of the week day. This is specified in the data table.
 
-We welcome any contributions.
+We are currently providing data for **INSERT NUMBER HERE** countries. We welcome any contributions.
 
-Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015, will have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of week day. This is specified in the data table.
+If you use this dataset, please cite this repository. Publication is upcoming.
+
 
 ## Sources
 
