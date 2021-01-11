@@ -2,12 +2,13 @@
 
 This repository contains country-level data on all-cause mortality collected from various sources, see below. Please note:
 
-* Our aim is to provide data from 2015 onwards but in some cases the coverage starts later. 
+* Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
 * We only collect weekly, monthly, or quarterly data. 
 * We only provide all-cause mortality numbers, without splitting by age or gender.
 * We only provide country-level data, without splitting it by regions or individual cities.
-* The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset. For European countries we use STMF or EuroStat data, whatever is more up-to-date.
+* The data for the European countries are sourced from the EuroStat **(LINK NEEDED)**.
+* The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset.
 
 We welcome any contributions.
 
