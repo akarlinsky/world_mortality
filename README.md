@@ -18,24 +18,13 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 
 ## Sources
 
-### Human Mortality Database, Short-Term Mortality Flucations
-
-We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, United Kingdom (Engalnd & Wales, Northern Ireland, Scotland), United States of America.
-
-For some European countries, STMF sometimes has more up-to-date data than Eurostat. In that case, we append additional STMF data points to the Eurostat data. 
-
 ### Eurostat
-
 We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
 
-### Armenia (monthly)
+### Human Mortality Database, Short-Term Mortality Flucations
+We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
-2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
-2016: https://www.armstat.am/file/article/sv_12_16r_520.pdf  
-2017: https://www.armstat.am/file/article/sv_12_17r_520.pdf  
-2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
-2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
-2020: https://www.armstat.am/file/article/sv_10_20r_520.pdf  
+For some European countries, STMF sometimes has more up-to-date data than Eurostat. In that case, we append additional STMF data points to the Eurostat data. 
 
 
 ### Azerbaijan (monthly)
@@ -49,7 +38,10 @@ We collect the weekly data from Eurostat for the following countries: Albania, A
 
 ### Bolivia (monthly)
 New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths.  
-NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." Note also that the value for September 2020 is missing in the data file and was approximated from the NYT graphics.
+
+NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." In their analysis, NYT implicitly assumes that the excess mortality in April was zero.
+
+Note also that the value for September 2020 is missing in the data file and was approximated from the NYT graphics.
 
 
 ### Brazil (monthly)
@@ -57,41 +49,31 @@ Brazilian Population Registry: https://transparencia.registrocivil.org.br/regist
 
 
 ### Colombia (weekly)
-
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
 Direct link to the latest table in XLS (November 2020): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-01nov.xlsx.  
 Here we sum values in three categories: Natural, Violenta, and En estudio (unclassified deaths). 
 
 
 ### Ecuador (weekly)
-
-2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/
-2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/
-2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/
-2020: https://www.registrocivil.gob.ec/cifrasdefuncion/
-Direct link to the latest table in XLS (January 2021):
+2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/  
+2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
+2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
+2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
+Direct link to the latest table in XLS (January 2021):  
 https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_03_ENE_2021.xlsx
 
 
 ### Egypt (monthly)
-
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2020: Monthly Bulletin of the Egyptian NSO (CAPMAS), https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
 
 
-### Georgia (monthly)
-
-2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
-2020: https://www.kavkaz-uzel.eu/blogs/83781/posts/45084 (values digitized from an official plot)
-
-
 ### Hong Kong (monthly)
-2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094
+2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094  
 2019 to 2020: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 
 ### Iran (quarterly)
-
 https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=2182&Page=Magazines/SquareshowMagazine  
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
@@ -100,7 +82,6 @@ Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 
 ### Japan (monthly)
-
 https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
@@ -111,8 +92,7 @@ Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-m
 ### Moldova (monthly)
 2015 to 2020: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=498&yearfrom=2015&yearto=2020&p=A
-
+2020: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=498&yearfrom=2015&yearto=2020&p=A  
 Crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Moldova 2020 which is 2,640,000. 
 
 
@@ -121,26 +101,18 @@ Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id
 
 
 ### Peru (weekly)
-2017 onward: Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
+Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
+
+Peru provides daily death counts. We summed them up to form weekly death counts.
 
 
 ### Philippines (monthly)
 Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
 
 
-### Romania (monthly)
-National Institute of Statistics: 
-https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&created=8&field_cuvinte_cheie_value=&items_per_page=10
-
-
 ### Russia (monthly)
-
 https://www.fedstat.ru/indicator/33556 (data available from 2006)  
 The latest month is published on *rosstat.gov.ru* first and it takes several days for the data to appear on *fedstat.ru*. The exact URL is always different. For November 2020, the URL is https://rosstat.gov.ru/storage/mediabank/ldMWepjj/edn11-2020.htm.
-
-### Serbia (monthly)
-
-Statistical Office of the Rebublic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
 
 
 ### Singapore (monthly)
@@ -152,6 +124,7 @@ South Africa Medical Research Council (SARMC): https://www.samrc.ac.za/reports/r
 
 SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `forecast` function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
 
+
 ### Thailand (monthly)
 Official Statistics Registration Systems:
 https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
@@ -162,3 +135,42 @@ https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 
 2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/
 Access by: Statistical Information -> Population and migration -> Number of live births, deaths, by region
+
+2019 data can be found following links from http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
+
+----------------------------
+
+## Currently unused sources
+
+Below are listed some sources that are currently *not* used for this dataset.
+
+### Armenia (monthly)
+
+The monthly numbers for Armenia are not used because we prefer the weekly numbers from EuroStat.
+
+2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
+2016: https://www.armstat.am/file/article/sv_12_16r_520.pdf  
+2017: https://www.armstat.am/file/article/sv_12_17r_520.pdf  
+2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
+2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
+2020: https://www.armstat.am/file/article/sv_10_20r_520.pdf  
+
+### Georgia (monthly)
+
+The monthly numbers for Georgia are not used because we prefer the weekly numbers from EuroStat.
+
+2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
+2020: https://www.kavkaz-uzel.eu/blogs/83781/posts/45084 (values digitized from an official plot)
+
+### Romania (monthly)
+
+The monthly numbers for Romania are not used because we prefer the weekly numbers from EuroStat.
+
+National Institute of Statistics: 
+https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&created=8&field_cuvinte_cheie_value=&items_per_page=10
+
+### Serbia (monthly)
+
+The monthly numbers for Serbia are not used because we prefer the weekly numbers from EuroStat.
+
+Statistical Office of the Rebublic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
