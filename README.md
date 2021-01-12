@@ -11,7 +11,7 @@ This repository contains country-level data on all-cause mortality collected fro
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset.
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015, will have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of the week day. This is specified in the data table.
 
-We are currently providing data for **INSERT NUMBER HERE** countries. We welcome any contributions.
+We are currently providing data for 64 countries. We welcome any contributions.
 
 If you use this dataset, please cite this repository. Publication is upcoming.
 
@@ -62,6 +62,8 @@ Here we sum values in three categories: Natural, Violenta, and En estudio (uncla
 Direct link to the latest table in XLS (January 2021):  
 https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_03_ENE_2021.xlsx
 
+Ecuador provides daily death counts. We summed them up to form weekly death counts.
+
 
 ### Egypt (monthly)
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
@@ -77,17 +79,19 @@ https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defuncione
 https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=2182&Page=Magazines/SquareshowMagazine  
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
+
 ### Ireland (quarterly)
 Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 
 ### Japan (monthly)
-https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
+Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
 ### Mexico (weekly)
 Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
+The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2018 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We provide this forecast here as if it were the 2018 data, to make it easier for the analysis scripts.
 
 ### Moldova (monthly)
 2015 to 2020: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -123,6 +127,10 @@ Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/pub
 South Africa Medical Research Council (SARMC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
 
 SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `forecast` function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
+
+
+### Taiwan (monthly)
+Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/files/site_stuff/321/1/month/month_en.html
 
 
 ### Thailand (monthly)
