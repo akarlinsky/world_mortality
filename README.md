@@ -18,15 +18,15 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 
 ## Sources
 
-### Eurostat
-
-We collect the weekly data from Eurostat for the following countries: **LIST ALL COUNTRIES HERE**
-
 ### Human Mortality Database, Short-Term Mortality Flucations
 
-We collect the weekly STMF data for the following countries: **LIST ALL NON-EUROSTAT COUNTRIES HERE**
+We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, The United Kingdom (Engalnd & Wales, Northern Ireland, Scotland), United States of America.
 
 For some European countries, STMF sometimes has more up-to-date data than Eurostat. In that case, we append additional STMF data points to the Eurostat data. 
+
+### Eurostat
+
+We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
 
 ### Armenia (monthly)
 
@@ -41,6 +41,10 @@ For some European countries, STMF sometimes has more up-to-date data than Eurost
 ### Azerbaijan (monthly)
 2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2019 to 2020: https://www.stat.gov.az/news/source/2020_11ay.zip
+
+
+### Belarus (monthly)
+2015 to 2020: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 
 ### Bolivia (monthly)
@@ -112,8 +116,6 @@ Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-m
 Crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Moldova 2020 which is 2,640,000. 
 
 
-
-
 ### Mongolia (monthly)
 Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
 
@@ -159,15 +161,4 @@ https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 2014 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/
-Statistical Information -> Population and migration -> Number of live births, deaths, by region
-
-
-
-
-
-
-
-
-
-
-
+Access by: Statistical Information -> Population and migration -> Number of live births, deaths, by region

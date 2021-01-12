@@ -1,1 +1,4 @@
 /raw_data
+*.RMD
+*.Rproj
+.Rproj.user
