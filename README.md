@@ -132,6 +132,8 @@ SAMRC does not publish weekly data for years before 2020. Instead, the 2018--201
 ### Taiwan (monthly)
 Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/files/site_stuff/321/1/month/month_en.html
 
+Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
+
 
 ### Thailand (monthly)
 Official Statistics Registration Systems:
