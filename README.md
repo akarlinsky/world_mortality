@@ -10,6 +10,9 @@ This repository contains country-level data on all-cause mortality collected fro
 * The data for the European countries are sourced from the [EuroStat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Weekly_death_statistics&stable).
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset.
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015, will have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of the week day. This is specified in the data table.
+* Some countries publish incomplete data for most recent weeks, which shows as large "dips" in the weekly mortality for 2020. We omit this data points for now for the following countries: Sweden, Slovakia, Finland, Norway, United States. 
+
+
 
 We are currently providing data for 64 countries. We welcome any contributions.
 
@@ -71,17 +74,18 @@ Ecuador provides daily death counts. We summed them up to form weekly death coun
 
 
 ### Hong Kong (monthly)
+Hong Kong Census and Statistics Department:
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094  
 2019 to 2020: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 
 ### Iran (quarterly)
-https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=2182&Page=Magazines/SquareshowMagazine  
+Iran National Organization for Civil Registration: https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=2182&Page=Magazines/SquareshowMagazine  
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
 
 ### Ireland (quarterly)
-Central Statistics Office: https://data.cso.ie/table/VSQ01
+Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 
 ### Japan (monthly)
@@ -101,7 +105,9 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 
 
 ### Mongolia (monthly)
-Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
+2015: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a496%3brefYear%3a2015&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2016 to 2020: Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
 
 
 ### Peru (weekly)
