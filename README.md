@@ -21,11 +21,11 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
+We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
-We do not use the United States data either because we prefer the CDC 'predictions' that account for underreporting in recent weeks (see below).
+United States data from 2017 onwards are replaced with CDC 'predictions' that account for underreporting in recent weeks (see below).
 
 For some European countries, STMF sometimes has more up-to-date (and backward revised) data than Eurostat, as it culls data from countries' NSOs. 
 For each data point that exists in both datasets, we take the maximum between them as the final data.
@@ -166,7 +166,8 @@ Access by: Statistical Information -> Population and migration -> Number of live
 
 
 ### United States (weekly)
-Centers for Disease Control and Prevention: https://data.cdc.gov/api/views/xkkf-xrst/rows.csv  
+2015--2016: STMF, see above.  
+From 2017: Centers for Disease Control and Prevention: https://data.cdc.gov/api/views/xkkf-xrst/rows.csv  
 We use the 'predicted' (weighted) time series that accounts for underreporting in recent weeks. See https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm for more information.  
 We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/grasp/fluview/mortality.html as being <90% complete.
 
