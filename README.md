@@ -21,7 +21,9 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+
+We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated.
 
 
 ### Eurostat
