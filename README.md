@@ -24,10 +24,12 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 ### Eurostat
 We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
 
+
 ### Human Mortality Database, Short-Term Mortality Flucations
 We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
-For some European countries, STMF sometimes has more up-to-date data than Eurostat. In that case, we append additional STMF data points to the Eurostat data. 
+For some European countries, STMF sometimes has more up-to-date (and backward revised) data than Eurostat, as it culls data from countries' NSOs. 
+For each data point that exists in both datasets, with take the maximum between them as the final data.
 
 
 ### Azerbaijan (monthly)
@@ -48,7 +50,11 @@ Note also that the value for September 2020 is missing in the data file and was 
 
 
 ### Brazil (monthly)
-Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
+2015 to 2017: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a76%3brefYear%3a2015%2c2016%2c2017&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+2019 to 2020: Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
+
+Note: The Brazilian Population Registry has data for monthly mortality in 2018, but it is significantly lower than UNData counts for previous years. This is possibly due to under-reporting in the Registry in early years. 
+We chose not to include 2018 Brazilian currently. 
 
 
 ### Colombia (weekly)
@@ -96,6 +102,7 @@ Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/file
 Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
 The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2018 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We provide this forecast here as if it were the 2018 data, to make it easier for the analysis scripts.
+
 
 ### Moldova (monthly)
 2015 to 2020: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
