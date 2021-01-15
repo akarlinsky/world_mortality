@@ -45,7 +45,7 @@ We collect the weekly data from Eurostat for the following countries: Albania, A
 
 
 ### Bolivia (monthly)
-New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths.  
+New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths
 
 NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." In their analysis, NYT implicitly assumes that the excess mortality in April was zero.
 
