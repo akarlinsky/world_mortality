@@ -53,6 +53,10 @@ NYT obtained these data directly from the Bolivian officials. Note that the data
 Note also that the value for September 2020 is missing in the data file and was approximated from the NYT graphics.
 
 
+### Bosnia (monthly)
+Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterly: http://www.bhas.ba/Calendar/Category/14#tab-releases
+
+
 ### Brazil (monthly)
 2015 to 2017: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a76%3brefYear%3a2015%2c2016%2c2017&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 2019 to 2020: Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
@@ -163,6 +167,10 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 ### Thailand (monthly)
 Official Statistics Registration Systems:
 https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
+
+
+### Tunisia (monthly)
+Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-november-2020
 
 
 ### Ukraine (monthly)
