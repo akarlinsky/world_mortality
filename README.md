@@ -13,7 +13,7 @@ This repository contains country-level data on all-cause mortality collected fro
 * Some countries publish incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Finland, Norway, South Korea, United States. 
 
 
-We are currently providing data for 66 countries. We welcome any contributions.
+We are currently providing data for 68 countries. We welcome any contributions.
 
 If you use this dataset, please cite this repository. Publication is upcoming.
 
