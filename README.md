@@ -10,10 +10,10 @@ This repository contains country-level data on all-cause mortality collected fro
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset. See the STMF dataset for mortality by age and gender; here we only provide the total numbers.
 * The data for the European countries that are not in STMF are sourced from the [EuroStat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Weekly_death_statistics&stable).
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of the week day. This is specified in the data table. **FIX THIS**
-* Some countries publish incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Sweden, Slovakia, Finland, Norway, United States. 
+* Some countries publish incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Finland, Norway, South Korea, United States. 
 
 
-We are currently providing data for 65 countries. We welcome any contributions.
+We are currently providing data for 66 countries. We welcome any contributions.
 
 If you use this dataset, please cite this repository. Publication is upcoming.
 
@@ -37,6 +37,7 @@ We collect the weekly data from Eurostat for the following countries: Albania, A
 
 ### Azerbaijan (monthly)
 2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2018: https://www.stat.gov.az/news/source/2019_12ay.zip 
 2019 to 2020: https://www.stat.gov.az/news/source/2020_11ay.zip
 
 
@@ -79,7 +80,7 @@ Ecuador provides daily death counts. We summed them up to form weekly death coun
 
 ### Egypt (monthly)
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2020: Monthly Bulletin of the Egyptian NSO (CAPMAS), https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
+2020: Monthly Bulletin of the Egyptian NSO (CAPMAS): https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
 
 
 ### Hong Kong (monthly)
@@ -99,6 +100,14 @@ Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 ### Japan (monthly)
 Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
+
+
+### Malaysia (quarterly)
+Department of Statistics Malaysia:
+
+2016: https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=NHRXOUdiT0R0ZjZ0cy90elNUTHFsdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
+
+2017 onward: https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=YUttRnlGZ2VXSkg0M0F2ZHZFTE9IUT09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
 
 
 ### Mexico (weekly)
