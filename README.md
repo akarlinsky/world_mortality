@@ -9,9 +9,8 @@ This repository contains country-level data on all-cause mortality collected fro
 * We only provide country-level data, without splitting it by regions or individual cities.
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset. See the STMF dataset for mortality by age and gender; here we only provide the total numbers.
 * The data for the European countries that are not in STMF are sourced from the [EuroStat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Weekly_death_statistics&stable).
-* Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries provide weekly data starting weeks from January 1st, irrespective of the week day. This is specified in the data table. **FIX THIS**
-* Some countries publish incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Denmark, Finland, South Korea, United States. 
-
+* Some countries publish obviously incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Denmark, Finland, South Korea, United States. Note that some other countries may also report partially incomplete data.
+* Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries follow other conventions, see e.g. [STMF description](https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf).
 
 We are currently providing data for 68 countries. We welcome any contributions.
 
@@ -175,10 +174,6 @@ Official Statistics Registration Systems:
 https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 
 
-### Tunisia (monthly)
-Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-november-2020
-
-
 ### Ukraine (monthly)
 2014 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
@@ -230,3 +225,9 @@ https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5
 The monthly numbers for Serbia are not used because we prefer the weekly numbers from EuroStat.
 
 Statistical Office of the Rebublic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
+
+### Tunisia (monthly)
+
+Tunisia data for 2020 appear incomplete. We do not include it for now.
+
+Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-november-2020
