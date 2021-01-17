@@ -103,7 +103,7 @@ Iran National Organization for Civil Registration: https://www.sabteahval.ir/ave
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
 
-### Ireland (monthly)
+### Ireland (weekly)
 2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths  
 (Based on a study by Ireland's Health Information and Quality (HIQA) Authority)[https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf]  
 2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) to provide weekly counts for 2020 onwards.
