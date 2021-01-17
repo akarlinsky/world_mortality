@@ -70,7 +70,7 @@ Direct link to the latest table in Excel (November 2020): https://www.dane.gov.c
 Here we sum values in three categories: Natural, Violenta (Violent), and En estudio (unclassified deaths). 
 
 
-#### Costa Rica (monthly)
+### Costa Rica (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 2020: Costa Rica National Institute Of Statistics And Censuses (INEC) - Direct link to excel: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacevdef_isem2020.xlsx
 The INEC publication provides mortality data for the first half (January-June) of 2020, While UNDATA provides monthly data for January-April. Our estimate for May and June mortality is thus the mean of the difference between the January-June total and the January-June mortality.   
