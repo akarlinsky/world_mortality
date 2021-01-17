@@ -1,4 +1,5 @@
 /raw_data
+/charts
 *.RMD
 *.Rproj
 .Rproj.user
