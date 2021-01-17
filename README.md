@@ -104,7 +104,9 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 
 
 ### Ireland (quarterly)
-Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
+2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths
+(Based on a study by Ireland's Health Information and Quality (HIQA) Authority)[https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf]  
+2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ieg) to provide weekly counts for 2020 onwards:
 
 
 ### Japan (monthly)
@@ -212,6 +214,9 @@ The monthly numbers for Georgia are not used because we prefer the weekly number
 
 2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
 2020: https://www.kavkaz-uzel.eu/blogs/83781/posts/45084 (values digitized from an official plot)
+
+### Ireland (quarterly)
+Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
 
 ### Romania (monthly)
 
