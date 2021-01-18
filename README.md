@@ -12,7 +12,7 @@ This repository contains country-level data on all-cause mortality collected fro
 * Some countries publish obviously incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Denmark, Finland, South Korea, United States. Note that some other countries may also report partially incomplete data.
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries follow other conventions, see e.g. [STMF description](https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf).
 
-We are currently providing data for 68 countries. We welcome any contributions.
+We are currently providing data for 70 countries. We welcome any contributions.
 
 If you use this dataset, please cite this repository. Publication is upcoming.
 
@@ -41,7 +41,7 @@ We collect the weekly data from Eurostat for the following countries: Albania, A
 
 
 ### Belarus (monthly)
-2015 to 2020: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 
 ### Bolivia (monthly)
@@ -71,8 +71,9 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 
 
 ### Costa Rica (monthly)
-2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
-2020: Costa Rica National Institute Of Statistics And Censuses (INEC) - Direct link to excel: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacevdef_isem2020.xlsx
+2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2020: Costa Rica National Institute Of Statistics And Censuses (INEC) - Direct link to excel: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacevdef_isem2020.xlsx  
+
 The INEC publication provides mortality data for the first half (January-June) of 2020, While UNDATA provides monthly data for January-April. Our estimate for May and June mortality is thus the mean of the difference between the January-June total and the January-June mortality.   
 
 
@@ -105,12 +106,16 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 
 ### Ireland (weekly)
 2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths  
-(Based on a study by Ireland's Health Information and Quality (HIQA) Authority)[https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf]  
-2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) to provide weekly counts for 2020 onwards.
+[Based on a study by Ireland's Health Information and Quality (HIQA) Authority](https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf)    
+2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) to provide weekly mortality counts for 2020 onwards.
 
 
 ### Japan (monthly)
 Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
+
+
+### Kosovo
+Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/buletini-tremujor-tm3-2020
 
 
 ### Malaysia (quarterly)
@@ -138,6 +143,12 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 2015: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a496%3brefYear%3a2015&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2016 to 2020: Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
+
+
+### North Macedonia
+2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2020: North Macedonia State Statistical Office Monthly Bulletin: http://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=820
 
 
 ### Peru (weekly)

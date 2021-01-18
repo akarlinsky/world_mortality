@@ -8077,6 +8077,75 @@ Japan,2020,7,monthly,104849
 Japan,2020,8,monthly,111591
 Japan,2020,9,monthly,107468
 Japan,2020,10,monthly,118038
+Kosovo,2015,1,monthly,794
+Kosovo,2015,2,monthly,759
+Kosovo,2015,3,monthly,777
+Kosovo,2015,4,monthly,776
+Kosovo,2015,5,monthly,733
+Kosovo,2015,6,monthly,754
+Kosovo,2015,7,monthly,668
+Kosovo,2015,8,monthly,667
+Kosovo,2015,9,monthly,667
+Kosovo,2015,10,monthly,800
+Kosovo,2015,11,monthly,696
+Kosovo,2015,12,monthly,748
+Kosovo,2016,1,monthly,758
+Kosovo,2016,2,monthly,842
+Kosovo,2016,3,monthly,800
+Kosovo,2016,4,monthly,742
+Kosovo,2016,5,monthly,792
+Kosovo,2016,6,monthly,767
+Kosovo,2016,7,monthly,630
+Kosovo,2016,8,monthly,828
+Kosovo,2016,9,monthly,729
+Kosovo,2016,10,monthly,789
+Kosovo,2016,11,monthly,770
+Kosovo,2016,12,monthly,779
+Kosovo,2017,1,monthly,796
+Kosovo,2017,2,monthly,784
+Kosovo,2017,3,monthly,789
+Kosovo,2017,4,monthly,633
+Kosovo,2017,5,monthly,766
+Kosovo,2017,6,monthly,699
+Kosovo,2017,7,monthly,572
+Kosovo,2017,8,monthly,783
+Kosovo,2017,9,monthly,677
+Kosovo,2017,10,monthly,724
+Kosovo,2017,11,monthly,769
+Kosovo,2017,12,monthly,746
+Kosovo,2018,1,monthly,881
+Kosovo,2018,2,monthly,700
+Kosovo,2018,3,monthly,791
+Kosovo,2018,4,monthly,817
+Kosovo,2018,5,monthly,637
+Kosovo,2018,6,monthly,727
+Kosovo,2018,7,monthly,740
+Kosovo,2018,8,monthly,630
+Kosovo,2018,9,monthly,686
+Kosovo,2018,10,monthly,832
+Kosovo,2018,11,monthly,729
+Kosovo,2018,12,monthly,696
+Kosovo,2019,1,monthly,959
+Kosovo,2019,2,monthly,751
+Kosovo,2019,3,monthly,855
+Kosovo,2019,4,monthly,774
+Kosovo,2019,5,monthly,866
+Kosovo,2019,6,monthly,819
+Kosovo,2019,7,monthly,761
+Kosovo,2019,8,monthly,779
+Kosovo,2019,9,monthly,770
+Kosovo,2019,10,monthly,764
+Kosovo,2019,11,monthly,715
+Kosovo,2019,12,monthly,739
+Kosovo,2020,1,monthly,918
+Kosovo,2020,2,monthly,745
+Kosovo,2020,3,monthly,831
+Kosovo,2020,4,monthly,481
+Kosovo,2020,5,monthly,778
+Kosovo,2020,6,monthly,629
+Kosovo,2020,7,monthly,1126
+Kosovo,2020,8,monthly,1306
+Kosovo,2020,9,monthly,1216
 Latvia,2015,1,weekly,617
 Latvia,2015,2,weekly,608
 Latvia,2015,3,weekly,622
@@ -10820,6 +10889,76 @@ New Zealand,2020,49,weekly,639
 New Zealand,2020,50,weekly,630
 New Zealand,2020,51,weekly,654
 New Zealand,2020,52,weekly,570
+North Macedonia,2015,1,monthly,2105
+North Macedonia,2015,2,monthly,1848
+North Macedonia,2015,3,monthly,1909
+North Macedonia,2015,4,monthly,1711
+North Macedonia,2015,5,monthly,1687
+North Macedonia,2015,6,monthly,1458
+North Macedonia,2015,7,monthly,1611
+North Macedonia,2015,8,monthly,1530
+North Macedonia,2015,9,monthly,1400
+North Macedonia,2015,10,monthly,1723
+North Macedonia,2015,11,monthly,1658
+North Macedonia,2015,12,monthly,1821
+North Macedonia,2016,1,monthly,1913
+North Macedonia,2016,2,monthly,1750
+North Macedonia,2016,3,monthly,1709
+North Macedonia,2016,4,monthly,1640
+North Macedonia,2016,5,monthly,1592
+North Macedonia,2016,6,monthly,1607
+North Macedonia,2016,7,monthly,1570
+North Macedonia,2016,8,monthly,1552
+North Macedonia,2016,9,monthly,1543
+North Macedonia,2016,10,monthly,1790
+North Macedonia,2016,11,monthly,1733
+North Macedonia,2016,12,monthly,2022
+North Macedonia,2017,1,monthly,2681
+North Macedonia,2017,2,monthly,1602
+North Macedonia,2017,3,monthly,1705
+North Macedonia,2017,4,monthly,1492
+North Macedonia,2017,5,monthly,1547
+North Macedonia,2017,6,monthly,1593
+North Macedonia,2017,7,monthly,1598
+North Macedonia,2017,8,monthly,1628
+North Macedonia,2017,9,monthly,1516
+North Macedonia,2017,10,monthly,1671
+North Macedonia,2017,11,monthly,1622
+North Macedonia,2017,12,monthly,1663
+North Macedonia,2018,1,monthly,1747
+North Macedonia,2018,2,monthly,1787
+North Macedonia,2018,3,monthly,1789
+North Macedonia,2018,4,monthly,1599
+North Macedonia,2018,5,monthly,1531
+North Macedonia,2018,6,monthly,1462
+North Macedonia,2018,7,monthly,1542
+North Macedonia,2018,8,monthly,1523
+North Macedonia,2018,9,monthly,1537
+North Macedonia,2018,10,monthly,1679
+North Macedonia,2018,11,monthly,1651
+North Macedonia,2018,12,monthly,1880
+North Macedonia,2019,1,monthly,1868
+North Macedonia,2019,2,monthly,1860
+North Macedonia,2019,3,monthly,1903
+North Macedonia,2019,4,monthly,1644
+North Macedonia,2019,5,monthly,1827
+North Macedonia,2019,6,monthly,1457
+North Macedonia,2019,7,monthly,1674
+North Macedonia,2019,8,monthly,1590
+North Macedonia,2019,9,monthly,1437
+North Macedonia,2019,10,monthly,1746
+North Macedonia,2019,11,monthly,1574
+North Macedonia,2019,12,monthly,1832
+North Macedonia,2020,1,monthly,1774
+North Macedonia,2020,2,monthly,1653
+North Macedonia,2020,3,monthly,1674
+North Macedonia,2020,4,monthly,1631
+North Macedonia,2020,5,monthly,1602
+North Macedonia,2020,6,monthly,1831
+North Macedonia,2020,7,monthly,1926
+North Macedonia,2020,8,monthly,1747
+North Macedonia,2020,9,monthly,1746
+North Macedonia,2020,10,monthly,1800
 Norway,2015,1,weekly,937
 Norway,2015,2,weekly,977
 Norway,2015,3,weekly,913
@@ -14965,6 +15104,7 @@ Ukraine,2020,7,monthly,47297
 Ukraine,2020,8,monthly,44008
 Ukraine,2020,9,monthly,48372
 Ukraine,2020,10,monthly,59047
+Ukraine,2020,11,monthly,63438
 United Kingdom,2015,1,weekly,13463
 United Kingdom,2015,2,weekly,18317
 United Kingdom,2015,3,weekly,16735
