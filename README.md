@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 70 countries. We welcome any contributions.
+We are currently providing data for 71 countries. We welcome any contributions.
 
 Please note:
 
@@ -41,7 +41,7 @@ We collect the weekly data from Eurostat for the following countries: Albania, A
 ### Azerbaijan (monthly)
 2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
-2019 to 2020: https://www.stat.gov.az/news/source/2020_11ay.zip
+2019 to 2020: https://www.stat.gov.az/news/source/2020_12ay.zip
 
 
 ### Belarus (monthly)
@@ -184,6 +184,14 @@ SAMRC does not publish weekly data for years before 2020. Instead, the 2018--201
 Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/files/site_stuff/321/1/month/month_en.html
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
+
+
+### Uruguay
+[Uruguay Ministry of Public Health - Surveillance of all-cause mortality](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/vigilancia-mortalidad-todas-causas).   
+The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
+The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+
+We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
 
 
 ### Thailand (monthly)
