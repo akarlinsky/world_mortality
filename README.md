@@ -1,7 +1,6 @@
 # World Mortality Dataset
-## Weekly/monthly mortality 2015–2021
 
-This repository contains country-level data on all-cause mortality collected from various sources, see below. Please note:
+This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. Please note:
 
 * Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
