@@ -1,4 +1,5 @@
-# Weekly/monthly mortality 2015–2021
+# World Mortality Dataset
+## Weekly/monthly mortality 2015–2021
 
 This repository contains country-level data on all-cause mortality collected from various sources, see below. Please note:
 
@@ -114,7 +115,7 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
-### Kosovo
+### Kosovo (monthly)
 Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/buletini-tremujor-tm3-2020
 
 
@@ -145,7 +146,7 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 2016 to 2020: Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
 
 
-### North Macedonia
+### North Macedonia (monthly)
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2020: North Macedonia State Statistical Office Monthly Bulletin: http://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=820
