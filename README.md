@@ -119,7 +119,7 @@ Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/file
 
 
 ### Kazakhstan (monthly)
-Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to Excel file): https://stat.gov.kz/api/getFile/?docId=ESTAT334801
+Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to Excel file): https://stat.gov.kz/api/getFile/?docId=ESTAT334793
 
 
 ### Kosovo (monthly)
