@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 71 countries. We welcome any contributions.
+We are currently providing data for 73 countries. We welcome any contributions.
 
 Please note:
 
@@ -118,6 +118,10 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
+### Kazakhstan (monthly)
+Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to Excel file): https://stat.gov.kz/api/getFile/?docId=ESTAT334801
+
+
 ### Kosovo (monthly)
 Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/buletini-tremujor-tm3-2020
 
@@ -150,7 +154,7 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 
 
 ### North Macedonia (monthly)
-2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2020: North Macedonia State Statistical Office Monthly Bulletin: http://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=820
 
@@ -200,12 +204,19 @@ https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 
 
 ### Ukraine (monthly)
-2014 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/
 Access by: Statistical Information -> Population and migration -> Number of live births, deaths, by region
 
 2019 data can be found following links from http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
+
+
+### Uzbekistan (monthly)
+2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
+
 
 
 ### United States (weekly)
