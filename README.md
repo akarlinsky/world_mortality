@@ -263,7 +263,7 @@ https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5
 
 The monthly numbers for Serbia are not used because we prefer the weekly numbers from EuroStat.
 
-Statistical Office of the Rebublic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
+Statistical Office of the Republic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
 
 ### Tunisia (monthly)
 
