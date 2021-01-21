@@ -87,7 +87,7 @@ The INEC publication provides mortality data for the first half (January-June) o
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS (January 2021):  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_10_ENE_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_17_ENE_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
@@ -111,7 +111,7 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 ### Ireland (weekly)
 2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths  
 [Based on a study by Ireland's Health Information and Quality (HIQA) Authority](https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf)    
-2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) to provide weekly mortality counts for 2020 onwards.
+2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) with [Gilad Gabiel's script](https://github.com/gaibelg/Death-Notices-Ireland) to provide weekly mortality counts for 2020 onwards.
 
 
 ### Japan (monthly)
@@ -124,6 +124,11 @@ Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to 
 
 ### Kosovo (monthly)
 Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/buletini-tremujor-tm3-2020
+
+
+### Kyrgyzstan (monthly)
+2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - November 2020: http://www.stat.kg/kg/statistics/naselenie/ 
 
 
 ### Malaysia (quarterly)
@@ -159,6 +164,10 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 2020: North Macedonia State Statistical Office Monthly Bulletin: http://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=820
 
 
+### Oman (monthly)
+Oman National Center for Statistics and Information - Monthly Bulletin: https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=MgTlAFqddgBeormy3YBZDg%3d%3d 
+
+
 ### Peru (weekly)
 Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
 
@@ -167,6 +176,12 @@ Peru provides daily death counts. We summed them up to form weekly death counts.
 
 ### Philippines (monthly)
 Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
+
+
+### Qatar (monthly)
+2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:634&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2020: Qatar Planning and Statistics Authority Monthly Statistics: https://www.psa.gov.qa/en/statistics1/pages/topicslisting.aspx?parent=General&child=QMS
 
 
 ### Russia (monthly)
