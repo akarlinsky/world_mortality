@@ -53,9 +53,6 @@ New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deat
 
 NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." In their analysis, NYT implicitly assumes that the excess mortality in April was zero.
 
-Note also that the value for September 2020 is missing in the data file and was approximated from the NYT graphics.
-
-
 ### Bosnia (monthly)
 Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterly: http://www.bhas.ba/Calendar/Category/14#tab-releases
 
