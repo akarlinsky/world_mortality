@@ -5230,7 +5230,6 @@ Finland,2020,49,weekly,1100
 Finland,2020,50,weekly,1089
 Finland,2020,51,weekly,1092
 Finland,2020,52,weekly,940
-Finland,2020,53,weekly,859
 France,2015,1,weekly,12986
 France,2015,2,weekly,13364
 France,2015,3,weekly,13006
@@ -9856,56 +9855,56 @@ Malta,2020,50,weekly,100
 Malta,2020,51,weekly,103
 Malta,2020,52,weekly,98
 Malta,2020,53,weekly,79
-Mexico,2018,1,weekly,16146.4
-Mexico,2018,2,weekly,15885.8
-Mexico,2018,3,weekly,15964.5
-Mexico,2018,4,weekly,15821.4
-Mexico,2018,5,weekly,15533.3
-Mexico,2018,6,weekly,15534.6
-Mexico,2018,7,weekly,15426.3
-Mexico,2018,8,weekly,14809.7
-Mexico,2018,9,weekly,14735.6
-Mexico,2018,10,weekly,14210.2
-Mexico,2018,11,weekly,14226.2
-Mexico,2018,12,weekly,13708.1
-Mexico,2018,13,weekly,13505.4
-Mexico,2018,14,weekly,13521.8
-Mexico,2018,15,weekly,13169.2
-Mexico,2018,16,weekly,13025.4
-Mexico,2018,17,weekly,13221.6
-Mexico,2018,18,weekly,13152.6
-Mexico,2018,19,weekly,12740.6
-Mexico,2018,20,weekly,13289.3
-Mexico,2018,21,weekly,13146.4
-Mexico,2018,22,weekly,13263.1
-Mexico,2018,23,weekly,12955.5
-Mexico,2018,24,weekly,12583.4
-Mexico,2018,25,weekly,13139.1
-Mexico,2018,26,weekly,12766.3
-Mexico,2018,27,weekly,12643.1
-Mexico,2018,28,weekly,12950.3
-Mexico,2018,29,weekly,13031.9
-Mexico,2018,30,weekly,13318.5
-Mexico,2018,31,weekly,13075.4
-Mexico,2018,32,weekly,12617.3
-Mexico,2018,33,weekly,12643.8
-Mexico,2018,34,weekly,12502.2
-Mexico,2018,35,weekly,12639.9
-Mexico,2018,36,weekly,12813.8
-Mexico,2018,37,weekly,13075.6
-Mexico,2018,38,weekly,13222
-Mexico,2018,39,weekly,12730.7
-Mexico,2018,40,weekly,12944.7
-Mexico,2018,41,weekly,13201.3
-Mexico,2018,42,weekly,13266.1
-Mexico,2018,43,weekly,13313.8
-Mexico,2018,44,weekly,13696.2
-Mexico,2018,45,weekly,13763.7
-Mexico,2018,46,weekly,13953.3
-Mexico,2018,47,weekly,14758.5
-Mexico,2018,48,weekly,14489.8
-Mexico,2018,49,weekly,14766.7
-Mexico,2018,50,weekly,15881.6
+Mexico,0,1,weekly,16146.4
+Mexico,0,2,weekly,15885.8
+Mexico,0,3,weekly,15964.5
+Mexico,0,4,weekly,15821.4
+Mexico,0,5,weekly,15533.3
+Mexico,0,6,weekly,15534.6
+Mexico,0,7,weekly,15426.3
+Mexico,0,8,weekly,14809.7
+Mexico,0,9,weekly,14735.6
+Mexico,0,10,weekly,14210.2
+Mexico,0,11,weekly,14226.2
+Mexico,0,12,weekly,13708.1
+Mexico,0,13,weekly,13505.4
+Mexico,0,14,weekly,13521.8
+Mexico,0,15,weekly,13169.2
+Mexico,0,16,weekly,13025.4
+Mexico,0,17,weekly,13221.6
+Mexico,0,18,weekly,13152.6
+Mexico,0,19,weekly,12740.6
+Mexico,0,20,weekly,13289.3
+Mexico,0,21,weekly,13146.4
+Mexico,0,22,weekly,13263.1
+Mexico,0,23,weekly,12955.5
+Mexico,0,24,weekly,12583.4
+Mexico,0,25,weekly,13139.1
+Mexico,0,26,weekly,12766.3
+Mexico,0,27,weekly,12643.1
+Mexico,0,28,weekly,12950.3
+Mexico,0,29,weekly,13031.9
+Mexico,0,30,weekly,13318.5
+Mexico,0,31,weekly,13075.4
+Mexico,0,32,weekly,12617.3
+Mexico,0,33,weekly,12643.8
+Mexico,0,34,weekly,12502.2
+Mexico,0,35,weekly,12639.9
+Mexico,0,36,weekly,12813.8
+Mexico,0,37,weekly,13075.6
+Mexico,0,38,weekly,13222
+Mexico,0,39,weekly,12730.7
+Mexico,0,40,weekly,12944.7
+Mexico,0,41,weekly,13201.3
+Mexico,0,42,weekly,13266.1
+Mexico,0,43,weekly,13313.8
+Mexico,0,44,weekly,13696.2
+Mexico,0,45,weekly,13763.7
+Mexico,0,46,weekly,13953.3
+Mexico,0,47,weekly,14758.5
+Mexico,0,48,weekly,14489.8
+Mexico,0,49,weekly,14766.7
+Mexico,0,50,weekly,15881.6
 Mexico,2020,1,weekly,16008
 Mexico,2020,2,weekly,16452
 Mexico,2020,3,weekly,16175
@@ -13845,59 +13844,59 @@ Slovenia,2020,48,weekly,777
 Slovenia,2020,49,weekly,790
 Slovenia,2020,50,weekly,756
 Slovenia,2020,51,weekly,670
-South Africa,2019,1,weekly,9002
-South Africa,2019,2,weekly,8740
-South Africa,2019,3,weekly,8598
-South Africa,2019,4,weekly,8370
-South Africa,2019,5,weekly,8575
-South Africa,2019,6,weekly,8758
-South Africa,2019,7,weekly,8515
-South Africa,2019,8,weekly,8345
-South Africa,2019,9,weekly,8718
-South Africa,2019,10,weekly,8740
-South Africa,2019,11,weekly,8512
-South Africa,2019,12,weekly,8413
-South Africa,2019,13,weekly,8717
-South Africa,2019,14,weekly,8957
-South Africa,2019,15,weekly,8753
-South Africa,2019,16,weekly,8782
-South Africa,2019,17,weekly,8965
-South Africa,2019,18,weekly,9444
-South Africa,2019,19,weekly,9380
-South Africa,2019,20,weekly,9440
-South Africa,2019,21,weekly,9250
-South Africa,2019,22,weekly,9909
-South Africa,2019,23,weekly,10493
-South Africa,2019,24,weekly,10629
-South Africa,2019,25,weekly,10529
-South Africa,2019,26,weekly,10595
-South Africa,2019,27,weekly,10806
-South Africa,2019,28,weekly,10507
-South Africa,2019,29,weekly,10239
-South Africa,2019,30,weekly,9888
-South Africa,2019,31,weekly,10251
-South Africa,2019,32,weekly,10121
-South Africa,2019,33,weekly,9851
-South Africa,2019,34,weekly,9722
-South Africa,2019,35,weekly,9700
-South Africa,2019,36,weekly,10011
-South Africa,2019,37,weekly,9521
-South Africa,2019,38,weekly,9394
-South Africa,2019,39,weekly,9267
-South Africa,2019,40,weekly,9672
-South Africa,2019,41,weekly,9266
-South Africa,2019,42,weekly,8962
-South Africa,2019,43,weekly,8961
-South Africa,2019,44,weekly,9191
-South Africa,2019,45,weekly,9063
-South Africa,2019,46,weekly,8825
-South Africa,2019,47,weekly,8715
-South Africa,2019,48,weekly,9239
-South Africa,2019,49,weekly,9379
-South Africa,2019,50,weekly,9015
-South Africa,2019,51,weekly,9528
-South Africa,2019,52,weekly,9632
-South Africa,2019,53,weekly,9416
+South Africa,0,1,weekly,9002
+South Africa,0,2,weekly,8740
+South Africa,0,3,weekly,8598
+South Africa,0,4,weekly,8370
+South Africa,0,5,weekly,8575
+South Africa,0,6,weekly,8758
+South Africa,0,7,weekly,8515
+South Africa,0,8,weekly,8345
+South Africa,0,9,weekly,8718
+South Africa,0,10,weekly,8740
+South Africa,0,11,weekly,8512
+South Africa,0,12,weekly,8413
+South Africa,0,13,weekly,8717
+South Africa,0,14,weekly,8957
+South Africa,0,15,weekly,8753
+South Africa,0,16,weekly,8782
+South Africa,0,17,weekly,8965
+South Africa,0,18,weekly,9444
+South Africa,0,19,weekly,9380
+South Africa,0,20,weekly,9440
+South Africa,0,21,weekly,9250
+South Africa,0,22,weekly,9909
+South Africa,0,23,weekly,10493
+South Africa,0,24,weekly,10629
+South Africa,0,25,weekly,10529
+South Africa,0,26,weekly,10595
+South Africa,0,27,weekly,10806
+South Africa,0,28,weekly,10507
+South Africa,0,29,weekly,10239
+South Africa,0,30,weekly,9888
+South Africa,0,31,weekly,10251
+South Africa,0,32,weekly,10121
+South Africa,0,33,weekly,9851
+South Africa,0,34,weekly,9722
+South Africa,0,35,weekly,9700
+South Africa,0,36,weekly,10011
+South Africa,0,37,weekly,9521
+South Africa,0,38,weekly,9394
+South Africa,0,39,weekly,9267
+South Africa,0,40,weekly,9672
+South Africa,0,41,weekly,9266
+South Africa,0,42,weekly,8962
+South Africa,0,43,weekly,8961
+South Africa,0,44,weekly,9191
+South Africa,0,45,weekly,9063
+South Africa,0,46,weekly,8825
+South Africa,0,47,weekly,8715
+South Africa,0,48,weekly,9239
+South Africa,0,49,weekly,9379
+South Africa,0,50,weekly,9015
+South Africa,0,51,weekly,9528
+South Africa,0,52,weekly,9632
+South Africa,0,53,weekly,9416
 South Africa,2020,1,weekly,8240
 South Africa,2020,2,weekly,9110
 South Africa,2020,3,weekly,8620
@@ -16031,59 +16030,59 @@ United States,2020,50,weekly,76720
 United States,2020,51,weekly,75081
 United States,2020,52,weekly,72710
 United States,2020,53,weekly,68806
-Uruguay,2019,1,weekly,571
-Uruguay,2019,2,weekly,612
-Uruguay,2019,3,weekly,554
-Uruguay,2019,4,weekly,568
-Uruguay,2019,5,weekly,583
-Uruguay,2019,6,weekly,571
-Uruguay,2019,7,weekly,560
-Uruguay,2019,8,weekly,586
-Uruguay,2019,9,weekly,562
-Uruguay,2019,10,weekly,565
-Uruguay,2019,11,weekly,592
-Uruguay,2019,12,weekly,583
-Uruguay,2019,13,weekly,595
-Uruguay,2019,14,weekly,584
-Uruguay,2019,15,weekly,595
-Uruguay,2019,16,weekly,581
-Uruguay,2019,17,weekly,554
-Uruguay,2019,18,weekly,633
-Uruguay,2019,19,weekly,630
-Uruguay,2019,20,weekly,624
-Uruguay,2019,21,weekly,685
-Uruguay,2019,22,weekly,677
-Uruguay,2019,23,weekly,718
-Uruguay,2019,24,weekly,733
-Uruguay,2019,25,weekly,782
-Uruguay,2019,26,weekly,773
-Uruguay,2019,27,weekly,774
-Uruguay,2019,28,weekly,800
-Uruguay,2019,29,weekly,771
-Uruguay,2019,30,weekly,773
-Uruguay,2019,31,weekly,NA
-Uruguay,2019,32,weekly,NA
-Uruguay,2019,33,weekly,NA
-Uruguay,2019,34,weekly,NA
-Uruguay,2019,35,weekly,NA
-Uruguay,2019,36,weekly,NA
-Uruguay,2019,37,weekly,NA
-Uruguay,2019,38,weekly,NA
-Uruguay,2019,39,weekly,NA
-Uruguay,2019,40,weekly,NA
-Uruguay,2019,41,weekly,NA
-Uruguay,2019,42,weekly,NA
-Uruguay,2019,43,weekly,NA
-Uruguay,2019,44,weekly,NA
-Uruguay,2019,45,weekly,NA
-Uruguay,2019,46,weekly,NA
-Uruguay,2019,47,weekly,NA
-Uruguay,2019,48,weekly,NA
-Uruguay,2019,49,weekly,NA
-Uruguay,2019,50,weekly,NA
-Uruguay,2019,51,weekly,NA
-Uruguay,2019,52,weekly,NA
-Uruguay,2019,53,weekly,NA
+Uruguay,0,1,weekly,571
+Uruguay,0,2,weekly,612
+Uruguay,0,3,weekly,554
+Uruguay,0,4,weekly,568
+Uruguay,0,5,weekly,583
+Uruguay,0,6,weekly,571
+Uruguay,0,7,weekly,560
+Uruguay,0,8,weekly,586
+Uruguay,0,9,weekly,562
+Uruguay,0,10,weekly,565
+Uruguay,0,11,weekly,592
+Uruguay,0,12,weekly,583
+Uruguay,0,13,weekly,595
+Uruguay,0,14,weekly,584
+Uruguay,0,15,weekly,595
+Uruguay,0,16,weekly,581
+Uruguay,0,17,weekly,554
+Uruguay,0,18,weekly,633
+Uruguay,0,19,weekly,630
+Uruguay,0,20,weekly,624
+Uruguay,0,21,weekly,685
+Uruguay,0,22,weekly,677
+Uruguay,0,23,weekly,718
+Uruguay,0,24,weekly,733
+Uruguay,0,25,weekly,782
+Uruguay,0,26,weekly,773
+Uruguay,0,27,weekly,774
+Uruguay,0,28,weekly,800
+Uruguay,0,29,weekly,771
+Uruguay,0,30,weekly,773
+Uruguay,0,31,weekly,NA
+Uruguay,0,32,weekly,NA
+Uruguay,0,33,weekly,NA
+Uruguay,0,34,weekly,NA
+Uruguay,0,35,weekly,NA
+Uruguay,0,36,weekly,NA
+Uruguay,0,37,weekly,NA
+Uruguay,0,38,weekly,NA
+Uruguay,0,39,weekly,NA
+Uruguay,0,40,weekly,NA
+Uruguay,0,41,weekly,NA
+Uruguay,0,42,weekly,NA
+Uruguay,0,43,weekly,NA
+Uruguay,0,44,weekly,NA
+Uruguay,0,45,weekly,NA
+Uruguay,0,46,weekly,NA
+Uruguay,0,47,weekly,NA
+Uruguay,0,48,weekly,NA
+Uruguay,0,49,weekly,NA
+Uruguay,0,50,weekly,NA
+Uruguay,0,51,weekly,NA
+Uruguay,0,52,weekly,NA
+Uruguay,0,53,weekly,NA
 Uruguay,2020,1,weekly,590
 Uruguay,2020,2,weekly,619
 Uruguay,2020,3,weekly,562

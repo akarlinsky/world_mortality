@@ -139,7 +139,7 @@ Department of Statistics Malaysia:
 ### Mexico (weekly)
 Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
-The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2018 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We provide this forecast here as if it were the 2018 data, to make it easier for the analysis scripts.
+The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2018 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We denote this forecast as `year = 0` in the data.
 
 
 ### Moldova (monthly)
@@ -201,7 +201,7 @@ South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/r
 
 South African data is provided in an Epidemiological Week format, which run from Sunday to Saturday. 
 
-SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `Holt-Winters` time series forecasting method in Excel function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
+SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `Holt-Winters` time series forecasting method in Excel function. We denote this forecast as `year = 0` in the data.
 
 For additional details, refer to SAMRC (2021): METHODOLOGICAL NOTE: PREDICTED NUMBERS OF DEATHS BY EPI-WEEK FOR SOUTH AFRICA IN 2020 AND 2021, available at: https://www.samrc.ac.za/sites/default/files/files/2021-01-24/Methodological%20Note%20on%20Predicted%20Weekly%20Deaths%2020_Jan_2021.pdf  
 
@@ -217,8 +217,7 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
 The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
-We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
-
+We denote this forecast as `year = 0` in the data.
 
 ### Thailand (monthly)
 Official Statistics Registration Systems:
