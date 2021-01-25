@@ -197,9 +197,13 @@ Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/pub
 
 
 ### South Africa (weekly)
-South Africa Medical Research Council (SARMC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
+South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
 
-SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `forecast` function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
+South African data is provided in an Epidemiological Week format, which run from Sunday to Saturday. 
+
+SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `Holt-Winters` time series forecasting method in Excel function. We provide this forecast here as if it were the 2019 data, to make it easier for the analysis scripts.
+
+For additional details, refer to SAMRC (2021): METHODOLOGICAL NOTE: PREDICTED NUMBERS OF DEATHS BY EPI-WEEK FOR SOUTH AFRICA IN 2020 AND 2021, available at: https://www.samrc.ac.za/sites/default/files/files/2021-01-24/Methodological%20Note%20on%20Predicted%20Weekly%20Deaths%2020_Jan_2021.pdf  
 
 
 ### Taiwan (monthly)
@@ -224,17 +228,16 @@ https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 ### Ukraine (monthly)
 2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/
+2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/  
 Access by: Statistical Information -> Population and migration -> Number of live births, deaths, by region
 
-2019 data can be found following links from http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
+2019 data can be found following links from: http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
 
 
 ### Uzbekistan (monthly)
 2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
-
 
 
 ### United States (weekly)
