@@ -136,6 +136,10 @@ Department of Statistics Malaysia:
 2017 onward: https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=YUttRnlGZ2VXSkg0M0F2ZHZFTE9IUT09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
 
 
+### Mauritius (monthly)
+Email correspondence with [Statistics Mauritius](https://statsmauritius.govmu.org/).
+
+
 ### Mexico (weekly)
 Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
