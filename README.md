@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 76 countries. We welcome any contributions.
+We are currently providing data for 77 countries. We welcome any contributions.
 
 Please note:
 
@@ -24,7 +24,7 @@ If you use this dataset, please cite this repository. Publication is upcoming.
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -33,6 +33,9 @@ United States data from 2017 onwards are replaced with CDC 'predictions' that ac
 For some European countries, STMF sometimes has more up-to-date (and backward revised) data than Eurostat, as it culls data from countries' NSOs. 
 For each data point that exists in both datasets, we take the maximum between them as the final data.
 
+\* Australia's data (all years) is "Doctor Certified Deaths" rather than "All Registered Deaths". These constitute about 85%-90% of all deaths in Australia. 
+
+† Sweden has a significant number of deaths which occurred in "unknown" week in all years. 960 deaths in 2015, 1963 in 2016, 2230 in 2017, 2513 in 2018, 2616 in 2019, 2652 in 2020. These are not included in the weekly data.   
 
 ### Eurostat
 We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
@@ -95,8 +98,8 @@ Ecuador provides daily death counts. We summed them up to form weekly death coun
 
 
 ### Hong Kong (monthly)
-Hong Kong Census and Statistics Department:
-2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094  
+Hong Kong Census and Statistics Department:  
+2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094    
 2019 to 2020: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 
@@ -137,7 +140,9 @@ Department of Statistics Malaysia:
 
 
 ### Mauritius (monthly)
-Email correspondence with [Statistics Mauritius](https://statsmauritius.govmu.org/).
+2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a480&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+
+2020: Email correspondence with [Statistics Mauritius](https://statsmauritius.govmu.org/).
 
 
 ### Mexico (weekly)
