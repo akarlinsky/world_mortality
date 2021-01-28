@@ -3,6 +3,9 @@
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
 We are currently providing data for 77 countries. We welcome any contributions.
 
+![World Mortality coverage](coverage_map_title_fixed)
+
+
 Please note:
 
 * Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
@@ -15,7 +18,7 @@ Please note:
 * Some countries publish obviously incomplete weekly data for most recent weeks, which shows as large "dips" in the end of the time series. We omit these data points for the following countries: Denmark, Finland, South Korea, United States. Note that some other countries may also report partially incomplete data.
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries follow other conventions, see e.g. [STMF description](https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf).
 
-![World Mortality](world_mort_plot_all.png)
+![World Mortality across time](world_mort_plot_all.png)
 
 
 If you use this dataset, please cite this repository. Publication is upcoming.
