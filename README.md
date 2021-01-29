@@ -90,7 +90,7 @@ The INEC publication provides mortality data for the first half (January-June) o
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS (January 2021):  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_17_ENE_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_24_ENE_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
