@@ -5,8 +5,11 @@ We are currently providing data for 77 countries. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
+**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.XX.XXXXXXXXv1
 
-Please note:
+For the excess mortality analysis using this data see https://github.com/dkobak/excess-mortality.
+
+Notes:
 
 * Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
@@ -19,9 +22,6 @@ Please note:
 * Weekly data mostly follow ISO8601 standard, when weeks are calendar weeks, Monday to Sunday, and the weeks on the year boundaries are assigned to the year in which they have more days (four or more). Most years have 52 weeks but some years, such as 2015 and 2020, have 53 weeks. Some countries follow other conventions, see e.g. [STMF description](https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf).
 
 ![World Mortality across time](world_mort_plot_all.png)
-
-
-If you use this dataset, please cite this repository. Publication is upcoming.
 
 
 ## Sources
