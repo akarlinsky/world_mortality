@@ -1,11 +1,11 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 78 countries. We welcome any contributions.
+We are currently providing data for 79 countries. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
-**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.XX.XXXXXXXXv1
+**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://doi.org/10.1101/2021.01.27.21250604
 
 For the excess mortality analysis using this data see https://github.com/dkobak/excess-mortality.
 
@@ -132,6 +132,12 @@ Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosov
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - November 2020: http://www.stat.kg/kg/statistics/naselenie/ 
+
+
+### Macao (monthly)
+2015 - 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:446&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2020: Macao Special Administrative Region Statistics and Census Service Monthly Bulletin: https://www.dsec.gov.mo/en-US/Home/Publication/MonthlyBulletinOfStatistics
 
 
 ### Malaysia (quarterly)
