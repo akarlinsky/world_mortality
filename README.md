@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 77 countries. We welcome any contributions.
+We are currently providing data for 78 countries. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
@@ -202,6 +202,10 @@ Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
 ### Russia (monthly)
 https://www.fedstat.ru/indicator/33556 (data available from 2006)  
 The latest month is published on *rosstat.gov.ru* first and it takes several days for the data to appear on *fedstat.ru*. The exact URL is always different. For November 2020, the URL is https://rosstat.gov.ru/storage/mediabank/ldMWepjj/edn11-2020.htm.
+
+
+### San Marino (monthly)
+San Marino Office of Economc Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
 
 
 ### Singapore (monthly)
