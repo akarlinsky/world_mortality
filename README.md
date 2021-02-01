@@ -126,7 +126,7 @@ Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to 
 
 
 ### Kosovo (monthly)
-Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/buletini-tremujor-tm3-2020
+Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q4-2020  
 
 
 ### Kyrgyzstan (monthly)
@@ -176,7 +176,7 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 ### North Macedonia (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: North Macedonia State Statistical Office Monthly Bulletin: http://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=820
+2020: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=823
 
 
 ### Oman (monthly)
