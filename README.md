@@ -14,6 +14,7 @@ Notes:
 * Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
 * We only collect weekly, monthly, or quarterly data. 
+* The latest data points (weeks/months/quarters) for each country are **preliminary** and subject to (sometimes large) revisions.   
 * We only provide all-cause mortality numbers, without splitting by age or gender.
 * We only provide country-level data, without splitting it by regions or individual cities.
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org) (HMD) is integrated into this dataset. See the STMF dataset for mortality by age and gender; here we only provide the total numbers.
@@ -122,7 +123,9 @@ Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/file
 
 
 ### Kazakhstan (monthly)
-Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to Excel file): https://stat.gov.kz/api/getFile/?docId=ESTAT334793
+Kazakhstan Bureau of National statistics Demographic Statistics (Direct link to Excel file): https://stat.gov.kz/official/industry/61/statistic/7
+
+Direct link to Excel file: https://stat.gov.kz/api/getFile/?docId=ESTAT334793
 
 
 ### Kosovo (monthly)
