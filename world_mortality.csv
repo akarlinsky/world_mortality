@@ -1819,18 +1819,18 @@ Brazil,2019,9,monthly,106139
 Brazil,2019,10,monthly,106365
 Brazil,2019,11,monthly,97002
 Brazil,2019,12,monthly,98850
-Brazil,2020,1,monthly,110721
-Brazil,2020,2,monthly,93015
-Brazil,2020,3,monthly,106570
-Brazil,2020,4,monthly,114210
-Brazil,2020,5,monthly,131962
-Brazil,2020,6,monthly,134761
-Brazil,2020,7,monthly,139481
-Brazil,2020,8,monthly,131131
-Brazil,2020,9,monthly,124918
-Brazil,2020,10,monthly,122056
-Brazil,2020,11,monthly,112785
-Brazil,2020,12,monthly,127305
+Brazil,2020,1,monthly,110764
+Brazil,2020,2,monthly,93051
+Brazil,2020,3,monthly,106614
+Brazil,2020,4,monthly,114253
+Brazil,2020,5,monthly,132021
+Brazil,2020,6,monthly,134835
+Brazil,2020,7,monthly,139566
+Brazil,2020,8,monthly,131157
+Brazil,2020,9,monthly,124973
+Brazil,2020,10,monthly,122102
+Brazil,2020,11,monthly,112841
+Brazil,2020,12,monthly,127443
 Brazil,2021,1,monthly,126072
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2512
@@ -2102,10 +2102,10 @@ Bulgaria,2020,6,weekly,2348
 Bulgaria,2020,7,weekly,2304
 Bulgaria,2020,8,weekly,2161
 Bulgaria,2020,9,weekly,2180
-Bulgaria,2020,10,weekly,2045
+Bulgaria,2020,10,weekly,2046
 Bulgaria,2020,11,weekly,2075
 Bulgaria,2020,12,weekly,2037
-Bulgaria,2020,13,weekly,2080
+Bulgaria,2020,13,weekly,2082
 Bulgaria,2020,14,weekly,2035
 Bulgaria,2020,15,weekly,2024
 Bulgaria,2020,16,weekly,2024
@@ -2113,41 +2113,42 @@ Bulgaria,2020,17,weekly,1979
 Bulgaria,2020,18,weekly,1891
 Bulgaria,2020,19,weekly,1910
 Bulgaria,2020,20,weekly,2085
-Bulgaria,2020,21,weekly,1895
+Bulgaria,2020,21,weekly,1896
 Bulgaria,2020,22,weekly,1798
 Bulgaria,2020,23,weekly,1917
-Bulgaria,2020,24,weekly,1943
-Bulgaria,2020,25,weekly,1924
-Bulgaria,2020,26,weekly,1899
-Bulgaria,2020,27,weekly,2136
-Bulgaria,2020,28,weekly,2041
+Bulgaria,2020,24,weekly,1944
+Bulgaria,2020,25,weekly,1925
+Bulgaria,2020,26,weekly,1900
+Bulgaria,2020,27,weekly,2137
+Bulgaria,2020,28,weekly,2042
 Bulgaria,2020,29,weekly,1843
-Bulgaria,2020,30,weekly,1980
+Bulgaria,2020,30,weekly,1981
 Bulgaria,2020,31,weekly,2157
 Bulgaria,2020,32,weekly,2057
 Bulgaria,2020,33,weekly,1972
-Bulgaria,2020,34,weekly,1908
+Bulgaria,2020,34,weekly,1909
 Bulgaria,2020,35,weekly,1933
 Bulgaria,2020,36,weekly,1943
 Bulgaria,2020,37,weekly,1911
-Bulgaria,2020,38,weekly,1842
-Bulgaria,2020,39,weekly,1841
+Bulgaria,2020,38,weekly,1843
+Bulgaria,2020,39,weekly,1842
 Bulgaria,2020,40,weekly,1987
-Bulgaria,2020,41,weekly,2077
-Bulgaria,2020,42,weekly,2151
+Bulgaria,2020,41,weekly,2078
+Bulgaria,2020,42,weekly,2155
 Bulgaria,2020,43,weekly,2359
-Bulgaria,2020,44,weekly,2724
-Bulgaria,2020,45,weekly,3225
-Bulgaria,2020,46,weekly,3922
-Bulgaria,2020,47,weekly,4376
-Bulgaria,2020,48,weekly,4707
-Bulgaria,2020,49,weekly,4698
-Bulgaria,2020,50,weekly,4332
-Bulgaria,2020,51,weekly,3904
-Bulgaria,2020,52,weekly,3202
-Bulgaria,2020,53,weekly,2892
-Bulgaria,2021,1,weekly,2537
-Bulgaria,2021,2,weekly,2395
+Bulgaria,2020,44,weekly,2725
+Bulgaria,2020,45,weekly,3229
+Bulgaria,2020,46,weekly,3932
+Bulgaria,2020,47,weekly,4383
+Bulgaria,2020,48,weekly,4717
+Bulgaria,2020,49,weekly,4707
+Bulgaria,2020,50,weekly,4340
+Bulgaria,2020,51,weekly,3918
+Bulgaria,2020,52,weekly,3212
+Bulgaria,2020,53,weekly,2901
+Bulgaria,2021,1,weekly,2542
+Bulgaria,2021,2,weekly,2412
+Bulgaria,2021,3,weekly,2436
 Canada,2015,1,weekly,6255
 Canada,2015,2,weekly,6190
 Canada,2015,3,weekly,6045
@@ -3360,38 +3361,42 @@ Croatia,2020,13,weekly,1122
 Croatia,2020,14,weekly,1009
 Croatia,2020,15,weekly,999
 Croatia,2020,16,weekly,975
-Croatia,2020,17,weekly,867
-Croatia,2020,18,weekly,909
+Croatia,2020,17,weekly,868
+Croatia,2020,18,weekly,910
 Croatia,2020,19,weekly,877
 Croatia,2020,20,weekly,908
 Croatia,2020,21,weekly,903
-Croatia,2020,22,weekly,848
+Croatia,2020,22,weekly,849
 Croatia,2020,23,weekly,973
 Croatia,2020,24,weekly,980
 Croatia,2020,25,weekly,888
-Croatia,2020,26,weekly,929
+Croatia,2020,26,weekly,932
 Croatia,2020,27,weekly,969
 Croatia,2020,28,weekly,918
 Croatia,2020,29,weekly,885
 Croatia,2020,30,weekly,975
-Croatia,2020,31,weekly,1060
-Croatia,2020,32,weekly,955
+Croatia,2020,31,weekly,1061
+Croatia,2020,32,weekly,956
 Croatia,2020,33,weekly,926
-Croatia,2020,34,weekly,922
+Croatia,2020,34,weekly,923
 Croatia,2020,35,weekly,971
-Croatia,2020,36,weekly,931
+Croatia,2020,36,weekly,932
 Croatia,2020,37,weekly,1004
 Croatia,2020,38,weekly,972
-Croatia,2020,39,weekly,963
-Croatia,2020,40,weekly,1062
-Croatia,2020,41,weekly,963
-Croatia,2020,42,weekly,1092
-Croatia,2020,43,weekly,1127
-Croatia,2020,44,weekly,1156
-Croatia,2020,45,weekly,1280
-Croatia,2020,46,weekly,1335
-Croatia,2020,47,weekly,1442
-Croatia,2020,48,weekly,1371
+Croatia,2020,39,weekly,964
+Croatia,2020,40,weekly,1063
+Croatia,2020,41,weekly,967
+Croatia,2020,42,weekly,1094
+Croatia,2020,43,weekly,1132
+Croatia,2020,44,weekly,1159
+Croatia,2020,45,weekly,1287
+Croatia,2020,46,weekly,1352
+Croatia,2020,47,weekly,1483
+Croatia,2020,48,weekly,1477
+Croatia,2020,49,weekly,1697
+Croatia,2020,50,weekly,1756
+Croatia,2020,51,weekly,1732
+Croatia,2020,52,weekly,1586
 Cyprus,2015,1,weekly,126
 Cyprus,2015,2,weekly,137
 Cyprus,2015,3,weekly,155
@@ -7769,6 +7774,7 @@ Israel,2020,52,weekly,988
 Israel,2020,53,weekly,1089
 Israel,2021,1,weekly,1135
 Israel,2021,2,weekly,1106
+Italy,2015,1,weekly,15178
 Italy,2015,2,weekly,15811
 Italy,2015,3,weekly,15480
 Italy,2015,4,weekly,14922
@@ -8029,50 +8035,54 @@ Italy,2019,49,weekly,11897
 Italy,2019,50,weekly,12666
 Italy,2019,51,weekly,12981
 Italy,2019,52,weekly,12398
-Italy,2020,1,weekly,13328
-Italy,2020,2,weekly,13849
-Italy,2020,3,weekly,13938
-Italy,2020,4,weekly,13893
-Italy,2020,5,weekly,13821
-Italy,2020,6,weekly,13450
-Italy,2020,7,weekly,13556
-Italy,2020,8,weekly,13202
-Italy,2020,9,weekly,13643
-Italy,2020,10,weekly,14662
-Italy,2020,11,weekly,18188
-Italy,2020,12,weekly,21871
-Italy,2020,13,weekly,23394
-Italy,2020,14,weekly,20840
-Italy,2020,15,weekly,18877
-Italy,2020,16,weekly,16693
-Italy,2020,17,weekly,14686
-Italy,2020,18,weekly,13109
-Italy,2020,19,weekly,12560
-Italy,2020,20,weekly,11926
-Italy,2020,21,weekly,11391
-Italy,2020,22,weekly,10933
-Italy,2020,23,weekly,11095
-Italy,2020,24,weekly,10660
-Italy,2020,25,weekly,11080
-Italy,2020,26,weekly,12020
-Italy,2020,27,weekly,12326
-Italy,2020,28,weekly,11426
-Italy,2020,29,weekly,10846
-Italy,2020,30,weekly,11337
-Italy,2020,31,weekly,12654
-Italy,2020,32,weekly,12021
-Italy,2020,33,weekly,12322
-Italy,2020,34,weekly,11813
-Italy,2020,35,weekly,11640
-Italy,2020,36,weekly,11147
-Italy,2020,37,weekly,11510
-Italy,2020,38,weekly,11681
-Italy,2020,39,weekly,11023
-Italy,2020,40,weekly,11823
-Italy,2020,41,weekly,12036
-Italy,2020,42,weekly,12510
-Italy,2020,43,weekly,14182
-Italy,2020,44,weekly,15121
+Italy,2020,1,weekly,13468
+Italy,2020,2,weekly,13960
+Italy,2020,3,weekly,14024
+Italy,2020,4,weekly,13924
+Italy,2020,5,weekly,13849
+Italy,2020,6,weekly,13476
+Italy,2020,7,weekly,13590
+Italy,2020,8,weekly,13234
+Italy,2020,9,weekly,13671
+Italy,2020,10,weekly,14682
+Italy,2020,11,weekly,18211
+Italy,2020,12,weekly,21901
+Italy,2020,13,weekly,23423
+Italy,2020,14,weekly,20869
+Italy,2020,15,weekly,18908
+Italy,2020,16,weekly,16723
+Italy,2020,17,weekly,14704
+Italy,2020,18,weekly,13137
+Italy,2020,19,weekly,12579
+Italy,2020,20,weekly,11953
+Italy,2020,21,weekly,11420
+Italy,2020,22,weekly,10961
+Italy,2020,23,weekly,11119
+Italy,2020,24,weekly,10685
+Italy,2020,25,weekly,11102
+Italy,2020,26,weekly,12046
+Italy,2020,27,weekly,12359
+Italy,2020,28,weekly,11460
+Italy,2020,29,weekly,10886
+Italy,2020,30,weekly,11367
+Italy,2020,31,weekly,12699
+Italy,2020,32,weekly,12072
+Italy,2020,33,weekly,12381
+Italy,2020,34,weekly,11873
+Italy,2020,35,weekly,11716
+Italy,2020,36,weekly,11219
+Italy,2020,37,weekly,11578
+Italy,2020,38,weekly,11759
+Italy,2020,39,weekly,11126
+Italy,2020,40,weekly,11966
+Italy,2020,41,weekly,12185
+Italy,2020,42,weekly,12672
+Italy,2020,43,weekly,14424
+Italy,2020,44,weekly,15520
+Italy,2020,45,weekly,17158
+Italy,2020,46,weekly,18413
+Italy,2020,47,weekly,18540
+Italy,2020,48,weekly,18544
 Japan,2015,1,monthly,134256
 Japan,2015,2,monthly,110042
 Japan,2015,3,monthly,113860
@@ -8579,50 +8589,50 @@ Latvia,2020,5,weekly,550
 Latvia,2020,6,weekly,532
 Latvia,2020,7,weekly,544
 Latvia,2020,8,weekly,545
-Latvia,2020,9,weekly,447
-Latvia,2020,10,weekly,481
-Latvia,2020,11,weekly,513
+Latvia,2020,9,weekly,519
+Latvia,2020,10,weekly,496
+Latvia,2020,11,weekly,542
 Latvia,2020,12,weekly,566
 Latvia,2020,13,weekly,529
-Latvia,2020,14,weekly,561
-Latvia,2020,15,weekly,491
+Latvia,2020,14,weekly,567
+Latvia,2020,15,weekly,564
 Latvia,2020,16,weekly,573
-Latvia,2020,17,weekly,533
+Latvia,2020,17,weekly,543
 Latvia,2020,18,weekly,533
 Latvia,2020,19,weekly,578
-Latvia,2020,20,weekly,521
+Latvia,2020,20,weekly,582
 Latvia,2020,21,weekly,557
 Latvia,2020,22,weekly,505
 Latvia,2020,23,weekly,504
 Latvia,2020,24,weekly,528
-Latvia,2020,25,weekly,499
-Latvia,2020,26,weekly,479
+Latvia,2020,25,weekly,514
+Latvia,2020,26,weekly,557
 Latvia,2020,27,weekly,605
 Latvia,2020,28,weekly,468
-Latvia,2020,29,weekly,503
+Latvia,2020,29,weekly,522
 Latvia,2020,30,weekly,494
 Latvia,2020,31,weekly,499
-Latvia,2020,32,weekly,463
-Latvia,2020,33,weekly,511
+Latvia,2020,32,weekly,497
+Latvia,2020,33,weekly,520
 Latvia,2020,34,weekly,549
 Latvia,2020,35,weekly,504
-Latvia,2020,36,weekly,459
+Latvia,2020,36,weekly,476
 Latvia,2020,37,weekly,490
 Latvia,2020,38,weekly,496
-Latvia,2020,39,weekly,480
+Latvia,2020,39,weekly,530
 Latvia,2020,40,weekly,562
 Latvia,2020,41,weekly,520
-Latvia,2020,42,weekly,509
-Latvia,2020,43,weekly,565
+Latvia,2020,42,weekly,551
+Latvia,2020,43,weekly,570
 Latvia,2020,44,weekly,548
-Latvia,2020,45,weekly,546
+Latvia,2020,45,weekly,551
 Latvia,2020,46,weekly,572
 Latvia,2020,47,weekly,599
-Latvia,2020,48,weekly,583
-Latvia,2020,49,weekly,625
-Latvia,2020,50,weekly,666
+Latvia,2020,48,weekly,610
+Latvia,2020,49,weekly,660
+Latvia,2020,50,weekly,705
 Latvia,2020,51,weekly,751
-Latvia,2020,52,weekly,539
+Latvia,2020,52,weekly,815
 Latvia,2020,53,weekly,786
 Latvia,2021,1,weekly,1012
 Latvia,2021,2,weekly,842
@@ -11674,52 +11684,52 @@ Oman,2020,9,monthly,1073
 Oman,2020,10,monthly,1070
 Oman,2020,11,monthly,893
 Oman,2020,12,monthly,863
-Peru,2017,1,weekly,1586
+Peru,2017,1,weekly,1585
 Peru,2017,2,weekly,1669
-Peru,2017,3,weekly,1740
-Peru,2017,4,weekly,1760
+Peru,2017,3,weekly,1739
+Peru,2017,4,weekly,1761
 Peru,2017,5,weekly,1879
-Peru,2017,6,weekly,1682
+Peru,2017,6,weekly,1683
 Peru,2017,7,weekly,1715
 Peru,2017,8,weekly,1933
 Peru,2017,9,weekly,2054
 Peru,2017,10,weekly,1839
 Peru,2017,11,weekly,1932
-Peru,2017,12,weekly,1912
+Peru,2017,12,weekly,1913
 Peru,2017,13,weekly,1789
-Peru,2017,14,weekly,1765
-Peru,2017,15,weekly,1760
+Peru,2017,14,weekly,1766
+Peru,2017,15,weekly,1758
 Peru,2017,16,weekly,1804
 Peru,2017,17,weekly,1685
-Peru,2017,18,weekly,1781
-Peru,2017,19,weekly,1749
+Peru,2017,18,weekly,1780
+Peru,2017,19,weekly,1750
 Peru,2017,20,weekly,1812
 Peru,2017,21,weekly,1810
 Peru,2017,22,weekly,1782
-Peru,2017,23,weekly,1932
+Peru,2017,23,weekly,1933
 Peru,2017,24,weekly,1839
 Peru,2017,25,weekly,1918
 Peru,2017,26,weekly,1966
-Peru,2017,27,weekly,2007
+Peru,2017,27,weekly,2009
 Peru,2017,28,weekly,1922
-Peru,2017,29,weekly,1958
+Peru,2017,29,weekly,1956
 Peru,2017,30,weekly,2004
-Peru,2017,31,weekly,1931
+Peru,2017,31,weekly,1929
 Peru,2017,32,weekly,1962
-Peru,2017,33,weekly,1915
-Peru,2017,34,weekly,1969
+Peru,2017,33,weekly,1914
+Peru,2017,34,weekly,1970
 Peru,2017,35,weekly,1972
 Peru,2017,36,weekly,2029
 Peru,2017,37,weekly,2058
 Peru,2017,38,weekly,2014
-Peru,2017,39,weekly,2079
-Peru,2017,40,weekly,1969
+Peru,2017,39,weekly,2080
+Peru,2017,40,weekly,1968
 Peru,2017,41,weekly,2077
 Peru,2017,42,weekly,2068
-Peru,2017,43,weekly,2041
+Peru,2017,43,weekly,2040
 Peru,2017,44,weekly,2031
 Peru,2017,45,weekly,1998
-Peru,2017,46,weekly,1891
+Peru,2017,46,weekly,1892
 Peru,2017,47,weekly,2035
 Peru,2017,48,weekly,1951
 Peru,2017,49,weekly,1867
@@ -11734,48 +11744,48 @@ Peru,2018,5,weekly,1888
 Peru,2018,6,weekly,1914
 Peru,2018,7,weekly,2024
 Peru,2018,8,weekly,1948
-Peru,2018,9,weekly,1948
+Peru,2018,9,weekly,1947
 Peru,2018,10,weekly,1893
-Peru,2018,11,weekly,1971
+Peru,2018,11,weekly,1972
 Peru,2018,12,weekly,1971
 Peru,2018,13,weekly,1984
-Peru,2018,14,weekly,2099
+Peru,2018,14,weekly,2098
 Peru,2018,15,weekly,1835
 Peru,2018,16,weekly,1985
 Peru,2018,17,weekly,1991
-Peru,2018,18,weekly,2129
-Peru,2018,19,weekly,2001
+Peru,2018,18,weekly,2130
+Peru,2018,19,weekly,2002
 Peru,2018,20,weekly,2118
 Peru,2018,21,weekly,2294
 Peru,2018,22,weekly,2288
 Peru,2018,23,weekly,2347
-Peru,2018,24,weekly,2442
-Peru,2018,25,weekly,2497
+Peru,2018,24,weekly,2443
+Peru,2018,25,weekly,2496
 Peru,2018,26,weekly,2453
 Peru,2018,27,weekly,2477
 Peru,2018,28,weekly,2320
 Peru,2018,29,weekly,2389
 Peru,2018,30,weekly,2377
-Peru,2018,31,weekly,2389
-Peru,2018,32,weekly,2374
-Peru,2018,33,weekly,2286
+Peru,2018,31,weekly,2388
+Peru,2018,32,weekly,2373
+Peru,2018,33,weekly,2285
 Peru,2018,34,weekly,2217
-Peru,2018,35,weekly,2313
+Peru,2018,35,weekly,2315
 Peru,2018,36,weekly,2288
 Peru,2018,37,weekly,2224
 Peru,2018,38,weekly,2259
-Peru,2018,39,weekly,2329
+Peru,2018,39,weekly,2330
 Peru,2018,40,weekly,2243
-Peru,2018,41,weekly,2286
+Peru,2018,41,weekly,2285
 Peru,2018,42,weekly,2298
-Peru,2018,43,weekly,2295
-Peru,2018,44,weekly,2243
-Peru,2018,45,weekly,2244
-Peru,2018,46,weekly,2059
-Peru,2018,47,weekly,2014
+Peru,2018,43,weekly,2296
+Peru,2018,44,weekly,2242
+Peru,2018,45,weekly,2246
+Peru,2018,46,weekly,2060
+Peru,2018,47,weekly,2013
 Peru,2018,48,weekly,2027
 Peru,2018,49,weekly,2147
-Peru,2018,50,weekly,2169
+Peru,2018,50,weekly,2168
 Peru,2018,51,weekly,2181
 Peru,2018,52,weekly,2205
 Peru,2019,1,weekly,2238
@@ -11785,12 +11795,12 @@ Peru,2019,4,weekly,2126
 Peru,2019,5,weekly,2345
 Peru,2019,6,weekly,2307
 Peru,2019,7,weekly,2251
-Peru,2019,8,weekly,2317
+Peru,2019,8,weekly,2318
 Peru,2019,9,weekly,2372
-Peru,2019,10,weekly,2294
+Peru,2019,10,weekly,2293
 Peru,2019,11,weekly,2252
 Peru,2019,12,weekly,2107
-Peru,2019,13,weekly,2111
+Peru,2019,13,weekly,2110
 Peru,2019,14,weekly,2039
 Peru,2019,15,weekly,2096
 Peru,2019,16,weekly,2139
@@ -11831,62 +11841,62 @@ Peru,2019,50,weekly,2207
 Peru,2019,51,weekly,2172
 Peru,2019,52,weekly,2325
 Peru,2020,1,weekly,2407
-Peru,2020,2,weekly,2427
-Peru,2020,3,weekly,2328
+Peru,2020,2,weekly,2428
+Peru,2020,3,weekly,2330
 Peru,2020,4,weekly,2356
 Peru,2020,5,weekly,2258
-Peru,2020,6,weekly,2331
-Peru,2020,7,weekly,2351
-Peru,2020,8,weekly,2342
-Peru,2020,9,weekly,2419
-Peru,2020,10,weekly,2412
+Peru,2020,6,weekly,2330
+Peru,2020,7,weekly,2353
+Peru,2020,8,weekly,2343
+Peru,2020,9,weekly,2416
+Peru,2020,10,weekly,2407
 Peru,2020,11,weekly,2470
 Peru,2020,12,weekly,2185
-Peru,2020,13,weekly,2152
-Peru,2020,14,weekly,2386
-Peru,2020,15,weekly,2511
-Peru,2020,16,weekly,3099
-Peru,2020,17,weekly,3883
-Peru,2020,18,weekly,4762
-Peru,2020,19,weekly,5453
-Peru,2020,20,weekly,5964
-Peru,2020,21,weekly,6347
-Peru,2020,22,weekly,6558
-Peru,2020,23,weekly,6652
-Peru,2020,24,weekly,6727
-Peru,2020,25,weekly,6591
+Peru,2020,13,weekly,2151
+Peru,2020,14,weekly,2389
+Peru,2020,15,weekly,2513
+Peru,2020,16,weekly,3096
+Peru,2020,17,weekly,3884
+Peru,2020,18,weekly,4760
+Peru,2020,19,weekly,5456
+Peru,2020,20,weekly,5966
+Peru,2020,21,weekly,6351
+Peru,2020,22,weekly,6553
+Peru,2020,23,weekly,6647
+Peru,2020,24,weekly,6725
+Peru,2020,25,weekly,6593
 Peru,2020,26,weekly,6157
-Peru,2020,27,weekly,6237
-Peru,2020,28,weekly,6495
+Peru,2020,27,weekly,6239
+Peru,2020,28,weekly,6492
 Peru,2020,29,weekly,6762
-Peru,2020,30,weekly,6780
-Peru,2020,31,weekly,6913
-Peru,2020,32,weekly,7124
-Peru,2020,33,weekly,6719
-Peru,2020,34,weekly,6126
-Peru,2020,35,weekly,5579
-Peru,2020,36,weekly,4728
-Peru,2020,37,weekly,4275
-Peru,2020,38,weekly,3885
+Peru,2020,30,weekly,6783
+Peru,2020,31,weekly,6915
+Peru,2020,32,weekly,7125
+Peru,2020,33,weekly,6715
+Peru,2020,34,weekly,6127
+Peru,2020,35,weekly,5580
+Peru,2020,36,weekly,4729
+Peru,2020,37,weekly,4277
+Peru,2020,38,weekly,3884
 Peru,2020,39,weekly,3485
-Peru,2020,40,weekly,3231
-Peru,2020,41,weekly,3148
+Peru,2020,40,weekly,3235
+Peru,2020,41,weekly,3146
 Peru,2020,42,weekly,2999
-Peru,2020,43,weekly,2962
-Peru,2020,44,weekly,2794
-Peru,2020,45,weekly,2862
-Peru,2020,46,weekly,2851
+Peru,2020,43,weekly,2960
+Peru,2020,44,weekly,2795
+Peru,2020,45,weekly,2866
+Peru,2020,46,weekly,2850
 Peru,2020,47,weekly,2756
-Peru,2020,48,weekly,2634
-Peru,2020,49,weekly,2796
-Peru,2020,50,weekly,2962
-Peru,2020,51,weekly,3142
-Peru,2020,52,weekly,3256
-Peru,2020,53,weekly,3431
-Peru,2021,1,weekly,3796
-Peru,2021,2,weekly,4464
-Peru,2021,3,weekly,5506
-Peru,2021,4,weekly,5874
+Peru,2020,48,weekly,2632
+Peru,2020,49,weekly,2799
+Peru,2020,50,weekly,2966
+Peru,2020,51,weekly,3149
+Peru,2020,52,weekly,3258
+Peru,2020,53,weekly,3455
+Peru,2021,1,weekly,3811
+Peru,2021,2,weekly,4472
+Peru,2021,3,weekly,5524
+Peru,2021,4,weekly,6444
 Philippines,2015,1,monthly,50381
 Philippines,2015,2,monthly,44540
 Philippines,2015,3,monthly,46452
@@ -14182,43 +14192,44 @@ South Africa,2020,16,weekly,8120
 South Africa,2020,17,weekly,7956
 South Africa,2020,18,weekly,8030
 South Africa,2020,19,weekly,8503
-South Africa,2020,20,weekly,8648
+South Africa,2020,20,weekly,8649
 South Africa,2020,21,weekly,8879
-South Africa,2020,22,weekly,9444
-South Africa,2020,23,weekly,10152
+South Africa,2020,22,weekly,9445
+South Africa,2020,23,weekly,10153
 South Africa,2020,24,weekly,10630
-South Africa,2020,25,weekly,11976
+South Africa,2020,25,weekly,11978
 South Africa,2020,26,weekly,12530
-South Africa,2020,27,weekly,13511
-South Africa,2020,28,weekly,14761
-South Africa,2020,29,weekly,16243
-South Africa,2020,30,weekly,16192
-South Africa,2020,31,weekly,15250
+South Africa,2020,27,weekly,13513
+South Africa,2020,28,weekly,14763
+South Africa,2020,29,weekly,16244
+South Africa,2020,30,weekly,16193
+South Africa,2020,31,weekly,15253
 South Africa,2020,32,weekly,13704
 South Africa,2020,33,weekly,12380
 South Africa,2020,34,weekly,11951
-South Africa,2020,35,weekly,11134
+South Africa,2020,35,weekly,11135
 South Africa,2020,36,weekly,10917
-South Africa,2020,37,weekly,10053
+South Africa,2020,37,weekly,10054
 South Africa,2020,38,weekly,9561
-South Africa,2020,39,weekly,9857
+South Africa,2020,39,weekly,9858
 South Africa,2020,40,weekly,9491
 South Africa,2020,41,weekly,10052
 South Africa,2020,42,weekly,10107
-South Africa,2020,43,weekly,9922
-South Africa,2020,44,weekly,9799
-South Africa,2020,45,weekly,9943
-South Africa,2020,46,weekly,10273
-South Africa,2020,47,weekly,10247
-South Africa,2020,48,weekly,10058
-South Africa,2020,49,weekly,11310
-South Africa,2020,50,weekly,12244
-South Africa,2020,51,weekly,13575
-South Africa,2020,52,weekly,16870
-South Africa,2020,53,weekly,19922
-South Africa,2021,1,weekly,22599
-South Africa,2021,2,weekly,23879
-South Africa,2021,3,weekly,21787
+South Africa,2020,43,weekly,9923
+South Africa,2020,44,weekly,9800
+South Africa,2020,45,weekly,9945
+South Africa,2020,46,weekly,10275
+South Africa,2020,47,weekly,10249
+South Africa,2020,48,weekly,10063
+South Africa,2020,49,weekly,11315
+South Africa,2020,50,weekly,12251
+South Africa,2020,51,weekly,13596
+South Africa,2020,52,weekly,16915
+South Africa,2020,53,weekly,20019
+South Africa,2021,1,weekly,22718
+South Africa,2021,2,weekly,24157
+South Africa,2021,3,weekly,20820
+South Africa,2021,4,weekly,15192
 South Korea,2015,1,weekly,5699
 South Korea,2015,2,weekly,5622
 South Korea,2015,3,weekly,5551
