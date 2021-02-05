@@ -28,7 +28,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland†† + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -39,7 +39,9 @@ For each data point that exists in both datasets, we take the maximum between th
 
 \* Australia's data (all years) is "Doctor Certified Deaths" rather than "All Registered Deaths". These constitute about 85%-90% of all deaths in Australia. 
 
-† Sweden has a significant number of deaths which occurred in "unknown" week in all years. 960 deaths in 2015, 1963 in 2016, 2230 in 2017, 2513 in 2018, 2616 in 2019, 2652 in 2020. These are not included in the weekly data.   
+† Sweden has a significant number of deaths which occurred in "unknown" week in all years. 960 deaths in 2015, 1963 in 2016, 2230 in 2017, 2513 in 2018, 2616 in 2019, 2652 in 2020. These are not included in the weekly data.  
+
+†† Due to significant reporting delays in Norhtern Ireland data to STMF, we obtained weekly deaths data directly from [NISRA](https://www.nisra.gov.uk/publications/weekly-deaths). In order to harmonize with England & Wales and Scotland data, data was transformed to ISO-weeks by using the daily average for each week by date start and end. 
 
 ### Eurostat
 We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
