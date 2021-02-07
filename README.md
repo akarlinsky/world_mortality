@@ -44,7 +44,7 @@ For each data point that exists in both datasets, we take the maximum between th
 †† Due to significant reporting delays in Norhtern Ireland data to STMF, we obtained weekly deaths data directly from [NISRA](https://www.nisra.gov.uk/publications/weekly-deaths). In order to harmonize with England & Wales and Scotland data, data was transformed to ISO-weeks by using the daily average for each week by date start and end. 
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania, Serbia. 
+We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania. 
 
 
 ### Azerbaijan (monthly)
@@ -219,6 +219,10 @@ The latest month is published on *rosstat.gov.ru* first and it takes several day
 San Marino Office of Economc Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
 
 
+### Serbia (monthly)
+Statistical Office of the Republic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
+
+
 ### Singapore (monthly)
 Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=15167
 
@@ -306,11 +310,6 @@ The monthly numbers for Romania are not used because we prefer the weekly number
 National Institute of Statistics: 
 https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&created=8&field_cuvinte_cheie_value=&items_per_page=10
 
-### Serbia (monthly)
-
-The monthly numbers for Serbia are not used because we prefer the weekly numbers from EuroStat.
-
-Statistical Office of the Republic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
 
 ### Tunisia (monthly)
 
