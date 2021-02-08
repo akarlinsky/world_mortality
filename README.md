@@ -73,6 +73,8 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 Note: The Brazilian Population Registry has data for monthly mortality in 2018, but it is significantly lower than UNData counts for previous years. This is possibly due to under-reporting in the Registry in early years. 
 We chose not to include 2018 Brazilian currently. 
 
+Note: Brazilian Population Registry seems to be downward biased compared to 2015-2019 data from Brazil's Ministry of Health () by about 7 to 10%. For now we chose to stay with the Population Registry Data in order to best insure consistency with 2020-2021 data.
+
 
 ### Colombia (weekly)
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
@@ -117,7 +119,10 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 ### Ireland (weekly)
 2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths  
 [Based on a study by Ireland's Health Information and Quality (HIQA) Authority](https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf)    
-2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) with [Gilad Gabiel's script](https://github.com/gaibelg/Death-Notices-Ireland) to provide weekly mortality counts for 2020 onwards.
+2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) with [Gilad Gabiel's script](https://github.com/gaibelg/Death-Notices-Ireland) to provide weekly mortality counts for 2020 onward.
+
+Note: According to HIQA study, rip.ie usage is downward-biased in earlier years. To account for this, we have decided to only include data from 2018 onward.
+Additionally, comparing the estimates from our crawling and HIQA data for the same weeks, our estimates are higher at about 5%, since we do not post-process the data. In order to account for this, our rip.ie estimates are multiplied by 0.95. 
 
 
 ### Japan (monthly)
