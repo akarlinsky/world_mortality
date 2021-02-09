@@ -248,7 +248,7 @@ Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https:/
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
 
-### Uruguay
+### Uruguay (weekly)
 [Uruguay Ministry of Public Health - Surveillance of all-cause mortality](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/vigilancia-mortalidad-todas-causas).   
 The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
 The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
