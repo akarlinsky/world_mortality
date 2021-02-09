@@ -28,7 +28,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Canada, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland†† + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland†† + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -74,6 +74,12 @@ Note: The Brazilian Population Registry has data for monthly mortality in 2018, 
 We chose not to include 2018 Brazilian currently. 
 
 Note: Brazilian Population Registry seems to be downward biased compared to 2015-2019 data from Brazil's Ministry of Health () by about 7 to 10%. For now we chose to stay with the Population Registry Data in order to best insure consistency with 2020-2021 data.
+
+
+### Canada (weekly)
+StatCan - https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020017-eng.htm
+
+Weekly mortality counts were transformed to ISO-8601 weeks by using reference date. 
 
 
 ### Colombia (weekly)
