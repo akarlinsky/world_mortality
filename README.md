@@ -73,7 +73,7 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 Note: The Brazilian Population Registry has data for monthly mortality in 2018, but it is significantly lower than UNData counts for previous years. This is possibly due to under-reporting in the Registry in early years. 
 We chose not to include 2018 Brazilian currently. 
 
-Note: Brazilian Population Registry seems to be downward biased compared to 2015-2019 data from Brazil's Ministry of Health () by about 7 to 10%. For now we chose to stay with the Population Registry Data in order to best insure consistency with 2020-2021 data.
+Note: Brazilian Population Registry seems to be downward biased compared to 2015-2019 data from Brazil's Ministry of Health (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def) by about 7 to 10%. For now we chose to stay with the Population Registry Data in order to best insure consistency with 2020-2021 data.
 
 
 ### Canada (weekly)
@@ -254,7 +254,7 @@ Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https:/
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
 
-### Uruguay
+### Uruguay (weekly)
 [Uruguay Ministry of Public Health - Surveillance of all-cause mortality](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/vigilancia-mortalidad-todas-causas).   
 The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
 The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
