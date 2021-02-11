@@ -137,11 +137,13 @@ Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/file
 
 ### Kazakhstan (monthly)
 Kazakhstan Bureau of National Statistics 
-2015 to 2018: Monthly Socio-Economic Deveolopment of the Republic of Kazakhstan:  https://stat.gov.kz/edition/publication/month?lang=en  
+2015 to 2018: Monthly Socio-Economic Development of the Republic of Kazakhstan:  https://stat.gov.kz/edition/publication/month?lang=en  
 
 2019 to 2020: https://stat.gov.kz/official/industry/61/statistic/7
 
 Direct link to Excel file: https://stat.gov.kz/api/getFile/?docId=ESTAT334793
+
+Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018 for World Mortality.
 
 
 ### Kosovo (monthly)
