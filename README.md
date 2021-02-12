@@ -101,7 +101,7 @@ The INEC publication provides mortality data for the first half (January-June) o
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS (January 2021):  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/01/Defunciones_Generales_2020_act_24_ENE_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/02/Defunciones_Generales_2020_act_07_FEB_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
@@ -152,7 +152,7 @@ Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosov
 
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - November 2020: http://www.stat.kg/kg/statistics/naselenie/ 
+2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: http://www.stat.kg/kg/statistics/naselenie/ 
 
 
 ### Macao (monthly)
@@ -254,7 +254,7 @@ For additional details, refer to SAMRC (2021): METHODOLOGICAL NOTE: PREDICTED NU
 
 
 ### Taiwan (monthly)
-Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/files/site_stuff/321/1/month/month_en.html
+Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://ws.moi.gov.tw/001/Upload/400/relfile/0/4413/d1d7bfc0-d03a-4cb6-bac2-06353bc6d082/month/month.html
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
