@@ -178,7 +178,7 @@ Department of Statistics Malaysia:
 ### Mexico (weekly)
 Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
-The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2018 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We denote this forecast as `year = 0` in the data.
+The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2019 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We denote this forecast as `year = 0` in the data.
 
 
 ### Moldova (monthly)
