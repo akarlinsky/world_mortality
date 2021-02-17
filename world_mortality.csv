@@ -299,315 +299,78 @@ Albania,2020,36,weekly,451
 Albania,2020,37,weekly,461
 Albania,2020,38,weekly,461
 Albania,2020,39,weekly,346
-Armenia,2015,1,weekly,249
-Armenia,2015,2,weekly,185
-Armenia,2015,3,weekly,1094
-Armenia,2015,4,weekly,661
-Armenia,2015,5,weekly,560
-Armenia,2015,6,weekly,615
-Armenia,2015,7,weekly,511
-Armenia,2015,8,weekly,616
-Armenia,2015,9,weekly,628
-Armenia,2015,10,weekly,578
-Armenia,2015,11,weekly,603
-Armenia,2015,12,weekly,618
-Armenia,2015,13,weekly,683
-Armenia,2015,14,weekly,576
-Armenia,2015,15,weekly,585
-Armenia,2015,16,weekly,598
-Armenia,2015,17,weekly,407
-Armenia,2015,18,weekly,593
-Armenia,2015,19,weekly,566
-Armenia,2015,20,weekly,598
-Armenia,2015,21,weekly,502
-Armenia,2015,22,weekly,469
-Armenia,2015,23,weekly,558
-Armenia,2015,24,weekly,517
-Armenia,2015,25,weekly,523
-Armenia,2015,26,weekly,504
-Armenia,2015,27,weekly,468
-Armenia,2015,28,weekly,498
-Armenia,2015,29,weekly,544
-Armenia,2015,30,weekly,416
-Armenia,2015,31,weekly,474
-Armenia,2015,32,weekly,479
-Armenia,2015,33,weekly,529
-Armenia,2015,34,weekly,513
-Armenia,2015,35,weekly,489
-Armenia,2015,36,weekly,400
-Armenia,2015,37,weekly,441
-Armenia,2015,38,weekly,484
-Armenia,2015,39,weekly,441
-Armenia,2015,40,weekly,448
-Armenia,2015,41,weekly,444
-Armenia,2015,42,weekly,451
-Armenia,2015,43,weekly,539
-Armenia,2015,44,weekly,511
-Armenia,2015,45,weekly,505
-Armenia,2015,46,weekly,548
-Armenia,2015,47,weekly,559
-Armenia,2015,48,weekly,597
-Armenia,2015,49,weekly,492
-Armenia,2015,50,weekly,608
-Armenia,2015,51,weekly,567
-Armenia,2015,52,weekly,643
-Armenia,2015,53,weekly,390
-Armenia,2016,1,weekly,340
-Armenia,2016,2,weekly,981
-Armenia,2016,3,weekly,771
-Armenia,2016,4,weekly,564
-Armenia,2016,5,weekly,663
-Armenia,2016,6,weekly,637
-Armenia,2016,7,weekly,584
-Armenia,2016,8,weekly,556
-Armenia,2016,9,weekly,464
-Armenia,2016,10,weekly,511
-Armenia,2016,11,weekly,530
-Armenia,2016,12,weekly,548
-Armenia,2016,13,weekly,531
-Armenia,2016,14,weekly,518
-Armenia,2016,15,weekly,559
-Armenia,2016,16,weekly,526
-Armenia,2016,17,weekly,523
-Armenia,2016,18,weekly,502
-Armenia,2016,19,weekly,485
-Armenia,2016,20,weekly,510
-Armenia,2016,21,weekly,505
-Armenia,2016,22,weekly,536
-Armenia,2016,23,weekly,515
-Armenia,2016,24,weekly,470
-Armenia,2016,25,weekly,504
-Armenia,2016,26,weekly,501
-Armenia,2016,27,weekly,484
-Armenia,2016,28,weekly,465
-Armenia,2016,29,weekly,534
-Armenia,2016,30,weekly,496
-Armenia,2016,31,weekly,433
-Armenia,2016,32,weekly,473
-Armenia,2016,33,weekly,495
-Armenia,2016,34,weekly,439
-Armenia,2016,35,weekly,454
-Armenia,2016,36,weekly,441
-Armenia,2016,37,weekly,435
-Armenia,2016,38,weekly,460
-Armenia,2016,39,weekly,417
-Armenia,2016,40,weekly,524
-Armenia,2016,41,weekly,490
-Armenia,2016,42,weekly,546
-Armenia,2016,43,weekly,516
-Armenia,2016,44,weekly,510
-Armenia,2016,45,weekly,542
-Armenia,2016,46,weekly,585
-Armenia,2016,47,weekly,598
-Armenia,2016,48,weekly,597
-Armenia,2016,49,weekly,678
-Armenia,2016,50,weekly,690
-Armenia,2016,51,weekly,784
-Armenia,2016,52,weekly,613
-Armenia,2017,1,weekly,215
-Armenia,2017,2,weekly,1114
-Armenia,2017,3,weekly,736
-Armenia,2017,4,weekly,664
-Armenia,2017,5,weekly,618
-Armenia,2017,6,weekly,619
-Armenia,2017,7,weekly,598
-Armenia,2017,8,weekly,638
-Armenia,2017,9,weekly,583
-Armenia,2017,10,weekly,549
-Armenia,2017,11,weekly,619
-Armenia,2017,12,weekly,588
-Armenia,2017,13,weekly,529
-Armenia,2017,14,weekly,570
-Armenia,2017,15,weekly,583
-Armenia,2017,16,weekly,545
-Armenia,2017,17,weekly,515
-Armenia,2017,18,weekly,574
-Armenia,2017,19,weekly,434
-Armenia,2017,20,weekly,562
-Armenia,2017,21,weekly,464
-Armenia,2017,22,weekly,478
-Armenia,2017,23,weekly,505
-Armenia,2017,24,weekly,491
-Armenia,2017,25,weekly,474
-Armenia,2017,26,weekly,476
-Armenia,2017,27,weekly,455
-Armenia,2017,28,weekly,489
-Armenia,2017,29,weekly,448
-Armenia,2017,30,weekly,490
-Armenia,2017,31,weekly,497
-Armenia,2017,32,weekly,541
-Armenia,2017,33,weekly,521
-Armenia,2017,34,weekly,462
-Armenia,2017,35,weekly,395
-Armenia,2017,36,weekly,402
-Armenia,2017,37,weekly,418
-Armenia,2017,38,weekly,384
-Armenia,2017,39,weekly,432
-Armenia,2017,40,weekly,417
-Armenia,2017,41,weekly,496
-Armenia,2017,42,weekly,486
-Armenia,2017,43,weekly,500
-Armenia,2017,44,weekly,529
-Armenia,2017,45,weekly,540
-Armenia,2017,46,weekly,509
-Armenia,2017,47,weekly,492
-Armenia,2017,48,weekly,535
-Armenia,2017,49,weekly,544
-Armenia,2017,50,weekly,546
-Armenia,2017,51,weekly,546
-Armenia,2017,52,weekly,552
-Armenia,2018,1,weekly,171
-Armenia,2018,2,weekly,836
-Armenia,2018,3,weekly,613
-Armenia,2018,4,weekly,592
-Armenia,2018,5,weekly,542
-Armenia,2018,6,weekly,592
-Armenia,2018,7,weekly,566
-Armenia,2018,8,weekly,562
-Armenia,2018,9,weekly,500
-Armenia,2018,10,weekly,404
-Armenia,2018,11,weekly,658
-Armenia,2018,12,weekly,493
-Armenia,2018,13,weekly,508
-Armenia,2018,14,weekly,457
-Armenia,2018,15,weekly,465
-Armenia,2018,16,weekly,509
-Armenia,2018,17,weekly,504
-Armenia,2018,18,weekly,484
-Armenia,2018,19,weekly,503
-Armenia,2018,20,weekly,481
-Armenia,2018,21,weekly,449
-Armenia,2018,22,weekly,416
-Armenia,2018,23,weekly,483
-Armenia,2018,24,weekly,471
-Armenia,2018,25,weekly,443
-Armenia,2018,26,weekly,430
-Armenia,2018,27,weekly,542
-Armenia,2018,28,weekly,608
-Armenia,2018,29,weekly,576
-Armenia,2018,30,weekly,405
-Armenia,2018,31,weekly,440
-Armenia,2018,32,weekly,478
-Armenia,2018,33,weekly,437
-Armenia,2018,34,weekly,432
-Armenia,2018,35,weekly,414
-Armenia,2018,36,weekly,439
-Armenia,2018,37,weekly,435
-Armenia,2018,38,weekly,349
-Armenia,2018,39,weekly,448
-Armenia,2018,40,weekly,445
-Armenia,2018,41,weekly,337
-Armenia,2018,42,weekly,537
-Armenia,2018,43,weekly,498
-Armenia,2018,44,weekly,485
-Armenia,2018,45,weekly,467
-Armenia,2018,46,weekly,566
-Armenia,2018,47,weekly,555
-Armenia,2018,48,weekly,551
-Armenia,2018,49,weekly,504
-Armenia,2018,50,weekly,511
-Armenia,2018,51,weekly,496
-Armenia,2018,52,weekly,537
-Armenia,2019,1,weekly,114
-Armenia,2019,2,weekly,497
-Armenia,2019,3,weekly,577
-Armenia,2019,4,weekly,597
-Armenia,2019,5,weekly,580
-Armenia,2019,6,weekly,555
-Armenia,2019,7,weekly,557
-Armenia,2019,8,weekly,567
-Armenia,2019,9,weekly,548
-Armenia,2019,10,weekly,506
-Armenia,2019,11,weekly,590
-Armenia,2019,12,weekly,571
-Armenia,2019,13,weekly,567
-Armenia,2019,14,weekly,497
-Armenia,2019,15,weekly,530
-Armenia,2019,16,weekly,491
-Armenia,2019,17,weekly,453
-Armenia,2019,18,weekly,482
-Armenia,2019,19,weekly,503
-Armenia,2019,20,weekly,578
-Armenia,2019,21,weekly,514
-Armenia,2019,22,weekly,483
-Armenia,2019,23,weekly,486
-Armenia,2019,24,weekly,441
-Armenia,2019,25,weekly,462
-Armenia,2019,26,weekly,497
-Armenia,2019,27,weekly,361
-Armenia,2019,28,weekly,499
-Armenia,2019,29,weekly,473
-Armenia,2019,30,weekly,464
-Armenia,2019,31,weekly,473
-Armenia,2019,32,weekly,443
-Armenia,2019,33,weekly,430
-Armenia,2019,34,weekly,482
-Armenia,2019,35,weekly,450
-Armenia,2019,36,weekly,374
-Armenia,2019,37,weekly,391
-Armenia,2019,38,weekly,426
-Armenia,2019,39,weekly,494
-Armenia,2019,40,weekly,442
-Armenia,2019,41,weekly,464
-Armenia,2019,42,weekly,417
-Armenia,2019,43,weekly,449
-Armenia,2019,44,weekly,455
-Armenia,2019,45,weekly,516
-Armenia,2019,46,weekly,506
-Armenia,2019,47,weekly,504
-Armenia,2019,48,weekly,569
-Armenia,2019,49,weekly,529
-Armenia,2019,50,weekly,592
-Armenia,2019,51,weekly,510
-Armenia,2019,52,weekly,633
-Armenia,2020,1,weekly,252
-Armenia,2020,2,weekly,693
-Armenia,2020,3,weekly,635
-Armenia,2020,4,weekly,611
-Armenia,2020,5,weekly,579
-Armenia,2020,6,weekly,590
-Armenia,2020,7,weekly,595
-Armenia,2020,8,weekly,575
-Armenia,2020,9,weekly,609
-Armenia,2020,10,weekly,590
-Armenia,2020,11,weekly,548
-Armenia,2020,12,weekly,524
-Armenia,2020,13,weekly,393
-Armenia,2020,14,weekly,448
-Armenia,2020,15,weekly,496
-Armenia,2020,16,weekly,521
-Armenia,2020,17,weekly,458
-Armenia,2020,18,weekly,507
-Armenia,2020,19,weekly,515
-Armenia,2020,20,weekly,559
-Armenia,2020,21,weekly,564
-Armenia,2020,22,weekly,398
-Armenia,2020,23,weekly,663
-Armenia,2020,24,weekly,634
-Armenia,2020,25,weekly,631
-Armenia,2020,26,weekly,652
-Armenia,2020,27,weekly,635
-Armenia,2020,28,weekly,657
-Armenia,2020,29,weekly,553
-Armenia,2020,30,weekly,648
-Armenia,2020,31,weekly,560
-Armenia,2020,32,weekly,507
-Armenia,2020,33,weekly,477
-Armenia,2020,34,weekly,486
-Armenia,2020,35,weekly,468
-Armenia,2020,36,weekly,493
-Armenia,2020,37,weekly,490
-Armenia,2020,38,weekly,464
-Armenia,2020,39,weekly,479
-Armenia,2020,40,weekly,424
-Armenia,2020,41,weekly,509
-Armenia,2020,42,weekly,591
-Armenia,2020,43,weekly,1121
-Armenia,2020,44,weekly,1273
-Armenia,2020,45,weekly,1485
-Armenia,2020,46,weekly,1372
-Armenia,2020,47,weekly,1486
-Armenia,2020,48,weekly,1386
+Armenia,2015,1,monthly,2582
+Armenia,2015,2,monthly,2363
+Armenia,2015,3,monthly,2763
+Armenia,2015,4,monthly,2442
+Armenia,2015,5,monthly,2197
+Armenia,2015,6,monthly,2288
+Armenia,2015,7,monthly,2176
+Armenia,2015,8,monthly,2149
+Armenia,2015,9,monthly,1949
+Armenia,2015,10,monthly,2101
+Armenia,2015,11,monthly,2349
+Armenia,2015,12,monthly,2485
+Armenia,2016,1,monthly,2722
+Armenia,2016,2,monthly,2576
+Armenia,2016,3,monthly,2349
+Armenia,2016,4,monthly,2243
+Armenia,2016,5,monthly,2247
+Armenia,2016,6,monthly,2169
+Armenia,2016,7,monthly,2103
+Armenia,2016,8,monthly,2127
+Armenia,2016,9,monthly,1891
+Armenia,2016,10,monthly,2233
+Armenia,2016,11,monthly,2476
+Armenia,2016,12,monthly,2993
+Armenia,2017,1,monthly,3027
+Armenia,2017,2,monthly,2442
+Armenia,2017,3,monthly,2568
+Armenia,2017,4,monthly,2246
+Armenia,2017,5,monthly,2323
+Armenia,2017,6,monthly,2103
+Armenia,2017,7,monthly,2063
+Armenia,2017,8,monthly,2174
+Armenia,2017,9,monthly,1712
+Armenia,2017,10,monthly,2142
+Armenia,2017,11,monthly,2263
+Armenia,2017,12,monthly,2304
+Armenia,2018,1,monthly,2534
+Armenia,2018,2,monthly,2273
+Armenia,2018,3,monthly,2215
+Armenia,2018,4,monthly,1968
+Armenia,2018,5,monthly,2220
+Armenia,2018,6,monthly,1902
+Armenia,2018,7,monthly,2347
+Armenia,2018,8,monthly,1972
+Armenia,2018,9,monthly,1704
+Armenia,2018,10,monthly,2086
+Armenia,2018,11,monthly,2317
+Armenia,2018,12,monthly,2107
+Armenia,2019,1,monthly,2773
+Armenia,2019,2,monthly,2247
+Armenia,2019,3,monthly,2353
+Armenia,2019,4,monthly,2203
+Armenia,2019,5,monthly,2285
+Armenia,2019,6,monthly,1929
+Armenia,2019,7,monthly,2069
+Armenia,2019,8,monthly,1994
+Armenia,2019,9,monthly,1802
+Armenia,2019,10,monthly,2014
+Armenia,2019,11,monthly,2179
+Armenia,2019,12,monthly,2404
+Armenia,2020,1,monthly,2567
+Armenia,2020,2,monthly,2434
+Armenia,2020,3,monthly,2288
+Armenia,2020,4,monthly,2156
+Armenia,2020,5,monthly,2103
+Armenia,2020,6,monthly,2869
+Armenia,2020,7,monthly,2719
+Armenia,2020,8,monthly,2106
+Armenia,2020,9,monthly,2042
+Armenia,2020,10,monthly,3632
+Armenia,2020,11,monthly,6060
+Armenia,2020,12,monthly,4395
 Australia,2015,1,weekly,2471
 Australia,2015,2,weekly,2327
 Australia,2015,3,weekly,2374
@@ -1264,6 +1027,7 @@ Azerbaijan,2018,8,monthly,4684
 Azerbaijan,2018,9,monthly,4144
 Azerbaijan,2018,10,monthly,4546
 Azerbaijan,2018,11,monthly,4547
+Azerbaijan,2018,12,monthly,4517
 Azerbaijan,2019,1,monthly,5423
 Azerbaijan,2019,2,monthly,4816
 Azerbaijan,2019,3,monthly,4563
@@ -1275,6 +1039,7 @@ Azerbaijan,2019,8,monthly,4269
 Azerbaijan,2019,9,monthly,4101
 Azerbaijan,2019,10,monthly,4386
 Azerbaijan,2019,11,monthly,4393
+Azerbaijan,2019,12,monthly,5210
 Azerbaijan,2020,1,monthly,5177
 Azerbaijan,2020,2,monthly,5039
 Azerbaijan,2020,3,monthly,5792
@@ -1286,6 +1051,7 @@ Azerbaijan,2020,8,monthly,5049
 Azerbaijan,2020,9,monthly,4520
 Azerbaijan,2020,10,monthly,5774
 Azerbaijan,2020,11,monthly,8378
+Azerbaijan,2020,12,monthly,14500
 Belarus,2015,1,monthly,11366
 Belarus,2015,2,monthly,10005
 Belarus,2015,3,monthly,11148
@@ -4536,59 +4302,60 @@ Ecuador,2020,1,weekly,1364
 Ecuador,2020,2,weekly,1556
 Ecuador,2020,3,weekly,1510
 Ecuador,2020,4,weekly,1458
-Ecuador,2020,5,weekly,1355
-Ecuador,2020,6,weekly,1414
+Ecuador,2020,5,weekly,1356
+Ecuador,2020,6,weekly,1417
 Ecuador,2020,7,weekly,1494
 Ecuador,2020,8,weekly,1464
 Ecuador,2020,9,weekly,1528
 Ecuador,2020,10,weekly,1429
 Ecuador,2020,11,weekly,1460
-Ecuador,2020,12,weekly,1486
-Ecuador,2020,13,weekly,3694
-Ecuador,2020,14,weekly,7114
-Ecuador,2020,15,weekly,6300
-Ecuador,2020,16,weekly,4386
+Ecuador,2020,12,weekly,1487
+Ecuador,2020,13,weekly,3696
+Ecuador,2020,14,weekly,7117
+Ecuador,2020,15,weekly,6303
+Ecuador,2020,16,weekly,4389
 Ecuador,2020,17,weekly,3400
 Ecuador,2020,18,weekly,2768
-Ecuador,2020,19,weekly,2550
-Ecuador,2020,20,weekly,2278
+Ecuador,2020,19,weekly,2551
+Ecuador,2020,20,weekly,2279
 Ecuador,2020,21,weekly,2108
 Ecuador,2020,22,weekly,2083
 Ecuador,2020,23,weekly,2053
 Ecuador,2020,24,weekly,2149
 Ecuador,2020,25,weekly,2103
-Ecuador,2020,26,weekly,2119
-Ecuador,2020,27,weekly,2212
-Ecuador,2020,28,weekly,2410
-Ecuador,2020,29,weekly,2518
-Ecuador,2020,30,weekly,2532
-Ecuador,2020,31,weekly,2524
-Ecuador,2020,32,weekly,2447
+Ecuador,2020,26,weekly,2120
+Ecuador,2020,27,weekly,2214
+Ecuador,2020,28,weekly,2411
+Ecuador,2020,29,weekly,2519
+Ecuador,2020,30,weekly,2534
+Ecuador,2020,31,weekly,2526
+Ecuador,2020,32,weekly,2448
 Ecuador,2020,33,weekly,2357
-Ecuador,2020,34,weekly,2176
-Ecuador,2020,35,weekly,2056
+Ecuador,2020,34,weekly,2177
+Ecuador,2020,35,weekly,2057
 Ecuador,2020,36,weekly,2044
-Ecuador,2020,37,weekly,1920
+Ecuador,2020,37,weekly,1921
 Ecuador,2020,38,weekly,1860
-Ecuador,2020,39,weekly,1755
-Ecuador,2020,40,weekly,1680
+Ecuador,2020,39,weekly,1756
+Ecuador,2020,40,weekly,1681
 Ecuador,2020,41,weekly,1797
-Ecuador,2020,42,weekly,1694
-Ecuador,2020,43,weekly,1742
-Ecuador,2020,44,weekly,1660
-Ecuador,2020,45,weekly,1652
-Ecuador,2020,46,weekly,1741
-Ecuador,2020,47,weekly,1793
-Ecuador,2020,48,weekly,1687
-Ecuador,2020,49,weekly,1767
-Ecuador,2020,50,weekly,1632
-Ecuador,2020,51,weekly,1747
-Ecuador,2020,52,weekly,1738
-Ecuador,2020,53,weekly,1866
-Ecuador,2021,1,weekly,1952
-Ecuador,2021,2,weekly,2136
-Ecuador,2021,3,weekly,2238
-Ecuador,2021,4,weekly,2019
+Ecuador,2020,42,weekly,1695
+Ecuador,2020,43,weekly,1743
+Ecuador,2020,44,weekly,1663
+Ecuador,2020,45,weekly,1653
+Ecuador,2020,46,weekly,1742
+Ecuador,2020,47,weekly,1794
+Ecuador,2020,48,weekly,1691
+Ecuador,2020,49,weekly,1768
+Ecuador,2020,50,weekly,1634
+Ecuador,2020,51,weekly,1751
+Ecuador,2020,52,weekly,1743
+Ecuador,2020,53,weekly,1872
+Ecuador,2021,1,weekly,1961
+Ecuador,2021,2,weekly,2150
+Ecuador,2021,3,weekly,2264
+Ecuador,2021,4,weekly,2097
+Ecuador,2021,5,weekly,2079
 Egypt,2015,1,monthly,59713
 Egypt,2015,2,monthly,47678
 Egypt,2015,3,monthly,46524
@@ -7619,12 +7386,12 @@ Israel,2019,50,weekly,941
 Israel,2019,51,weekly,932
 Israel,2019,52,weekly,1033
 Israel,2020,1,weekly,1091
-Israel,2020,2,weekly,1009
+Israel,2020,2,weekly,1010
 Israel,2020,3,weekly,1099
 Israel,2020,4,weekly,1001
 Israel,2020,5,weekly,991
 Israel,2020,6,weekly,944
-Israel,2020,7,weekly,965
+Israel,2020,7,weekly,964
 Israel,2020,8,weekly,989
 Israel,2020,9,weekly,903
 Israel,2020,10,weekly,930
@@ -7634,12 +7401,12 @@ Israel,2020,13,weekly,981
 Israel,2020,14,weekly,1029
 Israel,2020,15,weekly,877
 Israel,2020,16,weekly,927
-Israel,2020,17,weekly,899
-Israel,2020,18,weekly,830
+Israel,2020,17,weekly,900
+Israel,2020,18,weekly,831
 Israel,2020,19,weekly,857
 Israel,2020,20,weekly,847
-Israel,2020,21,weekly,960
-Israel,2020,22,weekly,835
+Israel,2020,21,weekly,961
+Israel,2020,22,weekly,837
 Israel,2020,23,weekly,809
 Israel,2020,24,weekly,785
 Israel,2020,25,weekly,792
@@ -7654,18 +7421,18 @@ Israel,2020,33,weekly,943
 Israel,2020,34,weekly,910
 Israel,2020,35,weekly,899
 Israel,2020,36,weekly,893
-Israel,2020,37,weekly,961
+Israel,2020,37,weekly,962
 Israel,2020,38,weekly,1004
-Israel,2020,39,weekly,1025
-Israel,2020,40,weekly,1008
+Israel,2020,39,weekly,1026
+Israel,2020,40,weekly,1010
 Israel,2020,41,weekly,1109
 Israel,2020,42,weekly,1077
-Israel,2020,43,weekly,1046
+Israel,2020,43,weekly,1047
 Israel,2020,44,weekly,927
 Israel,2020,45,weekly,902
-Israel,2020,46,weekly,810
-Israel,2020,47,weekly,924
-Israel,2020,48,weekly,926
+Israel,2020,46,weekly,811
+Israel,2020,47,weekly,926
+Israel,2020,48,weekly,929
 Israel,2020,49,weekly,922
 Israel,2020,50,weekly,960
 Israel,2020,51,weekly,990
@@ -7673,7 +7440,7 @@ Israel,2020,52,weekly,1001
 Israel,2020,53,weekly,1120
 Israel,2021,1,weekly,1193
 Israel,2021,2,weekly,1214
-Israel,2021,3,weekly,1230
+Israel,2021,3,weekly,1231
 Israel,2021,4,weekly,1160
 Italy,2015,1,weekly,15178
 Italy,2015,2,weekly,15811
@@ -13915,63 +13682,64 @@ South Africa,0,51,weekly,9528
 South Africa,0,52,weekly,9632
 South Africa,0,53,weekly,9416
 South Africa,2020,1,weekly,9920
-South Africa,2020,2,weekly,9110
+South Africa,2020,2,weekly,9111
 South Africa,2020,3,weekly,8678
 South Africa,2020,4,weekly,8179
 South Africa,2020,5,weekly,8808
 South Africa,2020,6,weekly,9313
-South Africa,2020,7,weekly,8613
+South Africa,2020,7,weekly,8614
 South Africa,2020,8,weekly,8658
 South Africa,2020,9,weekly,8367
 South Africa,2020,10,weekly,9287
 South Africa,2020,11,weekly,8796
 South Africa,2020,12,weekly,8592
 South Africa,2020,13,weekly,8447
-South Africa,2020,14,weekly,8236
+South Africa,2020,14,weekly,8237
 South Africa,2020,15,weekly,8255
-South Africa,2020,16,weekly,8120
+South Africa,2020,16,weekly,8121
 South Africa,2020,17,weekly,7956
 South Africa,2020,18,weekly,8030
 South Africa,2020,19,weekly,8505
-South Africa,2020,20,weekly,8650
+South Africa,2020,20,weekly,8654
 South Africa,2020,21,weekly,8878
-South Africa,2020,22,weekly,9445
+South Africa,2020,22,weekly,9446
 South Africa,2020,23,weekly,10153
-South Africa,2020,24,weekly,10630
+South Africa,2020,24,weekly,10631
 South Africa,2020,25,weekly,11978
 South Africa,2020,26,weekly,12535
 South Africa,2020,27,weekly,13514
-South Africa,2020,28,weekly,14763
+South Africa,2020,28,weekly,14764
 South Africa,2020,29,weekly,16243
 South Africa,2020,30,weekly,16195
-South Africa,2020,31,weekly,15254
+South Africa,2020,31,weekly,15255
 South Africa,2020,32,weekly,13704
 South Africa,2020,33,weekly,12381
-South Africa,2020,34,weekly,11952
-South Africa,2020,35,weekly,11138
-South Africa,2020,36,weekly,10918
-South Africa,2020,37,weekly,10055
+South Africa,2020,34,weekly,11953
+South Africa,2020,35,weekly,11142
+South Africa,2020,36,weekly,10919
+South Africa,2020,37,weekly,10057
 South Africa,2020,38,weekly,9562
 South Africa,2020,39,weekly,9860
 South Africa,2020,40,weekly,9492
-South Africa,2020,41,weekly,10054
-South Africa,2020,42,weekly,10107
-South Africa,2020,43,weekly,9923
-South Africa,2020,44,weekly,9802
-South Africa,2020,45,weekly,9948
-South Africa,2020,46,weekly,10275
-South Africa,2020,47,weekly,10253
-South Africa,2020,48,weekly,10066
-South Africa,2020,49,weekly,11318
-South Africa,2020,50,weekly,12261
-South Africa,2020,51,weekly,13609
-South Africa,2020,52,weekly,16933
-South Africa,2020,53,weekly,20122
-South Africa,2021,1,weekly,22792
-South Africa,2021,2,weekly,24232
-South Africa,2021,3,weekly,21021
-South Africa,2021,4,weekly,15039
-South Africa,2021,5,weekly,13261
+South Africa,2020,41,weekly,10059
+South Africa,2020,42,weekly,10108
+South Africa,2020,43,weekly,9924
+South Africa,2020,44,weekly,9804
+South Africa,2020,45,weekly,9949
+South Africa,2020,46,weekly,10277
+South Africa,2020,47,weekly,10255
+South Africa,2020,48,weekly,10070
+South Africa,2020,49,weekly,11320
+South Africa,2020,50,weekly,12273
+South Africa,2020,51,weekly,13621
+South Africa,2020,52,weekly,16944
+South Africa,2020,53,weekly,20167
+South Africa,2021,1,weekly,22849
+South Africa,2021,2,weekly,24272
+South Africa,2021,3,weekly,21067
+South Africa,2021,4,weekly,15179
+South Africa,2021,5,weekly,13045
+South Africa,2021,6,weekly,11977
 South Korea,2015,1,weekly,5699
 South Korea,2015,2,weekly,5622
 South Korea,2015,3,weekly,5551
@@ -15867,40 +15635,40 @@ United States,2016,52,weekly,57603
 United States,2017,1,weekly,59760
 United States,2017,2,weekly,61114
 United States,2017,3,weekly,59444
-United States,2017,4,weekly,58176
-United States,2017,5,weekly,58560
+United States,2017,4,weekly,58186
+United States,2017,5,weekly,58537
 United States,2017,6,weekly,59162
-United States,2017,7,weekly,58591
+United States,2017,7,weekly,58604
 United States,2017,8,weekly,58385
 United States,2017,9,weekly,57359
-United States,2017,10,weekly,57597
+United States,2017,10,weekly,57608
 United States,2017,11,weekly,56780
 United States,2017,12,weekly,57161
-United States,2017,13,weekly,55838
-United States,2017,14,weekly,55274
-United States,2017,15,weekly,54969
+United States,2017,13,weekly,55827
+United States,2017,14,weekly,55267
+United States,2017,15,weekly,54976
 United States,2017,16,weekly,53168
 United States,2017,17,weekly,53404
-United States,2017,18,weekly,52753
-United States,2017,19,weekly,52076
-United States,2017,20,weekly,52575
-United States,2017,21,weekly,51107
+United States,2017,18,weekly,52754
+United States,2017,19,weekly,52082
+United States,2017,20,weekly,52574
+United States,2017,21,weekly,51101
 United States,2017,22,weekly,51369
-United States,2017,23,weekly,51525
+United States,2017,23,weekly,51534
 United States,2017,24,weekly,50933
-United States,2017,25,weekly,51326
+United States,2017,25,weekly,51317
 United States,2017,26,weekly,50742
 United States,2017,27,weekly,51091
 United States,2017,28,weekly,50122
-United States,2017,29,weekly,50230
+United States,2017,29,weekly,50241
 United States,2017,30,weekly,49493
-United States,2017,31,weekly,50221
-United States,2017,32,weekly,50371
-United States,2017,33,weekly,50296
+United States,2017,31,weekly,50210
+United States,2017,32,weekly,50364
+United States,2017,33,weekly,50303
 United States,2017,34,weekly,49659
 United States,2017,35,weekly,50960
-United States,2017,36,weekly,51111
-United States,2017,37,weekly,51825
+United States,2017,36,weekly,51116
+United States,2017,37,weekly,51820
 United States,2017,38,weekly,51353
 United States,2017,39,weekly,51462
 United States,2017,40,weekly,52235
@@ -15908,173 +15676,174 @@ United States,2017,41,weekly,51718
 United States,2017,42,weekly,52357
 United States,2017,43,weekly,52672
 United States,2017,44,weekly,53822
-United States,2017,45,weekly,53384
+United States,2017,45,weekly,53385
 United States,2017,46,weekly,53909
-United States,2017,47,weekly,54236
+United States,2017,47,weekly,54235
 United States,2017,48,weekly,54903
 United States,2017,49,weekly,55746
-United States,2017,50,weekly,57550
-United States,2017,51,weekly,59672
+United States,2017,50,weekly,57541
+United States,2017,51,weekly,59681
 United States,2017,52,weekly,61251
-United States,2018,1,weekly,66317
-United States,2018,2,weekly,67686
+United States,2018,1,weekly,66339
+United States,2018,2,weekly,67664
 United States,2018,3,weekly,64820
 United States,2018,4,weekly,62922
 United States,2018,5,weekly,61124
 United States,2018,6,weekly,61243
-United States,2018,7,weekly,59931
-United States,2018,8,weekly,57955
+United States,2018,7,weekly,59932
+United States,2018,8,weekly,57954
 United States,2018,9,weekly,56829
 United States,2018,10,weekly,57226
-United States,2018,11,weekly,56462
+United States,2018,11,weekly,56480
 United States,2018,12,weekly,55912
-United States,2018,13,weekly,55063
-United States,2018,14,weekly,55425
-United States,2018,15,weekly,55355
-United States,2018,16,weekly,54152
+United States,2018,13,weekly,55045
+United States,2018,14,weekly,55421
+United States,2018,15,weekly,55354
+United States,2018,16,weekly,54157
 United States,2018,17,weekly,53848
 United States,2018,18,weekly,53874
-United States,2018,19,weekly,52215
-United States,2018,20,weekly,50740
+United States,2018,19,weekly,52227
+United States,2018,20,weekly,50739
 United States,2018,21,weekly,51055
-United States,2018,22,weekly,51173
+United States,2018,22,weekly,51162
 United States,2018,23,weekly,52123
 United States,2018,24,weekly,51514
 United States,2018,25,weekly,51221
 United States,2018,26,weekly,51004
 United States,2018,27,weekly,51812
-United States,2018,28,weekly,51337
-United States,2018,29,weekly,50731
+United States,2018,28,weekly,51348
+United States,2018,29,weekly,50730
 United States,2018,30,weekly,50422
-United States,2018,31,weekly,50821
-United States,2018,32,weekly,51130
+United States,2018,31,weekly,50799
+United States,2018,32,weekly,51142
 United States,2018,33,weekly,50423
 United States,2018,34,weekly,50577
 United States,2018,35,weekly,50745
 United States,2018,36,weekly,50429
 United States,2018,37,weekly,51215
-United States,2018,38,weekly,51713
-United States,2018,39,weekly,51105
+United States,2018,38,weekly,51720
+United States,2018,39,weekly,51098
 United States,2018,40,weekly,52486
 United States,2018,41,weekly,51972
 United States,2018,42,weekly,53113
 United States,2018,43,weekly,53892
 United States,2018,44,weekly,53767
-United States,2018,45,weekly,53709
-United States,2018,46,weekly,54820
+United States,2018,45,weekly,53692
+United States,2018,46,weekly,54837
 United States,2018,47,weekly,54981
 United States,2018,48,weekly,55210
-United States,2018,49,weekly,56113
+United States,2018,49,weekly,56095
 United States,2018,50,weekly,56530
-United States,2018,51,weekly,56671
-United States,2018,52,weekly,56163
+United States,2018,51,weekly,56688
+United States,2018,52,weekly,56164
 United States,2019,1,weekly,58463
 United States,2019,2,weekly,58525
-United States,2019,3,weekly,58354
-United States,2019,4,weekly,58045
+United States,2019,3,weekly,58365
+United States,2019,4,weekly,58034
 United States,2019,5,weekly,58278
-United States,2019,6,weekly,58662
-United States,2019,7,weekly,58122
-United States,2019,8,weekly,58135
-United States,2019,9,weekly,58084
-United States,2019,10,weekly,58683
-United States,2019,11,weekly,58024
-United States,2019,12,weekly,57234
+United States,2019,6,weekly,58654
+United States,2019,7,weekly,58132
+United States,2019,8,weekly,58143
+United States,2019,9,weekly,58074
+United States,2019,10,weekly,58684
+United States,2019,11,weekly,58037
+United States,2019,12,weekly,57221
 United States,2019,13,weekly,56776
-United States,2019,14,weekly,56714
-United States,2019,15,weekly,55652
+United States,2019,14,weekly,56729
+United States,2019,15,weekly,55636
 United States,2019,16,weekly,54606
 United States,2019,17,weekly,53770
 United States,2019,18,weekly,54118
 United States,2019,19,weekly,53602
-United States,2019,20,weekly,53685
+United States,2019,20,weekly,53696
 United States,2019,21,weekly,53840
-United States,2019,22,weekly,52869
-United States,2019,23,weekly,53301
+United States,2019,22,weekly,52858
+United States,2019,23,weekly,53309
 United States,2019,24,weekly,52794
-United States,2019,25,weekly,52428
-United States,2019,26,weekly,52329
+United States,2019,25,weekly,52424
+United States,2019,26,weekly,52325
 United States,2019,27,weekly,52505
-United States,2019,28,weekly,52090
+United States,2019,28,weekly,52078
 United States,2019,29,weekly,51796
 United States,2019,30,weekly,51803
-United States,2019,31,weekly,51561
-United States,2019,32,weekly,51856
-United States,2019,33,weekly,51134
-United States,2019,34,weekly,51163
-United States,2019,35,weekly,51298
-United States,2019,36,weekly,51961
-United States,2019,37,weekly,51748
-United States,2019,38,weekly,51910
-United States,2019,39,weekly,52895
-United States,2019,40,weekly,52688
-United States,2019,41,weekly,53220
-United States,2019,42,weekly,54437
-United States,2019,43,weekly,54159
+United States,2019,31,weekly,51573
+United States,2019,32,weekly,51858
+United States,2019,33,weekly,51139
+United States,2019,34,weekly,51151
+United States,2019,35,weekly,51303
+United States,2019,36,weekly,51960
+United States,2019,37,weekly,51758
+United States,2019,38,weekly,51920
+United States,2019,39,weekly,52876
+United States,2019,40,weekly,52686
+United States,2019,41,weekly,53224
+United States,2019,42,weekly,54438
+United States,2019,43,weekly,54156
 United States,2019,44,weekly,54214
-United States,2019,45,weekly,55803
-United States,2019,46,weekly,56050
-United States,2019,47,weekly,56333
-United States,2019,48,weekly,55601
-United States,2019,49,weekly,57417
-United States,2019,50,weekly,57795
-United States,2019,51,weekly,57582
-United States,2019,52,weekly,58635
-United States,2020,1,weekly,60170
-United States,2020,2,weekly,60735
+United States,2019,45,weekly,55817
+United States,2019,46,weekly,56036
+United States,2019,47,weekly,56319
+United States,2019,48,weekly,55615
+United States,2019,49,weekly,57434
+United States,2019,50,weekly,57776
+United States,2019,51,weekly,57599
+United States,2019,52,weekly,58618
+United States,2020,1,weekly,60184
+United States,2020,2,weekly,60733
 United States,2020,3,weekly,59356
-United States,2020,4,weekly,59151
-United States,2020,5,weekly,58814
-United States,2020,6,weekly,59387
-United States,2020,7,weekly,58792
-United States,2020,8,weekly,58879
-United States,2020,9,weekly,59280
+United States,2020,4,weekly,59149
+United States,2020,5,weekly,58806
+United States,2020,6,weekly,59388
+United States,2020,7,weekly,58794
+United States,2020,8,weekly,58871
+United States,2020,9,weekly,59289
 United States,2020,10,weekly,59644
-United States,2020,11,weekly,58643
-United States,2020,12,weekly,59200
-United States,2020,13,weekly,62987
-United States,2020,14,weekly,72287
-United States,2020,15,weekly,79073
+United States,2020,11,weekly,58664
+United States,2020,12,weekly,59177
+United States,2020,13,weekly,63008
+United States,2020,14,weekly,72283
+United States,2020,15,weekly,79055
 United States,2020,16,weekly,76754
-United States,2020,17,weekly,73866
-United States,2020,18,weekly,69288
-United States,2020,19,weekly,66785
-United States,2020,20,weekly,64444
-United States,2020,21,weekly,61581
-United States,2020,22,weekly,59650
-United States,2020,23,weekly,58840
-United States,2020,24,weekly,57999
-United States,2020,25,weekly,57960
-United States,2020,26,weekly,58448
-United States,2020,27,weekly,59769
-United States,2020,28,weekly,61857
-United States,2020,29,weekly,63100
-United States,2020,30,weekly,64179
-United States,2020,31,weekly,64157
-United States,2020,32,weekly,63634
-United States,2020,33,weekly,63560
-United States,2020,34,weekly,62802
-United States,2020,35,weekly,61321
-United States,2020,36,weekly,60392
-United States,2020,37,weekly,59813
-United States,2020,38,weekly,59852
-United States,2020,39,weekly,60648
-United States,2020,40,weekly,59578
-United States,2020,41,weekly,61190
-United States,2020,42,weekly,59992
-United States,2020,43,weekly,61449
-United States,2020,44,weekly,62654
-United States,2020,45,weekly,65301
-United States,2020,46,weekly,66861
-United States,2020,47,weekly,69769
-United States,2020,48,weekly,71258
-United States,2020,49,weekly,75097
-United States,2020,50,weekly,79352
-United States,2020,51,weekly,79761
-United States,2020,52,weekly,80362
-United States,2020,53,weekly,80610
-United States,2021,1,weekly,77616
-United States,2021,2,weekly,75129
+United States,2020,17,weekly,73873
+United States,2020,18,weekly,69291
+United States,2020,19,weekly,66790
+United States,2020,20,weekly,64445
+United States,2020,21,weekly,61585
+United States,2020,22,weekly,59654
+United States,2020,23,weekly,58856
+United States,2020,24,weekly,57992
+United States,2020,25,weekly,57953
+United States,2020,26,weekly,58464
+United States,2020,27,weekly,59773
+United States,2020,28,weekly,61884
+United States,2020,29,weekly,63102
+United States,2020,30,weekly,64185
+United States,2020,31,weekly,64160
+United States,2020,32,weekly,63646
+United States,2020,33,weekly,63553
+United States,2020,34,weekly,62490
+United States,2020,35,weekly,61345
+United States,2020,36,weekly,60438
+United States,2020,37,weekly,59843
+United States,2020,38,weekly,59898
+United States,2020,39,weekly,60700
+United States,2020,40,weekly,59702
+United States,2020,41,weekly,61603
+United States,2020,42,weekly,60239
+United States,2020,43,weekly,61816
+United States,2020,44,weekly,63086
+United States,2020,45,weekly,65484
+United States,2020,46,weekly,67083
+United States,2020,47,weekly,69940
+United States,2020,48,weekly,71427
+United States,2020,49,weekly,75410
+United States,2020,50,weekly,79755
+United States,2020,51,weekly,80408
+United States,2020,52,weekly,81406
+United States,2020,53,weekly,82153
+United States,2021,1,weekly,79535
+United States,2021,2,weekly,77608
+United States,2021,3,weekly,71955
 Uruguay,0,1,weekly,571
 Uruguay,0,2,weekly,612
 Uruguay,0,3,weekly,554

@@ -42,7 +42,19 @@ For each data point that exists in both datasets, we take the maximum between th
 † Sweden has a significant number of deaths which occurred in "unknown" week in all years. 960 deaths in 2015, 1963 in 2016, 2230 in 2017, 2513 in 2018, 2616 in 2019, 2652 in 2020. These are not included in the weekly data.  
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Albania, Armenia, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania. 
+We collect the weekly data from Eurostat for the following countries: Albania, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania. 
+
+
+### Armenia (monthly)
+
+Statistical Committee of the Republic of Armenia:  
+
+2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
+2016: https://www.armstat.am/file/article/sv_12_16r_520.pdf  
+2017: https://www.armstat.am/file/article/sv_12_17r_520.pdf  
+2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
+2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
+2020: https://www.armstat.am/file/article/sv_12_20r_520.pdf 
 
 
 ### Azerbaijan (monthly)
@@ -300,16 +312,6 @@ We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/gr
 
 Below are listed some sources that are currently *not* used for this dataset.
 
-### Armenia (monthly)
-
-The monthly numbers for Armenia are not used because we prefer the weekly numbers from EuroStat.
-
-2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
-2016: https://www.armstat.am/file/article/sv_12_16r_520.pdf  
-2017: https://www.armstat.am/file/article/sv_12_17r_520.pdf  
-2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
-2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
-2020: https://www.armstat.am/file/article/sv_10_20r_520.pdf  
 
 ### Georgia (monthly)
 
