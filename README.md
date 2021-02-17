@@ -28,7 +28,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Israel, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -127,6 +127,10 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 
 Note: According to HIQA study, rip.ie usage is downward-biased in earlier years. To account for this, we have decided to only include data from 2018 onward.
 Additionally, comparing the estimates from our crawling and HIQA data for the same weeks, our estimates are higher at about 5%, since we do not post-process the data. In order to account for this, our rip.ie estimates are multiplied by 0.95. 
+
+
+### Israel (weekly)
+Israeli Central Bureau of Statistics: https://www.cbs.gov.il/he/subjects/Pages/%D7%AA%D7%9E%D7%95%D7%AA%D7%94-%D7%95%D7%AA%D7%95%D7%97%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D.aspx
 
 
 ### Japan (monthly)
