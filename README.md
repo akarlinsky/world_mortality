@@ -28,7 +28,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Russia, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -60,7 +60,7 @@ Statistical Committee of the Republic of Armenia:
 ### Azerbaijan (monthly)
 2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
-2019 to 2020: https://www.stat.gov.az/news/source/2020_12ay.zip
+2019 to 2020: https://www.stat.gov.az/news/source/2021_1ay.zip
 
 
 ### Belarus (monthly)
@@ -110,8 +110,8 @@ The INEC publication provides mortality data for the first half (January-June) o
 2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
-Direct link to the latest table in XLS (January 2021):  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/02/Defunciones_Generales_2020_act_07_FEB_2021.xlsx
+Direct link to the latest table in XLS:  
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/02/Defunciones_Generales_act_14_FEB_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
