@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 79 countries. We welcome any contributions.
+We are currently providing data for 80 countries. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
@@ -11,7 +11,7 @@ For the excess mortality analysis using this data see https://github.com/dkobak/
 
 Notes:
 
-* Our aim is to provide data from 2015 onwards. In some cases the coverage starts later, but we require at least full 2019 data.
+* Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
 * We only collect weekly, monthly, or quarterly data. 
 * The latest data points (weeks/months/quarters) for each country are **preliminary** and subject to (sometimes large) revisions.   
@@ -28,7 +28,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Sweden†, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -39,7 +39,6 @@ For each data point that exists in both datasets, we take the maximum between th
 
 \* Australia's data (all years) is "Doctor Certified Deaths" rather than "All Registered Deaths". These constitute about 85%-90% of all deaths in Australia. 
 
-† Sweden has a significant number of deaths which occurred in "unknown" week in all years. 960 deaths in 2015, 1963 in 2016, 2230 in 2017, 2513 in 2018, 2616 in 2019, 2652 in 2020. These are not included in the weekly data.  
 
 ### Eurostat
 We collect the weekly data from Eurostat for the following countries: Albania, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania. 
@@ -190,9 +189,13 @@ Department of Statistics Malaysia:
 
 
 ### Mexico (weekly)
-Mexican Ministry of Health Excess deaths: https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
+National Institute of Statistics, Geography and Informatics (INEGI) Mexico:
+2015 - 2019: https://www.inegi.org.mx/programas/mortalidad/#Datos_abiertos
 
-The Mexican Ministry of Health does not publish weekly data for years before 2020. Instead, the 2015--2019 data were used by the Mexican Ministry of Health to forecast expected weekly mortality. We denote this forecast as `year = 0` in the data.
+Mexican Ministry of Health Excess deaths database: 
+2020 onward: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_exceso_mortalidad_mexico_gobmx.html
+
+We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne Despeghel](https://github.com/lauriannedsp) for helping us obtain this information. 
 
 
 ### Moldova (monthly)
@@ -266,11 +269,39 @@ SAMRC does not publish weekly data for years before 2020. Instead, the 2018--201
 
 For additional details, refer to SAMRC (2021): METHODOLOGICAL NOTE: PREDICTED NUMBERS OF DEATHS BY EPI-WEEK FOR SOUTH AFRICA IN 2020 AND 2021, available at: https://www.samrc.ac.za/sites/default/files/files/2021-01-24/Methodological%20Note%20on%20Predicted%20Weekly%20Deaths%2020_Jan_2021.pdf  
 
+### Sweden (weekly)
+Statistics Sweden - Preliminary Statistics on Deaths (2015 onward, daily):
+https://scb.se/en/About-us/news-and-press-releases/follow-the-preliminary-statistics-on-deaths/
+
+Note: Sweden has a significant number of deaths which occurred in an "unknown" date (and thus week) in all years. However, 95% these have a [known month of death](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101G/ManadFoddDod/). In order to account for this, we have adjusted the daily number of deaths in Sweden by the difference between monthly deaths from daily deaths and total monthly deaths, and the residual with unknown month, distributed throughout the year. 
+For example, the sum of daily deaths in April 2020 is 10376. The total monthly deaths in April 2020 is 10555, which yields a daily mean difference of 5.97 added to each day in April 2020. The 254 additional deaths in 2020 with unknown month, were distributed uniformly across months and then daily within each month. Thus, each day in April 2020 is increased by 6.67 deaths.
+
+Weekly deaths in Sweden have been rounded to one significant digit to emphasize they were adjusted. 
+
+
 
 ### Taiwan (monthly)
 Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://ws.moi.gov.tw/001/Upload/400/relfile/0/4413/d1d7bfc0-d03a-4cb6-bac2-06353bc6d082/month/month.html
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
+
+
+### Tajikistan (quarterly)
+Tajikistan Agency on Statistics: 
+2015 to 2019: Demographic Yearbook of the Republic of Tajikistan 2021 (paper copy): https://www.stat.tj/en/news/publications/demographic-yearbook-of-the-republic-of-tajikistan
+
+Monthly counts were aggregated to quarterly counts. 
+
+2020 Q1 to Q3: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A
+Crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Tajikistan 2020 which is 9,392,000. 
+
+2020Q4 was derived as the difference between total yearly deaths in 2020 (41743) and sum of 2020Q1-2020Q3. 
+
+We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
+
+
+### Tunisia (monthly)
+Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-december-2020
 
 
 ### Uruguay (weekly)
@@ -331,8 +362,4 @@ National Institute of Statistics:
 https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&created=8&field_cuvinte_cheie_value=&items_per_page=10
 
 
-### Tunisia (monthly)
 
-Tunisia data for 2020 appear incomplete. We do not include it for now.
-
-Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-november-2020
