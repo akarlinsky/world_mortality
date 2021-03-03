@@ -202,7 +202,8 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 2015 to 2020: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2020: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=498&yearfrom=2015&yearto=2020&p=A  
-Crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Moldova 2020 which is 2,640,000. 
+
+2020 Data was taken from UNDATA except for December, where crude death rates from MBS were transformed to mortality count by using the UNDATA Mid-Year Population estimate for Moldova 2020 which is 2,640,000. 
 
 
 ### Mongolia (monthly)
