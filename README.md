@@ -105,6 +105,7 @@ The INEC publication provides mortality data for the first half (January-June) o
 
 
 ### Ecuador (weekly)
+2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml 
 2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/  
 2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
@@ -113,6 +114,8 @@ Direct link to the latest table in XLS:
 https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/03/Defunciones_Generales_act_28_FEB_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
+
+We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providing us with 2015-2016 data. 
 
 
 ### Egypt (monthly)
