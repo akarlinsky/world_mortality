@@ -32,7 +32,7 @@ We collect the weekly STMF data for the following countries: Australia\*, Austri
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
-United States data from 2017 onwards are replaced with CDC 'predictions' that account for underreporting in recent weeks (see below).
+United States data from 2017 onward are replaced with CDC 'predictions' that account for underreporting in recent weeks (see below).
 
 For some European countries, STMF sometimes has more up-to-date (and backward revised) data than Eurostat, as it culls data from countries' NSOs. 
 For each data point that exists in both datasets, we take the maximum between them as the final data.
@@ -41,7 +41,7 @@ For each data point that exists in both datasets, we take the maximum between th
 
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Albania, Cyprus, Georgia, Liechtenstein, Malta, Montenegro, Romania. 
+We collect the weekly data from Eurostat for the following countries: Albania, Cyprus, Georgia, Malta, Montenegro, Romania. 
 
 
 ### Armenia (monthly)
@@ -59,7 +59,7 @@ Statistical Committee of the Republic of Armenia:
 ### Azerbaijan (monthly)
 2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
-2019 to 2020: https://www.stat.gov.az/news/source/2021_1ay.zip
+2019 onward: https://www.stat.gov.az/news/source/2021_1ay.zip
 
 
 ### Belarus (monthly)
@@ -77,7 +77,7 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 
 ### Brazil (monthly)
 2015 to 2017: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a76%3brefYear%3a2015%2c2016%2c2017&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2019 to 2020: Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
+2019 onward: Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
 
 Note: The Brazilian Population Registry has data for monthly mortality in 2018, but it is significantly lower than UNData counts for previous years. This is possibly due to under-reporting in the Registry in early years. 
 We chose not to include 2018 Brazilian currently. 
@@ -105,11 +105,11 @@ The INEC publication provides mortality data for the first half (January-June) o
 
 
 ### Ecuador (weekly)
-2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml 
+2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml   
 2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/  
 2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
-2020: https://www.registrocivil.gob.ec/cifrasdefuncion/  
+2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS:  
 https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/03/Defunciones_Generales_act_28_FEB_2021.xlsx
 
@@ -169,6 +169,10 @@ Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosov
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: http://www.stat.kg/kg/statistics/naselenie/ 
+
+
+### Liechtenstein (monthly)
+Liechtenstein Office for Statistics: https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19  
 
 
 ### Macao (monthly)
