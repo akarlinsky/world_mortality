@@ -76,13 +76,13 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 
 
 ### Brazil (monthly)
-2015 to 2017: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a76%3brefYear%3a2015%2c2016%2c2017&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2019 onward: Brazilian Population Registry: https://transparencia.registrocivil.org.br/registros
+2015 to 2019: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade-sim-1979-a-2019  
 
-Note: The Brazilian Population Registry has data for monthly mortality in 2018, but it is significantly lower than UNData counts for previous years. This is possibly due to under-reporting in the Registry in early years. 
-We chose not to include 2018 Brazilian currently. 
+2020 up to May: SIM 2020: https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade  
 
-Note: Brazilian Population Registry seems to be downward biased compared to 2015-2019 data from Brazil's Ministry of Health (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def) by about 7 to 10%. For now we chose to stay with the Population Registry Data in order to best insure consistency with 2020-2021 data.
+2020 June up to 2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
+In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
+In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths in SIM 2019 (1,349,802) to total deaths in RC 2019 (1,262,200).
 
 
 ### Canada (weekly)
@@ -145,6 +145,11 @@ Additionally, comparing the estimates from our crawling and HIQA data for the sa
 
 ### Israel (weekly)
 Israeli Central Bureau of Statistics: https://www.cbs.gov.il/he/subjects/Pages/%D7%AA%D7%9E%D7%95%D7%AA%D7%94-%D7%95%D7%AA%D7%95%D7%97%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D.aspx
+
+
+### Jamaica (monthly)
+2015: Jamaica Registrar General's 2015 Vital Statistics: https://www.rgd.gov.jm/index.php/vital-statistic  
+2016 to 2020: Email correspondence with [Jamaica Registrar General](https://www.rgd.gov.jm).
 
 
 ### Japan (monthly)
@@ -234,6 +239,17 @@ Oman National Center for Statistics and Information
 Note: 2019 monthly death counts was smaller at 1020 deaths than total yearly mortality count (Shown in the January 2021 Monthly Bulletin). 
 In order to account for this, all 2019 monthly data was increased by the mean monthly difference of 85. Final official monthly data for 2019 should be available by November 2021. 
 
+
+### Panama (monthly)
+2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a591&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+
+2019 to 2020: Email correspondence with [Registro Civil - Tribunal Electoral](https://www.tribunal-electoral.gob.pa/registro-civil-reinicia-tramites/).
+
+
+### Paraguay (monthly)
+2015 to 2019: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/ssiev321.php
+
+2020: Email correspondence with [General Directorate of Strategic Health Information (DIGIES)](http://portal.mspbs.gov.py/digies/).
 
 ### Peru (weekly)
 Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
