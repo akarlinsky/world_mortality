@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 81 countries. We welcome any contributions.
+We are currently providing data for 84 countries. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
@@ -83,6 +83,8 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 2020 June up to 2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
 In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths in SIM 2019 (1,349,802) to total deaths in RC 2019 (1,262,200).
+
+We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this. 
 
 
 ### Canada (weekly)
