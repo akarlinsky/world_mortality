@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 84 countries. We welcome any contributions.
+We are currently providing data for 87 countries and territories. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
@@ -41,7 +41,13 @@ For each data point that exists in both datasets, we take the maximum between th
 
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Albania, Cyprus, Georgia, Malta, Montenegro, Romania. 
+We collect the weekly data from Eurostat for the following countries: Cyprus, Georgia, Malta, Montenegro, Romania. 
+
+
+### Albania (monthly)
+2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
 
 
 ### Armenia (monthly)
@@ -101,9 +107,9 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 
 ### Costa Rica (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2020: Costa Rica National Institute Of Statistics And Censuses (INEC) - Direct link to excel: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacevdef_isem2020.xlsx  
 
-The INEC publication provides mortality data for the first half (January-June) of 2020, While UNDATA provides monthly data for January-April. Our estimate for May and June mortality is thus the mean of the difference between the January-June total and the January-June mortality.   
+2020: https://www.nacion.com/data/muertes-aumentaron-un-7-en-primer-ano-de-la/NOTB5IKPVVGARJ5XLEP3O3H4EM/story/
+
 
 
 ### Ecuador (weekly)
@@ -123,6 +129,13 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 ### Egypt (monthly)
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2020: Monthly Bulletin of the Egyptian NSO (CAPMAS): https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518
+
+
+### El Salvador (monthly)
+2015 to 2020: https://www.laprensagrafica.com/lpgdatos/El-pais-registra-6521-defunciones-mas-que-en-2019-20201116-0083.html
+
+Printed counts were taken as-is from the monthly plot. Other counts were digitized from the plot using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+
 
 
 ### Hong Kong (monthly)
@@ -326,8 +339,17 @@ Crude death rates were transformed to mortality counts by using the UNDATA Mid-Y
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
 
-### Tunisia (monthly)
-Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-december-2020
+### Transnistria (monthly)
+Transnistria State Statistics Service Statistical information bulletin: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/informaczionnyj-statisticheskij-byulleten.html  
+
+Social and economic development of the PMR: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/o-soczialno-ekonomicheskom-polozhenii-pmr.html  
+
+
+
+### Tunisia (weekly)
+Tunisia National Institute of statistics Recent dynamics of mortality in Tunisia: http://www.ins.tn/fr/publication/dynamique-r%C3%A9cente-de-la-mortalit%C3%A9-en-tunisie
+
+The data from the report's figure 1 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
 
 ### Uruguay (weekly)
