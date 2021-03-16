@@ -245,6 +245,17 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 2020: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=823
 
 
+### Nicaragua (monthly)
+2015 to 2018: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: https://www.inide.gob.ni/Home/Compendios
+
+2020 January to June: https://lalupa.press/2020/07/21/nicaragua-reporta-preocupante-aumento-del-40-en-defunciones-en-111-dias/
+
+2020 July to August: http://mapasalud.minsa.gob.ni/
+
+To obtain mortality counts for July and August, we used the MAPASALUD January-August count, and subtracted the January-June counts from the LALUPA source, assuming a uniform distrbution between July and August.
+
+
+
 ### Oman (monthly)
 Oman National Center for Statistics and Information
 2015 to 2018: Deaths and Births Statistical Bulletin: https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=L61grnjbbbpxeUKErBemkg%3d%3d
