@@ -88,7 +88,7 @@ Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterl
 
 2020 June up to 2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
-In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths in SIM 2019 (1,349,802) to total deaths in RC 2019 (1,262,200).
+In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths (up to May) in SIM 2020 (615,482) to total deaths in RC 2020 (557,767). 
 
 We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this. 
 
