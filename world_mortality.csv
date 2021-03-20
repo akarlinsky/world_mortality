@@ -756,11 +756,12 @@ Austria,2020,53,weekly,2004
 Austria,2021,1,weekly,1958
 Austria,2021,2,weekly,1958
 Austria,2021,3,weekly,2007
-Austria,2021,4,weekly,1948
-Austria,2021,5,weekly,1865
+Austria,2021,4,weekly,1949
+Austria,2021,5,weekly,1866
 Austria,2021,6,weekly,1758
-Austria,2021,7,weekly,1715
-Austria,2021,8,weekly,1668
+Austria,2021,7,weekly,1714
+Austria,2021,8,weekly,1660
+Austria,2021,9,weekly,1578
 Azerbaijan,2016,1,monthly,4953
 Azerbaijan,2016,2,monthly,4978
 Azerbaijan,2016,3,monthly,4566
@@ -1148,22 +1149,22 @@ Belgium,2019,49,weekly,2161
 Belgium,2019,50,weekly,2213
 Belgium,2019,51,weekly,2337
 Belgium,2019,52,weekly,2152
-Belgium,2020,1,weekly,2242
+Belgium,2020,1,weekly,2241
 Belgium,2020,2,weekly,2404
 Belgium,2020,3,weekly,2326
 Belgium,2020,4,weekly,2215
 Belgium,2020,5,weekly,2374
-Belgium,2020,6,weekly,2179
-Belgium,2020,7,weekly,2325
+Belgium,2020,6,weekly,2180
+Belgium,2020,7,weekly,2324
 Belgium,2020,8,weekly,2319
-Belgium,2020,9,weekly,2262
+Belgium,2020,9,weekly,2261
 Belgium,2020,10,weekly,2222
-Belgium,2020,11,weekly,2254
+Belgium,2020,11,weekly,2255
 Belgium,2020,12,weekly,2573
 Belgium,2020,13,weekly,3216
 Belgium,2020,14,weekly,4043
-Belgium,2020,15,weekly,4308
-Belgium,2020,16,weekly,3721
+Belgium,2020,15,weekly,4309
+Belgium,2020,16,weekly,3722
 Belgium,2020,17,weekly,3057
 Belgium,2020,18,weekly,2435
 Belgium,2020,19,weekly,2397
@@ -1177,37 +1178,39 @@ Belgium,2020,26,weekly,1973
 Belgium,2020,27,weekly,1773
 Belgium,2020,28,weekly,1699
 Belgium,2020,29,weekly,1862
-Belgium,2020,30,weekly,1818
+Belgium,2020,30,weekly,1819
 Belgium,2020,31,weekly,1959
-Belgium,2020,32,weekly,2046
+Belgium,2020,32,weekly,2048
 Belgium,2020,33,weekly,2887
 Belgium,2020,34,weekly,2224
 Belgium,2020,35,weekly,1881
-Belgium,2020,36,weekly,1903
-Belgium,2020,37,weekly,1823
+Belgium,2020,36,weekly,1904
+Belgium,2020,37,weekly,1824
 Belgium,2020,38,weekly,2012
-Belgium,2020,39,weekly,1931
-Belgium,2020,40,weekly,1929
-Belgium,2020,41,weekly,2074
-Belgium,2020,42,weekly,2161
-Belgium,2020,43,weekly,2630
+Belgium,2020,39,weekly,1932
+Belgium,2020,40,weekly,1930
+Belgium,2020,41,weekly,2075
+Belgium,2020,42,weekly,2162
+Belgium,2020,43,weekly,2631
 Belgium,2020,44,weekly,3293
-Belgium,2020,45,weekly,3698
-Belgium,2020,46,weekly,3442
-Belgium,2020,47,weekly,3186
-Belgium,2020,48,weekly,2900
-Belgium,2020,49,weekly,2703
+Belgium,2020,45,weekly,3699
+Belgium,2020,46,weekly,3443
+Belgium,2020,47,weekly,3188
+Belgium,2020,48,weekly,2901
+Belgium,2020,49,weekly,2706
 Belgium,2020,50,weekly,2787
-Belgium,2020,51,weekly,2744
+Belgium,2020,51,weekly,2749
 Belgium,2020,52,weekly,2622
-Belgium,2020,53,weekly,2448
-Belgium,2021,1,weekly,2465
-Belgium,2021,2,weekly,2396
+Belgium,2020,53,weekly,2453
+Belgium,2021,1,weekly,2467
+Belgium,2021,2,weekly,2398
 Belgium,2021,3,weekly,2433
-Belgium,2021,4,weekly,2424
-Belgium,2021,5,weekly,2264
-Belgium,2021,6,weekly,2210
-Belgium,2021,7,weekly,2274
+Belgium,2021,4,weekly,2427
+Belgium,2021,5,weekly,2268
+Belgium,2021,6,weekly,2217
+Belgium,2021,7,weekly,2303
+Belgium,2021,8,weekly,2124
+Belgium,2021,9,weekly,1974
 Bolivia,2016,1,monthly,4538
 Bolivia,2016,2,monthly,4244
 Bolivia,2016,3,monthly,4312
@@ -1313,6 +1316,9 @@ Bosnia,2020,6,monthly,2953
 Bosnia,2020,7,monthly,3066
 Bosnia,2020,8,monthly,3329
 Bosnia,2020,9,monthly,3459
+Bosnia,2020,10,monthly,3506
+Bosnia,2020,11,monthly,5410
+Bosnia,2020,12,monthly,5962
 Brazil,2015,1,monthly,106695
 Brazil,2015,2,monthly,90612
 Brazil,2015,3,monthly,102473
@@ -1378,15 +1384,15 @@ Brazil,2020,2,monthly,105340
 Brazil,2020,3,monthly,118955
 Brazil,2020,4,monthly,124349
 Brazil,2020,5,monthly,154135
-Brazil,2020,6,monthly,144394
-Brazil,2020,7,monthly,148990
-Brazil,2020,8,monthly,140454
-Brazil,2020,9,monthly,133896
-Brazil,2020,10,monthly,129850
-Brazil,2020,11,monthly,121099
-Brazil,2020,12,monthly,137262
-Brazil,2021,1,monthly,142276
-Brazil,2021,2,monthly,128824
+Brazil,2020,6,monthly,144451
+Brazil,2020,7,monthly,149047
+Brazil,2020,8,monthly,140438
+Brazil,2020,9,monthly,133858
+Brazil,2020,10,monthly,129823
+Brazil,2020,11,monthly,121108
+Brazil,2020,12,monthly,137229
+Brazil,2021,1,monthly,142296
+Brazil,2021,2,monthly,129068
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2512
 Bulgaria,2015,3,weekly,2423
@@ -2235,12 +2241,12 @@ Chile,2020,2,weekly,2053
 Chile,2020,3,weekly,2057
 Chile,2020,4,weekly,1962
 Chile,2020,5,weekly,1970
-Chile,2020,6,weekly,1992
+Chile,2020,6,weekly,1993
 Chile,2020,7,weekly,1909
 Chile,2020,8,weekly,1899
 Chile,2020,9,weekly,1884
 Chile,2020,10,weekly,1885
-Chile,2020,11,weekly,1926
+Chile,2020,11,weekly,1927
 Chile,2020,12,weekly,2008
 Chile,2020,13,weekly,2004
 Chile,2020,14,weekly,2080
@@ -2280,17 +2286,18 @@ Chile,2020,47,weekly,2184
 Chile,2020,48,weekly,2201
 Chile,2020,49,weekly,2174
 Chile,2020,50,weekly,2186
-Chile,2020,51,weekly,2152
+Chile,2020,51,weekly,2153
 Chile,2020,52,weekly,2287
 Chile,2020,53,weekly,2233
-Chile,2021,1,weekly,2436
-Chile,2021,2,weekly,2431
+Chile,2021,1,weekly,2439
+Chile,2021,2,weekly,2432
 Chile,2021,3,weekly,2694
-Chile,2021,4,weekly,2536
-Chile,2021,5,weekly,2614
-Chile,2021,6,weekly,2486
-Chile,2021,7,weekly,2453
-Chile,2021,8,weekly,2409
+Chile,2021,4,weekly,2544
+Chile,2021,5,weekly,2616
+Chile,2021,6,weekly,2494
+Chile,2021,7,weekly,2476
+Chile,2021,8,weekly,2548
+Chile,2021,9,weekly,2472
 Colombia,2015,1,weekly,4746
 Colombia,2015,2,weekly,4588
 Colombia,2015,3,weekly,4525
@@ -3953,11 +3960,12 @@ Denmark,2021,1,weekly,1232
 Denmark,2021,2,weekly,1213
 Denmark,2021,3,weekly,1270
 Denmark,2021,4,weekly,1215
-Denmark,2021,5,weekly,1204
+Denmark,2021,5,weekly,1205
 Denmark,2021,6,weekly,1112
-Denmark,2021,7,weekly,1058
-Denmark,2021,8,weekly,968
-Denmark,2021,9,weekly,965
+Denmark,2021,7,weekly,1059
+Denmark,2021,8,weekly,967
+Denmark,2021,9,weekly,970
+Denmark,2021,10,weekly,1040
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -5313,19 +5321,19 @@ France,2019,51,weekly,12625
 France,2019,52,weekly,12437
 France,2020,1,weekly,12978
 France,2020,2,weekly,13435
-France,2020,3,weekly,12831
-France,2020,4,weekly,12583
+France,2020,3,weekly,12832
+France,2020,4,weekly,12584
 France,2020,5,weekly,12784
-France,2020,6,weekly,12658
+France,2020,6,weekly,12659
 France,2020,7,weekly,12509
-France,2020,8,weekly,12098
-France,2020,9,weekly,12277
+France,2020,8,weekly,12099
+France,2020,9,weekly,12278
 France,2020,10,weekly,12407
 France,2020,11,weekly,12807
 France,2020,12,weekly,14203
 France,2020,13,weekly,16433
-France,2020,14,weekly,19048
-France,2020,15,weekly,17782
+France,2020,14,weekly,19049
+France,2020,15,weekly,17783
 France,2020,16,weekly,15656
 France,2020,17,weekly,13040
 France,2020,18,weekly,11529
@@ -5334,44 +5342,45 @@ France,2020,20,weekly,11005
 France,2020,21,weekly,11371
 France,2020,22,weekly,10694
 France,2020,23,weekly,10640
-France,2020,24,weekly,10646
+France,2020,24,weekly,10647
 France,2020,25,weekly,10703
 France,2020,26,weekly,11375
 France,2020,27,weekly,10279
 France,2020,28,weekly,10586
 France,2020,29,weekly,10390
-France,2020,30,weekly,10817
-France,2020,31,weekly,11145
+France,2020,30,weekly,10819
+France,2020,31,weekly,11146
 France,2020,32,weekly,11008
-France,2020,33,weekly,12076
-France,2020,34,weekly,10764
-France,2020,35,weekly,10798
+France,2020,33,weekly,12077
+France,2020,34,weekly,10765
+France,2020,35,weekly,10799
 France,2020,36,weekly,10905
 France,2020,37,weekly,11487
 France,2020,38,weekly,12122
-France,2020,39,weekly,11158
+France,2020,39,weekly,11159
 France,2020,40,weekly,12154
 France,2020,41,weekly,12125
-France,2020,42,weekly,12444
-France,2020,43,weekly,13952
+France,2020,42,weekly,12445
+France,2020,43,weekly,13953
 France,2020,44,weekly,14878
 France,2020,45,weekly,15870
-France,2020,46,weekly,15726
+France,2020,46,weekly,15727
 France,2020,47,weekly,15261
-France,2020,48,weekly,14959
-France,2020,49,weekly,14799
-France,2020,50,weekly,14760
-France,2020,51,weekly,14344
-France,2020,52,weekly,14077
-France,2020,53,weekly,14626
-France,2021,1,weekly,14918
-France,2021,2,weekly,14873
-France,2021,3,weekly,15352
-France,2021,4,weekly,14934
-France,2021,5,weekly,14586
-France,2021,6,weekly,14271
-France,2021,7,weekly,14112
-France,2021,8,weekly,12779
+France,2020,48,weekly,14962
+France,2020,49,weekly,14800
+France,2020,50,weekly,14764
+France,2020,51,weekly,14348
+France,2020,52,weekly,14086
+France,2020,53,weekly,14637
+France,2021,1,weekly,14928
+France,2021,2,weekly,14885
+France,2021,3,weekly,15370
+France,2021,4,weekly,14958
+France,2021,5,weekly,14617
+France,2021,6,weekly,14328
+France,2021,7,weekly,14225
+France,2021,8,weekly,13349
+France,2021,9,weekly,12425
 Georgia,2015,1,weekly,1011
 Georgia,2015,2,weekly,1036
 Georgia,2015,3,weekly,1038
@@ -5922,10 +5931,10 @@ Germany,2020,52,weekly,25427
 Germany,2020,53,weekly,25312
 Germany,2021,1,weekly,24645
 Germany,2021,2,weekly,24291
-Germany,2021,3,weekly,23960
-Germany,2021,4,weekly,22532
-Germany,2021,5,weekly,21631
-Germany,2021,6,weekly,20920
+Germany,2021,3,weekly,23939
+Germany,2021,4,weekly,22495
+Germany,2021,5,weekly,21575
+Germany,2021,6,weekly,20875
 Germany,2021,7,weekly,20423
 Germany,2021,8,weekly,18895
 Germany,2021,9,weekly,18557
@@ -6605,7 +6614,7 @@ Hungary,2020,25,weekly,2071
 Hungary,2020,26,weekly,2262
 Hungary,2020,27,weekly,2314
 Hungary,2020,28,weekly,2173
-Hungary,2020,29,weekly,2111
+Hungary,2020,29,weekly,2112
 Hungary,2020,30,weekly,2152
 Hungary,2020,31,weekly,2359
 Hungary,2020,32,weekly,2312
@@ -6613,29 +6622,30 @@ Hungary,2020,33,weekly,2265
 Hungary,2020,34,weekly,2222
 Hungary,2020,35,weekly,2204
 Hungary,2020,36,weekly,2220
-Hungary,2020,37,weekly,2332
+Hungary,2020,37,weekly,2333
 Hungary,2020,38,weekly,2471
 Hungary,2020,39,weekly,2459
-Hungary,2020,40,weekly,2561
+Hungary,2020,40,weekly,2562
 Hungary,2020,41,weekly,2563
-Hungary,2020,42,weekly,2751
+Hungary,2020,42,weekly,2752
 Hungary,2020,43,weekly,2986
-Hungary,2020,44,weekly,3179
-Hungary,2020,45,weekly,3546
-Hungary,2020,46,weekly,3956
-Hungary,2020,47,weekly,3945
-Hungary,2020,48,weekly,4063
-Hungary,2020,49,weekly,4149
-Hungary,2020,50,weekly,4047
-Hungary,2020,51,weekly,3691
-Hungary,2020,52,weekly,3702
-Hungary,2020,53,weekly,3396
-Hungary,2021,1,weekly,3112
-Hungary,2021,2,weekly,3094
-Hungary,2021,3,weekly,2898
+Hungary,2020,44,weekly,3183
+Hungary,2020,45,weekly,3548
+Hungary,2020,46,weekly,3958
+Hungary,2020,47,weekly,3947
+Hungary,2020,48,weekly,4066
+Hungary,2020,49,weekly,4163
+Hungary,2020,50,weekly,4078
+Hungary,2020,51,weekly,3718
+Hungary,2020,52,weekly,3735
+Hungary,2020,53,weekly,3423
+Hungary,2021,1,weekly,3127
+Hungary,2021,2,weekly,3111
+Hungary,2021,3,weekly,2924
 Hungary,2021,4,weekly,2747
-Hungary,2021,5,weekly,2695
-Hungary,2021,6,weekly,2621
+Hungary,2021,5,weekly,2727
+Hungary,2021,6,weekly,2690
+Hungary,2021,7,weekly,2694
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -8510,7 +8520,8 @@ Liechtenstein,2020,9,monthly,30
 Liechtenstein,2020,10,monthly,23
 Liechtenstein,2020,11,monthly,39
 Liechtenstein,2020,12,monthly,51
-Liechtenstein,2021,1,monthly,28
+Liechtenstein,2021,1,monthly,31
+Liechtenstein,2021,2,monthly,19
 Lithuania,2015,1,weekly,844
 Lithuania,2015,2,weekly,827
 Lithuania,2015,3,weekly,905
@@ -10712,15 +10723,16 @@ Netherlands,2020,50,weekly,3609
 Netherlands,2020,51,weekly,3901
 Netherlands,2020,52,weekly,3853
 Netherlands,2020,53,weekly,4077
-Netherlands,2021,1,weekly,4137
-Netherlands,2021,2,weekly,3838
-Netherlands,2021,3,weekly,3844
-Netherlands,2021,4,weekly,3703
-Netherlands,2021,5,weekly,3639
-Netherlands,2021,6,weekly,3536
-Netherlands,2021,7,weekly,3491
-Netherlands,2021,8,weekly,3175
-Netherlands,2021,9,weekly,3089
+Netherlands,2021,1,weekly,4139
+Netherlands,2021,2,weekly,3843
+Netherlands,2021,3,weekly,3848
+Netherlands,2021,4,weekly,3706
+Netherlands,2021,5,weekly,3644
+Netherlands,2021,6,weekly,3541
+Netherlands,2021,7,weekly,3512
+Netherlands,2021,8,weekly,3190
+Netherlands,2021,9,weekly,3075
+Netherlands,2021,10,weekly,3318
 New Zealand,2015,1,weekly,564
 New Zealand,2015,2,weekly,566
 New Zealand,2015,3,weekly,595
@@ -11032,16 +11044,17 @@ New Zealand,2020,47,weekly,611
 New Zealand,2020,48,weekly,648
 New Zealand,2020,49,weekly,642
 New Zealand,2020,50,weekly,639
-New Zealand,2020,51,weekly,668
+New Zealand,2020,51,weekly,670
 New Zealand,2020,52,weekly,624
 New Zealand,2020,53,weekly,672
-New Zealand,2021,1,weekly,666
-New Zealand,2021,2,weekly,631
-New Zealand,2021,3,weekly,658
-New Zealand,2021,4,weekly,597
-New Zealand,2021,5,weekly,637
-New Zealand,2021,6,weekly,636
-New Zealand,2021,7,weekly,568
+New Zealand,2021,1,weekly,667
+New Zealand,2021,2,weekly,630
+New Zealand,2021,3,weekly,657
+New Zealand,2021,4,weekly,599
+New Zealand,2021,5,weekly,639
+New Zealand,2021,6,weekly,639
+New Zealand,2021,7,weekly,580
+New Zealand,2021,8,weekly,568
 Nicaragua,2015,1,monthly,2035
 Nicaragua,2015,2,monthly,1709
 Nicaragua,2015,3,monthly,1878
@@ -11433,7 +11446,7 @@ Norway,2019,51,weekly,773
 Norway,2019,52,weekly,805
 Norway,2020,1,weekly,862
 Norway,2020,2,weekly,952
-Norway,2020,3,weekly,836
+Norway,2020,3,weekly,837
 Norway,2020,4,weekly,862
 Norway,2020,5,weekly,815
 Norway,2020,6,weekly,800
@@ -11476,14 +11489,14 @@ Norway,2020,42,weekly,713
 Norway,2020,43,weekly,797
 Norway,2020,44,weekly,790
 Norway,2020,45,weekly,774
-Norway,2020,46,weekly,778
+Norway,2020,46,weekly,780
 Norway,2020,47,weekly,801
 Norway,2020,48,weekly,768
 Norway,2020,49,weekly,787
 Norway,2020,50,weekly,838
-Norway,2020,51,weekly,818
+Norway,2020,51,weekly,819
 Norway,2020,52,weekly,825
-Norway,2020,53,weekly,823
+Norway,2020,53,weekly,826
 Oman,2015,1,monthly,732
 Oman,2015,2,monthly,550
 Oman,2015,3,monthly,602
@@ -12253,10 +12266,10 @@ Poland,2019,50,weekly,7942
 Poland,2019,51,weekly,8158
 Poland,2019,52,weekly,7949
 Poland,2020,1,weekly,8464
-Poland,2020,2,weekly,8243
+Poland,2020,2,weekly,8242
 Poland,2020,3,weekly,8059
-Poland,2020,4,weekly,8018
-Poland,2020,5,weekly,8562
+Poland,2020,4,weekly,8017
+Poland,2020,5,weekly,8560
 Poland,2020,6,weekly,8343
 Poland,2020,7,weekly,8624
 Poland,2020,8,weekly,8474
@@ -12628,15 +12641,15 @@ Portugal,2020,49,weekly,2844
 Portugal,2020,50,weekly,3021
 Portugal,2020,51,weekly,2912
 Portugal,2020,52,weekly,2789
-Portugal,2020,53,weekly,3140
-Portugal,2021,1,weekly,3812
-Portugal,2021,2,weekly,4605
-Portugal,2021,3,weekly,5027
-Portugal,2021,4,weekly,4783
-Portugal,2021,5,weekly,3945
-Portugal,2021,6,weekly,3356
-Portugal,2021,7,weekly,2842
-Portugal,2021,8,weekly,2484
+Portugal,2020,53,weekly,3141
+Portugal,2021,1,weekly,3815
+Portugal,2021,2,weekly,4606
+Portugal,2021,3,weekly,5032
+Portugal,2021,4,weekly,4790
+Portugal,2021,5,weekly,3952
+Portugal,2021,6,weekly,3361
+Portugal,2021,7,weekly,2845
+Portugal,2021,8,weekly,2488
 Qatar,2015,1,monthly,210
 Qatar,2015,2,monthly,196
 Qatar,2015,3,monthly,191
@@ -14333,59 +14346,63 @@ South Korea,2019,49,weekly,5859
 South Korea,2019,50,weekly,6095
 South Korea,2019,51,weekly,6048
 South Korea,2019,52,weekly,5914
-South Korea,2020,1,weekly,6432
+South Korea,2020,1,weekly,6433
 South Korea,2020,2,weekly,6316
-South Korea,2020,3,weekly,6392
-South Korea,2020,4,weekly,6477
-South Korea,2020,5,weekly,6428
+South Korea,2020,3,weekly,6397
+South Korea,2020,4,weekly,6481
+South Korea,2020,5,weekly,6429
 South Korea,2020,6,weekly,6425
-South Korea,2020,7,weekly,6155
-South Korea,2020,8,weekly,5963
-South Korea,2020,9,weekly,6007
-South Korea,2020,10,weekly,5956
-South Korea,2020,11,weekly,5924
-South Korea,2020,12,weekly,5835
+South Korea,2020,7,weekly,6158
+South Korea,2020,8,weekly,5965
+South Korea,2020,9,weekly,6010
+South Korea,2020,10,weekly,5957
+South Korea,2020,11,weekly,5925
+South Korea,2020,12,weekly,5836
 South Korea,2020,13,weekly,5703
-South Korea,2020,14,weekly,5640
-South Korea,2020,15,weekly,5868
-South Korea,2020,16,weekly,5740
+South Korea,2020,14,weekly,5642
+South Korea,2020,15,weekly,5869
+South Korea,2020,16,weekly,5741
 South Korea,2020,17,weekly,5570
 South Korea,2020,18,weekly,5973
-South Korea,2020,19,weekly,5525
-South Korea,2020,20,weekly,5429
+South Korea,2020,19,weekly,5526
+South Korea,2020,20,weekly,5433
 South Korea,2020,21,weekly,5491
-South Korea,2020,22,weekly,5378
-South Korea,2020,23,weekly,5628
-South Korea,2020,24,weekly,5529
-South Korea,2020,25,weekly,5432
-South Korea,2020,26,weekly,5426
-South Korea,2020,27,weekly,5408
-South Korea,2020,28,weekly,5200
+South Korea,2020,22,weekly,5380
+South Korea,2020,23,weekly,5631
+South Korea,2020,24,weekly,5534
+South Korea,2020,25,weekly,5433
+South Korea,2020,26,weekly,5427
+South Korea,2020,27,weekly,5409
+South Korea,2020,28,weekly,5203
 South Korea,2020,29,weekly,5428
-South Korea,2020,30,weekly,5514
-South Korea,2020,31,weekly,5485
-South Korea,2020,32,weekly,5405
-South Korea,2020,33,weekly,5672
-South Korea,2020,34,weekly,5936
-South Korea,2020,35,weekly,5795
-South Korea,2020,36,weekly,5590
-South Korea,2020,37,weekly,5608
+South Korea,2020,30,weekly,5518
+South Korea,2020,31,weekly,5488
+South Korea,2020,32,weekly,5407
+South Korea,2020,33,weekly,5675
+South Korea,2020,34,weekly,5942
+South Korea,2020,35,weekly,5801
+South Korea,2020,36,weekly,5596
+South Korea,2020,37,weekly,5611
 South Korea,2020,38,weekly,5720
-South Korea,2020,39,weekly,5743
-South Korea,2020,40,weekly,5757
-South Korea,2020,41,weekly,5927
-South Korea,2020,42,weekly,5865
-South Korea,2020,43,weekly,6016
-South Korea,2020,44,weekly,6049
-South Korea,2020,45,weekly,6031
-South Korea,2020,46,weekly,5997
-South Korea,2020,47,weekly,5903
-South Korea,2020,48,weekly,5757
-South Korea,2020,49,weekly,6100
-South Korea,2020,50,weekly,5960
-South Korea,2020,51,weekly,5823
-South Korea,2020,52,weekly,6020
-South Korea,2020,53,weekly,5967
+South Korea,2020,39,weekly,5749
+South Korea,2020,40,weekly,5763
+South Korea,2020,41,weekly,5931
+South Korea,2020,42,weekly,5871
+South Korea,2020,43,weekly,6023
+South Korea,2020,44,weekly,6059
+South Korea,2020,45,weekly,6042
+South Korea,2020,46,weekly,6008
+South Korea,2020,47,weekly,5920
+South Korea,2020,48,weekly,5774
+South Korea,2020,49,weekly,6130
+South Korea,2020,50,weekly,5997
+South Korea,2020,51,weekly,5885
+South Korea,2020,52,weekly,6096
+South Korea,2020,53,weekly,6100
+South Korea,2021,1,weekly,6109
+South Korea,2021,2,weekly,6180
+South Korea,2021,3,weekly,6039
+South Korea,2021,4,weekly,5629
 Spain,2015,1,weekly,9605
 Spain,2015,2,weekly,10415
 Spain,2015,3,weekly,10738
@@ -15295,11 +15312,11 @@ Switzerland,2020,5,weekly,1426
 Switzerland,2020,6,weekly,1396
 Switzerland,2020,7,weekly,1384
 Switzerland,2020,8,weekly,1369
-Switzerland,2020,9,weekly,1349
+Switzerland,2020,9,weekly,1348
 Switzerland,2020,10,weekly,1358
 Switzerland,2020,11,weekly,1396
 Switzerland,2020,12,weekly,1530
-Switzerland,2020,13,weekly,1630
+Switzerland,2020,13,weekly,1629
 Switzerland,2020,14,weekly,1878
 Switzerland,2020,15,weekly,1647
 Switzerland,2020,16,weekly,1575
@@ -15311,43 +15328,44 @@ Switzerland,2020,21,weekly,1190
 Switzerland,2020,22,weekly,1102
 Switzerland,2020,23,weekly,1171
 Switzerland,2020,24,weekly,1151
-Switzerland,2020,25,weekly,1147
+Switzerland,2020,25,weekly,1149
 Switzerland,2020,26,weekly,1180
-Switzerland,2020,27,weekly,1179
-Switzerland,2020,28,weekly,1172
+Switzerland,2020,27,weekly,1180
+Switzerland,2020,28,weekly,1173
 Switzerland,2020,29,weekly,1114
 Switzerland,2020,30,weekly,1156
 Switzerland,2020,31,weekly,1278
-Switzerland,2020,32,weekly,1170
+Switzerland,2020,32,weekly,1172
 Switzerland,2020,33,weekly,1230
 Switzerland,2020,34,weekly,1218
-Switzerland,2020,35,weekly,1172
+Switzerland,2020,35,weekly,1173
 Switzerland,2020,36,weekly,1167
 Switzerland,2020,37,weekly,1259
 Switzerland,2020,38,weekly,1243
 Switzerland,2020,39,weekly,1253
 Switzerland,2020,40,weekly,1241
 Switzerland,2020,41,weekly,1332
-Switzerland,2020,42,weekly,1285
+Switzerland,2020,42,weekly,1286
 Switzerland,2020,43,weekly,1492
-Switzerland,2020,44,weekly,1686
+Switzerland,2020,44,weekly,1692
 Switzerland,2020,45,weekly,2064
-Switzerland,2020,46,weekly,2137
-Switzerland,2020,47,weekly,2147
-Switzerland,2020,48,weekly,2115
-Switzerland,2020,49,weekly,2166
-Switzerland,2020,50,weekly,2204
-Switzerland,2020,51,weekly,2181
-Switzerland,2020,52,weekly,2098
-Switzerland,2020,53,weekly,1971
-Switzerland,2021,1,weekly,1854
-Switzerland,2021,2,weekly,1752
-Switzerland,2021,3,weekly,1710
-Switzerland,2021,4,weekly,1555
-Switzerland,2021,5,weekly,1379
-Switzerland,2021,6,weekly,1339
-Switzerland,2021,7,weekly,1143
-Switzerland,2021,8,weekly,1113
+Switzerland,2020,46,weekly,2143
+Switzerland,2020,47,weekly,2150
+Switzerland,2020,48,weekly,2117
+Switzerland,2020,49,weekly,2171
+Switzerland,2020,50,weekly,2206
+Switzerland,2020,51,weekly,2184
+Switzerland,2020,52,weekly,2107
+Switzerland,2020,53,weekly,1974
+Switzerland,2021,1,weekly,1864
+Switzerland,2021,2,weekly,1753
+Switzerland,2021,3,weekly,1723
+Switzerland,2021,4,weekly,1568
+Switzerland,2021,5,weekly,1387
+Switzerland,2021,6,weekly,1351
+Switzerland,2021,7,weekly,1219
+Switzerland,2021,8,weekly,1172
+Switzerland,2021,9,weekly,1069
 Taiwan,2015,1,monthly,14310
 Taiwan,2015,2,monthly,12122
 Taiwan,2015,3,monthly,16092
@@ -15951,6 +15969,7 @@ Ukraine,2020,9,monthly,48372
 Ukraine,2020,10,monthly,59047
 Ukraine,2020,11,monthly,63438
 Ukraine,2020,12,monthly,67663
+Ukraine,2021,1,monthly,57721
 United Kingdom,2015,1,weekly,13463
 United Kingdom,2015,2,weekly,18317
 United Kingdom,2015,3,weekly,16735
@@ -16212,7 +16231,7 @@ United Kingdom,2019,49,weekly,12272
 United Kingdom,2019,50,weekly,12852
 United Kingdom,2019,51,weekly,13565
 United Kingdom,2019,52,weekly,8727
-United Kingdom,2020,1,weekly,13767
+United Kingdom,2020,1,weekly,13768
 United Kingdom,2020,2,weekly,16018
 United Kingdom,2020,3,weekly,14723
 United Kingdom,2020,4,weekly,13426
@@ -16272,7 +16291,8 @@ United Kingdom,2021,4,weekly,20489
 United Kingdom,2021,5,weekly,19160
 United Kingdom,2021,6,weekly,17148
 United Kingdom,2021,7,weekly,15583
-United Kingdom,2021,8,weekly,14289
+United Kingdom,2021,8,weekly,14290
+United Kingdom,2021,9,weekly,13114
 United States,2015,2,weekly,61882
 United States,2015,3,weekly,61261
 United States,2015,4,weekly,58738
