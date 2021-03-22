@@ -41,7 +41,7 @@ For each data point that exists in both datasets, we take the maximum between th
 
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Cyprus, Georgia, Malta, Montenegro, Romania. 
+We collect the weekly data from Eurostat for the following countries: Cyprus, Malta, Montenegro, Romania. 
 
 
 ### Albania (monthly)
@@ -136,6 +136,12 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 
 Printed counts were taken as-is from the monthly plot. Other counts were digitized from the plot using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
+
+### Georgia (monthly)
+2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
+2020: National Center for Disease Control Georgia: https://ncdc.ge/api/api/File/GetFile/20ed3f9c-54bd-42e2-a58a-dffea6169fc6
+
+2020 monthly deaths were digitized from the plot using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).  
 
 
 ### Hong Kong (monthly)
