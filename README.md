@@ -409,13 +409,6 @@ We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/gr
 Below are listed some sources that are currently *not* used for this dataset.
 
 
-### Georgia (monthly)
-
-The monthly numbers for Georgia are not used because we prefer the weekly numbers from EuroStat.
-
-2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
-2020: https://www.kavkaz-uzel.eu/blogs/83781/posts/45084 (values digitized from an official plot)
-
 ### Ireland (quarterly)
 Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
 
