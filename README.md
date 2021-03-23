@@ -138,11 +138,20 @@ Printed counts were taken as-is from the monthly plot. Other counts were digitiz
 
 
 ### Georgia (monthly)
-2015--19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
+2015-19: https://www.geostat.ge/media/34261/დემოგრაფიული-ვითარება-საქართველოში-2019.pdf, page 67  
 2020: National Center for Disease Control Georgia: https://ncdc.ge/api/api/File/GetFile/20ed3f9c-54bd-42e2-a58a-dffea6169fc6
 
 2020 monthly deaths were digitized from the plot using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).  
 
+
+### Guatemala (weekly)
+2015 to 2019: Guatemala Instituto Nacional de Estadística (INE) Estadísticas Vitales
+https://www.ine.gob.gt/ine/vitales/
+Access by: Bade de datos, select appropriate year under Año and then select Defunciones.
+
+2020: Public Information Request from [Registro Nacional De Las Personas (RENAP)](https://www.renap.gob.gt/). 
+
+RENAP information was obtained as daily deaths from January 1st 2020 to December 31st 2020, and aggregated to ISO year and week.
 
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
