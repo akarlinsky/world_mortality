@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below. 
-We are currently providing data for 87 countries and territories. We welcome any contributions.
+We are currently providing data for 88 countries and territories. We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
