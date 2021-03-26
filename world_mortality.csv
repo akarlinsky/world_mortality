@@ -753,13 +753,13 @@ Austria,2020,50,weekly,2479
 Austria,2020,51,weekly,2264
 Austria,2020,52,weekly,2131
 Austria,2020,53,weekly,2004
-Austria,2021,1,weekly,1958
+Austria,2021,1,weekly,1959
 Austria,2021,2,weekly,1958
 Austria,2021,3,weekly,2007
 Austria,2021,4,weekly,1948
-Austria,2021,5,weekly,1865
+Austria,2021,5,weekly,1866
 Austria,2021,6,weekly,1758
-Austria,2021,7,weekly,1714
+Austria,2021,7,weekly,1717
 Austria,2021,8,weekly,1659
 Austria,2021,9,weekly,1579
 Austria,2021,10,weekly,1754
@@ -2676,16 +2676,18 @@ Costa Rica,2019,9,monthly,1999
 Costa Rica,2019,10,monthly,2067
 Costa Rica,2019,11,monthly,1967
 Costa Rica,2019,12,monthly,2081
-Costa Rica,2020,1,monthly,2060
-Costa Rica,2020,2,monthly,1807
-Costa Rica,2020,3,monthly,1868
-Costa Rica,2020,4,monthly,1850
-Costa Rica,2020,5,monthly,2045
-Costa Rica,2020,6,monthly,2294
-Costa Rica,2020,7,monthly,2503
-Costa Rica,2020,8,monthly,2487
-Costa Rica,2020,9,monthly,2368
-Costa Rica,2020,10,monthly,2766
+Costa Rica,2020,1,monthly,2160
+Costa Rica,2020,2,monthly,1914
+Costa Rica,2020,3,monthly,2003
+Costa Rica,2020,4,monthly,1881
+Costa Rica,2020,5,monthly,1862
+Costa Rica,2020,6,monthly,1857
+Costa Rica,2020,7,monthly,2059
+Costa Rica,2020,8,monthly,2273
+Costa Rica,2020,9,monthly,2536
+Costa Rica,2020,10,monthly,2467
+Costa Rica,2020,11,monthly,2300
+Costa Rica,2020,12,monthly,2897
 Croatia,2015,1,weekly,1177
 Croatia,2015,2,weekly,1254
 Croatia,2015,3,weekly,1276
@@ -7200,7 +7202,7 @@ Ireland,2020,8,weekly,610
 Ireland,2020,9,weekly,623
 Ireland,2020,10,weekly,628
 Ireland,2020,11,weekly,611
-Ireland,2020,12,weekly,617
+Ireland,2020,12,weekly,618
 Ireland,2020,13,weekly,672
 Ireland,2020,14,weekly,822
 Ireland,2020,15,weekly,905
@@ -7245,9 +7247,11 @@ Ireland,2020,53,weekly,684
 Ireland,2021,1,weekly,803
 Ireland,2021,2,weekly,921
 Ireland,2021,3,weekly,987
-Ireland,2021,4,weekly,963
-Ireland,2021,5,weekly,896
-Ireland,2021,6,weekly,840
+Ireland,2021,4,weekly,964
+Ireland,2021,5,weekly,898
+Ireland,2021,6,weekly,843
+Ireland,2021,7,weekly,757
+Ireland,2021,8,weekly,650
 Israel,2015,1,weekly,936
 Israel,2015,2,weekly,1020
 Israel,2015,3,weekly,988
@@ -10478,19 +10482,19 @@ Montenegro,2019,50,weekly,147
 Montenegro,2019,51,weekly,141
 Montenegro,2019,52,weekly,106
 Montenegro,2020,1,weekly,86
-Montenegro,2020,2,weekly,116
-Montenegro,2020,3,weekly,144
-Montenegro,2020,4,weekly,131
+Montenegro,2020,2,weekly,118
+Montenegro,2020,3,weekly,145
+Montenegro,2020,4,weekly,133
 Montenegro,2020,5,weekly,139
 Montenegro,2020,6,weekly,150
 Montenegro,2020,7,weekly,130
-Montenegro,2020,8,weekly,141
-Montenegro,2020,9,weekly,118
+Montenegro,2020,8,weekly,142
+Montenegro,2020,9,weekly,119
 Montenegro,2020,10,weekly,141
 Montenegro,2020,11,weekly,113
-Montenegro,2020,12,weekly,125
-Montenegro,2020,13,weekly,148
-Montenegro,2020,14,weekly,117
+Montenegro,2020,12,weekly,126
+Montenegro,2020,13,weekly,150
+Montenegro,2020,14,weekly,118
 Montenegro,2020,15,weekly,122
 Montenegro,2020,16,weekly,113
 Montenegro,2020,17,weekly,101
@@ -10499,23 +10503,37 @@ Montenegro,2020,19,weekly,95
 Montenegro,2020,20,weekly,115
 Montenegro,2020,21,weekly,113
 Montenegro,2020,22,weekly,115
-Montenegro,2020,23,weekly,111
-Montenegro,2020,24,weekly,111
+Montenegro,2020,23,weekly,112
+Montenegro,2020,24,weekly,113
 Montenegro,2020,25,weekly,101
 Montenegro,2020,26,weekly,115
-Montenegro,2020,27,weekly,153
+Montenegro,2020,27,weekly,154
 Montenegro,2020,28,weekly,137
 Montenegro,2020,29,weekly,146
-Montenegro,2020,30,weekly,155
-Montenegro,2020,31,weekly,150
-Montenegro,2020,32,weekly,129
+Montenegro,2020,30,weekly,156
+Montenegro,2020,31,weekly,151
+Montenegro,2020,32,weekly,130
 Montenegro,2020,33,weekly,112
 Montenegro,2020,34,weekly,137
-Montenegro,2020,35,weekly,134
-Montenegro,2020,36,weekly,146
+Montenegro,2020,35,weekly,138
+Montenegro,2020,36,weekly,148
 Montenegro,2020,37,weekly,123
-Montenegro,2020,38,weekly,129
-Montenegro,2020,39,weekly,152
+Montenegro,2020,38,weekly,131
+Montenegro,2020,39,weekly,154
+Montenegro,2020,40,weekly,149
+Montenegro,2020,41,weekly,147
+Montenegro,2020,42,weekly,159
+Montenegro,2020,43,weekly,183
+Montenegro,2020,44,weekly,176
+Montenegro,2020,45,weekly,173
+Montenegro,2020,46,weekly,163
+Montenegro,2020,47,weekly,197
+Montenegro,2020,48,weekly,168
+Montenegro,2020,49,weekly,166
+Montenegro,2020,50,weekly,163
+Montenegro,2020,51,weekly,194
+Montenegro,2020,52,weekly,192
+Montenegro,2020,53,weekly,94
 Netherlands,2015,1,weekly,3259
 Netherlands,2015,2,weekly,3430
 Netherlands,2015,3,weekly,3378

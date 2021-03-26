@@ -106,9 +106,9 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 
 
 ### Costa Rica (monthly)
-2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2015 to 2019: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 
-2020: https://www.nacion.com/data/muertes-aumentaron-un-7-en-primer-ano-de-la/NOTB5IKPVVGARJ5XLEP3O3H4EM/story/
+2020: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf
 
 
 
