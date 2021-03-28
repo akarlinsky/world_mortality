@@ -1,12 +1,12 @@
 # Local Mortality Dataset
 
-This repository contains local-level data on all-cause mortality in 2015–2021. 
-Local is any sub-national unit - whether state, province, region, city etc.
-Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.
+This repository contains local-level data on all-cause mortality in 2015–2021.    
+Local is any sub-national unit - whether state, province, region, city etc.   
+Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
-Sources vary by local unit, see below.
-We are currently providing data for 10 Local Units from 7 Countries. 
-We welcome any contributions.
+Sources vary by local unit, see below.   
+We are currently providing data for 10 Local Units from 7 Countries.   
+We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
 
