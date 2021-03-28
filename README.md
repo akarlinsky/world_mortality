@@ -235,7 +235,8 @@ National Institute of Statistics, Geography and Informatics (INEGI) Mexico:
 2015 - 2019: https://www.inegi.org.mx/programas/mortalidad/#Datos_abiertos
 
 Mexican Ministry of Health Excess deaths database: 
-2020 onward: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_exceso_mortalidad_mexico_gobmx.html
+2020 onward: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_exceso_mortalidad_mexico_gobmx.html and
+https://coronavirus.gob.mx/exceso-de-mortalidad-en-mexico/
 
 We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne Despeghel](https://github.com/lauriannedsp) for helping us obtain this information. 
 
