@@ -288,6 +288,7 @@ In order to account for this, all 2019 monthly data was increased by the mean mo
 
 2019 to 2020: Email correspondence with [Registro Civil - Tribunal Electoral](https://www.tribunal-electoral.gob.pa/registro-civil-reinicia-tramites/).
 
+Only 69 deaths were recorded in April 2020, this is probably due to disruption in the registry offices, similiary to Bolivia. 
 
 ### Paraguay (monthly)
 2015 to 2019: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/ssiev321.php
