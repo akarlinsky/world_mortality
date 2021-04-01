@@ -9,6 +9,8 @@ We are currently providing data for 88 countries and territories. We welcome any
 
 For the excess mortality analysis using this data see https://github.com/dkobak/excess-mortality.
 
+For our sister-project of sub-national mortality data, see https://github.com/akarlinsky/world_mortality/tree/main/local_mortality
+
 Notes:
 
 * Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
@@ -199,8 +201,9 @@ Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018 for World Mortali
 
 
 ### Kosovo (monthly)
-Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q4-2020  
+2015 - 2020: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q4-2020  
 
+2021: https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/statistikat-e-lindjeve-vdekjeve-dhe-kurorezimeve-janar-2021
 
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
@@ -245,9 +248,8 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 ### Moldova (monthly)
 2015 to 2020: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=498&yearfrom=2015&yearto=2020&p=A  
+2020: Moldova National Bureau of Statistics Quarterly Statistical Bulletin:  https://statistica.gov.md/newsview.php?l=en&idc=30&id=6945&parent=0
 
-2020 Data was taken from UNDATA except for December, where crude death rates from MBS were transformed to mortality count by using the UNDATA Mid-Year Population estimate for Moldova 2020 which is 2,640,000. 
 
 
 ### Mongolia (monthly)

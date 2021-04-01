@@ -84,6 +84,8 @@ Here we list some sources for local mortality which we do not use as they only s
 ### Cordoba Province
 https://www.paho.org/es/documentos/documento-exceso-mortalidad-contexto-covid-19-provincia-cordoba-argentina
 
+https://www.cba.gov.ar/wp-content/uploads/2021/03/Exceso-de-Mortalidad-Documento.pdf
+
 ## India
 
 ### Bangalore State
