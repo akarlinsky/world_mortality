@@ -82,7 +82,9 @@ New York Times 2016-2020: https://github.com/nytimes/covid-19-data/tree/master/e
 NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." In their analysis, NYT implicitly assumes that the excess mortality in April was zero.
 
 ### Bosnia (monthly)
-Agency for Statistics of Bosnia & Herzegovina Natural Population Change Quarterly: http://www.bhas.ba/Calendar/Category/14#tab-releases
+2015 to 2016: Email correspondence with [Agency for Statistics of Bosnia & Herzegovina (BHAS)](http://www.bhas.ba/Home/).
+
+2017 onward: BHAS Natural Population Change Quarterly: http://www.bhas.ba/Calendar/Category/14#tab-releases
 
 
 ### Brazil (monthly)
