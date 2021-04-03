@@ -224,12 +224,14 @@ Liechtenstein Office for Statistics: https://www.llv.li/inhalt/118804/amtsstelle
 2020: Macao Special Administrative Region Statistics and Census Service Monthly Bulletin: https://www.dsec.gov.mo/en-US/Home/Publication/MonthlyBulletinOfStatistics
 
 
-### Malaysia (quarterly)
+### Malaysia (monthly)
 Department of Statistics Malaysia:
 
-2016: https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=NHRXOUdiT0R0ZjZ0cy90elNUTHFsdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
+2015 to 2019: eStatistik: https://newss.statistics.gov.my/newss-portalx/ep/epProductFreeDownloadSearch.seam
 
-2017 onward: https://www.dosm.gov.my/v1/index.php?r=column/ctwoByCat&parent_id=115&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
+Access by selecting: Main Category - Social, Sub-Category - Demography. Publication title is "Vital Statistics Malaysia".
+
+2020: Demographic Statistics Quarterly 2020: https://www.dosm.gov.my/v1/index.php?r=column/ctwoByCat&parent_id=115&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
 
 
 ### Mauritius (monthly)
