@@ -47,7 +47,7 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 
 
 ### Albania (monthly)
-2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
 
@@ -65,10 +65,12 @@ Statistical Committee of the Republic of Armenia:
 
 
 ### Azerbaijan (monthly)
-2015 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2015: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
+2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
 2019 onward: https://www.stat.gov.az/news/source/2021_1ay.zip
 
+2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -353,7 +355,7 @@ Weekly deaths in Sweden have been rounded to one significant digit to emphasize 
 
 
 ### Taiwan (monthly)
-Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://ws.moi.gov.tw/001/Upload/400/relfile/0/4413/d1d7bfc0-d03a-4cb6-bac2-06353bc6d082/month/month.html
+Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://ws.moi.gov.tw/001/Upload/400/relfile/0/4413/fb872a90-4ab8-4752-bf7b-7bcd890da5f3/month/month.html
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
@@ -393,7 +395,7 @@ The data from the report's figure 3 was digitized using [WebPlotDigitizer](https
 We denote this forecast as `year = 0` in the data.
 
 ### Thailand (monthly)
-Official Statistics Registration Systems:
+2015 onward: Official Statistics Registration Systems:
 https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 
 
@@ -433,7 +435,7 @@ Ireland Central Statistics Office: https://data.cso.ie/table/VSQ01
 The monthly numbers for Romania are not used because we prefer the weekly numbers from EuroStat.
 
 National Institute of Statistics: 
-https://insse.ro/cms/en/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&created=8&field_cuvinte_cheie_value=&items_per_page=10
+https://insse.ro/cms/ro/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&field_cuvinte_cheie_value=&created=7&items_per_page=10
 
 
 
