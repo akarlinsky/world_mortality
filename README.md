@@ -146,9 +146,12 @@ Printed counts were taken as-is from the monthly plot. Other counts were digitiz
 
 
 ### Georgia (monthly)
-2015-2020: Georgia National Office of Statistics (GEOSTAT) https://www.geostat.ge/en/modules/categories/320/deaths  
+2015-2020: Georgia National Office of Statistics (GEOSTAT): https://www.geostat.ge/en/modules/categories/320/deaths  
 
 Access by: Number of Deaths Per Month -> Download XLS file.
+
+### Greenland (monthly)
+2015-2020: Statistics Greenland StatBank Deaths (monthly): https://bank.stat.gl/pxweb/en/Greenland/Greenland__BE__BE10__BE20/BEXBBDMD1.PX/
 
 
 ### Guatemala (weekly)
