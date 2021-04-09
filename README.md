@@ -78,11 +78,10 @@ Statistical Committee of the Republic of Armenia:
 
 
 ### Bolivia (monthly)
-New York Times 2016-2020: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths
+2015 onward: Information obtained from The Bolivian Civil Registry - [Servicio de Registro Cívico (SERECI)](https://www.oep.org.bo/registro-civico/).
 
-2021: https://www.paginasiete.bo/sociedad/2021/3/1/en-enero-la-paz-reporto-casi-3000-muertes-excedentes-el-87-esta-en-subregistro-285882.html
+We would like to thank G. J. Andrés Uzín P. & Luis Salas for providing us this information.
 
-NYT obtained these data directly from the Bolivian officials. Note that the data for April 2020 are missing. To quote NYT, "Bolivia’s Civil Registry recorded almost no deaths in April due to the closure of government offices during a lockdown. Officials said \[at\] least some of the deaths that occurred in April could have been registered in later months." In their analysis, NYT implicitly assumes that the excess mortality in April was zero.
 
 ### Bosnia (monthly)
 2015 to 2016: Email correspondence with [Agency for Statistics of Bosnia & Herzegovina (BHAS)](http://www.bhas.ba/Home/).
