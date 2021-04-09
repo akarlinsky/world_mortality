@@ -44,13 +44,13 @@ For each data point that exists in both datasets, we take the maximum between th
 
 
 ### Eurostat
-We collect the weekly data from Eurostat for the following countries: Cyprus, Malta, Montenegro, Romania. 
+We collect the weekly data from Eurostat for the following countries: Cyprus, Malta, Montenegro, Romania: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts/default/table?lang=en
 
 
 ### Albania (monthly)
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
+2015, 2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
 
 
 ### Armenia (monthly)
@@ -330,7 +330,9 @@ The latest month is published on *rosstat.gov.ru* first and it takes several day
 
 
 ### San Marino (monthly)
-San Marino Office of Economc Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
+2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
+
+2021: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#
 
 
 ### Serbia (monthly)
