@@ -205,7 +205,9 @@ Kazakhstan Bureau of National Statistics
 
 Direct link to Excel file: https://stat.gov.kz/api/getFile/?docId=ESTAT334793
 
-Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018 for World Mortality.
+Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018.
+
+Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps in 2016 and 2017.
 
 
 ### Kosovo (monthly)
