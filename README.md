@@ -106,6 +106,8 @@ StatCan - https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020017-eng.htm
 
 Weekly mortality counts were transformed to ISO-8601 weeks by using reference date. 
 
+StatCan has more up to date data than present in World Mortality, yet it is incomplete due to lack of reporting from Ontario (largest province). See: https://twitter.com/ArielKarlinsky/status/1383054708386959364/photo/1 
+
 
 ### Colombia (weekly)
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
