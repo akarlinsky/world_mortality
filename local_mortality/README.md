@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 10 Local Units from 7 Countries.   
+We are currently providing data for 12 Local Units from 9 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -51,6 +51,8 @@ https://www.indiaspend.com/how-india-could-fill-in-the-blanks-on-excess-mortalit
 
 https://timesofindia.indiatimes.com/city/mumbai/13k-more-deaths-in-city-this-year-between-march-sept/articleshow/78920631.cms
 
+Information from [Sumitra Debroy](https://twitter.com/debroysumitra).
+
 ### Nagpur City
 https://timesofindia.indiatimes.com/city/nagpur/nov-death-figures-hint-at-undetected-covid-fatalities-in-city/articleshow/79612964.cms
 
@@ -67,10 +69,23 @@ https://www.thenews.com.pk/print/645396-766-burials-in-april-lowest-for-kmc-grav
 
 https://www.bbc.com/urdu/pakistan-53295535
 
+## Sudan
+
+### Khartoum State (monthly)
+https://bajnews.net/%D8%A2%D9%84%D8%A7%D9%81%D9%8F-%D9%82%D8%B5%D8%B5-%D8%A7%D9%84%D8%AD%D8%B2%D9%86-%D8%A8%D8%A7%D8%AC-%D9%86%D9%8A%D9%88%D8%B2-%D9%8A%D9%83%D8%B4%D9%81-%D9%81%D9%8A-%D8%AA%D8%AD%D9%82%D9%8A/
+
+[Watson et al. (2020)](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-39-sudan/)
+
 ## Turkey
 
 ### Istanbul (weekly)
 https://github.com/gucluyaman/Excess-mortality-in-Turkey
+
+## Yemen
+
+### Aden Governorate (monthly)
+Bin Ghouth (2020) - "Excess deaths within the context of COVID 19 pandemic in Aden in May 2020". 
+A published paper based on Bin Ghouth's work is available as [Besson et al. 2021](10.1136/bmjgh-2020-004564)
 
 
 ----------------------------
@@ -83,8 +98,6 @@ Here we list some sources for local mortality which we do not use as they only s
 
 ### Cordoba Province
 https://www.paho.org/es/documentos/documento-exceso-mortalidad-contexto-covid-19-provincia-cordoba-argentina
-
-https://www.cba.gov.ar/wp-content/uploads/2021/03/Exceso-de-Mortalidad-Documento.pdf
 
 ## India
 
