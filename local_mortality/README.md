@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 12 Local Units from 9 Countries.   
+We are currently providing data for 13 Local Units from 9 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -35,6 +35,12 @@ https://www.margen.org/pandemia/textos/impacto.pdf
 
 ### Mogilev City (weekly)
 https://docs.google.com/spreadsheets/d/189Xd-j6KNzVmE68hOob78q0KMc3gD7ksnAfCD5-fCtE/edit#gid=0
+
+### Minsk City (monthly)
+https://carbide-datum-297715.appspot.com/article/2021/04/19/covid-minsk
+
+2015-2019 data was reported as quarterly mean 2015-2019. 
+The monthly figures were obtained as the mean of the quarterly figures.
 
 ## China
 
