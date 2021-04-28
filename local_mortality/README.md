@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 13 Local Units from 9 Countries.   
+We are currently providing data for 15 Local Units from 10 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -29,7 +29,7 @@ Notes:
 https://www.margen.org/pandemia/textos/impacto.pdf
 
 ### Cordoba Province (monthly)
-2019 to 2021: https://www.lavoz.com.ar/ciudadanos/enero-fue-quinto-mes-consecutivo-con-exceso-de-mortalidad-en-cordoba
+2019 to 2021: https://www.lavoz.com.ar/ciudadanos/mortalidad-en-cordoba-ya-lleva-siete-meses-en-exceso/
 
 ## Belarus
 
@@ -62,6 +62,10 @@ Information from [Sumitra Debroy](https://twitter.com/debroysumitra).
 ### Nagpur City
 https://timesofindia.indiatimes.com/city/nagpur/nov-death-figures-hint-at-undetected-covid-fatalities-in-city/articleshow/79612964.cms
 
+https://timesofindia.indiatimes.com/city/nagpur/hidden-toll-over-1300-more-deaths-after-covid-routine-fatalities-in-mar/articleshow/82169686.cms
+
+
+
 
 ## Indonesia
 
@@ -82,10 +86,21 @@ https://bajnews.net/%D8%A2%D9%84%D8%A7%D9%81%D9%8F-%D9%82%D8%B5%D8%B5-%D8%A7%D9%
 
 [Watson et al. (2020)](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-39-sudan/)
 
+## Syria
+
+### Damascus (monthly)
+[Watson et al. (2021)](https://www.nature.com/articles/s41467-021-22474-9).
+
+Watson et al. (2021) provides a host of information on mortality and excess mortality in Damascus. For our purposes, we used the [supplementary table 7](https://github.com/mrc-ide/syria-covid-ascertainment/blob/master/analysis/data/raw/supp_table_7_revised.csv) which collects information on on death certificates postered in Damascus from 2017. To transform these into TOTAL mortality in Damascus, the monthly counts were corrected by the coverage share of certificates (4152) to total deaths reported in Damascus by the Syrian NSO (10835) for 2019.
+
+We advise users to treat this information and estimates with caution. 
+
+
 ## Turkey
 
-### Istanbul (weekly)
+### Ankara (weekly) & Istanbul (weekly)
 https://github.com/gucluyaman/Excess-mortality-in-Turkey
+
 
 ## Yemen
 
