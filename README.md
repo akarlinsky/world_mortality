@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 89 countries and territories.   
+We are currently providing data for 91 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -51,6 +51,12 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2015, 2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
+
+
+### Andorra (monthly)
+2015 to 2020: Email correspondence with [Andorra Department of Statistics](https://www.estadistica.ad/serveiestudis/web/index.asp?lang=1). 
+
+See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/noticies/noticia5913cat.pdf 
 
 
 ### Armenia (monthly)
@@ -152,6 +158,11 @@ Printed counts were taken as-is from the monthly plot. Other counts were digitiz
 2015-2020: Georgia National Office of Statistics (GEOSTAT): https://www.geostat.ge/en/modules/categories/320/deaths  
 
 Access by: Number of Deaths Per Month -> Download XLS file.
+
+
+### Gibraltar (monthly)
+2015 onward: Gibraltar Broadcasting Corporation (GBC) public request from Government of Gibraltar Press Office https://www.gbc.gi/news/187-increase-deaths-january-compared-10-year-average
+
 
 ### Greenland (monthly)
 2015-2020: Statistics Greenland StatBank Deaths (monthly): https://bank.stat.gl/pxweb/en/Greenland/Greenland__BE__BE10__BE20/BEXBBDMD1.PX/
