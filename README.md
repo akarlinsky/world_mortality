@@ -98,11 +98,11 @@ We would like to thank G. J. Andrés Uzín P. & Luis Salas for providing us this
 ### Brazil (monthly)
 2015 to 2019: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade-sim-1979-a-2019  
 
-2020 up to May: SIM 2020: https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade  
+2020 up to October: SIM 2020: https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade  
 
-2020 June up to 2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
+2020 November up to 2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
-In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths (up to May) in SIM 2020 (615,482) to total deaths in RC 2020 (557,767). 
+In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths (up to October) in SIM 2020 (1,310,014) to total deaths in RC 2020 (1,213,027). 
 
 We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this. 
 
@@ -188,13 +188,10 @@ Iran National Organization for Civil Registration: https://www.sabteahval.ir/ave
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
 
-### Ireland (weekly)
-2015 to 2019: New York Times: https://github.com/nytimes/covid-19-data/tree/master/excess-deaths  
-[Based on a study by Ireland's Health Information and Quality (HIQA) Authority](https://www.hiqa.ie/sites/default/files/2020-07/Analysis-of-excess-all-cause-mortality-in-Ireland-during-the-COVID-19-epidemic.pdf)    
-2020: Based on the methodology of the HIQA study, we crawled [RIP.IE](rip.ie) with [Gilad Gabiel's script](https://github.com/gaibelg/Death-Notices-Ireland) to provide weekly mortality counts for 2020 onward.
+### Ireland (monthly)
+2015 onward: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://www.cso.ie/en/releasesandpublications/fb/b-mpds/measuringmortalityusingpublicdatasources2019-2021/
 
-Note: According to HIQA study, rip.ie usage is downward-biased in earlier years. To account for this, we have decided to only include data from 2018 onward.
-Additionally, comparing the estimates from our crawling and HIQA data for the same weeks, our estimates are higher at about 5%, since we do not post-process the data. In order to account for this, our rip.ie estimates are multiplied by 0.95. 
+2015 to 2018 are official monthly data from CSO, 2019 onward is from the above CSO study which crawls and corrects [rip.ie](rip.ie) for up-to-date death notices. Note that These figures are preliminary and might change.
 
 
 ### Israel (weekly)
