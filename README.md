@@ -287,7 +287,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 
 ### Nicaragua (monthly)
-2015 to 2018: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: https://www.inide.gob.ni/Home/Compendios
+2015 to 2019: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: https://www.inide.gob.ni/Home/Compendios
 
 2020 January to June: https://lalupa.press/2020/07/21/nicaragua-reporta-preocupante-aumento-del-40-en-defunciones-en-111-dias/
 

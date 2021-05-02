@@ -1541,12 +1541,12 @@ Brazil,2020,7,monthly,147109
 Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
-Brazil,2020,11,monthly,122941
-Brazil,2020,12,monthly,139284
-Brazil,2021,1,monthly,144943
-Brazil,2021,2,monthly,133122
-Brazil,2021,3,monthly,199667
-Brazil,2021,4,monthly,176529
+Brazil,2020,11,monthly,122949
+Brazil,2020,12,monthly,139288
+Brazil,2021,1,monthly,144962
+Brazil,2021,2,monthly,133134
+Brazil,2021,3,monthly,200031
+Brazil,2021,4,monthly,185897
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2512
 Bulgaria,2015,3,weekly,2423
@@ -13319,6 +13319,7 @@ Qatar,2020,11,monthly,168
 Qatar,2020,12,monthly,221
 Qatar,2021,1,monthly,212
 Qatar,2021,2,monthly,178
+Qatar,2021,3,monthly,250
 Romania,2015,1,weekly,5803
 Romania,2015,2,weekly,5848
 Romania,2015,3,weekly,5602
