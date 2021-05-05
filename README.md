@@ -135,7 +135,7 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS:  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/03/Defunciones_Generales_act_28_FEB_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_02_MAY_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
@@ -283,7 +283,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 ### North Macedonia (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=823
+2020: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=831
 
 
 ### Nicaragua (monthly)
