@@ -75,9 +75,12 @@ Statistical Committee of the Republic of Armenia:
 2015: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
-2019 onward: https://www.stat.gov.az/news/source/2021_1ay.zip
+2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip
+2021: https://www.stat.gov.az/news/index.php?id=4860
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
+
+2021 Press release provides total deaths in January-February 2021. To transform to monthly counts, we dividied it by the ratio observed in 2020 between these two months. 
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -348,6 +351,10 @@ The latest month is published on *rosstat.gov.ru* first and it takes several day
 
 ### Serbia (monthly)
 Statistical Office of the Republic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
+
+
+### Seychelles (monthly)
+2015 onward: Email correspondence with [Seychelles National Bureau of Statistics](https://www.nbs.gov.sc/).
 
 
 ### Singapore (monthly)
