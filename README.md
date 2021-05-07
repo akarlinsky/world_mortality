@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 93 countries and territories.   
+We are currently providing data for 94 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -75,7 +75,7 @@ Statistical Committee of the Republic of Armenia:
 2015: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
-2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip
+2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip   
 2021: https://www.stat.gov.az/news/index.php?id=4860
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
@@ -130,6 +130,10 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2020: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf
 
 
+### Cuba (monthly)
+2015 - 2019: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2017 - 2019](http://www.onei.gob.cu/node/13808)
+
+2020: [Cruz Castanheira, Monteiro da Silva, Del Popolo & Bay (2021)](https://submissions2.mirasmart.com/Verify/PAA2021/Submission/Temp/radd1ojc3g3.pdf), Table 3
 
 ### Ecuador (weekly)
 2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml   
@@ -419,12 +423,10 @@ Tunisia National Institute of statistics Recent dynamics of mortality in Tunisia
 The data from the report's figure 1 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
 
-### Uruguay (weekly)
-[Uruguay Ministry of Public Health - Surveillance of all-cause mortality](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/vigilancia-mortalidad-todas-causas).   
-The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
-The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+### Uruguay (monthly)
+2015 - 2019: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
+2020: [Cruz Castanheira, Monteiro da Silva, Del Popolo & Bay (2021)](https://submissions2.mirasmart.com/Verify/PAA2021/Submission/Temp/radd1ojc3g3.pdf), Table 3.
 
-We denote this forecast as `year = 0` in the data.
 
 ### Thailand (monthly)
 2015 onward: Official Statistics Registration Systems:
@@ -469,5 +471,12 @@ The monthly numbers for Romania are not used because we prefer the weekly number
 National Institute of Statistics: 
 https://insse.ro/cms/ro/comunicate-de-presa-view?field_categorie_value_i18n%5B%5D=15&field_cuvinte_cheie_value=&created=7&items_per_page=10
 
+### Uruguay (weekly)
+The weekly figures for Uruguay are not used because the monthly numbers are much more up to date and have full historical data.
 
+[Uruguay Ministry of Public Health - Surveillance of all-cause mortality](https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/vigilancia-mortalidad-todas-causas).   
+The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. 
+The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+
+this forecast is denoted as `year = 0` in the data.
 
