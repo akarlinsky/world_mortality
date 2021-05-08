@@ -391,7 +391,7 @@ Weekly deaths in Sweden have been rounded to one significant digit to emphasize 
 
 
 ### Taiwan (monthly)
-Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://ws.moi.gov.tw/001/Upload/400/relfile/0/4413/fb872a90-4ab8-4752-bf7b-7bcd890da5f3/month/month.html
+Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/english/cl.aspx?n=7665
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
@@ -418,7 +418,7 @@ Social and economic development of the PMR: http://mer.gospmr.org/gosudarstvenna
 
 
 ### Tunisia (weekly)
-Tunisia National Institute of statistics Recent dynamics of mortality in Tunisia: http://www.ins.tn/fr/publication/dynamique-r%C3%A9cente-de-la-mortalit%C3%A9-en-tunisie
+Tunisia National Institute of statistics Recent dynamics of mortality in Tunisia: http://www.ins.tn/publication/dynamique-recente-de-la-mortalite-en-tunisie
 
 The data from the report's figure 1 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
