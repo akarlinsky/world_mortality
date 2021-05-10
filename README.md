@@ -120,7 +120,7 @@ StatCan has more up to date data than present in World Mortality, yet it is inco
 
 ### Colombia (weekly)
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
-Direct link to the latest table in Excel (January 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-17ene.xlsx 
+Direct link to the latest table in Excel (April 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-11abr.xlsx
 Here we sum values in three categories: Natural, Violenta (Violent), and En estudio (unclassified deaths). 
 
 
