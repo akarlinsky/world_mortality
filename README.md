@@ -228,9 +228,8 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 
 
 ### Kosovo (monthly)
-2015 - 2020: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q4-2020  
+2015 - 2021: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q1-2021
 
-2021: https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/statistikat-e-lindjeve-vdekjeve-dhe-kurorezimeve-janar-2021
 
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
