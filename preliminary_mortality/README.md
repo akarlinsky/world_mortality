@@ -6,7 +6,7 @@ As the time format varies substantially, each source is provided as a separate c
 
 We advise not to use Preliminary Mortality for comparisons and analysis, as we cannot vet the reliability of these reports. It is a collection of disparate all-cause mortality reports from across the world.
  
-We welcome any contributions.   
+Sources are listed below the figures. We welcome any contributions.
 
 
 ![Albania](plot_albania.png)
