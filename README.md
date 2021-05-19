@@ -142,7 +142,7 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS:  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_02_MAY_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_16_MAY_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
@@ -445,6 +445,8 @@ Access by: Statistical Information -> Population and migration -> Number of live
 2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
+
+2021: https://www.stat.uz/images/uploads/reliz2021/demografiya_mart_uz.pdf
 
 
 ### United States (weekly)
