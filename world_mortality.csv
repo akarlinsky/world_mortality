@@ -1557,11 +1557,11 @@ Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
 Brazil,2020,11,monthly,122964
-Brazil,2020,12,monthly,139365
-Brazil,2021,1,monthly,145151
-Brazil,2021,2,monthly,133323
-Brazil,2021,3,monthly,201179
-Brazil,2021,4,monthly,198657
+Brazil,2020,12,monthly,139371
+Brazil,2021,1,monthly,145170
+Brazil,2021,2,monthly,133337
+Brazil,2021,3,monthly,201208
+Brazil,2021,4,monthly,198866
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2512
 Bulgaria,2015,3,weekly,2423
@@ -10640,7 +10640,9 @@ Mexico,2021,8,weekly,21973
 Mexico,2021,9,weekly,18174
 Mexico,2021,10,weekly,17346
 Mexico,2021,11,weekly,16101
-Mexico,2021,12,weekly,15298
+Mexico,2021,12,weekly,15846
+Mexico,2021,13,weekly,15201
+Mexico,2021,14,weekly,15137
 Moldova,2015,1,monthly,4013
 Moldova,2015,2,monthly,3476
 Moldova,2015,3,monthly,3681
@@ -12727,26 +12729,26 @@ Peru,2020,49,weekly,2799
 Peru,2020,50,weekly,2963
 Peru,2020,51,weekly,3148
 Peru,2020,52,weekly,3252
-Peru,2020,53,weekly,3502
-Peru,2021,1,weekly,3988
+Peru,2020,53,weekly,3504
+Peru,2021,1,weekly,3985
 Peru,2021,2,weekly,4636
-Peru,2021,3,weekly,5700
+Peru,2021,3,weekly,5705
 Peru,2021,4,weekly,6707
-Peru,2021,5,weekly,7019
+Peru,2021,5,weekly,7018
 Peru,2021,6,weekly,7688
-Peru,2021,7,weekly,7717
-Peru,2021,8,weekly,7391
-Peru,2021,9,weekly,7504
+Peru,2021,7,weekly,7712
+Peru,2021,8,weekly,7393
+Peru,2021,9,weekly,7499
 Peru,2021,10,weekly,7378
-Peru,2021,11,weekly,7426
+Peru,2021,11,weekly,7432
 Peru,2021,12,weekly,7573
-Peru,2021,13,weekly,7813
-Peru,2021,14,weekly,8276
-Peru,2021,15,weekly,8254
-Peru,2021,16,weekly,8064
+Peru,2021,13,weekly,7817
+Peru,2021,14,weekly,8271
+Peru,2021,15,weekly,8251
+Peru,2021,16,weekly,8068
 Peru,2021,17,weekly,7539
-Peru,2021,18,weekly,7015
-Peru,2021,19,weekly,6289
+Peru,2021,18,weekly,7019
+Peru,2021,19,weekly,6305
 Philippines,2015,1,monthly,50381
 Philippines,2015,2,monthly,44540
 Philippines,2015,3,monthly,46452
@@ -17411,227 +17413,228 @@ United States,2016,50,weekly,56100
 United States,2016,51,weekly,56809
 United States,2016,52,weekly,57782
 United States,2017,1,weekly,59890
-United States,2017,2,weekly,61124
+United States,2017,2,weekly,61114
 United States,2017,3,weekly,59444
 United States,2017,4,weekly,58176
-United States,2017,5,weekly,58537
+United States,2017,5,weekly,58560
 United States,2017,6,weekly,59162
 United States,2017,7,weekly,58591
-United States,2017,8,weekly,58398
-United States,2017,9,weekly,57359
+United States,2017,8,weekly,58385
+United States,2017,9,weekly,57369
 United States,2017,10,weekly,57597
-United States,2017,11,weekly,56789
-United States,2017,12,weekly,57161
-United States,2017,13,weekly,55829
-United States,2017,14,weekly,55274
+United States,2017,11,weekly,56780
+United States,2017,12,weekly,57162
+United States,2017,13,weekly,55827
+United States,2017,14,weekly,55267
 United States,2017,15,weekly,54969
 United States,2017,16,weekly,53168
-United States,2017,17,weekly,53404
+United States,2017,17,weekly,53411
 United States,2017,18,weekly,52753
-United States,2017,19,weekly,52082
-United States,2017,20,weekly,52574
-United States,2017,21,weekly,51102
+United States,2017,19,weekly,52076
+United States,2017,20,weekly,52575
+United States,2017,21,weekly,51107
 United States,2017,22,weekly,51369
-United States,2017,23,weekly,51525
-United States,2017,24,weekly,50942
+United States,2017,23,weekly,51534
+United States,2017,24,weekly,50933
 United States,2017,25,weekly,51317
 United States,2017,26,weekly,50742
 United States,2017,27,weekly,51090
-United States,2017,28,weekly,50122
+United States,2017,28,weekly,50134
 United States,2017,29,weekly,50230
-United States,2017,30,weekly,49505
-United States,2017,31,weekly,50217
-United States,2017,32,weekly,50364
+United States,2017,30,weekly,49493
+United States,2017,31,weekly,50210
+United States,2017,32,weekly,50371
 United States,2017,33,weekly,50296
 United States,2017,34,weekly,49659
-United States,2017,35,weekly,50960
+United States,2017,35,weekly,50965
 United States,2017,36,weekly,51111
 United States,2017,37,weekly,51820
-United States,2017,38,weekly,51358
+United States,2017,38,weekly,51353
 United States,2017,39,weekly,51462
 United States,2017,40,weekly,52235
-United States,2017,41,weekly,51718
+United States,2017,41,weekly,51703
 United States,2017,42,weekly,52357
 United States,2017,43,weekly,52672
-United States,2017,44,weekly,53823
-United States,2017,45,weekly,53384
+United States,2017,44,weekly,53847
+United States,2017,45,weekly,53385
 United States,2017,46,weekly,53909
-United States,2017,47,weekly,54235
+United States,2017,47,weekly,54225
 United States,2017,48,weekly,54903
-United States,2017,49,weekly,55747
-United States,2017,50,weekly,57540
-United States,2017,51,weekly,59681
-United States,2017,52,weekly,61251
+United States,2017,49,weekly,55746
+United States,2017,50,weekly,57537
+United States,2017,51,weekly,59674
+United States,2017,52,weekly,61262
 United States,2018,1,weekly,66317
-United States,2018,2,weekly,67664
+United States,2018,2,weekly,67686
 United States,2018,3,weekly,64820
-United States,2018,4,weekly,62944
-United States,2018,5,weekly,61124
-United States,2018,6,weekly,61243
-United States,2018,7,weekly,59932
+United States,2018,4,weekly,62922
+United States,2018,5,weekly,61144
+United States,2018,6,weekly,61244
+United States,2018,7,weekly,59931
 United States,2018,8,weekly,57934
-United States,2018,9,weekly,56849
-United States,2018,10,weekly,57244
+United States,2018,9,weekly,56847
+United States,2018,10,weekly,57226
 United States,2018,11,weekly,56462
 United States,2018,12,weekly,55912
 United States,2018,13,weekly,55045
 United States,2018,14,weekly,55420
 United States,2018,15,weekly,55355
-United States,2018,16,weekly,54157
-United States,2018,17,weekly,53848
-United States,2018,18,weekly,53874
-United States,2018,19,weekly,52216
+United States,2018,16,weekly,54152
+United States,2018,17,weekly,53853
+United States,2018,18,weekly,53875
+United States,2018,19,weekly,52215
 United States,2018,20,weekly,50750
 United States,2018,21,weekly,51055
 United States,2018,22,weekly,51162
-United States,2018,23,weekly,52123
+United States,2018,23,weekly,52132
 United States,2018,24,weekly,51514
-United States,2018,25,weekly,51230
+United States,2018,25,weekly,51221
 United States,2018,26,weekly,50995
-United States,2018,27,weekly,51823
+United States,2018,27,weekly,51812
 United States,2018,28,weekly,51337
 United States,2018,29,weekly,50730
-United States,2018,30,weekly,50422
+United States,2018,30,weekly,50433
 United States,2018,31,weekly,50799
-United States,2018,32,weekly,51130
-United States,2018,33,weekly,50435
+United States,2018,32,weekly,51142
+United States,2018,33,weekly,50423
 United States,2018,34,weekly,50577
 United States,2018,35,weekly,50745
 United States,2018,36,weekly,50429
 United States,2018,37,weekly,51215
-United States,2018,38,weekly,51713
-United States,2018,39,weekly,51105
+United States,2018,38,weekly,51720
+United States,2018,39,weekly,51098
 United States,2018,40,weekly,52486
-United States,2018,41,weekly,51983
+United States,2018,41,weekly,51972
 United States,2018,42,weekly,53113
-United States,2018,43,weekly,53881
+United States,2018,43,weekly,53892
 United States,2018,44,weekly,53767
 United States,2018,45,weekly,53692
 United States,2018,46,weekly,54820
-United States,2018,47,weekly,54981
-United States,2018,48,weekly,55227
-United States,2018,49,weekly,56113
-United States,2018,50,weekly,56530
+United States,2018,47,weekly,54998
+United States,2018,48,weekly,55210
+United States,2018,49,weekly,56095
+United States,2018,50,weekly,56547
 United States,2018,51,weekly,56671
-United States,2018,52,weekly,56163
-United States,2019,1,weekly,58463
-United States,2019,2,weekly,58525
-United States,2019,3,weekly,58354
+United States,2018,52,weekly,56164
+United States,2019,1,weekly,58474
+United States,2019,2,weekly,58514
+United States,2019,3,weekly,58365
 United States,2019,4,weekly,58034
-United States,2019,5,weekly,58290
-United States,2019,6,weekly,58655
-United States,2019,7,weekly,58120
-United States,2019,8,weekly,58152
-United States,2019,9,weekly,58076
-United States,2019,10,weekly,58670
+United States,2019,5,weekly,58278
+United States,2019,6,weekly,58663
+United States,2019,7,weekly,58130
+United States,2019,8,weekly,58136
+United States,2019,9,weekly,58075
+United States,2019,10,weekly,58669
 United States,2019,11,weekly,58037
-United States,2019,12,weekly,57234
+United States,2019,12,weekly,57235
 United States,2019,13,weekly,56776
 United States,2019,14,weekly,56729
-United States,2019,15,weekly,55636
+United States,2019,15,weekly,55652
 United States,2019,16,weekly,54590
-United States,2019,17,weekly,53786
-United States,2019,18,weekly,54118
-United States,2019,19,weekly,53602
-United States,2019,20,weekly,53707
+United States,2019,17,weekly,53770
+United States,2019,18,weekly,54129
+United States,2019,19,weekly,53613
+United States,2019,20,weekly,53685
 United States,2019,21,weekly,53829
 United States,2019,22,weekly,52858
-United States,2019,23,weekly,53300
-United States,2019,24,weekly,52797
-United States,2019,25,weekly,52428
-United States,2019,26,weekly,52327
+United States,2019,23,weekly,53308
+United States,2019,24,weekly,52795
+United States,2019,25,weekly,52424
+United States,2019,26,weekly,52325
 United States,2019,27,weekly,52505
 United States,2019,28,weekly,52078
 United States,2019,29,weekly,51808
-United States,2019,30,weekly,51803
-United States,2019,31,weekly,51561
-United States,2019,32,weekly,51858
+United States,2019,30,weekly,51815
+United States,2019,31,weekly,51549
+United States,2019,32,weekly,51856
 United States,2019,33,weekly,51132
-United States,2019,34,weekly,51165
-United States,2019,35,weekly,51296
-United States,2019,36,weekly,51961
+United States,2019,34,weekly,51158
+United States,2019,35,weekly,51305
+United States,2019,36,weekly,51979
 United States,2019,37,weekly,51748
-United States,2019,38,weekly,51920
+United States,2019,38,weekly,51912
 United States,2019,39,weekly,52875
-United States,2019,40,weekly,52696
-United States,2019,41,weekly,53220
+United States,2019,40,weekly,52687
+United States,2019,41,weekly,53221
 United States,2019,42,weekly,54440
-United States,2019,43,weekly,54158
+United States,2019,43,weekly,54156
 United States,2019,44,weekly,54214
-United States,2019,45,weekly,55817
-United States,2019,46,weekly,56036
-United States,2019,47,weekly,56318
-United States,2019,48,weekly,55616
-United States,2019,49,weekly,57437
-United States,2019,50,weekly,57793
-United States,2019,51,weekly,57581
-United States,2019,52,weekly,58618
-United States,2020,1,weekly,60171
-United States,2020,2,weekly,60728
-United States,2020,3,weekly,59366
-United States,2020,4,weekly,59167
+United States,2019,45,weekly,55802
+United States,2019,46,weekly,56037
+United States,2019,47,weekly,56333
+United States,2019,48,weekly,55615
+United States,2019,49,weekly,57419
+United States,2019,50,weekly,57777
+United States,2019,51,weekly,57598
+United States,2019,52,weekly,58635
+United States,2020,1,weekly,60172
+United States,2020,2,weekly,60733
+United States,2020,3,weekly,59367
+United States,2020,4,weekly,59159
 United States,2020,5,weekly,58823
-United States,2020,6,weekly,59479
-United States,2020,7,weekly,58804
-United States,2020,8,weekly,58906
-United States,2020,9,weekly,59318
-United States,2020,10,weekly,59684
+United States,2020,6,weekly,59471
+United States,2020,7,weekly,58813
+United States,2020,8,weekly,58898
+United States,2020,9,weekly,59331
+United States,2020,10,weekly,59687
 United States,2020,11,weekly,58669
-United States,2020,12,weekly,59233
-United States,2020,13,weekly,63033
-United States,2020,14,weekly,72308
-United States,2020,15,weekly,79096
-United States,2020,16,weekly,76815
-United States,2020,17,weekly,73906
-United States,2020,18,weekly,69295
-United States,2020,19,weekly,66821
-United States,2020,20,weekly,64470
-United States,2020,21,weekly,61618
-United States,2020,22,weekly,59668
-United States,2020,23,weekly,58896
-United States,2020,24,weekly,58030
-United States,2020,25,weekly,57979
-United States,2020,26,weekly,58498
-United States,2020,27,weekly,59808
-United States,2020,28,weekly,61918
-United States,2020,29,weekly,63172
-United States,2020,30,weekly,64248
-United States,2020,31,weekly,64210
-United States,2020,32,weekly,63717
-United States,2020,33,weekly,63626
-United States,2020,34,weekly,62537
-United States,2020,35,weekly,61076
-United States,2020,36,weekly,60262
-United States,2020,37,weekly,59648
-United States,2020,38,weekly,59708
-United States,2020,39,weekly,60593
-United States,2020,40,weekly,59771
-United States,2020,41,weekly,61740
-United States,2020,42,weekly,60611
-United States,2020,43,weekly,62146
-United States,2020,44,weekly,63390
-United States,2020,45,weekly,67478
-United States,2020,46,weekly,68720
-United States,2020,47,weekly,72056
-United States,2020,48,weekly,73582
-United States,2020,49,weekly,77661
-United States,2020,50,weekly,82270
-United States,2020,51,weekly,83154
-United States,2020,52,weekly,84560
-United States,2020,53,weekly,86606
-United States,2021,1,weekly,85346
-United States,2021,2,weekly,85780
-United States,2021,3,weekly,82238
-United States,2021,4,weekly,77666
-United States,2021,5,weekly,74455
-United States,2021,6,weekly,69447
-United States,2021,7,weekly,67564
-United States,2021,8,weekly,64960
-United States,2021,9,weekly,61873
-United States,2021,10,weekly,60136
-United States,2021,11,weekly,58642
-United States,2021,12,weekly,58911
-United States,2021,13,weekly,56688
+United States,2020,12,weekly,59237
+United States,2020,13,weekly,63042
+United States,2020,14,weekly,72295
+United States,2020,15,weekly,79119
+United States,2020,16,weekly,76822
+United States,2020,17,weekly,73908
+United States,2020,18,weekly,69298
+United States,2020,19,weekly,66812
+United States,2020,20,weekly,64475
+United States,2020,21,weekly,61636
+United States,2020,22,weekly,59673
+United States,2020,23,weekly,58904
+United States,2020,24,weekly,58020
+United States,2020,25,weekly,57993
+United States,2020,26,weekly,58500
+United States,2020,27,weekly,59815
+United States,2020,28,weekly,61923
+United States,2020,29,weekly,63175
+United States,2020,30,weekly,64234
+United States,2020,31,weekly,64232
+United States,2020,32,weekly,63722
+United States,2020,33,weekly,63633
+United States,2020,34,weekly,62546
+United States,2020,35,weekly,61104
+United States,2020,36,weekly,60231
+United States,2020,37,weekly,59654
+United States,2020,38,weekly,59728
+United States,2020,39,weekly,60596
+United States,2020,40,weekly,59773
+United States,2020,41,weekly,61753
+United States,2020,42,weekly,60607
+United States,2020,43,weekly,62165
+United States,2020,44,weekly,63384
+United States,2020,45,weekly,67497
+United States,2020,46,weekly,68770
+United States,2020,47,weekly,71578
+United States,2020,48,weekly,73626
+United States,2020,49,weekly,77790
+United States,2020,50,weekly,82413
+United States,2020,51,weekly,83299
+United States,2020,52,weekly,84715
+United States,2020,53,weekly,86925
+United States,2021,1,weekly,85823
+United States,2021,2,weekly,86161
+United States,2021,3,weekly,82766
+United States,2021,4,weekly,78289
+United States,2021,5,weekly,74658
+United States,2021,6,weekly,69529
+United States,2021,7,weekly,67661
+United States,2021,8,weekly,65066
+United States,2021,9,weekly,62028
+United States,2021,10,weekly,60298
+United States,2021,11,weekly,58884
+United States,2021,12,weekly,59259
+United States,2021,13,weekly,57270
+United States,2021,14,weekly,58972
 Uruguay,2015,1,monthly,2514
 Uruguay,2015,2,monthly,2219
 Uruguay,2015,3,monthly,2474
