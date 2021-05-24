@@ -50,7 +50,7 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 ### Albania (monthly)
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2015, 2019 to 2020: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
+2015, 2019 to 2021: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
 
 
 ### Andorra (monthly)
@@ -325,10 +325,10 @@ In order to account for this, all 2019 monthly data was increased by the mean mo
 
 Only 69 deaths were recorded in April 2020, this is probably due to disruption in the registry offices, similiary to Bolivia. 
 
-### Paraguay (monthly)
-2015 to 2019: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/ssiev321.php
 
-2020: Email correspondence with [General Directorate of Strategic Health Information (DIGIES)](http://portal.mspbs.gov.py/digies/).
+### Paraguay (monthly)
+2015 to 2021: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php
+
 
 ### Peru (weekly)
 Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
