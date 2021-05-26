@@ -120,7 +120,7 @@ StatCan has more up to date data than present in World Mortality, yet it is inco
 
 ### Colombia (weekly)
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
-Direct link to the latest table in Excel (April 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-11abr.xlsx
+Direct link to the latest table in Excel (May 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-09may.xlsx
 Here we sum values in three categories: Natural, Violenta (Violent), and En estudio (unclassified deaths). 
 
 
@@ -142,7 +142,7 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS:  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_16_MAY_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_23_MAY_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
