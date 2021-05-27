@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 15 Local Units from 10 Countries.   
+We are currently providing data for 16 Local Units from 10 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -52,6 +52,11 @@ https://www.bmj.com/content/372/bmj.n415
 ### Ahmedabad City
 https://www.reuters.com/article/us-health-coronavirus-india-casualties-idUSKBN24311A
 
+### Chennai City
+Daily Registered Deaths in Chennai: https://github.com/elseasama/covid19chennai/tree/gh-pages/chennai_data, a scrape of [Chennai Municipal Corporation data](https://chennaicorporation.gov.in/gcc/online-services/death-certificate/).
+
+Information from [Rukmini S](https://twitter.com/Rukmini).
+
 ### Mumbai City
 https://www.indiaspend.com/how-india-could-fill-in-the-blanks-on-excess-mortality/
 
@@ -63,8 +68,6 @@ Information from [Sumitra Debroy](https://twitter.com/debroysumitra).
 https://timesofindia.indiatimes.com/city/nagpur/nov-death-figures-hint-at-undetected-covid-fatalities-in-city/articleshow/79612964.cms
 
 https://timesofindia.indiatimes.com/city/nagpur/hidden-toll-over-1300-more-deaths-after-covid-routine-fatalities-in-mar/articleshow/82169686.cms
-
-
 
 
 ## Indonesia
