@@ -107,6 +107,8 @@ We would like to thank G. J. Andrés Uzín P. & Luis Salas for providing us this
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
 In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths (up to October) in SIM 2020 (1,310,014) to total deaths in RC 2020 (1,213,027). 
 
+Monthly deaths in Brazil that have been corrected for delayed registration were rounded to one significant digit to emphasize they were adjusted. 
+
 We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this. 
 
 
@@ -187,7 +189,7 @@ RENAP information was obtained as daily deaths from January 1st 2020 to December
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094    
-2019 to 2020: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
+2019 to 2021: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 
 ### Iran (quarterly)
