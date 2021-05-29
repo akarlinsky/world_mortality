@@ -16,6 +16,7 @@ Sources are listed below the figures. We welcome any contributions.
 ![Kosovo](plot_kosovo.png)
 ![Kuwait](plot_kuwait.png)
 ![Turkey](plot_turkey.png)
+![Bengaluru](plot_bengaluru.png)
 
 
 ## Sources
@@ -27,6 +28,10 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 
 ### Cities and Districts in Gujarat State, India (March 1st to May 10th)
 2020-2021: Divya Bhaskar (Newspaper), translated to English by [Deepak Patel](https://twitter.com/deepakpatel_91/status/1393070596741734405) and [Murad Banaji](https://twitter.com/muradbanaji). 
+
+
+### Bengaluru City, India (January 1st to July 31st)
+2019-2020: https://www.thehindu.com/news/national/karnataka/32-increase-in-mortality-rate-in-bengaluru-patil/article32509298.ece
 
 
 ### Republika Srpska (Quarterly)
@@ -46,7 +51,7 @@ Total monthly counts for Bosnia & Herzegovina are available at [World Mortality]
 
 
 ### Turkey (Monthly)
-2015 - 2019: Turkey Statistical Institute Monthly Deaths
+2015 - 2019: [Turkey Statistical Institute Monthly Deaths](https://biruni.tuik.gov.tr/medas/?kn=114&locale=en)
 
 2020 - 2021: [Güçlü Yaman](https://twitter.com/GucluYaman)'s [collection of all-cause-mortality from 24 cities in Turkey](https://github.com/gucluyaman/Excess-mortality-in-Turkey) which cover about 50% of deaths in Turkey in ordinary times. Monthly total from these cities in 2020-2021 were projected to the entirety of Turkey using the monthly ratios between deaths in 2019 (ranges from 49.2% to 51.7%). 
 
