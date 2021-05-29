@@ -255,7 +255,7 @@ Department of Statistics Malaysia:
 
 Access by selecting: Main Category - Social, Sub-Category - Demography. Publication title is "Vital Statistics Malaysia".
 
-2020: Demographic Statistics Quarterly 2020: https://www.dosm.gov.my/v1/index.php?r=column/ctwoByCat&parent_id=115&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
+2020 onward: Demographic Statistics Quarterly 2020: https://www.dosm.gov.my/v1/index.php?r=column/ctwoByCat&parent_id=115&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
 
 
 ### Mauritius (monthly)
