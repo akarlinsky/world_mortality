@@ -186,10 +186,13 @@ Access by: Base de datos, select appropriate year under Año and then select Def
 
 RENAP information was obtained as daily deaths from January 1st 2020 to December 31st 2020, and aggregated to ISO year and week.
 
+
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094    
 2019 to 2021: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
+
+On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month of occurrence rather than month of registration, via an email correspondence with [Hong Kong Census and Statistics Department](http://censtatd.gov.hk/). 
 
 
 ### Iran (quarterly)
