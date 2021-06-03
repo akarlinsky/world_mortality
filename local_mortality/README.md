@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 16 Local Units from 10 Countries.   
+We are currently providing data for 17 Local Units from 10 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -68,6 +68,10 @@ Information from [Sumitra Debroy](https://twitter.com/debroysumitra).
 https://timesofindia.indiatimes.com/city/nagpur/nov-death-figures-hint-at-undetected-covid-fatalities-in-city/articleshow/79612964.cms
 
 https://timesofindia.indiatimes.com/city/nagpur/hidden-toll-over-1300-more-deaths-after-covid-routine-fatalities-in-mar/articleshow/82169686.cms
+
+
+### Kolkata City
+https://github.com/thejeshgn/KMCDeathRecords
 
 
 ## Indonesia
