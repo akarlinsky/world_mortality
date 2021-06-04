@@ -196,7 +196,8 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 
 ### Iran (quarterly)
-Iran National Organization for Civil Registration: https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=2182&Page=Magazines/SquareshowMagazine  
+Iran National Organization for Civil Registration: https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3272&Page=Magazines/SquareshowMagazine
+
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
 
