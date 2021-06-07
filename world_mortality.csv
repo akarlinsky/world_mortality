@@ -1565,12 +1565,12 @@ Brazil,2020,7,monthly,147109
 Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
-Brazil,2020,11,monthly,123050.9
-Brazil,2020,12,monthly,139600.4
-Brazil,2021,1,monthly,145425.4
-Brazil,2021,2,monthly,133606.2
-Brazil,2021,3,monthly,202032.5
-Brazil,2021,4,monthly,199950.8
+Brazil,2020,11,monthly,123087.8
+Brazil,2020,12,monthly,139658.2
+Brazil,2021,1,monthly,145549.8
+Brazil,2021,2,monthly,133748.3
+Brazil,2021,3,monthly,202024.2
+Brazil,2021,4,monthly,199948
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2512
 Bulgaria,2015,3,weekly,2423
@@ -4713,59 +4713,74 @@ Egypt,2020,8,monthly,55856
 Egypt,2020,9,monthly,49309
 Egypt,2020,10,monthly,45958
 Egypt,2020,11,monthly,50200
-El Salvador,2015,1,monthly,3513
-El Salvador,2015,2,monthly,3117
-El Salvador,2015,3,monthly,3362
-El Salvador,2015,4,monthly,3222
-El Salvador,2015,5,monthly,3560
-El Salvador,2015,6,monthly,3804
-El Salvador,2015,7,monthly,3804
-El Salvador,2015,8,monthly,4002
-El Salvador,2015,9,monthly,3560
-El Salvador,2016,1,monthly,3974
-El Salvador,2016,2,monthly,3525
-El Salvador,2016,3,monthly,3548
-El Salvador,2016,4,monthly,3420
-El Salvador,2016,5,monthly,3723
-El Salvador,2016,6,monthly,3397
-El Salvador,2016,7,monthly,3234
-El Salvador,2016,8,monthly,3338
-El Salvador,2016,9,monthly,3187
-El Salvador,2017,1,monthly,3455
-El Salvador,2017,2,monthly,2931
-El Salvador,2017,3,monthly,3245
-El Salvador,2017,4,monthly,3327
-El Salvador,2017,5,monthly,3362
-El Salvador,2017,6,monthly,4305
-El Salvador,2017,7,monthly,3921
-El Salvador,2017,8,monthly,3467
-El Salvador,2017,9,monthly,3280
-El Salvador,2018,1,monthly,3711
-El Salvador,2018,2,monthly,3152
-El Salvador,2018,3,monthly,3397
-El Salvador,2018,4,monthly,3222
-El Salvador,2018,5,monthly,3420
-El Salvador,2018,6,monthly,3571
-El Salvador,2018,7,monthly,3769
-El Salvador,2018,8,monthly,3443
-El Salvador,2018,9,monthly,3222
-El Salvador,2019,1,monthly,3478
-El Salvador,2019,2,monthly,3117
-El Salvador,2019,3,monthly,3720
-El Salvador,2019,4,monthly,3467
-El Salvador,2019,5,monthly,3595
-El Salvador,2019,6,monthly,3654
-El Salvador,2019,7,monthly,3548
-El Salvador,2019,8,monthly,3498
-El Salvador,2019,9,monthly,3547
-El Salvador,2020,1,monthly,3553
-El Salvador,2020,2,monthly,3166
-El Salvador,2020,3,monthly,2998
-El Salvador,2020,4,monthly,2762
-El Salvador,2020,5,monthly,3284
-El Salvador,2020,6,monthly,6150
-El Salvador,2020,7,monthly,8484
-El Salvador,2020,8,monthly,4971
+El Salvador,2015,1,monthly,4361
+El Salvador,2015,2,monthly,2957
+El Salvador,2015,3,monthly,3078
+El Salvador,2015,4,monthly,3395
+El Salvador,2015,5,monthly,3479
+El Salvador,2015,6,monthly,3843
+El Salvador,2015,7,monthly,4062
+El Salvador,2015,8,monthly,3629
+El Salvador,2015,9,monthly,3757
+El Salvador,2015,10,monthly,3699
+El Salvador,2015,11,monthly,3727
+El Salvador,2015,12,monthly,3080
+El Salvador,2016,1,monthly,4604
+El Salvador,2016,2,monthly,3706
+El Salvador,2016,3,monthly,3470
+El Salvador,2016,4,monthly,3550
+El Salvador,2016,5,monthly,3680
+El Salvador,2016,6,monthly,3412
+El Salvador,2016,7,monthly,3209
+El Salvador,2016,8,monthly,3427
+El Salvador,2016,9,monthly,3210
+El Salvador,2016,10,monthly,3368
+El Salvador,2016,11,monthly,3258
+El Salvador,2016,12,monthly,2565
+El Salvador,2017,1,monthly,4075
+El Salvador,2017,2,monthly,2947
+El Salvador,2017,3,monthly,3466
+El Salvador,2017,4,monthly,2971
+El Salvador,2017,5,monthly,3595
+El Salvador,2017,6,monthly,4144
+El Salvador,2017,7,monthly,4080
+El Salvador,2017,8,monthly,3483
+El Salvador,2017,9,monthly,3157
+El Salvador,2017,10,monthly,3635
+El Salvador,2017,11,monthly,3488
+El Salvador,2017,12,monthly,2669
+El Salvador,2018,1,monthly,4474
+El Salvador,2018,2,monthly,3201
+El Salvador,2018,3,monthly,2723
+El Salvador,2018,4,monthly,3875
+El Salvador,2018,5,monthly,3677
+El Salvador,2018,6,monthly,3447
+El Salvador,2018,7,monthly,4015
+El Salvador,2018,8,monthly,3456
+El Salvador,2018,9,monthly,3235
+El Salvador,2018,10,monthly,3891
+El Salvador,2018,11,monthly,3267
+El Salvador,2018,12,monthly,2303
+El Salvador,2019,1,monthly,4478
+El Salvador,2019,2,monthly,3236
+El Salvador,2019,3,monthly,3564
+El Salvador,2019,4,monthly,3522
+El Salvador,2019,5,monthly,3814
+El Salvador,2019,6,monthly,3477
+El Salvador,2019,7,monthly,4005
+El Salvador,2019,8,monthly,3386
+El Salvador,2019,9,monthly,3729
+El Salvador,2019,10,monthly,4201
+El Salvador,2019,11,monthly,3394
+El Salvador,2019,12,monthly,2505
+El Salvador,2020,1,monthly,4545
+El Salvador,2020,2,monthly,3102
+El Salvador,2020,3,monthly,2610
+El Salvador,2020,4,monthly,1906
+El Salvador,2020,5,monthly,2082
+El Salvador,2020,6,monthly,5930
+El Salvador,2020,7,monthly,8467
+El Salvador,2020,8,monthly,5210
 Estonia,2015,1,weekly,354
 Estonia,2015,2,weekly,340
 Estonia,2015,3,weekly,294
@@ -9912,6 +9927,7 @@ Macao,2020,12,monthly,190
 Macao,2021,1,monthly,211
 Macao,2021,2,monthly,191
 Macao,2021,3,monthly,184
+Macao,2021,4,monthly,173
 Malaysia,2015,1,monthly,14073
 Malaysia,2015,2,monthly,12247
 Malaysia,2015,3,monthly,13397
@@ -10718,8 +10734,10 @@ Mexico,2021,9,weekly,18614
 Mexico,2021,10,weekly,17863
 Mexico,2021,11,weekly,16638
 Mexico,2021,12,weekly,15833
-Mexico,2021,13,weekly,15201
-Mexico,2021,14,weekly,15137
+Mexico,2021,13,weekly,15527
+Mexico,2021,14,weekly,15415
+Mexico,2021,15,weekly,15124
+Mexico,2021,16,weekly,14068
 Moldova,2015,1,monthly,4013
 Moldova,2015,2,monthly,3476
 Moldova,2015,3,monthly,3681
@@ -12819,28 +12837,28 @@ Peru,2020,49,weekly,2799
 Peru,2020,50,weekly,2963
 Peru,2020,51,weekly,3148
 Peru,2020,52,weekly,3252
-Peru,2020,53,weekly,3504
-Peru,2021,1,weekly,3984
-Peru,2021,2,weekly,4638
-Peru,2021,3,weekly,5700
-Peru,2021,4,weekly,6708
-Peru,2021,5,weekly,7020
-Peru,2021,6,weekly,7687
+Peru,2020,53,weekly,3503
+Peru,2021,1,weekly,3986
+Peru,2021,2,weekly,4637
+Peru,2021,3,weekly,5701
+Peru,2021,4,weekly,6707
+Peru,2021,5,weekly,7021
+Peru,2021,6,weekly,7686
 Peru,2021,7,weekly,7716
 Peru,2021,8,weekly,7390
-Peru,2021,9,weekly,7502
-Peru,2021,10,weekly,7381
+Peru,2021,9,weekly,7504
+Peru,2021,10,weekly,7382
 Peru,2021,11,weekly,7430
 Peru,2021,12,weekly,7570
-Peru,2021,13,weekly,7831
-Peru,2021,14,weekly,8312
-Peru,2021,15,weekly,8294
-Peru,2021,16,weekly,8127
-Peru,2021,17,weekly,7605
-Peru,2021,18,weekly,7071
-Peru,2021,19,weekly,6444
-Peru,2021,20,weekly,5937
-Peru,2021,21,weekly,5477
+Peru,2021,13,weekly,7833
+Peru,2021,14,weekly,8313
+Peru,2021,15,weekly,8296
+Peru,2021,16,weekly,8129
+Peru,2021,17,weekly,7600
+Peru,2021,18,weekly,7093
+Peru,2021,19,weekly,6453
+Peru,2021,20,weekly,5951
+Peru,2021,21,weekly,5496
 Philippines,2015,1,monthly,50381
 Philippines,2015,2,monthly,44540
 Philippines,2015,3,monthly,46452
@@ -16113,26 +16131,27 @@ Sweden,2020,49,weekly,2203.7
 Sweden,2020,50,weekly,2173.5
 Sweden,2020,51,weekly,2355.5
 Sweden,2020,52,weekly,2372.5
-Sweden,2020,53,weekly,2432
-Sweden,2021,1,weekly,2367.4
-Sweden,2021,2,weekly,2344.4
-Sweden,2021,3,weekly,2302.4
-Sweden,2021,4,weekly,2126.4
-Sweden,2021,5,weekly,1903.8
-Sweden,2021,6,weekly,1913.8
-Sweden,2021,7,weekly,1889.8
-Sweden,2021,8,weekly,1854.8
-Sweden,2021,9,weekly,1708.7
-Sweden,2021,10,weekly,1851.7
-Sweden,2021,11,weekly,1729.7
-Sweden,2021,12,weekly,1760.7
-Sweden,2021,13,weekly,1710.9
-Sweden,2021,14,weekly,1733.3
-Sweden,2021,15,weekly,1698.3
-Sweden,2021,16,weekly,1723.3
-Sweden,2021,17,weekly,1650.2
-Sweden,2021,18,weekly,1690.6
-Sweden,2021,19,weekly,1638.6
+Sweden,2020,53,weekly,2431.9
+Sweden,2021,1,weekly,2367
+Sweden,2021,2,weekly,2346
+Sweden,2021,3,weekly,2302
+Sweden,2021,4,weekly,2126
+Sweden,2021,5,weekly,1903.2
+Sweden,2021,6,weekly,1914.2
+Sweden,2021,7,weekly,1889.2
+Sweden,2021,8,weekly,1854.2
+Sweden,2021,9,weekly,1708.3
+Sweden,2021,10,weekly,1851.3
+Sweden,2021,11,weekly,1729.3
+Sweden,2021,12,weekly,1761.3
+Sweden,2021,13,weekly,1711.2
+Sweden,2021,14,weekly,1737.4
+Sweden,2021,15,weekly,1697.4
+Sweden,2021,16,weekly,1727.4
+Sweden,2021,17,weekly,1655.5
+Sweden,2021,18,weekly,1706.8
+Sweden,2021,19,weekly,1667.8
+Sweden,2021,20,weekly,1527.8
 Switzerland,2015,1,weekly,1423
 Switzerland,2015,2,weekly,1494
 Switzerland,2015,3,weekly,1524

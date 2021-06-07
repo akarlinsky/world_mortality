@@ -158,9 +158,7 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595
 
 
 ### El Salvador (monthly)
-2015 to 2020: https://www.laprensagrafica.com/lpgdatos/El-pais-registra-6521-defunciones-mas-que-en-2019-20201116-0083.html
-
-Printed counts were taken as-is from the monthly plot. Other counts were digitized from the plot using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/)
 
 
 ### Georgia (monthly)
