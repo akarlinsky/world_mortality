@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 94 countries and territories.   
+We are currently providing data for 95 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -69,6 +69,10 @@ Statistical Committee of the Republic of Armenia:
 2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
 2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
 2020: https://www.armstat.am/file/article/sv_12_20r_520.pdf 
+
+
+### Aruba (monthly)
+Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://cbs.aw/wp/index.php/2020/12/17/quarterly-demographic-bulletin-2019-2/
 
 
 ### Azerbaijan (monthly)
