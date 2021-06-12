@@ -1029,26 +1029,26 @@ India,Chennai City,2020,49,1473,weekly
 India,Chennai City,2020,50,1541,weekly
 India,Chennai City,2020,51,1585,weekly
 India,Chennai City,2020,52,1537,weekly
-India,Chennai City,2020,53,1432,weekly
-India,Chennai City,2021,1,1423,weekly
-India,Chennai City,2021,2,1377,weekly
-India,Chennai City,2021,3,1422,weekly
-India,Chennai City,2021,4,1354,weekly
-India,Chennai City,2021,5,1319,weekly
-India,Chennai City,2021,6,1314,weekly
-India,Chennai City,2021,7,1323,weekly
-India,Chennai City,2021,8,1268,weekly
-India,Chennai City,2021,9,1301,weekly
-India,Chennai City,2021,10,1265,weekly
-India,Chennai City,2021,11,1266,weekly
-India,Chennai City,2021,12,1320,weekly
-India,Chennai City,2021,13,1502,weekly
-India,Chennai City,2021,14,1476,weekly
-India,Chennai City,2021,15,1785,weekly
-India,Chennai City,2021,16,2392,weekly
-India,Chennai City,2021,17,3198,weekly
-India,Chennai City,2021,18,3882,weekly
-India,Chennai City,2021,19,3295,weekly
+India,Chennai City,2020,53,1436,weekly
+India,Chennai City,2021,1,1425,weekly
+India,Chennai City,2021,2,1379,weekly
+India,Chennai City,2021,3,1424,weekly
+India,Chennai City,2021,4,1355,weekly
+India,Chennai City,2021,5,1323,weekly
+India,Chennai City,2021,6,1317,weekly
+India,Chennai City,2021,7,1325,weekly
+India,Chennai City,2021,8,1272,weekly
+India,Chennai City,2021,9,1303,weekly
+India,Chennai City,2021,10,1267,weekly
+India,Chennai City,2021,11,1269,weekly
+India,Chennai City,2021,12,1326,weekly
+India,Chennai City,2021,13,1521,weekly
+India,Chennai City,2021,14,1490,weekly
+India,Chennai City,2021,15,1823,weekly
+India,Chennai City,2021,16,2458,weekly
+India,Chennai City,2021,17,3320,weekly
+India,Chennai City,2021,18,4268,weekly
+India,Chennai City,2021,19,4089,weekly
 India,Kolkata City,2015,1,1572,weekly
 India,Kolkata City,2015,2,1333,weekly
 India,Kolkata City,2015,3,1407,weekly
@@ -1491,6 +1491,47 @@ India,Ahmedabad City,2020,4,3558,monthly
 India,Ahmedabad City,2019,4,2784,monthly
 India,Ahmedabad City,2020,5,7150,monthly
 India,Ahmedabad City,2019,5,2706,monthly
+India,Madhya Pradesh State,2020,1,41281,monthly
+India,Madhya Pradesh State,2021,1,44133,monthly
+India,Madhya Pradesh State,2019,1,39528,monthly
+India,Madhya Pradesh State,2018,1,34451,monthly
+India,Madhya Pradesh State,2020,2,34645,monthly
+India,Madhya Pradesh State,2021,2,36535,monthly
+India,Madhya Pradesh State,2019,2,36005,monthly
+India,Madhya Pradesh State,2018,2,29986,monthly
+India,Madhya Pradesh State,2020,3,29747,monthly
+India,Madhya Pradesh State,2021,3,34667,monthly
+India,Madhya Pradesh State,2019,3,32911,monthly
+India,Madhya Pradesh State,2018,3,28504,monthly
+India,Madhya Pradesh State,2020,4,24198,monthly
+India,Madhya Pradesh State,2021,4,68535,monthly
+India,Madhya Pradesh State,2019,4,28599,monthly
+India,Madhya Pradesh State,2018,4,26949,monthly
+India,Madhya Pradesh State,2020,5,34320,monthly
+India,Madhya Pradesh State,2021,5,164838,monthly
+India,Madhya Pradesh State,2019,5,30506,monthly
+India,Madhya Pradesh State,2018,5,32456,monthly
+India,Madhya Pradesh State,2020,6,37399,monthly
+India,Madhya Pradesh State,2019,6,38978,monthly
+India,Madhya Pradesh State,2018,6,33818,monthly
+India,Madhya Pradesh State,2020,7,41303,monthly
+India,Madhya Pradesh State,2019,7,38922,monthly
+India,Madhya Pradesh State,2018,7,36523,monthly
+India,Madhya Pradesh State,2020,8,40213,monthly
+India,Madhya Pradesh State,2019,8,44151,monthly
+India,Madhya Pradesh State,2018,8,38230,monthly
+India,Madhya Pradesh State,2020,9,47315,monthly
+India,Madhya Pradesh State,2019,9,43517,monthly
+India,Madhya Pradesh State,2018,9,40180,monthly
+India,Madhya Pradesh State,2020,10,45208,monthly
+India,Madhya Pradesh State,2019,10,37953,monthly
+India,Madhya Pradesh State,2018,10,37766,monthly
+India,Madhya Pradesh State,2020,11,40283,monthly
+India,Madhya Pradesh State,2019,11,39124,monthly
+India,Madhya Pradesh State,2018,11,30349,monthly
+India,Madhya Pradesh State,2020,12,45145,monthly
+India,Madhya Pradesh State,2019,12,39625,monthly
+India,Madhya Pradesh State,2018,12,37960,monthly
 Indonesia,Jakarta Province,2020,1,6262,monthly
 Indonesia,Jakarta Province,2021,1,9095,monthly
 Indonesia,Jakarta Province,2019,1,4997,monthly

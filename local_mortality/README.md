@@ -5,7 +5,7 @@ Local is any sub-national unit - whether state, province, region, city etc.
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 17 Local Units from 10 Countries.   
+We are currently providing data for 18 Local Units from 10 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -56,6 +56,12 @@ https://www.reuters.com/article/us-health-coronavirus-india-casualties-idUSKBN24
 Daily Registered Deaths in Chennai: https://github.com/elseasama/covid19chennai/tree/gh-pages/chennai_data, a scrape of [Chennai Municipal Corporation data](https://chennaicorporation.gov.in/gcc/online-services/death-certificate/).
 
 Information from [Rukmini S](https://twitter.com/Rukmini).
+
+### Madhya Pradesh State
+Madhya Pradesh Civil Registration System, as reported in: https://scroll.in/article/996772/madhya-pradesh-saw-nearly-three-times-more-deaths-than-normal-after-second-wave-of-covid-19-struck
+
+Information from [Rukmini S](https://twitter.com/Rukmini).
+
 
 ### Mumbai City
 https://www.indiaspend.com/how-india-could-fill-in-the-blanks-on-excess-mortality/
