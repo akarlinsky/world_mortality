@@ -37,8 +37,8 @@ We do not use Taiwan data from STMF because the monthly data (see below) is more
 
 United States data from 2017 onward are replaced with CDC 'predictions' that account for underreporting in recent weeks (see below).
 
-For some European countries, STMF sometimes has more up-to-date (and backward revised) data than Eurostat, as it culls data from countries' NSOs. 
-For each data point that exists in both datasets, we take the maximum between them as the final data.
+For some European countries, STMF sometimes has more up-to-date (and backward revised) data than EuroStat, as it culls data from countries' NSOs. 
+We harmonize the data between these two sources by defaulting to STMF wherever possible, and appending additional from Eurostat if available. 
 
 \* Australia's data (all years) is "Doctor Certified Deaths" rather than "All Registered Deaths". These constitute about 85%-90% of all deaths in Australia. 
 
