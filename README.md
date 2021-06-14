@@ -329,9 +329,9 @@ In order to account for this, all 2019 monthly data was increased by the mean mo
 ### Panama (monthly)
 2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a591&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 
-2019 to 2020: Email correspondence with [Registro Civil - Tribunal Electoral](https://www.tribunal-electoral.gob.pa/registro-civil-reinicia-tramites/).
+2019 onward: Email correspondence with [Registro Civil - Tribunal Electoral](https://www.tribunal-electoral.gob.pa/registro-civil-reinicia-tramites/).
 
-Only 69 deaths were recorded in April 2020, this is probably due to disruption in the registry offices, similiary to Bolivia. 
+Only 69 deaths were recorded in April 2020, this is probably due to disruption in the registry offices.
 
 
 ### Paraguay (monthly)
