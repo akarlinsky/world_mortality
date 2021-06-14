@@ -52,10 +52,21 @@ https://www.bmj.com/content/372/bmj.n415
 ### Ahmedabad City
 https://www.reuters.com/article/us-health-coronavirus-india-casualties-idUSKBN24311A
 
+### Andhra Pradesh State
+Andhra Pradesh Civil Registration System, as reported in: https://scroll.in/article/997427/andhra-pradesh-saw-400-increase-in-deaths-in-may-tamil-nadu-saw-more-modest-excess-mortality
+
+Information from [Rukmini S](https://twitter.com/Rukmini).
+
 ### Chennai City
 Daily Registered Deaths in Chennai: https://github.com/elseasama/covid19chennai/tree/gh-pages/chennai_data, a scrape of [Chennai Municipal Corporation data](https://chennaicorporation.gov.in/gcc/online-services/death-certificate/).
 
 Information from [Rukmini S](https://twitter.com/Rukmini).
+
+### Greater Hyderabad
+Greater Hyderabad Municipal Corporation death certificates,
+As reported in: https://www.thehindu.com/news/cities/Hyderabad/excess-deaths-in-hyderabad-are-10-times-the-official-covid-19-toll-for-telangana/article34807214.ece
+
+Information from Srinivasan Ramani and Vignesh Radhakrishnan.
 
 ### Madhya Pradesh State
 Madhya Pradesh Civil Registration System, as reported in: https://scroll.in/article/996772/madhya-pradesh-saw-nearly-three-times-more-deaths-than-normal-after-second-wave-of-covid-19-struck

@@ -34,6 +34,12 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 2019-2020: https://www.thehindu.com/news/national/karnataka/32-increase-in-mortality-rate-in-bengaluru-patil/article32509298.ece
 
 
+### Tamil Nadu State, India
+2018-2021: https://scroll.in/article/997427/andhra-pradesh-saw-400-increase-in-deaths-in-may-tamil-nadu-saw-more-modest-excess-mortality
+
+Information from [Rukmini S](https://twitter.com/Rukmini).
+
+
 ### Republika Srpska (Quarterly)
 One of Bosnia & Herzegovina two autonomous entities.
 
