@@ -57,6 +57,13 @@ Andhra Pradesh Civil Registration System, as reported in: https://scroll.in/arti
 
 Information from [Rukmini S](https://twitter.com/Rukmini).
 
+
+### Assam State
+Assam Civil Registration System, as reported in: https://scroll.in/article/997683/assam-saw-28000-more-deaths-than-normal-in-months-when-first-wave-of-covid-19-struck
+
+Information from [Arunabh Saikia](https://twitter.com/psychia90).
+
+
 ### Chennai City
 Daily Registered Deaths in Chennai: https://github.com/elseasama/covid19chennai/tree/gh-pages/chennai_data, a scrape of [Chennai Municipal Corporation data](https://chennaicorporation.gov.in/gcc/online-services/death-certificate/).
 
@@ -89,6 +96,11 @@ https://timesofindia.indiatimes.com/city/nagpur/hidden-toll-over-1300-more-death
 
 ### Kolkata City
 https://github.com/thejeshgn/KMCDeathRecords
+
+### Tamil Nadu State
+Tamil Nadu Civil Registration System, as reported in: https://www.thehindu.com/news/national/tamil-nadu/excess-deaths-in-tamil-nadu-over-four-times-official-covid-19-tally/article34834150.ece?homepage=true
+
+Information from Srinivasan Ramani and Vignesh Radhakrishnan.
 
 
 ## Indonesia

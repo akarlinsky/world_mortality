@@ -1042,13 +1042,13 @@ India,Chennai City,2021,9,1303,weekly
 India,Chennai City,2021,10,1270,weekly
 India,Chennai City,2021,11,1272,weekly
 India,Chennai City,2021,12,1326,weekly
-India,Chennai City,2021,13,1523,weekly
-India,Chennai City,2021,14,1502,weekly
-India,Chennai City,2021,15,1846,weekly
-India,Chennai City,2021,16,2491,weekly
-India,Chennai City,2021,17,3441,weekly
-India,Chennai City,2021,18,4348,weekly
-India,Chennai City,2021,19,4382,weekly
+India,Chennai City,2021,13,1522,weekly
+India,Chennai City,2021,14,1512,weekly
+India,Chennai City,2021,15,1856,weekly
+India,Chennai City,2021,16,2511,weekly
+India,Chennai City,2021,17,3478,weekly
+India,Chennai City,2021,18,4434,weekly
+India,Chennai City,2021,19,4548,weekly
 India,Kolkata City,2015,1,1572,weekly
 India,Kolkata City,2015,2,1333,weekly
 India,Kolkata City,2015,3,1407,weekly
@@ -1381,6 +1381,8 @@ India,Kolkata City,2021,15,1566,weekly
 India,Kolkata City,2021,16,2395,weekly
 India,Kolkata City,2021,17,3209,weekly
 India,Kolkata City,2021,18,3384,weekly
+India,Kolkata City,2021,19,2868,weekly
+India,Kolkata City,2021,20,2781,weekly
 Argentina,Buenos Aires Province,2020,1,9646,monthly
 Argentina,Buenos Aires Province,0,1,10023,monthly
 Argentina,Buenos Aires Province,2020,2,9083,monthly
@@ -1638,6 +1640,83 @@ India,Hyderabad,2019,12,5689,monthly
 India,Hyderabad,2018,12,4952,monthly
 India,Hyderabad,2017,12,4603,monthly
 India,Hyderabad,2016,12,4121,monthly
+India,Assam State,2020,1,18556,monthly
+India,Assam State,2019,1,15680,monthly
+India,Assam State,2018,1,12204,monthly
+India,Assam State,2020,2,17971,monthly
+India,Assam State,2019,2,14806,monthly
+India,Assam State,2018,2,12193,monthly
+India,Assam State,2020,3,16975,monthly
+India,Assam State,2019,3,14266,monthly
+India,Assam State,2018,3,12155,monthly
+India,Assam State,2020,4,9003,monthly
+India,Assam State,2019,4,13147,monthly
+India,Assam State,2018,4,11826,monthly
+India,Assam State,2020,5,8655,monthly
+India,Assam State,2019,5,12169,monthly
+India,Assam State,2018,5,11761,monthly
+India,Assam State,2020,6,8305,monthly
+India,Assam State,2019,6,11303,monthly
+India,Assam State,2018,6,11656,monthly
+India,Assam State,2020,7,9118,monthly
+India,Assam State,2019,7,11065,monthly
+India,Assam State,2018,7,11456,monthly
+India,Assam State,2020,8,16887,monthly
+India,Assam State,2019,8,10925,monthly
+India,Assam State,2018,8,11378,monthly
+India,Assam State,2020,9,18364,monthly
+India,Assam State,2019,9,13177,monthly
+India,Assam State,2018,9,11593,monthly
+India,Assam State,2020,10,20814,monthly
+India,Assam State,2019,10,14117,monthly
+India,Assam State,2018,10,11755,monthly
+India,Assam State,2020,11,21780,monthly
+India,Assam State,2019,11,15700,monthly
+India,Assam State,2018,11,11515,monthly
+India,Assam State,2020,12,20657,monthly
+India,Assam State,2019,12,16702,monthly
+India,Assam State,2018,12,13113,monthly
+India,Tamil Nadu State,2020,1,58132,monthly
+India,Tamil Nadu State,2021,1,62273,monthly
+India,Tamil Nadu State,2019,1,58405,monthly
+India,Tamil Nadu State,2018,1,55390,monthly
+India,Tamil Nadu State,2020,2,48893,monthly
+India,Tamil Nadu State,2021,2,52845,monthly
+India,Tamil Nadu State,2019,2,46560,monthly
+India,Tamil Nadu State,2018,2,47231,monthly
+India,Tamil Nadu State,2020,3,45987,monthly
+India,Tamil Nadu State,2021,3,50959,monthly
+India,Tamil Nadu State,2019,3,47772,monthly
+India,Tamil Nadu State,2018,3,46703,monthly
+India,Tamil Nadu State,2020,4,41482,monthly
+India,Tamil Nadu State,2021,4,58775,monthly
+India,Tamil Nadu State,2019,4,45913,monthly
+India,Tamil Nadu State,2018,4,43586,monthly
+India,Tamil Nadu State,2020,5,50834,monthly
+India,Tamil Nadu State,2021,5,93573,monthly
+India,Tamil Nadu State,2019,5,51639,monthly
+India,Tamil Nadu State,2018,5,43928,monthly
+India,Tamil Nadu State,2020,6,50687,monthly
+India,Tamil Nadu State,2019,6,48868,monthly
+India,Tamil Nadu State,2018,6,43222,monthly
+India,Tamil Nadu State,2020,7,60052,monthly
+India,Tamil Nadu State,2019,7,45762,monthly
+India,Tamil Nadu State,2018,7,42633,monthly
+India,Tamil Nadu State,2020,8,70033,monthly
+India,Tamil Nadu State,2019,8,47385,monthly
+India,Tamil Nadu State,2018,8,41051,monthly
+India,Tamil Nadu State,2020,9,65447,monthly
+India,Tamil Nadu State,2019,9,48621,monthly
+India,Tamil Nadu State,2018,9,40484,monthly
+India,Tamil Nadu State,2020,10,60096,monthly
+India,Tamil Nadu State,2019,10,53028,monthly
+India,Tamil Nadu State,2018,10,46337,monthly
+India,Tamil Nadu State,2020,11,52231,monthly
+India,Tamil Nadu State,2019,11,55658,monthly
+India,Tamil Nadu State,2018,11,51602,monthly
+India,Tamil Nadu State,2020,12,40417,monthly
+India,Tamil Nadu State,2019,12,38610,monthly
+India,Tamil Nadu State,2018,12,34025,monthly
 Indonesia,Jakarta Province,2020,1,6262,monthly
 Indonesia,Jakarta Province,2021,1,9095,monthly
 Indonesia,Jakarta Province,2019,1,4997,monthly
