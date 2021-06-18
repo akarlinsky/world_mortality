@@ -35,10 +35,7 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 
 
 ### Tamil Nadu State, India
-2018-2021: https://scroll.in/article/997427/andhra-pradesh-saw-400-increase-in-deaths-in-may-tamil-nadu-saw-more-modest-excess-mortality
-
-Information from [Rukmini S](https://twitter.com/Rukmini).
-
+Removed from Preliminary Mortality, now available on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) by month. 
 
 ### Republika Srpska (Quarterly)
 One of Bosnia & Herzegovina two autonomous entities.
