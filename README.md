@@ -50,7 +50,7 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 ### Albania (monthly)
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2015, 2019 to 2021: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
+2015, 2019 onward: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
 
 
 ### Andorra (monthly)
@@ -69,7 +69,7 @@ Statistical Committee of the Republic of Armenia:
 2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
 2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
 2020: https://www.armstat.am/file/article/sv_12_20r_520.pdf 
-
+2021: https://www.armstat.am/file/article/sv_04_21r_510.pdf
 
 ### Aruba (monthly)
 Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://cbs.aw/wp/index.php/2020/12/17/quarterly-demographic-bulletin-2019-2/
@@ -192,7 +192,7 @@ RENAP information was obtained as daily deaths from January 1st 2020 to December
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094    
-2019 to 2021: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
+2019 onward: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
 On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month of occurrence rather than month of registration, via an email correspondence with [Hong Kong Census and Statistics Department](http://censtatd.gov.hk/). 
 
@@ -226,7 +226,7 @@ Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/file
 Kazakhstan Bureau of National Statistics 
 2015 to 2018: Monthly Socio-Economic Development of the Republic of Kazakhstan:  https://stat.gov.kz/edition/publication/month?lang=en  
 
-2019 to 2020: https://stat.gov.kz/official/industry/61/statistic/7
+2019 onward: https://stat.gov.kz/official/industry/61/statistic/7
 
 Direct link to Excel file: https://stat.gov.kz/api/getFile/?docId=ESTAT334793
 
@@ -236,12 +236,12 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 
 
 ### Kosovo (monthly)
-2015 - 2021: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q1-2021
+2015 onward: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q1-2021
 
 
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
-2019 onwards: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: http://www.stat.kg/kg/statistics/naselenie/ 
+2019 onward: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: http://www.stat.kg/kg/statistics/naselenie/ 
 
 
 ### Liechtenstein (monthly)
@@ -251,7 +251,7 @@ Liechtenstein Office for Statistics: https://www.llv.li/inhalt/118804/amtsstelle
 ### Macao (monthly)
 2015 - 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:446&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: Macao Special Administrative Region Statistics and Census Service Monthly Bulletin: https://www.dsec.gov.mo/en-US/Home/Publication/MonthlyBulletinOfStatistics
+2020 onward: Macao Special Administrative Region Statistics and Census Service Monthly Bulletin: https://www.dsec.gov.mo/en-US/Home/Publication/MonthlyBulletinOfStatistics
 
 
 ### Malaysia (monthly)
@@ -290,7 +290,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 ### Monaco (monthly)
 2015 to 2019: Email correspondence with [Monegasque Institute of Statistics and Economic Studies (IMSEE)](https://www.imsee.mc/).
 
-2020 to 2021: https://www.imsee.mc/Publications/Rapports-COVID-19 digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+2020 onward: https://www.imsee.mc/Publications/Rapports-COVID-19 digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
 
 ### Mongolia (monthly)
@@ -302,7 +302,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 ### North Macedonia (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=831
+2020 onward: North Macedonia State Statistical Office Monthly Bulletin: https://www.stat.gov.mk/PrikaziPublikacija_1_en.aspx?rbr=831
 
 
 ### Nicaragua (monthly)
@@ -320,7 +320,7 @@ To obtain mortality counts for July and August, we used the MAPASALUD January-Au
 Oman National Center for Statistics and Information
 2015 to 2018: Deaths and Births Statistical Bulletin: https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=L61grnjbbbpxeUKErBemkg%3d%3d
 
-2019 to 2020: Monthly Bulletin: https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=MgTlAFqddgBeormy3YBZDg%3d%3d
+2019 onward: Monthly Bulletin: https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=MgTlAFqddgBeormy3YBZDg%3d%3d
 
 Note: 2019 monthly death counts was smaller at 1020 deaths than total yearly mortality count (Shown in the January 2021 Monthly Bulletin). 
 In order to account for this, all 2019 monthly data was increased by the mean monthly difference of 85. Final official monthly data for 2019 should be available by November 2021. 
@@ -335,11 +335,11 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 
 ### Paraguay (monthly)
-2015 to 2021: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php
+2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php
 
 
 ### Peru (weekly)
-Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
+2017 onward: Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
 
 Peru provides daily death counts. We summed them up to form weekly death counts.
 
@@ -351,7 +351,7 @@ Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
 ### Qatar (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:634&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: Qatar Planning and Statistics Authority Monthly Statistics: https://www.psa.gov.qa/en/statistics1/pages/topicslisting.aspx?parent=General&child=QMS
+2020 onward: Qatar Planning and Statistics Authority Monthly Statistics: https://www.psa.gov.qa/en/statistics1/pages/topicslisting.aspx?parent=General&child=QMS
 
 
 ### Russia (monthly)
@@ -443,7 +443,7 @@ https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
 ### Ukraine (monthly)
 2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a804&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-2020: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/  
+2020 onward: State Statistics Office of Ukraine: http://www.ukrstat.gov.ua/  
 Access by: Statistical Information -> Population and migration -> Number of live births, deaths, by region
 
 2019 data can be found following links from: http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
