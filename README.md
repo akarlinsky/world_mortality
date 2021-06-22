@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 95 countries and territories.   
+We are currently providing data for 100 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -46,6 +46,9 @@ We harmonize the data between these two sources by defaulting to STMF wherever p
 ### Eurostat
 We collect the weekly data from Eurostat for the following countries: Cyprus, Malta, Montenegro, Romania: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts/default/table?lang=en
 
+Additionally, we collect weekly data from EuroStat for the five French Overseas Departments:
+French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk2_ts
+
 
 ### Albania (monthly)
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -68,7 +71,7 @@ Statistical Committee of the Republic of Armenia:
 2017: https://www.armstat.am/file/article/sv_12_17r_520.pdf  
 2018: https://www.armstat.am/file/article/sv_12_18r_520.pdf  
 2019: https://www.armstat.am/file/article/sv_12_19r_520.pdf  
-2020: https://www.armstat.am/file/article/sv_12_20r_520.pdf 
+2020: https://www.armstat.am/file/article/sv_12_20r_520.pdf   
 2021: https://www.armstat.am/file/article/sv_04_21r_510.pdf
 
 ### Aruba (monthly)

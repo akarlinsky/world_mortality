@@ -59,10 +59,10 @@ Total monthly counts for Bosnia & Herzegovina are available at [World Mortality]
 2020 - 2021: [Güçlü Yaman](https://twitter.com/GucluYaman)'s [collection of all-cause-mortality from 24 cities in Turkey](https://github.com/gucluyaman/Excess-mortality-in-Turkey) which cover about 50% of deaths in Turkey in ordinary times. Monthly total from these cities in 2020-2021 were projected to the entirety of Turkey using the monthly ratios between deaths in 2019 (ranges from 49.2% to 51.7%). 
 
 ### Kuwait (Annual)
-[Alahmad, AlMekhled, Odeh & Gasana (2021)](https://www.medrxiv.org/content/10.1101/2021.03.25.21254360v1.full.pdf), obtained from Kuwait
-Public Authority for Civil Information.
+[Alahmad, AlMekhled, Odeh & Gasana (2021)](https://www.medrxiv.org/content/10.1101/2021.03.25.21254360v1.full.pdf), obtained from Kuwait Public Authority for Civil Information.
 
 ### Kosovo (Monthly)
 2021: Kosovo Agency of Statistics (ASK): [Monthly Bulletin of Vital Statistics](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/statistikat-e-lindjeve-vdekjeve-kurorezimeve-dhe-shurorezimeve-mars-2021).
 
-The monthly bulletin of vital statistics is consistent with the quarterly bulletin which contains information from 2015 in [World Mortality](https://github.com/akarlinsky/world_mortality). For now, we are separating these two offical counts to avoid consistency issues.
+The monthly bulletin of vital statistics is inconsistent with the quarterly bulletin which contains information from 2015 in [World Mortality](https://github.com/akarlinsky/world_mortality). 
+For now, we are separating these two official counts to avoid consistency issues.

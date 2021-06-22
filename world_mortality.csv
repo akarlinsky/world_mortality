@@ -1644,13 +1644,13 @@ Brazil,2020,7,monthly,147109
 Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
-Brazil,2020,11,monthly,123074.2
-Brazil,2020,12,monthly,139685.9
-Brazil,2021,1,monthly,145613.9
-Brazil,2021,2,monthly,133951.6
-Brazil,2021,3,monthly,202723.9
-Brazil,2021,4,monthly,200777.3
-Brazil,2021,5,monthly,174575.9
+Brazil,2020,11,monthly,123072.5
+Brazil,2020,12,monthly,139685
+Brazil,2021,1,monthly,145620.5
+Brazil,2021,2,monthly,133955.2
+Brazil,2021,3,monthly,202750.1
+Brazil,2021,4,monthly,200813.2
+Brazil,2021,5,monthly,174632.6
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -4064,6 +4064,7 @@ Czechia,2021,15,weekly,2602
 Czechia,2021,16,weekly,2479
 Czechia,2021,17,weekly,2434
 Czechia,2021,18,weekly,2170
+Czechia,2021,19,weekly,2205
 Denmark,2015,1,weekly,1127
 Denmark,2015,2,weekly,1108
 Denmark,2015,3,weekly,1093
@@ -4664,79 +4665,80 @@ Ecuador,2019,51,weekly,1359
 Ecuador,2019,52,weekly,1127
 Ecuador,2020,1,weekly,1366
 Ecuador,2020,2,weekly,1564
-Ecuador,2020,3,weekly,1512
+Ecuador,2020,3,weekly,1513
 Ecuador,2020,4,weekly,1458
 Ecuador,2020,5,weekly,1358
 Ecuador,2020,6,weekly,1423
 Ecuador,2020,7,weekly,1503
 Ecuador,2020,8,weekly,1473
 Ecuador,2020,9,weekly,1534
-Ecuador,2020,10,weekly,1435
-Ecuador,2020,11,weekly,1465
-Ecuador,2020,12,weekly,1503
+Ecuador,2020,10,weekly,1436
+Ecuador,2020,11,weekly,1464
+Ecuador,2020,12,weekly,1504
 Ecuador,2020,13,weekly,3728
 Ecuador,2020,14,weekly,7154
-Ecuador,2020,15,weekly,6344
-Ecuador,2020,16,weekly,4417
-Ecuador,2020,17,weekly,3439
+Ecuador,2020,15,weekly,6345
+Ecuador,2020,16,weekly,4418
+Ecuador,2020,17,weekly,3440
 Ecuador,2020,18,weekly,2791
-Ecuador,2020,19,weekly,2576
+Ecuador,2020,19,weekly,2579
 Ecuador,2020,20,weekly,2290
 Ecuador,2020,21,weekly,2123
-Ecuador,2020,22,weekly,2093
+Ecuador,2020,22,weekly,2092
 Ecuador,2020,23,weekly,2067
-Ecuador,2020,24,weekly,2163
-Ecuador,2020,25,weekly,2120
+Ecuador,2020,24,weekly,2162
+Ecuador,2020,25,weekly,2121
 Ecuador,2020,26,weekly,2125
 Ecuador,2020,27,weekly,2224
-Ecuador,2020,28,weekly,2418
+Ecuador,2020,28,weekly,2417
 Ecuador,2020,29,weekly,2523
-Ecuador,2020,30,weekly,2546
+Ecuador,2020,30,weekly,2547
 Ecuador,2020,31,weekly,2529
 Ecuador,2020,32,weekly,2463
 Ecuador,2020,33,weekly,2361
 Ecuador,2020,34,weekly,2185
-Ecuador,2020,35,weekly,2066
-Ecuador,2020,36,weekly,2057
+Ecuador,2020,35,weekly,2068
+Ecuador,2020,36,weekly,2056
 Ecuador,2020,37,weekly,1934
-Ecuador,2020,38,weekly,1868
+Ecuador,2020,38,weekly,1870
 Ecuador,2020,39,weekly,1765
 Ecuador,2020,40,weekly,1688
-Ecuador,2020,41,weekly,1809
+Ecuador,2020,41,weekly,1811
 Ecuador,2020,42,weekly,1704
 Ecuador,2020,43,weekly,1750
 Ecuador,2020,44,weekly,1672
 Ecuador,2020,45,weekly,1660
-Ecuador,2020,46,weekly,1749
+Ecuador,2020,46,weekly,1750
 Ecuador,2020,47,weekly,1800
-Ecuador,2020,48,weekly,1700
+Ecuador,2020,48,weekly,1702
 Ecuador,2020,49,weekly,1781
 Ecuador,2020,50,weekly,1650
 Ecuador,2020,51,weekly,1764
 Ecuador,2020,52,weekly,1768
 Ecuador,2020,53,weekly,1896
-Ecuador,2021,1,weekly,1994
-Ecuador,2021,2,weekly,2184
+Ecuador,2021,1,weekly,1993
+Ecuador,2021,2,weekly,2185
 Ecuador,2021,3,weekly,2318
-Ecuador,2021,4,weekly,2180
+Ecuador,2021,4,weekly,2181
 Ecuador,2021,5,weekly,2214
 Ecuador,2021,6,weekly,2194
 Ecuador,2021,7,weekly,2233
 Ecuador,2021,8,weekly,2261
 Ecuador,2021,9,weekly,2198
 Ecuador,2021,10,weekly,2388
-Ecuador,2021,11,weekly,2602
-Ecuador,2021,12,weekly,2670
-Ecuador,2021,13,weekly,2811
-Ecuador,2021,14,weekly,3000
-Ecuador,2021,15,weekly,3093
-Ecuador,2021,16,weekly,3218
-Ecuador,2021,17,weekly,3041
-Ecuador,2021,18,weekly,2862
-Ecuador,2021,19,weekly,2534
-Ecuador,2021,20,weekly,2323
-Ecuador,2021,21,weekly,2116
-Ecuador,2021,22,weekly,1886
+Ecuador,2021,11,weekly,2604
+Ecuador,2021,12,weekly,2673
+Ecuador,2021,13,weekly,2814
+Ecuador,2021,14,weekly,3003
+Ecuador,2021,15,weekly,3094
+Ecuador,2021,16,weekly,3222
+Ecuador,2021,17,weekly,3043
+Ecuador,2021,18,weekly,2869
+Ecuador,2021,19,weekly,2537
+Ecuador,2021,20,weekly,2334
+Ecuador,2021,21,weekly,2137
+Ecuador,2021,22,weekly,1918
+Ecuador,2021,23,weekly,1865
 Egypt,2015,1,monthly,59713
 Egypt,2015,2,monthly,47678
 Egypt,2015,3,monthly,46524
@@ -5547,6 +5549,7 @@ Finland,2021,18,weekly,1048
 Finland,2021,19,weekly,1088
 Finland,2021,20,weekly,976
 Finland,2021,21,weekly,910
+Finland,2021,22,weekly,949
 France,2015,1,weekly,12804
 France,2015,2,weekly,13142
 France,2015,3,weekly,12803
@@ -5883,6 +5886,342 @@ France,2021,19,weekly,11176
 France,2021,20,weekly,10350
 France,2021,21,weekly,11045
 France,2021,22,weekly,10198
+French Guiana,2015,1,weekly,14
+French Guiana,2015,2,weekly,17
+French Guiana,2015,3,weekly,18
+French Guiana,2015,4,weekly,26
+French Guiana,2015,5,weekly,14
+French Guiana,2015,6,weekly,17
+French Guiana,2015,7,weekly,11
+French Guiana,2015,8,weekly,17
+French Guiana,2015,9,weekly,12
+French Guiana,2015,10,weekly,12
+French Guiana,2015,11,weekly,15
+French Guiana,2015,12,weekly,11
+French Guiana,2015,13,weekly,10
+French Guiana,2015,14,weekly,21
+French Guiana,2015,15,weekly,19
+French Guiana,2015,16,weekly,20
+French Guiana,2015,17,weekly,17
+French Guiana,2015,18,weekly,18
+French Guiana,2015,19,weekly,10
+French Guiana,2015,20,weekly,15
+French Guiana,2015,21,weekly,18
+French Guiana,2015,22,weekly,10
+French Guiana,2015,23,weekly,13
+French Guiana,2015,24,weekly,11
+French Guiana,2015,25,weekly,9
+French Guiana,2015,26,weekly,15
+French Guiana,2015,27,weekly,21
+French Guiana,2015,28,weekly,20
+French Guiana,2015,29,weekly,12
+French Guiana,2015,30,weekly,16
+French Guiana,2015,31,weekly,17
+French Guiana,2015,32,weekly,22
+French Guiana,2015,33,weekly,21
+French Guiana,2015,34,weekly,12
+French Guiana,2015,35,weekly,9
+French Guiana,2015,36,weekly,19
+French Guiana,2015,37,weekly,20
+French Guiana,2015,38,weekly,6
+French Guiana,2015,39,weekly,19
+French Guiana,2015,40,weekly,14
+French Guiana,2015,41,weekly,12
+French Guiana,2015,42,weekly,11
+French Guiana,2015,43,weekly,12
+French Guiana,2015,44,weekly,15
+French Guiana,2015,45,weekly,18
+French Guiana,2015,46,weekly,16
+French Guiana,2015,47,weekly,14
+French Guiana,2015,48,weekly,20
+French Guiana,2015,49,weekly,15
+French Guiana,2015,50,weekly,17
+French Guiana,2015,51,weekly,16
+French Guiana,2015,52,weekly,15
+French Guiana,2015,53,weekly,13
+French Guiana,2016,1,weekly,18
+French Guiana,2016,2,weekly,18
+French Guiana,2016,3,weekly,14
+French Guiana,2016,4,weekly,21
+French Guiana,2016,5,weekly,9
+French Guiana,2016,6,weekly,11
+French Guiana,2016,7,weekly,13
+French Guiana,2016,8,weekly,6
+French Guiana,2016,9,weekly,10
+French Guiana,2016,10,weekly,15
+French Guiana,2016,11,weekly,7
+French Guiana,2016,12,weekly,12
+French Guiana,2016,13,weekly,12
+French Guiana,2016,14,weekly,12
+French Guiana,2016,15,weekly,18
+French Guiana,2016,16,weekly,22
+French Guiana,2016,17,weekly,22
+French Guiana,2016,18,weekly,20
+French Guiana,2016,19,weekly,14
+French Guiana,2016,20,weekly,9
+French Guiana,2016,21,weekly,23
+French Guiana,2016,22,weekly,24
+French Guiana,2016,23,weekly,20
+French Guiana,2016,24,weekly,14
+French Guiana,2016,25,weekly,20
+French Guiana,2016,26,weekly,19
+French Guiana,2016,27,weekly,19
+French Guiana,2016,28,weekly,17
+French Guiana,2016,29,weekly,25
+French Guiana,2016,30,weekly,16
+French Guiana,2016,31,weekly,20
+French Guiana,2016,32,weekly,15
+French Guiana,2016,33,weekly,20
+French Guiana,2016,34,weekly,20
+French Guiana,2016,35,weekly,19
+French Guiana,2016,36,weekly,10
+French Guiana,2016,37,weekly,20
+French Guiana,2016,38,weekly,31
+French Guiana,2016,39,weekly,17
+French Guiana,2016,40,weekly,21
+French Guiana,2016,41,weekly,11
+French Guiana,2016,42,weekly,14
+French Guiana,2016,43,weekly,25
+French Guiana,2016,44,weekly,13
+French Guiana,2016,45,weekly,18
+French Guiana,2016,46,weekly,18
+French Guiana,2016,47,weekly,17
+French Guiana,2016,48,weekly,16
+French Guiana,2016,49,weekly,17
+French Guiana,2016,50,weekly,17
+French Guiana,2016,51,weekly,20
+French Guiana,2016,52,weekly,13
+French Guiana,2017,1,weekly,19
+French Guiana,2017,2,weekly,15
+French Guiana,2017,3,weekly,20
+French Guiana,2017,4,weekly,23
+French Guiana,2017,5,weekly,15
+French Guiana,2017,6,weekly,18
+French Guiana,2017,7,weekly,22
+French Guiana,2017,8,weekly,17
+French Guiana,2017,9,weekly,17
+French Guiana,2017,10,weekly,17
+French Guiana,2017,11,weekly,15
+French Guiana,2017,12,weekly,24
+French Guiana,2017,13,weekly,14
+French Guiana,2017,14,weekly,24
+French Guiana,2017,15,weekly,17
+French Guiana,2017,16,weekly,23
+French Guiana,2017,17,weekly,16
+French Guiana,2017,18,weekly,7
+French Guiana,2017,19,weekly,23
+French Guiana,2017,20,weekly,19
+French Guiana,2017,21,weekly,27
+French Guiana,2017,22,weekly,20
+French Guiana,2017,23,weekly,21
+French Guiana,2017,24,weekly,17
+French Guiana,2017,25,weekly,14
+French Guiana,2017,26,weekly,21
+French Guiana,2017,27,weekly,20
+French Guiana,2017,28,weekly,13
+French Guiana,2017,29,weekly,25
+French Guiana,2017,30,weekly,15
+French Guiana,2017,31,weekly,24
+French Guiana,2017,32,weekly,21
+French Guiana,2017,33,weekly,15
+French Guiana,2017,34,weekly,15
+French Guiana,2017,35,weekly,15
+French Guiana,2017,36,weekly,13
+French Guiana,2017,37,weekly,18
+French Guiana,2017,38,weekly,12
+French Guiana,2017,39,weekly,15
+French Guiana,2017,40,weekly,15
+French Guiana,2017,41,weekly,21
+French Guiana,2017,42,weekly,13
+French Guiana,2017,43,weekly,23
+French Guiana,2017,44,weekly,11
+French Guiana,2017,45,weekly,13
+French Guiana,2017,46,weekly,26
+French Guiana,2017,47,weekly,8
+French Guiana,2017,48,weekly,9
+French Guiana,2017,49,weekly,14
+French Guiana,2017,50,weekly,16
+French Guiana,2017,51,weekly,16
+French Guiana,2017,52,weekly,19
+French Guiana,2018,1,weekly,18
+French Guiana,2018,2,weekly,21
+French Guiana,2018,3,weekly,26
+French Guiana,2018,4,weekly,10
+French Guiana,2018,5,weekly,22
+French Guiana,2018,6,weekly,19
+French Guiana,2018,7,weekly,15
+French Guiana,2018,8,weekly,25
+French Guiana,2018,9,weekly,18
+French Guiana,2018,10,weekly,11
+French Guiana,2018,11,weekly,12
+French Guiana,2018,12,weekly,17
+French Guiana,2018,13,weekly,19
+French Guiana,2018,14,weekly,17
+French Guiana,2018,15,weekly,23
+French Guiana,2018,16,weekly,16
+French Guiana,2018,17,weekly,21
+French Guiana,2018,18,weekly,25
+French Guiana,2018,19,weekly,14
+French Guiana,2018,20,weekly,17
+French Guiana,2018,21,weekly,14
+French Guiana,2018,22,weekly,11
+French Guiana,2018,23,weekly,10
+French Guiana,2018,24,weekly,11
+French Guiana,2018,25,weekly,16
+French Guiana,2018,26,weekly,18
+French Guiana,2018,27,weekly,16
+French Guiana,2018,28,weekly,18
+French Guiana,2018,29,weekly,18
+French Guiana,2018,30,weekly,13
+French Guiana,2018,31,weekly,16
+French Guiana,2018,32,weekly,13
+French Guiana,2018,33,weekly,22
+French Guiana,2018,34,weekly,13
+French Guiana,2018,35,weekly,16
+French Guiana,2018,36,weekly,21
+French Guiana,2018,37,weekly,19
+French Guiana,2018,38,weekly,20
+French Guiana,2018,39,weekly,12
+French Guiana,2018,40,weekly,9
+French Guiana,2018,41,weekly,11
+French Guiana,2018,42,weekly,22
+French Guiana,2018,43,weekly,11
+French Guiana,2018,44,weekly,12
+French Guiana,2018,45,weekly,20
+French Guiana,2018,46,weekly,15
+French Guiana,2018,47,weekly,15
+French Guiana,2018,48,weekly,19
+French Guiana,2018,49,weekly,13
+French Guiana,2018,50,weekly,25
+French Guiana,2018,51,weekly,19
+French Guiana,2018,52,weekly,13
+French Guiana,2019,1,weekly,29
+French Guiana,2019,2,weekly,16
+French Guiana,2019,3,weekly,23
+French Guiana,2019,4,weekly,21
+French Guiana,2019,5,weekly,21
+French Guiana,2019,6,weekly,15
+French Guiana,2019,7,weekly,27
+French Guiana,2019,8,weekly,12
+French Guiana,2019,9,weekly,23
+French Guiana,2019,10,weekly,21
+French Guiana,2019,11,weekly,20
+French Guiana,2019,12,weekly,22
+French Guiana,2019,13,weekly,22
+French Guiana,2019,14,weekly,23
+French Guiana,2019,15,weekly,17
+French Guiana,2019,16,weekly,26
+French Guiana,2019,17,weekly,18
+French Guiana,2019,18,weekly,22
+French Guiana,2019,19,weekly,18
+French Guiana,2019,20,weekly,10
+French Guiana,2019,21,weekly,15
+French Guiana,2019,22,weekly,23
+French Guiana,2019,23,weekly,16
+French Guiana,2019,24,weekly,22
+French Guiana,2019,25,weekly,21
+French Guiana,2019,26,weekly,14
+French Guiana,2019,27,weekly,19
+French Guiana,2019,28,weekly,16
+French Guiana,2019,29,weekly,27
+French Guiana,2019,30,weekly,29
+French Guiana,2019,31,weekly,23
+French Guiana,2019,32,weekly,18
+French Guiana,2019,33,weekly,13
+French Guiana,2019,34,weekly,19
+French Guiana,2019,35,weekly,25
+French Guiana,2019,36,weekly,12
+French Guiana,2019,37,weekly,14
+French Guiana,2019,38,weekly,17
+French Guiana,2019,39,weekly,16
+French Guiana,2019,40,weekly,23
+French Guiana,2019,41,weekly,13
+French Guiana,2019,42,weekly,13
+French Guiana,2019,43,weekly,18
+French Guiana,2019,44,weekly,21
+French Guiana,2019,45,weekly,15
+French Guiana,2019,46,weekly,24
+French Guiana,2019,47,weekly,14
+French Guiana,2019,48,weekly,22
+French Guiana,2019,49,weekly,21
+French Guiana,2019,50,weekly,23
+French Guiana,2019,51,weekly,19
+French Guiana,2019,52,weekly,17
+French Guiana,2020,1,weekly,21
+French Guiana,2020,2,weekly,12
+French Guiana,2020,3,weekly,17
+French Guiana,2020,4,weekly,21
+French Guiana,2020,5,weekly,18
+French Guiana,2020,6,weekly,10
+French Guiana,2020,7,weekly,15
+French Guiana,2020,8,weekly,17
+French Guiana,2020,9,weekly,14
+French Guiana,2020,10,weekly,16
+French Guiana,2020,11,weekly,23
+French Guiana,2020,12,weekly,12
+French Guiana,2020,13,weekly,23
+French Guiana,2020,14,weekly,12
+French Guiana,2020,15,weekly,12
+French Guiana,2020,16,weekly,7
+French Guiana,2020,17,weekly,16
+French Guiana,2020,18,weekly,9
+French Guiana,2020,19,weekly,15
+French Guiana,2020,20,weekly,16
+French Guiana,2020,21,weekly,13
+French Guiana,2020,22,weekly,13
+French Guiana,2020,23,weekly,20
+French Guiana,2020,24,weekly,16
+French Guiana,2020,25,weekly,32
+French Guiana,2020,26,weekly,25
+French Guiana,2020,27,weekly,25
+French Guiana,2020,28,weekly,24
+French Guiana,2020,29,weekly,33
+French Guiana,2020,30,weekly,22
+French Guiana,2020,31,weekly,21
+French Guiana,2020,32,weekly,19
+French Guiana,2020,33,weekly,14
+French Guiana,2020,34,weekly,23
+French Guiana,2020,35,weekly,24
+French Guiana,2020,36,weekly,16
+French Guiana,2020,37,weekly,10
+French Guiana,2020,38,weekly,22
+French Guiana,2020,39,weekly,16
+French Guiana,2020,40,weekly,19
+French Guiana,2020,41,weekly,19
+French Guiana,2020,42,weekly,23
+French Guiana,2020,43,weekly,18
+French Guiana,2020,44,weekly,26
+French Guiana,2020,45,weekly,16
+French Guiana,2020,46,weekly,11
+French Guiana,2020,47,weekly,21
+French Guiana,2020,48,weekly,20
+French Guiana,2020,49,weekly,21
+French Guiana,2020,50,weekly,15
+French Guiana,2020,51,weekly,16
+French Guiana,2020,52,weekly,20
+French Guiana,2020,53,weekly,15
+French Guiana,2021,1,weekly,21
+French Guiana,2021,2,weekly,25
+French Guiana,2021,3,weekly,17
+French Guiana,2021,4,weekly,20
+French Guiana,2021,5,weekly,22
+French Guiana,2021,6,weekly,20
+French Guiana,2021,7,weekly,21
+French Guiana,2021,8,weekly,21
+French Guiana,2021,9,weekly,18
+French Guiana,2021,10,weekly,24
+French Guiana,2021,11,weekly,28
+French Guiana,2021,12,weekly,28
+French Guiana,2021,13,weekly,25
+French Guiana,2021,14,weekly,20
+French Guiana,2021,15,weekly,13
+French Guiana,2021,16,weekly,16
+French Guiana,2021,17,weekly,12
+French Guiana,2021,18,weekly,18
+French Guiana,2021,19,weekly,18
+French Guiana,2021,20,weekly,21
+French Guiana,2021,21,weekly,22
+French Guiana,2021,22,weekly,20
 Georgia,2015,1,monthly,4575
 Georgia,2015,2,monthly,4177
 Georgia,2015,3,monthly,4725
@@ -6714,6 +7053,342 @@ Greenland,2020,9,monthly,53
 Greenland,2020,10,monthly,32
 Greenland,2020,11,monthly,45
 Greenland,2020,12,monthly,60
+Guadeloupe,2015,1,weekly,56
+Guadeloupe,2015,2,weekly,43
+Guadeloupe,2015,3,weekly,51
+Guadeloupe,2015,4,weekly,50
+Guadeloupe,2015,5,weekly,59
+Guadeloupe,2015,6,weekly,59
+Guadeloupe,2015,7,weekly,57
+Guadeloupe,2015,8,weekly,56
+Guadeloupe,2015,9,weekly,70
+Guadeloupe,2015,10,weekly,48
+Guadeloupe,2015,11,weekly,61
+Guadeloupe,2015,12,weekly,67
+Guadeloupe,2015,13,weekly,59
+Guadeloupe,2015,14,weekly,54
+Guadeloupe,2015,15,weekly,37
+Guadeloupe,2015,16,weekly,46
+Guadeloupe,2015,17,weekly,48
+Guadeloupe,2015,18,weekly,52
+Guadeloupe,2015,19,weekly,54
+Guadeloupe,2015,20,weekly,51
+Guadeloupe,2015,21,weekly,38
+Guadeloupe,2015,22,weekly,55
+Guadeloupe,2015,23,weekly,45
+Guadeloupe,2015,24,weekly,61
+Guadeloupe,2015,25,weekly,67
+Guadeloupe,2015,26,weekly,54
+Guadeloupe,2015,27,weekly,50
+Guadeloupe,2015,28,weekly,54
+Guadeloupe,2015,29,weekly,69
+Guadeloupe,2015,30,weekly,60
+Guadeloupe,2015,31,weekly,66
+Guadeloupe,2015,32,weekly,64
+Guadeloupe,2015,33,weekly,55
+Guadeloupe,2015,34,weekly,68
+Guadeloupe,2015,35,weekly,44
+Guadeloupe,2015,36,weekly,56
+Guadeloupe,2015,37,weekly,62
+Guadeloupe,2015,38,weekly,47
+Guadeloupe,2015,39,weekly,66
+Guadeloupe,2015,40,weekly,67
+Guadeloupe,2015,41,weekly,72
+Guadeloupe,2015,42,weekly,50
+Guadeloupe,2015,43,weekly,50
+Guadeloupe,2015,44,weekly,46
+Guadeloupe,2015,45,weekly,49
+Guadeloupe,2015,46,weekly,60
+Guadeloupe,2015,47,weekly,44
+Guadeloupe,2015,48,weekly,46
+Guadeloupe,2015,49,weekly,56
+Guadeloupe,2015,50,weekly,62
+Guadeloupe,2015,51,weekly,65
+Guadeloupe,2015,52,weekly,57
+Guadeloupe,2015,53,weekly,54
+Guadeloupe,2016,1,weekly,53
+Guadeloupe,2016,2,weekly,63
+Guadeloupe,2016,3,weekly,61
+Guadeloupe,2016,4,weekly,63
+Guadeloupe,2016,5,weekly,64
+Guadeloupe,2016,6,weekly,60
+Guadeloupe,2016,7,weekly,50
+Guadeloupe,2016,8,weekly,53
+Guadeloupe,2016,9,weekly,63
+Guadeloupe,2016,10,weekly,69
+Guadeloupe,2016,11,weekly,63
+Guadeloupe,2016,12,weekly,53
+Guadeloupe,2016,13,weekly,60
+Guadeloupe,2016,14,weekly,57
+Guadeloupe,2016,15,weekly,70
+Guadeloupe,2016,16,weekly,49
+Guadeloupe,2016,17,weekly,61
+Guadeloupe,2016,18,weekly,61
+Guadeloupe,2016,19,weekly,56
+Guadeloupe,2016,20,weekly,75
+Guadeloupe,2016,21,weekly,57
+Guadeloupe,2016,22,weekly,62
+Guadeloupe,2016,23,weekly,68
+Guadeloupe,2016,24,weekly,68
+Guadeloupe,2016,25,weekly,57
+Guadeloupe,2016,26,weekly,64
+Guadeloupe,2016,27,weekly,69
+Guadeloupe,2016,28,weekly,73
+Guadeloupe,2016,29,weekly,55
+Guadeloupe,2016,30,weekly,69
+Guadeloupe,2016,31,weekly,60
+Guadeloupe,2016,32,weekly,56
+Guadeloupe,2016,33,weekly,69
+Guadeloupe,2016,34,weekly,69
+Guadeloupe,2016,35,weekly,90
+Guadeloupe,2016,36,weekly,49
+Guadeloupe,2016,37,weekly,67
+Guadeloupe,2016,38,weekly,51
+Guadeloupe,2016,39,weekly,59
+Guadeloupe,2016,40,weekly,62
+Guadeloupe,2016,41,weekly,54
+Guadeloupe,2016,42,weekly,52
+Guadeloupe,2016,43,weekly,64
+Guadeloupe,2016,44,weekly,64
+Guadeloupe,2016,45,weekly,78
+Guadeloupe,2016,46,weekly,61
+Guadeloupe,2016,47,weekly,54
+Guadeloupe,2016,48,weekly,47
+Guadeloupe,2016,49,weekly,53
+Guadeloupe,2016,50,weekly,72
+Guadeloupe,2016,51,weekly,41
+Guadeloupe,2016,52,weekly,74
+Guadeloupe,2017,1,weekly,60
+Guadeloupe,2017,2,weekly,63
+Guadeloupe,2017,3,weekly,70
+Guadeloupe,2017,4,weekly,48
+Guadeloupe,2017,5,weekly,59
+Guadeloupe,2017,6,weekly,56
+Guadeloupe,2017,7,weekly,65
+Guadeloupe,2017,8,weekly,52
+Guadeloupe,2017,9,weekly,59
+Guadeloupe,2017,10,weekly,41
+Guadeloupe,2017,11,weekly,58
+Guadeloupe,2017,12,weekly,69
+Guadeloupe,2017,13,weekly,50
+Guadeloupe,2017,14,weekly,46
+Guadeloupe,2017,15,weekly,58
+Guadeloupe,2017,16,weekly,57
+Guadeloupe,2017,17,weekly,53
+Guadeloupe,2017,18,weekly,56
+Guadeloupe,2017,19,weekly,59
+Guadeloupe,2017,20,weekly,55
+Guadeloupe,2017,21,weekly,77
+Guadeloupe,2017,22,weekly,58
+Guadeloupe,2017,23,weekly,60
+Guadeloupe,2017,24,weekly,68
+Guadeloupe,2017,25,weekly,57
+Guadeloupe,2017,26,weekly,69
+Guadeloupe,2017,27,weekly,57
+Guadeloupe,2017,28,weekly,65
+Guadeloupe,2017,29,weekly,52
+Guadeloupe,2017,30,weekly,59
+Guadeloupe,2017,31,weekly,71
+Guadeloupe,2017,32,weekly,58
+Guadeloupe,2017,33,weekly,57
+Guadeloupe,2017,34,weekly,55
+Guadeloupe,2017,35,weekly,63
+Guadeloupe,2017,36,weekly,55
+Guadeloupe,2017,37,weekly,61
+Guadeloupe,2017,38,weekly,85
+Guadeloupe,2017,39,weekly,60
+Guadeloupe,2017,40,weekly,63
+Guadeloupe,2017,41,weekly,68
+Guadeloupe,2017,42,weekly,51
+Guadeloupe,2017,43,weekly,57
+Guadeloupe,2017,44,weekly,57
+Guadeloupe,2017,45,weekly,51
+Guadeloupe,2017,46,weekly,77
+Guadeloupe,2017,47,weekly,55
+Guadeloupe,2017,48,weekly,67
+Guadeloupe,2017,49,weekly,65
+Guadeloupe,2017,50,weekly,41
+Guadeloupe,2017,51,weekly,61
+Guadeloupe,2017,52,weekly,68
+Guadeloupe,2018,1,weekly,68
+Guadeloupe,2018,2,weekly,60
+Guadeloupe,2018,3,weekly,72
+Guadeloupe,2018,4,weekly,53
+Guadeloupe,2018,5,weekly,69
+Guadeloupe,2018,6,weekly,68
+Guadeloupe,2018,7,weekly,59
+Guadeloupe,2018,8,weekly,48
+Guadeloupe,2018,9,weekly,71
+Guadeloupe,2018,10,weekly,74
+Guadeloupe,2018,11,weekly,69
+Guadeloupe,2018,12,weekly,63
+Guadeloupe,2018,13,weekly,66
+Guadeloupe,2018,14,weekly,75
+Guadeloupe,2018,15,weekly,45
+Guadeloupe,2018,16,weekly,58
+Guadeloupe,2018,17,weekly,75
+Guadeloupe,2018,18,weekly,52
+Guadeloupe,2018,19,weekly,60
+Guadeloupe,2018,20,weekly,78
+Guadeloupe,2018,21,weekly,50
+Guadeloupe,2018,22,weekly,56
+Guadeloupe,2018,23,weekly,52
+Guadeloupe,2018,24,weekly,70
+Guadeloupe,2018,25,weekly,60
+Guadeloupe,2018,26,weekly,67
+Guadeloupe,2018,27,weekly,54
+Guadeloupe,2018,28,weekly,57
+Guadeloupe,2018,29,weekly,55
+Guadeloupe,2018,30,weekly,74
+Guadeloupe,2018,31,weekly,54
+Guadeloupe,2018,32,weekly,77
+Guadeloupe,2018,33,weekly,56
+Guadeloupe,2018,34,weekly,51
+Guadeloupe,2018,35,weekly,57
+Guadeloupe,2018,36,weekly,51
+Guadeloupe,2018,37,weekly,74
+Guadeloupe,2018,38,weekly,79
+Guadeloupe,2018,39,weekly,45
+Guadeloupe,2018,40,weekly,60
+Guadeloupe,2018,41,weekly,60
+Guadeloupe,2018,42,weekly,53
+Guadeloupe,2018,43,weekly,61
+Guadeloupe,2018,44,weekly,59
+Guadeloupe,2018,45,weekly,49
+Guadeloupe,2018,46,weekly,45
+Guadeloupe,2018,47,weekly,62
+Guadeloupe,2018,48,weekly,65
+Guadeloupe,2018,49,weekly,61
+Guadeloupe,2018,50,weekly,68
+Guadeloupe,2018,51,weekly,58
+Guadeloupe,2018,52,weekly,54
+Guadeloupe,2019,1,weekly,74
+Guadeloupe,2019,2,weekly,66
+Guadeloupe,2019,3,weekly,66
+Guadeloupe,2019,4,weekly,70
+Guadeloupe,2019,5,weekly,79
+Guadeloupe,2019,6,weekly,77
+Guadeloupe,2019,7,weekly,78
+Guadeloupe,2019,8,weekly,48
+Guadeloupe,2019,9,weekly,77
+Guadeloupe,2019,10,weekly,64
+Guadeloupe,2019,11,weekly,69
+Guadeloupe,2019,12,weekly,56
+Guadeloupe,2019,13,weekly,77
+Guadeloupe,2019,14,weekly,65
+Guadeloupe,2019,15,weekly,62
+Guadeloupe,2019,16,weekly,68
+Guadeloupe,2019,17,weekly,59
+Guadeloupe,2019,18,weekly,45
+Guadeloupe,2019,19,weekly,62
+Guadeloupe,2019,20,weekly,62
+Guadeloupe,2019,21,weekly,79
+Guadeloupe,2019,22,weekly,52
+Guadeloupe,2019,23,weekly,67
+Guadeloupe,2019,24,weekly,76
+Guadeloupe,2019,25,weekly,71
+Guadeloupe,2019,26,weekly,76
+Guadeloupe,2019,27,weekly,64
+Guadeloupe,2019,28,weekly,71
+Guadeloupe,2019,29,weekly,68
+Guadeloupe,2019,30,weekly,71
+Guadeloupe,2019,31,weekly,46
+Guadeloupe,2019,32,weekly,56
+Guadeloupe,2019,33,weekly,74
+Guadeloupe,2019,34,weekly,81
+Guadeloupe,2019,35,weekly,71
+Guadeloupe,2019,36,weekly,66
+Guadeloupe,2019,37,weekly,76
+Guadeloupe,2019,38,weekly,57
+Guadeloupe,2019,39,weekly,57
+Guadeloupe,2019,40,weekly,75
+Guadeloupe,2019,41,weekly,58
+Guadeloupe,2019,42,weekly,69
+Guadeloupe,2019,43,weekly,64
+Guadeloupe,2019,44,weekly,57
+Guadeloupe,2019,45,weekly,63
+Guadeloupe,2019,46,weekly,52
+Guadeloupe,2019,47,weekly,57
+Guadeloupe,2019,48,weekly,53
+Guadeloupe,2019,49,weekly,57
+Guadeloupe,2019,50,weekly,59
+Guadeloupe,2019,51,weekly,71
+Guadeloupe,2019,52,weekly,72
+Guadeloupe,2020,1,weekly,80
+Guadeloupe,2020,2,weekly,50
+Guadeloupe,2020,3,weekly,56
+Guadeloupe,2020,4,weekly,69
+Guadeloupe,2020,5,weekly,61
+Guadeloupe,2020,6,weekly,57
+Guadeloupe,2020,7,weekly,74
+Guadeloupe,2020,8,weekly,81
+Guadeloupe,2020,9,weekly,75
+Guadeloupe,2020,10,weekly,67
+Guadeloupe,2020,11,weekly,67
+Guadeloupe,2020,12,weekly,69
+Guadeloupe,2020,13,weekly,65
+Guadeloupe,2020,14,weekly,72
+Guadeloupe,2020,15,weekly,60
+Guadeloupe,2020,16,weekly,74
+Guadeloupe,2020,17,weekly,72
+Guadeloupe,2020,18,weekly,76
+Guadeloupe,2020,19,weekly,62
+Guadeloupe,2020,20,weekly,68
+Guadeloupe,2020,21,weekly,72
+Guadeloupe,2020,22,weekly,56
+Guadeloupe,2020,23,weekly,59
+Guadeloupe,2020,24,weekly,63
+Guadeloupe,2020,25,weekly,59
+Guadeloupe,2020,26,weekly,70
+Guadeloupe,2020,27,weekly,61
+Guadeloupe,2020,28,weekly,66
+Guadeloupe,2020,29,weekly,55
+Guadeloupe,2020,30,weekly,65
+Guadeloupe,2020,31,weekly,72
+Guadeloupe,2020,32,weekly,72
+Guadeloupe,2020,33,weekly,84
+Guadeloupe,2020,34,weekly,64
+Guadeloupe,2020,35,weekly,87
+Guadeloupe,2020,36,weekly,83
+Guadeloupe,2020,37,weekly,87
+Guadeloupe,2020,38,weekly,105
+Guadeloupe,2020,39,weekly,88
+Guadeloupe,2020,40,weekly,89
+Guadeloupe,2020,41,weekly,88
+Guadeloupe,2020,42,weekly,95
+Guadeloupe,2020,43,weekly,89
+Guadeloupe,2020,44,weekly,74
+Guadeloupe,2020,45,weekly,72
+Guadeloupe,2020,46,weekly,59
+Guadeloupe,2020,47,weekly,53
+Guadeloupe,2020,48,weekly,70
+Guadeloupe,2020,49,weekly,68
+Guadeloupe,2020,50,weekly,64
+Guadeloupe,2020,51,weekly,57
+Guadeloupe,2020,52,weekly,60
+Guadeloupe,2020,53,weekly,55
+Guadeloupe,2021,1,weekly,75
+Guadeloupe,2021,2,weekly,80
+Guadeloupe,2021,3,weekly,80
+Guadeloupe,2021,4,weekly,55
+Guadeloupe,2021,5,weekly,68
+Guadeloupe,2021,6,weekly,52
+Guadeloupe,2021,7,weekly,58
+Guadeloupe,2021,8,weekly,81
+Guadeloupe,2021,9,weekly,64
+Guadeloupe,2021,10,weekly,60
+Guadeloupe,2021,11,weekly,65
+Guadeloupe,2021,12,weekly,75
+Guadeloupe,2021,13,weekly,65
+Guadeloupe,2021,14,weekly,67
+Guadeloupe,2021,15,weekly,78
+Guadeloupe,2021,16,weekly,77
+Guadeloupe,2021,17,weekly,61
+Guadeloupe,2021,18,weekly,66
+Guadeloupe,2021,19,weekly,67
+Guadeloupe,2021,20,weekly,74
+Guadeloupe,2021,21,weekly,64
+Guadeloupe,2021,22,weekly,54
 Guatemala,2015,1,weekly,1690
 Guatemala,2015,2,weekly,1616
 Guatemala,2015,3,weekly,1604
@@ -8142,11 +8817,11 @@ Israel,2020,19,weekly,857
 Israel,2020,20,weekly,847
 Israel,2020,21,weekly,961
 Israel,2020,22,weekly,837
-Israel,2020,23,weekly,811
+Israel,2020,23,weekly,810
 Israel,2020,24,weekly,785
 Israel,2020,25,weekly,792
 Israel,2020,26,weekly,779
-Israel,2020,27,weekly,779
+Israel,2020,27,weekly,780
 Israel,2020,28,weekly,837
 Israel,2020,29,weekly,836
 Israel,2020,30,weekly,816
@@ -8160,7 +8835,7 @@ Israel,2020,37,weekly,963
 Israel,2020,38,weekly,1004
 Israel,2020,39,weekly,1026
 Israel,2020,40,weekly,1010
-Israel,2020,41,weekly,1113
+Israel,2020,41,weekly,1114
 Israel,2020,42,weekly,1080
 Israel,2020,43,weekly,1047
 Israel,2020,44,weekly,928
@@ -8172,27 +8847,28 @@ Israel,2020,49,weekly,926
 Israel,2020,50,weekly,967
 Israel,2020,51,weekly,1006
 Israel,2020,52,weekly,1013
-Israel,2020,53,weekly,1136
-Israel,2021,1,weekly,1209
-Israel,2021,2,weekly,1253
+Israel,2020,53,weekly,1137
+Israel,2021,1,weekly,1210
+Israel,2021,2,weekly,1254
 Israel,2021,3,weekly,1274
 Israel,2021,4,weekly,1295
 Israel,2021,5,weekly,1251
-Israel,2021,6,weekly,1181
+Israel,2021,6,weekly,1182
 Israel,2021,7,weekly,1083
 Israel,2021,8,weekly,1006
-Israel,2021,9,weekly,980
-Israel,2021,10,weekly,1039
+Israel,2021,9,weekly,982
+Israel,2021,10,weekly,1040
 Israel,2021,11,weekly,1059
-Israel,2021,12,weekly,992
+Israel,2021,12,weekly,994
 Israel,2021,13,weekly,919
-Israel,2021,14,weekly,1003
-Israel,2021,15,weekly,918
+Israel,2021,14,weekly,1004
+Israel,2021,15,weekly,920
 Israel,2021,16,weekly,871
-Israel,2021,17,weekly,879
-Israel,2021,18,weekly,847
-Israel,2021,19,weekly,880
-Israel,2021,20,weekly,829
+Israel,2021,17,weekly,881
+Israel,2021,18,weekly,848
+Israel,2021,19,weekly,894
+Israel,2021,20,weekly,857
+Israel,2021,20,weekly,765
 Italy,2015,1,weekly,15178
 Italy,2015,2,weekly,15811
 Italy,2015,3,weekly,15480
@@ -8654,7 +9330,7 @@ Japan,2019,12,monthly,127236
 Japan,2020,1,monthly,132622
 Japan,2020,2,monthly,117010
 Japan,2020,3,monthly,119161
-Japan,2020,4,monthly,112407
+Japan,2020,4,monthly,113362
 Japan,2020,5,monthly,107484
 Japan,2020,6,monthly,100423
 Japan,2020,7,monthly,104849
@@ -8666,6 +9342,7 @@ Japan,2020,12,monthly,133185
 Japan,2021,1,monthly,140844
 Japan,2021,2,monthly,118984
 Japan,2021,3,monthly,123579
+Japan,2021,4,monthly,118169
 Kazakhstan,2015,1,monthly,11759
 Kazakhstan,2015,2,monthly,9504
 Kazakhstan,2015,3,monthly,10587
@@ -10455,6 +11132,342 @@ Malta,2021,16,weekly,63
 Malta,2021,17,weekly,58
 Malta,2021,18,weekly,67
 Malta,2021,19,weekly,73
+Martinique,2015,1,weekly,61
+Martinique,2015,2,weekly,54
+Martinique,2015,3,weekly,58
+Martinique,2015,4,weekly,57
+Martinique,2015,5,weekly,49
+Martinique,2015,6,weekly,55
+Martinique,2015,7,weekly,78
+Martinique,2015,8,weekly,61
+Martinique,2015,9,weekly,68
+Martinique,2015,10,weekly,61
+Martinique,2015,11,weekly,64
+Martinique,2015,12,weekly,52
+Martinique,2015,13,weekly,55
+Martinique,2015,14,weekly,57
+Martinique,2015,15,weekly,71
+Martinique,2015,16,weekly,56
+Martinique,2015,17,weekly,47
+Martinique,2015,18,weekly,60
+Martinique,2015,19,weekly,47
+Martinique,2015,20,weekly,61
+Martinique,2015,21,weekly,54
+Martinique,2015,22,weekly,69
+Martinique,2015,23,weekly,62
+Martinique,2015,24,weekly,62
+Martinique,2015,25,weekly,61
+Martinique,2015,26,weekly,58
+Martinique,2015,27,weekly,58
+Martinique,2015,28,weekly,51
+Martinique,2015,29,weekly,58
+Martinique,2015,30,weekly,53
+Martinique,2015,31,weekly,58
+Martinique,2015,32,weekly,58
+Martinique,2015,33,weekly,60
+Martinique,2015,34,weekly,70
+Martinique,2015,35,weekly,48
+Martinique,2015,36,weekly,71
+Martinique,2015,37,weekly,67
+Martinique,2015,38,weekly,60
+Martinique,2015,39,weekly,59
+Martinique,2015,40,weekly,63
+Martinique,2015,41,weekly,40
+Martinique,2015,42,weekly,60
+Martinique,2015,43,weekly,51
+Martinique,2015,44,weekly,60
+Martinique,2015,45,weekly,56
+Martinique,2015,46,weekly,53
+Martinique,2015,47,weekly,43
+Martinique,2015,48,weekly,65
+Martinique,2015,49,weekly,63
+Martinique,2015,50,weekly,57
+Martinique,2015,51,weekly,60
+Martinique,2015,52,weekly,59
+Martinique,2015,53,weekly,63
+Martinique,2016,1,weekly,62
+Martinique,2016,2,weekly,56
+Martinique,2016,3,weekly,75
+Martinique,2016,4,weekly,62
+Martinique,2016,5,weekly,62
+Martinique,2016,6,weekly,66
+Martinique,2016,7,weekly,65
+Martinique,2016,8,weekly,64
+Martinique,2016,9,weekly,72
+Martinique,2016,10,weekly,51
+Martinique,2016,11,weekly,68
+Martinique,2016,12,weekly,61
+Martinique,2016,13,weekly,69
+Martinique,2016,14,weekly,57
+Martinique,2016,15,weekly,49
+Martinique,2016,16,weekly,67
+Martinique,2016,17,weekly,70
+Martinique,2016,18,weekly,66
+Martinique,2016,19,weekly,53
+Martinique,2016,20,weekly,57
+Martinique,2016,21,weekly,65
+Martinique,2016,22,weekly,48
+Martinique,2016,23,weekly,62
+Martinique,2016,24,weekly,65
+Martinique,2016,25,weekly,58
+Martinique,2016,26,weekly,60
+Martinique,2016,27,weekly,76
+Martinique,2016,28,weekly,56
+Martinique,2016,29,weekly,55
+Martinique,2016,30,weekly,65
+Martinique,2016,31,weekly,70
+Martinique,2016,32,weekly,52
+Martinique,2016,33,weekly,78
+Martinique,2016,34,weekly,77
+Martinique,2016,35,weekly,62
+Martinique,2016,36,weekly,57
+Martinique,2016,37,weekly,58
+Martinique,2016,38,weekly,61
+Martinique,2016,39,weekly,53
+Martinique,2016,40,weekly,51
+Martinique,2016,41,weekly,57
+Martinique,2016,42,weekly,70
+Martinique,2016,43,weekly,55
+Martinique,2016,44,weekly,59
+Martinique,2016,45,weekly,63
+Martinique,2016,46,weekly,67
+Martinique,2016,47,weekly,54
+Martinique,2016,48,weekly,79
+Martinique,2016,49,weekly,63
+Martinique,2016,50,weekly,71
+Martinique,2016,51,weekly,83
+Martinique,2016,52,weekly,82
+Martinique,2017,1,weekly,72
+Martinique,2017,2,weekly,78
+Martinique,2017,3,weekly,66
+Martinique,2017,4,weekly,63
+Martinique,2017,5,weekly,60
+Martinique,2017,6,weekly,65
+Martinique,2017,7,weekly,56
+Martinique,2017,8,weekly,72
+Martinique,2017,9,weekly,63
+Martinique,2017,10,weekly,60
+Martinique,2017,11,weekly,75
+Martinique,2017,12,weekly,77
+Martinique,2017,13,weekly,59
+Martinique,2017,14,weekly,59
+Martinique,2017,15,weekly,51
+Martinique,2017,16,weekly,61
+Martinique,2017,17,weekly,72
+Martinique,2017,18,weekly,61
+Martinique,2017,19,weekly,59
+Martinique,2017,20,weekly,59
+Martinique,2017,21,weekly,55
+Martinique,2017,22,weekly,72
+Martinique,2017,23,weekly,65
+Martinique,2017,24,weekly,57
+Martinique,2017,25,weekly,50
+Martinique,2017,26,weekly,62
+Martinique,2017,27,weekly,76
+Martinique,2017,28,weekly,47
+Martinique,2017,29,weekly,72
+Martinique,2017,30,weekly,68
+Martinique,2017,31,weekly,63
+Martinique,2017,32,weekly,53
+Martinique,2017,33,weekly,66
+Martinique,2017,34,weekly,68
+Martinique,2017,35,weekly,69
+Martinique,2017,36,weekly,78
+Martinique,2017,37,weekly,50
+Martinique,2017,38,weekly,58
+Martinique,2017,39,weekly,55
+Martinique,2017,40,weekly,74
+Martinique,2017,41,weekly,56
+Martinique,2017,42,weekly,58
+Martinique,2017,43,weekly,63
+Martinique,2017,44,weekly,54
+Martinique,2017,45,weekly,58
+Martinique,2017,46,weekly,40
+Martinique,2017,47,weekly,54
+Martinique,2017,48,weekly,55
+Martinique,2017,49,weekly,53
+Martinique,2017,50,weekly,58
+Martinique,2017,51,weekly,65
+Martinique,2017,52,weekly,62
+Martinique,2018,1,weekly,55
+Martinique,2018,2,weekly,86
+Martinique,2018,3,weekly,66
+Martinique,2018,4,weekly,60
+Martinique,2018,5,weekly,74
+Martinique,2018,6,weekly,69
+Martinique,2018,7,weekly,65
+Martinique,2018,8,weekly,67
+Martinique,2018,9,weekly,68
+Martinique,2018,10,weekly,72
+Martinique,2018,11,weekly,52
+Martinique,2018,12,weekly,63
+Martinique,2018,13,weekly,64
+Martinique,2018,14,weekly,65
+Martinique,2018,15,weekly,48
+Martinique,2018,16,weekly,44
+Martinique,2018,17,weekly,72
+Martinique,2018,18,weekly,51
+Martinique,2018,19,weekly,55
+Martinique,2018,20,weekly,67
+Martinique,2018,21,weekly,70
+Martinique,2018,22,weekly,61
+Martinique,2018,23,weekly,68
+Martinique,2018,24,weekly,81
+Martinique,2018,25,weekly,58
+Martinique,2018,26,weekly,52
+Martinique,2018,27,weekly,61
+Martinique,2018,28,weekly,76
+Martinique,2018,29,weekly,66
+Martinique,2018,30,weekly,54
+Martinique,2018,31,weekly,54
+Martinique,2018,32,weekly,69
+Martinique,2018,33,weekly,59
+Martinique,2018,34,weekly,63
+Martinique,2018,35,weekly,58
+Martinique,2018,36,weekly,78
+Martinique,2018,37,weekly,62
+Martinique,2018,38,weekly,69
+Martinique,2018,39,weekly,63
+Martinique,2018,40,weekly,62
+Martinique,2018,41,weekly,62
+Martinique,2018,42,weekly,56
+Martinique,2018,43,weekly,66
+Martinique,2018,44,weekly,48
+Martinique,2018,45,weekly,49
+Martinique,2018,46,weekly,67
+Martinique,2018,47,weekly,61
+Martinique,2018,48,weekly,47
+Martinique,2018,49,weekly,67
+Martinique,2018,50,weekly,61
+Martinique,2018,51,weekly,70
+Martinique,2018,52,weekly,72
+Martinique,2019,1,weekly,56
+Martinique,2019,2,weekly,70
+Martinique,2019,3,weekly,69
+Martinique,2019,4,weekly,66
+Martinique,2019,5,weekly,66
+Martinique,2019,6,weekly,66
+Martinique,2019,7,weekly,71
+Martinique,2019,8,weekly,69
+Martinique,2019,9,weekly,78
+Martinique,2019,10,weekly,78
+Martinique,2019,11,weekly,66
+Martinique,2019,12,weekly,84
+Martinique,2019,13,weekly,63
+Martinique,2019,14,weekly,72
+Martinique,2019,15,weekly,73
+Martinique,2019,16,weekly,58
+Martinique,2019,17,weekly,64
+Martinique,2019,18,weekly,59
+Martinique,2019,19,weekly,74
+Martinique,2019,20,weekly,59
+Martinique,2019,21,weekly,84
+Martinique,2019,22,weekly,55
+Martinique,2019,23,weekly,72
+Martinique,2019,24,weekly,65
+Martinique,2019,25,weekly,68
+Martinique,2019,26,weekly,80
+Martinique,2019,27,weekly,71
+Martinique,2019,28,weekly,87
+Martinique,2019,29,weekly,70
+Martinique,2019,30,weekly,76
+Martinique,2019,31,weekly,82
+Martinique,2019,32,weekly,79
+Martinique,2019,33,weekly,65
+Martinique,2019,34,weekly,65
+Martinique,2019,35,weekly,56
+Martinique,2019,36,weekly,69
+Martinique,2019,37,weekly,65
+Martinique,2019,38,weekly,63
+Martinique,2019,39,weekly,56
+Martinique,2019,40,weekly,74
+Martinique,2019,41,weekly,73
+Martinique,2019,42,weekly,62
+Martinique,2019,43,weekly,53
+Martinique,2019,44,weekly,59
+Martinique,2019,45,weekly,73
+Martinique,2019,46,weekly,62
+Martinique,2019,47,weekly,72
+Martinique,2019,48,weekly,60
+Martinique,2019,49,weekly,63
+Martinique,2019,50,weekly,59
+Martinique,2019,51,weekly,67
+Martinique,2019,52,weekly,74
+Martinique,2020,1,weekly,51
+Martinique,2020,2,weekly,66
+Martinique,2020,3,weekly,69
+Martinique,2020,4,weekly,50
+Martinique,2020,5,weekly,72
+Martinique,2020,6,weekly,69
+Martinique,2020,7,weekly,59
+Martinique,2020,8,weekly,69
+Martinique,2020,9,weekly,56
+Martinique,2020,10,weekly,77
+Martinique,2020,11,weekly,62
+Martinique,2020,12,weekly,73
+Martinique,2020,13,weekly,66
+Martinique,2020,14,weekly,79
+Martinique,2020,15,weekly,72
+Martinique,2020,16,weekly,66
+Martinique,2020,17,weekly,60
+Martinique,2020,18,weekly,64
+Martinique,2020,19,weekly,79
+Martinique,2020,20,weekly,67
+Martinique,2020,21,weekly,61
+Martinique,2020,22,weekly,72
+Martinique,2020,23,weekly,51
+Martinique,2020,24,weekly,71
+Martinique,2020,25,weekly,79
+Martinique,2020,26,weekly,62
+Martinique,2020,27,weekly,66
+Martinique,2020,28,weekly,68
+Martinique,2020,29,weekly,65
+Martinique,2020,30,weekly,62
+Martinique,2020,31,weekly,65
+Martinique,2020,32,weekly,60
+Martinique,2020,33,weekly,75
+Martinique,2020,34,weekly,74
+Martinique,2020,35,weekly,68
+Martinique,2020,36,weekly,74
+Martinique,2020,37,weekly,93
+Martinique,2020,38,weekly,103
+Martinique,2020,39,weekly,82
+Martinique,2020,40,weekly,77
+Martinique,2020,41,weekly,74
+Martinique,2020,42,weekly,70
+Martinique,2020,43,weekly,67
+Martinique,2020,44,weekly,67
+Martinique,2020,45,weekly,66
+Martinique,2020,46,weekly,85
+Martinique,2020,47,weekly,68
+Martinique,2020,48,weekly,66
+Martinique,2020,49,weekly,59
+Martinique,2020,50,weekly,70
+Martinique,2020,51,weekly,60
+Martinique,2020,52,weekly,67
+Martinique,2020,53,weekly,59
+Martinique,2021,1,weekly,74
+Martinique,2021,2,weekly,71
+Martinique,2021,3,weekly,65
+Martinique,2021,4,weekly,60
+Martinique,2021,5,weekly,69
+Martinique,2021,6,weekly,56
+Martinique,2021,7,weekly,68
+Martinique,2021,8,weekly,63
+Martinique,2021,9,weekly,62
+Martinique,2021,10,weekly,75
+Martinique,2021,11,weekly,69
+Martinique,2021,12,weekly,66
+Martinique,2021,13,weekly,67
+Martinique,2021,14,weekly,74
+Martinique,2021,15,weekly,59
+Martinique,2021,16,weekly,69
+Martinique,2021,17,weekly,68
+Martinique,2021,18,weekly,73
+Martinique,2021,19,weekly,51
+Martinique,2021,20,weekly,63
+Martinique,2021,21,weekly,82
+Martinique,2021,22,weekly,70
 Mauritius,2015,1,monthly,845
 Mauritius,2015,2,monthly,711
 Mauritius,2015,3,monthly,773
@@ -10531,6 +11544,342 @@ Mauritius,2021,1,monthly,955
 Mauritius,2021,2,monthly,853
 Mauritius,2021,3,monthly,952
 Mauritius,2021,4,monthly,864
+Mayotte,2015,1,weekly,8
+Mayotte,2015,2,weekly,12
+Mayotte,2015,3,weekly,13
+Mayotte,2015,4,weekly,15
+Mayotte,2015,5,weekly,18
+Mayotte,2015,6,weekly,13
+Mayotte,2015,7,weekly,18
+Mayotte,2015,8,weekly,9
+Mayotte,2015,9,weekly,11
+Mayotte,2015,10,weekly,13
+Mayotte,2015,11,weekly,12
+Mayotte,2015,12,weekly,5
+Mayotte,2015,13,weekly,14
+Mayotte,2015,14,weekly,8
+Mayotte,2015,15,weekly,10
+Mayotte,2015,16,weekly,12
+Mayotte,2015,17,weekly,12
+Mayotte,2015,18,weekly,5
+Mayotte,2015,19,weekly,11
+Mayotte,2015,20,weekly,14
+Mayotte,2015,21,weekly,11
+Mayotte,2015,22,weekly,6
+Mayotte,2015,23,weekly,8
+Mayotte,2015,24,weekly,12
+Mayotte,2015,25,weekly,18
+Mayotte,2015,26,weekly,9
+Mayotte,2015,27,weekly,11
+Mayotte,2015,28,weekly,10
+Mayotte,2015,29,weekly,10
+Mayotte,2015,30,weekly,17
+Mayotte,2015,31,weekly,15
+Mayotte,2015,32,weekly,10
+Mayotte,2015,33,weekly,9
+Mayotte,2015,34,weekly,8
+Mayotte,2015,35,weekly,20
+Mayotte,2015,36,weekly,22
+Mayotte,2015,37,weekly,11
+Mayotte,2015,38,weekly,11
+Mayotte,2015,39,weekly,12
+Mayotte,2015,40,weekly,17
+Mayotte,2015,41,weekly,9
+Mayotte,2015,42,weekly,8
+Mayotte,2015,43,weekly,13
+Mayotte,2015,44,weekly,17
+Mayotte,2015,45,weekly,10
+Mayotte,2015,46,weekly,14
+Mayotte,2015,47,weekly,12
+Mayotte,2015,48,weekly,4
+Mayotte,2015,49,weekly,9
+Mayotte,2015,50,weekly,13
+Mayotte,2015,51,weekly,12
+Mayotte,2015,52,weekly,10
+Mayotte,2015,53,weekly,17
+Mayotte,2016,1,weekly,14
+Mayotte,2016,2,weekly,9
+Mayotte,2016,3,weekly,11
+Mayotte,2016,4,weekly,17
+Mayotte,2016,5,weekly,12
+Mayotte,2016,6,weekly,18
+Mayotte,2016,7,weekly,17
+Mayotte,2016,8,weekly,8
+Mayotte,2016,9,weekly,12
+Mayotte,2016,10,weekly,17
+Mayotte,2016,11,weekly,13
+Mayotte,2016,12,weekly,15
+Mayotte,2016,13,weekly,15
+Mayotte,2016,14,weekly,10
+Mayotte,2016,15,weekly,11
+Mayotte,2016,16,weekly,11
+Mayotte,2016,17,weekly,18
+Mayotte,2016,18,weekly,22
+Mayotte,2016,19,weekly,13
+Mayotte,2016,20,weekly,4
+Mayotte,2016,21,weekly,15
+Mayotte,2016,22,weekly,4
+Mayotte,2016,23,weekly,18
+Mayotte,2016,24,weekly,14
+Mayotte,2016,25,weekly,13
+Mayotte,2016,26,weekly,11
+Mayotte,2016,27,weekly,11
+Mayotte,2016,28,weekly,7
+Mayotte,2016,29,weekly,13
+Mayotte,2016,30,weekly,19
+Mayotte,2016,31,weekly,13
+Mayotte,2016,32,weekly,15
+Mayotte,2016,33,weekly,17
+Mayotte,2016,34,weekly,11
+Mayotte,2016,35,weekly,10
+Mayotte,2016,36,weekly,13
+Mayotte,2016,37,weekly,10
+Mayotte,2016,38,weekly,12
+Mayotte,2016,39,weekly,9
+Mayotte,2016,40,weekly,15
+Mayotte,2016,41,weekly,9
+Mayotte,2016,42,weekly,14
+Mayotte,2016,43,weekly,15
+Mayotte,2016,44,weekly,7
+Mayotte,2016,45,weekly,11
+Mayotte,2016,46,weekly,17
+Mayotte,2016,47,weekly,14
+Mayotte,2016,48,weekly,19
+Mayotte,2016,49,weekly,13
+Mayotte,2016,50,weekly,8
+Mayotte,2016,51,weekly,20
+Mayotte,2016,52,weekly,13
+Mayotte,2017,1,weekly,14
+Mayotte,2017,2,weekly,9
+Mayotte,2017,3,weekly,11
+Mayotte,2017,4,weekly,19
+Mayotte,2017,5,weekly,7
+Mayotte,2017,6,weekly,14
+Mayotte,2017,7,weekly,17
+Mayotte,2017,8,weekly,15
+Mayotte,2017,9,weekly,15
+Mayotte,2017,10,weekly,26
+Mayotte,2017,11,weekly,18
+Mayotte,2017,12,weekly,15
+Mayotte,2017,13,weekly,9
+Mayotte,2017,14,weekly,15
+Mayotte,2017,15,weekly,16
+Mayotte,2017,16,weekly,7
+Mayotte,2017,17,weekly,11
+Mayotte,2017,18,weekly,13
+Mayotte,2017,19,weekly,19
+Mayotte,2017,20,weekly,11
+Mayotte,2017,21,weekly,15
+Mayotte,2017,22,weekly,12
+Mayotte,2017,23,weekly,18
+Mayotte,2017,24,weekly,12
+Mayotte,2017,25,weekly,7
+Mayotte,2017,26,weekly,14
+Mayotte,2017,27,weekly,15
+Mayotte,2017,28,weekly,9
+Mayotte,2017,29,weekly,13
+Mayotte,2017,30,weekly,10
+Mayotte,2017,31,weekly,12
+Mayotte,2017,32,weekly,10
+Mayotte,2017,33,weekly,17
+Mayotte,2017,34,weekly,13
+Mayotte,2017,35,weekly,11
+Mayotte,2017,36,weekly,14
+Mayotte,2017,37,weekly,12
+Mayotte,2017,38,weekly,10
+Mayotte,2017,39,weekly,9
+Mayotte,2017,40,weekly,17
+Mayotte,2017,41,weekly,15
+Mayotte,2017,42,weekly,12
+Mayotte,2017,43,weekly,16
+Mayotte,2017,44,weekly,23
+Mayotte,2017,45,weekly,13
+Mayotte,2017,46,weekly,7
+Mayotte,2017,47,weekly,12
+Mayotte,2017,48,weekly,11
+Mayotte,2017,49,weekly,25
+Mayotte,2017,50,weekly,10
+Mayotte,2017,51,weekly,16
+Mayotte,2017,52,weekly,18
+Mayotte,2018,1,weekly,14
+Mayotte,2018,2,weekly,25
+Mayotte,2018,3,weekly,18
+Mayotte,2018,4,weekly,13
+Mayotte,2018,5,weekly,20
+Mayotte,2018,6,weekly,14
+Mayotte,2018,7,weekly,14
+Mayotte,2018,8,weekly,11
+Mayotte,2018,9,weekly,10
+Mayotte,2018,10,weekly,14
+Mayotte,2018,11,weekly,13
+Mayotte,2018,12,weekly,9
+Mayotte,2018,13,weekly,20
+Mayotte,2018,14,weekly,9
+Mayotte,2018,15,weekly,17
+Mayotte,2018,16,weekly,9
+Mayotte,2018,17,weekly,11
+Mayotte,2018,18,weekly,16
+Mayotte,2018,19,weekly,15
+Mayotte,2018,20,weekly,7
+Mayotte,2018,21,weekly,15
+Mayotte,2018,22,weekly,17
+Mayotte,2018,23,weekly,14
+Mayotte,2018,24,weekly,14
+Mayotte,2018,25,weekly,8
+Mayotte,2018,26,weekly,15
+Mayotte,2018,27,weekly,12
+Mayotte,2018,28,weekly,11
+Mayotte,2018,29,weekly,13
+Mayotte,2018,30,weekly,15
+Mayotte,2018,31,weekly,16
+Mayotte,2018,32,weekly,13
+Mayotte,2018,33,weekly,13
+Mayotte,2018,34,weekly,10
+Mayotte,2018,35,weekly,9
+Mayotte,2018,36,weekly,21
+Mayotte,2018,37,weekly,17
+Mayotte,2018,38,weekly,11
+Mayotte,2018,39,weekly,11
+Mayotte,2018,40,weekly,12
+Mayotte,2018,41,weekly,9
+Mayotte,2018,42,weekly,16
+Mayotte,2018,43,weekly,16
+Mayotte,2018,44,weekly,14
+Mayotte,2018,45,weekly,18
+Mayotte,2018,46,weekly,10
+Mayotte,2018,47,weekly,16
+Mayotte,2018,48,weekly,15
+Mayotte,2018,49,weekly,16
+Mayotte,2018,50,weekly,13
+Mayotte,2018,51,weekly,16
+Mayotte,2018,52,weekly,10
+Mayotte,2019,1,weekly,10
+Mayotte,2019,2,weekly,15
+Mayotte,2019,3,weekly,12
+Mayotte,2019,4,weekly,21
+Mayotte,2019,5,weekly,11
+Mayotte,2019,6,weekly,11
+Mayotte,2019,7,weekly,9
+Mayotte,2019,8,weekly,17
+Mayotte,2019,9,weekly,18
+Mayotte,2019,10,weekly,10
+Mayotte,2019,11,weekly,15
+Mayotte,2019,12,weekly,19
+Mayotte,2019,13,weekly,22
+Mayotte,2019,14,weekly,14
+Mayotte,2019,15,weekly,17
+Mayotte,2019,16,weekly,22
+Mayotte,2019,17,weekly,18
+Mayotte,2019,18,weekly,21
+Mayotte,2019,19,weekly,19
+Mayotte,2019,20,weekly,8
+Mayotte,2019,21,weekly,12
+Mayotte,2019,22,weekly,8
+Mayotte,2019,23,weekly,12
+Mayotte,2019,24,weekly,17
+Mayotte,2019,25,weekly,13
+Mayotte,2019,26,weekly,12
+Mayotte,2019,27,weekly,13
+Mayotte,2019,28,weekly,18
+Mayotte,2019,29,weekly,13
+Mayotte,2019,30,weekly,14
+Mayotte,2019,31,weekly,17
+Mayotte,2019,32,weekly,11
+Mayotte,2019,33,weekly,16
+Mayotte,2019,34,weekly,19
+Mayotte,2019,35,weekly,11
+Mayotte,2019,36,weekly,19
+Mayotte,2019,37,weekly,8
+Mayotte,2019,38,weekly,8
+Mayotte,2019,39,weekly,9
+Mayotte,2019,40,weekly,20
+Mayotte,2019,41,weekly,6
+Mayotte,2019,42,weekly,14
+Mayotte,2019,43,weekly,23
+Mayotte,2019,44,weekly,20
+Mayotte,2019,45,weekly,10
+Mayotte,2019,46,weekly,14
+Mayotte,2019,47,weekly,18
+Mayotte,2019,48,weekly,14
+Mayotte,2019,49,weekly,12
+Mayotte,2019,50,weekly,17
+Mayotte,2019,51,weekly,11
+Mayotte,2019,52,weekly,10
+Mayotte,2020,1,weekly,13
+Mayotte,2020,2,weekly,17
+Mayotte,2020,3,weekly,16
+Mayotte,2020,4,weekly,14
+Mayotte,2020,5,weekly,10
+Mayotte,2020,6,weekly,28
+Mayotte,2020,7,weekly,14
+Mayotte,2020,8,weekly,23
+Mayotte,2020,9,weekly,22
+Mayotte,2020,10,weekly,16
+Mayotte,2020,11,weekly,20
+Mayotte,2020,12,weekly,23
+Mayotte,2020,13,weekly,20
+Mayotte,2020,14,weekly,29
+Mayotte,2020,15,weekly,23
+Mayotte,2020,16,weekly,33
+Mayotte,2020,17,weekly,12
+Mayotte,2020,18,weekly,26
+Mayotte,2020,19,weekly,19
+Mayotte,2020,20,weekly,24
+Mayotte,2020,21,weekly,20
+Mayotte,2020,22,weekly,21
+Mayotte,2020,23,weekly,13
+Mayotte,2020,24,weekly,22
+Mayotte,2020,25,weekly,9
+Mayotte,2020,26,weekly,13
+Mayotte,2020,27,weekly,17
+Mayotte,2020,28,weekly,18
+Mayotte,2020,29,weekly,11
+Mayotte,2020,30,weekly,18
+Mayotte,2020,31,weekly,20
+Mayotte,2020,32,weekly,15
+Mayotte,2020,33,weekly,20
+Mayotte,2020,34,weekly,19
+Mayotte,2020,35,weekly,14
+Mayotte,2020,36,weekly,16
+Mayotte,2020,37,weekly,10
+Mayotte,2020,38,weekly,16
+Mayotte,2020,39,weekly,23
+Mayotte,2020,40,weekly,14
+Mayotte,2020,41,weekly,10
+Mayotte,2020,42,weekly,14
+Mayotte,2020,43,weekly,12
+Mayotte,2020,44,weekly,14
+Mayotte,2020,45,weekly,18
+Mayotte,2020,46,weekly,15
+Mayotte,2020,47,weekly,21
+Mayotte,2020,48,weekly,11
+Mayotte,2020,49,weekly,24
+Mayotte,2020,50,weekly,19
+Mayotte,2020,51,weekly,17
+Mayotte,2020,52,weekly,22
+Mayotte,2020,53,weekly,13
+Mayotte,2021,1,weekly,25
+Mayotte,2021,2,weekly,19
+Mayotte,2021,3,weekly,20
+Mayotte,2021,4,weekly,23
+Mayotte,2021,5,weekly,22
+Mayotte,2021,6,weekly,49
+Mayotte,2021,7,weekly,48
+Mayotte,2021,8,weekly,46
+Mayotte,2021,9,weekly,37
+Mayotte,2021,10,weekly,33
+Mayotte,2021,11,weekly,21
+Mayotte,2021,12,weekly,20
+Mayotte,2021,13,weekly,22
+Mayotte,2021,14,weekly,15
+Mayotte,2021,15,weekly,18
+Mayotte,2021,16,weekly,18
+Mayotte,2021,17,weekly,15
+Mayotte,2021,18,weekly,7
+Mayotte,2021,19,weekly,28
+Mayotte,2021,20,weekly,12
+Mayotte,2021,21,weekly,16
+Mayotte,2021,22,weekly,21
 Mexico,2015,1,weekly,15101
 Mexico,2015,2,weekly,15449
 Mexico,2015,3,weekly,14820
@@ -12789,13 +14138,13 @@ Paraguay,2020,7,monthly,2963
 Paraguay,2020,8,monthly,3412
 Paraguay,2020,9,monthly,3374
 Paraguay,2020,10,monthly,3371
-Paraguay,2020,11,monthly,2997
-Paraguay,2020,12,monthly,3390
+Paraguay,2020,11,monthly,2996
+Paraguay,2020,12,monthly,3389
 Paraguay,2021,1,monthly,2954
-Paraguay,2021,2,monthly,2870
-Paraguay,2021,3,monthly,4097
-Paraguay,2021,4,monthly,5386
-Paraguay,2021,5,monthly,5518
+Paraguay,2021,2,monthly,2873
+Paraguay,2021,3,monthly,4100
+Paraguay,2021,4,monthly,5395
+Paraguay,2021,5,monthly,5722
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -13849,6 +15198,342 @@ Qatar,2021,1,monthly,212
 Qatar,2021,2,monthly,178
 Qatar,2021,3,monthly,250
 Qatar,2021,4,monthly,395
+Réunion,2015,1,weekly,74
+Réunion,2015,2,weekly,108
+Réunion,2015,3,weekly,76
+Réunion,2015,4,weekly,84
+Réunion,2015,5,weekly,82
+Réunion,2015,6,weekly,82
+Réunion,2015,7,weekly,89
+Réunion,2015,8,weekly,86
+Réunion,2015,9,weekly,79
+Réunion,2015,10,weekly,94
+Réunion,2015,11,weekly,96
+Réunion,2015,12,weekly,90
+Réunion,2015,13,weekly,84
+Réunion,2015,14,weekly,98
+Réunion,2015,15,weekly,78
+Réunion,2015,16,weekly,78
+Réunion,2015,17,weekly,72
+Réunion,2015,18,weekly,75
+Réunion,2015,19,weekly,100
+Réunion,2015,20,weekly,80
+Réunion,2015,21,weekly,80
+Réunion,2015,22,weekly,69
+Réunion,2015,23,weekly,102
+Réunion,2015,24,weekly,71
+Réunion,2015,25,weekly,83
+Réunion,2015,26,weekly,111
+Réunion,2015,27,weekly,84
+Réunion,2015,28,weekly,98
+Réunion,2015,29,weekly,78
+Réunion,2015,30,weekly,105
+Réunion,2015,31,weekly,96
+Réunion,2015,32,weekly,94
+Réunion,2015,33,weekly,96
+Réunion,2015,34,weekly,82
+Réunion,2015,35,weekly,98
+Réunion,2015,36,weekly,77
+Réunion,2015,37,weekly,81
+Réunion,2015,38,weekly,96
+Réunion,2015,39,weekly,91
+Réunion,2015,40,weekly,80
+Réunion,2015,41,weekly,100
+Réunion,2015,42,weekly,80
+Réunion,2015,43,weekly,96
+Réunion,2015,44,weekly,87
+Réunion,2015,45,weekly,89
+Réunion,2015,46,weekly,72
+Réunion,2015,47,weekly,93
+Réunion,2015,48,weekly,82
+Réunion,2015,49,weekly,80
+Réunion,2015,50,weekly,85
+Réunion,2015,51,weekly,76
+Réunion,2015,52,weekly,98
+Réunion,2015,53,weekly,112
+Réunion,2016,1,weekly,92
+Réunion,2016,2,weekly,72
+Réunion,2016,3,weekly,106
+Réunion,2016,4,weekly,84
+Réunion,2016,5,weekly,83
+Réunion,2016,6,weekly,74
+Réunion,2016,7,weekly,89
+Réunion,2016,8,weekly,102
+Réunion,2016,9,weekly,68
+Réunion,2016,10,weekly,92
+Réunion,2016,11,weekly,105
+Réunion,2016,12,weekly,105
+Réunion,2016,13,weekly,81
+Réunion,2016,14,weekly,77
+Réunion,2016,15,weekly,76
+Réunion,2016,16,weekly,83
+Réunion,2016,17,weekly,71
+Réunion,2016,18,weekly,97
+Réunion,2016,19,weekly,102
+Réunion,2016,20,weekly,88
+Réunion,2016,21,weekly,98
+Réunion,2016,22,weekly,87
+Réunion,2016,23,weekly,96
+Réunion,2016,24,weekly,92
+Réunion,2016,25,weekly,99
+Réunion,2016,26,weekly,95
+Réunion,2016,27,weekly,103
+Réunion,2016,28,weekly,98
+Réunion,2016,29,weekly,101
+Réunion,2016,30,weekly,112
+Réunion,2016,31,weekly,96
+Réunion,2016,32,weekly,81
+Réunion,2016,33,weekly,100
+Réunion,2016,34,weekly,88
+Réunion,2016,35,weekly,85
+Réunion,2016,36,weekly,104
+Réunion,2016,37,weekly,97
+Réunion,2016,38,weekly,86
+Réunion,2016,39,weekly,103
+Réunion,2016,40,weekly,94
+Réunion,2016,41,weekly,81
+Réunion,2016,42,weekly,81
+Réunion,2016,43,weekly,89
+Réunion,2016,44,weekly,90
+Réunion,2016,45,weekly,101
+Réunion,2016,46,weekly,83
+Réunion,2016,47,weekly,83
+Réunion,2016,48,weekly,87
+Réunion,2016,49,weekly,82
+Réunion,2016,50,weekly,80
+Réunion,2016,51,weekly,87
+Réunion,2016,52,weekly,95
+Réunion,2017,1,weekly,109
+Réunion,2017,2,weekly,96
+Réunion,2017,3,weekly,91
+Réunion,2017,4,weekly,103
+Réunion,2017,5,weekly,95
+Réunion,2017,6,weekly,95
+Réunion,2017,7,weekly,83
+Réunion,2017,8,weekly,101
+Réunion,2017,9,weekly,100
+Réunion,2017,10,weekly,75
+Réunion,2017,11,weekly,75
+Réunion,2017,12,weekly,93
+Réunion,2017,13,weekly,84
+Réunion,2017,14,weekly,66
+Réunion,2017,15,weekly,70
+Réunion,2017,16,weekly,94
+Réunion,2017,17,weekly,66
+Réunion,2017,18,weekly,81
+Réunion,2017,19,weekly,91
+Réunion,2017,20,weekly,88
+Réunion,2017,21,weekly,70
+Réunion,2017,22,weekly,77
+Réunion,2017,23,weekly,71
+Réunion,2017,24,weekly,92
+Réunion,2017,25,weekly,90
+Réunion,2017,26,weekly,88
+Réunion,2017,27,weekly,73
+Réunion,2017,28,weekly,97
+Réunion,2017,29,weekly,81
+Réunion,2017,30,weekly,92
+Réunion,2017,31,weekly,99
+Réunion,2017,32,weekly,79
+Réunion,2017,33,weekly,90
+Réunion,2017,34,weekly,101
+Réunion,2017,35,weekly,102
+Réunion,2017,36,weekly,84
+Réunion,2017,37,weekly,103
+Réunion,2017,38,weekly,99
+Réunion,2017,39,weekly,106
+Réunion,2017,40,weekly,83
+Réunion,2017,41,weekly,96
+Réunion,2017,42,weekly,118
+Réunion,2017,43,weekly,98
+Réunion,2017,44,weekly,103
+Réunion,2017,45,weekly,93
+Réunion,2017,46,weekly,99
+Réunion,2017,47,weekly,90
+Réunion,2017,48,weekly,104
+Réunion,2017,49,weekly,97
+Réunion,2017,50,weekly,95
+Réunion,2017,51,weekly,84
+Réunion,2017,52,weekly,80
+Réunion,2018,1,weekly,98
+Réunion,2018,2,weekly,89
+Réunion,2018,3,weekly,101
+Réunion,2018,4,weekly,100
+Réunion,2018,5,weekly,95
+Réunion,2018,6,weekly,90
+Réunion,2018,7,weekly,98
+Réunion,2018,8,weekly,95
+Réunion,2018,9,weekly,102
+Réunion,2018,10,weekly,100
+Réunion,2018,11,weekly,91
+Réunion,2018,12,weekly,97
+Réunion,2018,13,weekly,112
+Réunion,2018,14,weekly,90
+Réunion,2018,15,weekly,89
+Réunion,2018,16,weekly,91
+Réunion,2018,17,weekly,97
+Réunion,2018,18,weekly,82
+Réunion,2018,19,weekly,104
+Réunion,2018,20,weekly,111
+Réunion,2018,21,weekly,97
+Réunion,2018,22,weekly,89
+Réunion,2018,23,weekly,98
+Réunion,2018,24,weekly,99
+Réunion,2018,25,weekly,113
+Réunion,2018,26,weekly,100
+Réunion,2018,27,weekly,97
+Réunion,2018,28,weekly,100
+Réunion,2018,29,weekly,84
+Réunion,2018,30,weekly,119
+Réunion,2018,31,weekly,98
+Réunion,2018,32,weekly,99
+Réunion,2018,33,weekly,88
+Réunion,2018,34,weekly,98
+Réunion,2018,35,weekly,94
+Réunion,2018,36,weekly,88
+Réunion,2018,37,weekly,83
+Réunion,2018,38,weekly,77
+Réunion,2018,39,weekly,111
+Réunion,2018,40,weekly,109
+Réunion,2018,41,weekly,116
+Réunion,2018,42,weekly,97
+Réunion,2018,43,weekly,107
+Réunion,2018,44,weekly,112
+Réunion,2018,45,weekly,96
+Réunion,2018,46,weekly,96
+Réunion,2018,47,weekly,96
+Réunion,2018,48,weekly,83
+Réunion,2018,49,weekly,95
+Réunion,2018,50,weekly,74
+Réunion,2018,51,weekly,89
+Réunion,2018,52,weekly,94
+Réunion,2019,1,weekly,107
+Réunion,2019,2,weekly,98
+Réunion,2019,3,weekly,97
+Réunion,2019,4,weekly,94
+Réunion,2019,5,weekly,107
+Réunion,2019,6,weekly,95
+Réunion,2019,7,weekly,94
+Réunion,2019,8,weekly,99
+Réunion,2019,9,weekly,114
+Réunion,2019,10,weekly,93
+Réunion,2019,11,weekly,118
+Réunion,2019,12,weekly,93
+Réunion,2019,13,weekly,91
+Réunion,2019,14,weekly,87
+Réunion,2019,15,weekly,72
+Réunion,2019,16,weekly,96
+Réunion,2019,17,weekly,88
+Réunion,2019,18,weekly,74
+Réunion,2019,19,weekly,105
+Réunion,2019,20,weekly,86
+Réunion,2019,21,weekly,91
+Réunion,2019,22,weekly,84
+Réunion,2019,23,weekly,94
+Réunion,2019,24,weekly,81
+Réunion,2019,25,weekly,97
+Réunion,2019,26,weekly,102
+Réunion,2019,27,weekly,94
+Réunion,2019,28,weekly,112
+Réunion,2019,29,weekly,104
+Réunion,2019,30,weekly,104
+Réunion,2019,31,weekly,97
+Réunion,2019,32,weekly,88
+Réunion,2019,33,weekly,84
+Réunion,2019,34,weekly,89
+Réunion,2019,35,weekly,96
+Réunion,2019,36,weekly,104
+Réunion,2019,37,weekly,106
+Réunion,2019,38,weekly,111
+Réunion,2019,39,weekly,102
+Réunion,2019,40,weekly,100
+Réunion,2019,41,weekly,101
+Réunion,2019,42,weekly,119
+Réunion,2019,43,weekly,116
+Réunion,2019,44,weekly,100
+Réunion,2019,45,weekly,113
+Réunion,2019,46,weekly,82
+Réunion,2019,47,weekly,112
+Réunion,2019,48,weekly,90
+Réunion,2019,49,weekly,100
+Réunion,2019,50,weekly,80
+Réunion,2019,51,weekly,109
+Réunion,2019,52,weekly,120
+Réunion,2020,1,weekly,87
+Réunion,2020,2,weekly,96
+Réunion,2020,3,weekly,93
+Réunion,2020,4,weekly,106
+Réunion,2020,5,weekly,87
+Réunion,2020,6,weekly,99
+Réunion,2020,7,weekly,107
+Réunion,2020,8,weekly,83
+Réunion,2020,9,weekly,77
+Réunion,2020,10,weekly,99
+Réunion,2020,11,weekly,102
+Réunion,2020,12,weekly,102
+Réunion,2020,13,weekly,87
+Réunion,2020,14,weekly,93
+Réunion,2020,15,weekly,80
+Réunion,2020,16,weekly,102
+Réunion,2020,17,weekly,69
+Réunion,2020,18,weekly,100
+Réunion,2020,19,weekly,106
+Réunion,2020,20,weekly,84
+Réunion,2020,21,weekly,89
+Réunion,2020,22,weekly,103
+Réunion,2020,23,weekly,108
+Réunion,2020,24,weekly,120
+Réunion,2020,25,weekly,101
+Réunion,2020,26,weekly,105
+Réunion,2020,27,weekly,98
+Réunion,2020,28,weekly,101
+Réunion,2020,29,weekly,99
+Réunion,2020,30,weekly,113
+Réunion,2020,31,weekly,108
+Réunion,2020,32,weekly,99
+Réunion,2020,33,weekly,124
+Réunion,2020,34,weekly,103
+Réunion,2020,35,weekly,107
+Réunion,2020,36,weekly,105
+Réunion,2020,37,weekly,99
+Réunion,2020,38,weekly,105
+Réunion,2020,39,weekly,92
+Réunion,2020,40,weekly,109
+Réunion,2020,41,weekly,103
+Réunion,2020,42,weekly,87
+Réunion,2020,43,weekly,93
+Réunion,2020,44,weekly,98
+Réunion,2020,45,weekly,106
+Réunion,2020,46,weekly,101
+Réunion,2020,47,weekly,112
+Réunion,2020,48,weekly,101
+Réunion,2020,49,weekly,103
+Réunion,2020,50,weekly,87
+Réunion,2020,51,weekly,95
+Réunion,2020,52,weekly,108
+Réunion,2020,53,weekly,113
+Réunion,2021,1,weekly,102
+Réunion,2021,2,weekly,107
+Réunion,2021,3,weekly,106
+Réunion,2021,4,weekly,91
+Réunion,2021,5,weekly,97
+Réunion,2021,6,weekly,109
+Réunion,2021,7,weekly,95
+Réunion,2021,8,weekly,106
+Réunion,2021,9,weekly,97
+Réunion,2021,10,weekly,119
+Réunion,2021,11,weekly,121
+Réunion,2021,12,weekly,123
+Réunion,2021,13,weekly,95
+Réunion,2021,14,weekly,107
+Réunion,2021,15,weekly,102
+Réunion,2021,16,weekly,108
+Réunion,2021,17,weekly,115
+Réunion,2021,18,weekly,101
+Réunion,2021,19,weekly,123
+Réunion,2021,20,weekly,90
+Réunion,2021,21,weekly,112
+Réunion,2021,22,weekly,125
 Romania,2015,1,weekly,5803
 Romania,2015,2,weekly,5848
 Romania,2015,3,weekly,5602
