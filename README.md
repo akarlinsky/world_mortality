@@ -64,7 +64,7 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 ### Armenia (monthly)
 
-Statistical Committee of the Republic of Armenia:  
+[Statistical Committee of the Republic of Armenia](https://www.armstat.am/):  
 
 2015: https://www.armstat.am/file/article/sv_12_15r_520.pdf  
 2016: https://www.armstat.am/file/article/sv_12_16r_520.pdf  
@@ -151,7 +151,7 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
 Direct link to the latest table in XLS:  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/05/Defunciones_Generales_act_23_MAY_2021.xlsx
+https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/06/Defunciones_Generales_act_20_JUN_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
