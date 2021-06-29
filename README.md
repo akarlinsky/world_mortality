@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 100 countries and territories.   
+We are currently providing data for 102 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -87,7 +87,7 @@ Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
 
-2021 Press release provides total deaths in January-February 2021. To transform to monthly counts, we dividied it by the ratio observed in 2020 between these two months. 
+2021 Press release provides total deaths in January-February 2021. To keep the data as monthly, we divided it equally between them. 
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -168,6 +168,11 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595
 2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/)
 
 
+### French Polynesia (monthly)
+2017 to 2020: https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=258&yearfrom=2015&yearto=2021&p=A
+Crude death rates were transformed to mortality counts by using the respective UNDATA Mid-Year Population estimates. 
+
+
 ### Georgia (monthly)
 2015-2020: Georgia National Office of Statistics (GEOSTAT): https://www.geostat.ge/en/modules/categories/320/deaths  
 
@@ -245,6 +250,15 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 ### Kyrgyzstan (monthly)
 2015 - 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2019 onward: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: http://www.stat.kg/kg/statistics/naselenie/ 
+
+
+### Lebanon (monthly)
+2015 - 2019: [Lebanon Ministry of Public Health Vital Statstics Bulletin Bulletin](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/327/statistical-bulletins)
+
+2017 - 2021: [Lebanon Ministry of Public Health Hospital-based Cause Of Death Notification System](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/20380/hospital-based-cause-of-death-statistics)
+
+2020 - 2021 weekly hospital-deaths data was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) and then turned to monthly. 
+Monthly hospital deaths have been corrected to total deaths using the ratio between total deaths to hospital deaths in 2019 (1.34). 
 
 
 ### Liechtenstein (monthly)
