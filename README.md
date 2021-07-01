@@ -383,7 +383,9 @@ The latest month is published on *rosstat.gov.ru* first and it takes several day
 
 
 ### Serbia (monthly)
-Statistical Office of the Republic of Serbia: https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/
+2015 to 2020: [Statistical Office of the Republic of Serbia Table Generator](https://data.stat.gov.rs/Home/Result/18030306?languageCode=en-US).
+
+2021 onwrd: [Statistical Office of the Republic of Serbia Births and Deahts](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
 
 
 ### Seychelles (monthly)

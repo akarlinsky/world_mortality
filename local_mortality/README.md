@@ -86,6 +86,8 @@ https://www.indiaspend.com/how-india-could-fill-in-the-blanks-on-excess-mortalit
 
 https://timesofindia.indiatimes.com/city/mumbai/13k-more-deaths-in-city-this-year-between-march-sept/articleshow/78920631.cms
 
+https://timesofindia.indiatimes.com/city/mumbai/excess-deaths-in-city-call-for-scientific-survey-tiss/articleshow/84001199.cms
+
 Information from [Sumitra Debroy](https://twitter.com/debroysumitra).
 
 ### Nagpur City
