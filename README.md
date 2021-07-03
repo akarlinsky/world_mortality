@@ -212,7 +212,9 @@ The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). W
 
 
 ### Ireland (monthly)
-2015 onward: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://www.cso.ie/en/releasesandpublications/fb/b-mpds/measuringmortalityusingpublicdatasources2019-2021/
+2015 - 2019: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://www.cso.ie/en/releasesandpublications/fb/b-mpds/measuringmortalityusingpublicdatasources2019-2021/
+
+2020 onward: CSO PxStat Daily Deaths: https://data.cso.ie/table/RIP02
 
 2015 to 2018 are official monthly data from CSO, 2019 onward is from the above CSO study which crawls and corrects [rip.ie](rip.ie) for up-to-date death notices. Note that These figures are preliminary and might change.
 
@@ -385,7 +387,7 @@ The latest month is published on *rosstat.gov.ru* first and it takes several day
 ### Serbia (monthly)
 2015 to 2020: [Statistical Office of the Republic of Serbia Table Generator](https://data.stat.gov.rs/Home/Result/18030306?languageCode=en-US).
 
-2021 onwrd: [Statistical Office of the Republic of Serbia Births and Deahts](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
+2021 onward: [Statistical Office of the Republic of Serbia Births and Deahts](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
 
 
 ### Seychelles (monthly)
