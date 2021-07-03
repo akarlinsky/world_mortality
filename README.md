@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 102 countries and territories.   
+We are currently providing data for 103 countries and territories.   
 We welcome any contributions.
 
 ![World Mortality coverage](coverage_map_title_fixed.png)
@@ -60,6 +60,11 @@ French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/e
 2015 to 2020: Email correspondence with [Andorra Department of Statistics](https://www.estadistica.ad/serveiestudis/web/index.asp?lang=1). 
 
 See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/noticies/noticia5913cat.pdf 
+
+
+### Argentina
+2015 to 2020: [Rearte et al. (2021) - All-cause excess mortality during the COVID-19 pandemic. Argentina, 2020](https://drive.google.com/file/d/11z2Iytptc74LGNGyEopCCOYzOig0Kode/view).     
+2020 and median 2015-2019 values were obtained were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
 
 ### Armenia (monthly)
