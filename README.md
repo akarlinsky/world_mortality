@@ -174,7 +174,7 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595
 
 
 ### French Polynesia (monthly)
-2017 to 2020: https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=258&yearfrom=2015&yearto=2021&p=A
+2017 to 2020: https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=258&yearfrom=2015&yearto=2021&p=A   
 Crude death rates were transformed to mortality counts by using the respective UNDATA Mid-Year Population estimates. 
 
 
