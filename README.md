@@ -4,9 +4,10 @@ This repository contains country-level data on all-cause mortality in 2015–202
 We are currently providing data for 103 countries and territories.   
 We welcome any contributions.
 
+If you use this data, please cite us as: Karlinsky & Kobak 2021, Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset, _eLife_ https://doi.org/10.7554/eLife.69336
+
 ![World Mortality coverage](coverage_map_title_fixed.png)
 
-**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://doi.org/10.1101/2021.01.27.21250604
 
 For the excess mortality analysis using this data see https://github.com/dkobak/excess-mortality.
 
