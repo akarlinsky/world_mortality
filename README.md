@@ -382,7 +382,9 @@ Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
 
 ### Russia (monthly)
 https://www.fedstat.ru/indicator/33556 (data available from 2006)  
-The latest month is published on *rosstat.gov.ru* first and it takes several days for the data to appear on *fedstat.ru*. The exact URL is always different. For November 2020, the URL is https://rosstat.gov.ru/storage/mediabank/ldMWepjj/edn11-2020.htm.
+The latest month is published on *rosstat.gov.ru* first and it takes several weeks for the data to appear on *fedstat.ru*. The exact URL is always different. For May 2021, the URL is https://rosstat.gov.ru/storage/mediabank/D4uPozCj/edn05-2021.htm.
+
+The number for June 2021 is a preliminary estimate based on the official statement from July 9, 2021, that the number of deaths in June rose by 13.9% compared to last year: https://ria.ru/20210709/smertonost-1740669673.html. We therefore estimate it as 162758 * 1.139 = 185381.4, where 162758 is the reported number of deaths in June 2020.
 
 
 ### San Marino (monthly)
