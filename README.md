@@ -49,7 +49,7 @@ We harmonize the data between these two sources by defaulting to STMF wherever p
 We collect the weekly data from Eurostat for the following countries: Cyprus, Malta, Montenegro, Romania: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts/default/table?lang=en
 
 Additionally, we collect weekly data from EuroStat for the five French Overseas Departments:
-French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk2_ts
+French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk2_ts/default/table?lang=en
 
 
 ### Albania (monthly)
