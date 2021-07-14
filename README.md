@@ -64,8 +64,9 @@ French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/e
 See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/noticies/noticia5913cat.pdf 
 
 
-### Argentina
-2015 to 2020: [Rearte et al. (2021) - All-cause excess mortality during the COVID-19 pandemic. Argentina, 2020](https://drive.google.com/file/d/11z2Iytptc74LGNGyEopCCOYzOig0Kode/view).     
+### Argentina (monthly)
+2015 to 2019: Email correspondence with [Argentina Ministry of Health: Health Statistics and Information Directorate](https://www.argentina.gob.ar/salud/deis).        
+2020: [Rearte et al. (2021) - All-cause excess mortality during the COVID-19 pandemic. Argentina, 2020](https://drive.google.com/file/d/11z2Iytptc74LGNGyEopCCOYzOig0Kode/view).     
 2020 and median 2015-2019 values were obtained were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
 
