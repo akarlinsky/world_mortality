@@ -101,6 +101,12 @@ Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 
+### Bermuda (monthly)
+2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1   
+
+2019 to 2020: Email correspondence with [Bermuda Department of Statistics](https://www.gov.bm/department/statistics). 
+
+
 ### Bolivia (monthly)
 2015 onward: Information obtained from The Bolivian Civil Registry - [Servicio de Registro Cívico (SERECI)](https://www.oep.org.bo/registro-civico/).
 
@@ -215,6 +221,8 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 ### Iran (quarterly)
 Iran National Organization for Civil Registration: https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3272&Page=Magazines/SquareshowMagazine
+
+Tehran Times: https://www.tehrantimes.com/news/456124/Civil-registration-in-Iran-turns-102
 
 The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
 
