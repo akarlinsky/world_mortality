@@ -1807,14 +1807,14 @@ Brazil,2020,7,monthly,147109
 Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
-Brazil,2020,11,monthly,123366.4
-Brazil,2020,12,monthly,139771.4
-Brazil,2021,1,monthly,146492.8
-Brazil,2021,2,monthly,134189
-Brazil,2021,3,monthly,203135.7
-Brazil,2021,4,monthly,202369.9
-Brazil,2021,5,monthly,176577.1
-Brazil,2021,6,monthly,175773.7
+Brazil,2020,11,monthly,123368.7
+Brazil,2020,12,monthly,139753.1
+Brazil,2021,1,monthly,146475.9
+Brazil,2021,2,monthly,134184.1
+Brazil,2021,3,monthly,203128.3
+Brazil,2021,4,monthly,202592.8
+Brazil,2021,5,monthly,176768.3
+Brazil,2021,6,monthly,175968.3
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -6445,54 +6445,78 @@ French Guiana,2021,25,weekly,NA
 French Guiana,2021,26,weekly,NA
 French Guiana,2021,27,weekly,NA
 French Guiana,2021,28,weekly,NA
-French Polynesia,2017,1,monthly,129
-French Polynesia,2017,2,monthly,152
-French Polynesia,2017,3,monthly,138
-French Polynesia,2017,4,monthly,182
-French Polynesia,2017,5,monthly,131
-French Polynesia,2017,6,monthly,108
-French Polynesia,2017,7,monthly,133
-French Polynesia,2017,8,monthly,129
-French Polynesia,2017,9,monthly,99
-French Polynesia,2017,10,monthly,124
-French Polynesia,2017,11,monthly,159
-French Polynesia,2017,12,monthly,126
-French Polynesia,2018,1,monthly,150
-French Polynesia,2018,2,monthly,143
-French Polynesia,2018,3,monthly,125
-French Polynesia,2018,4,monthly,145
-French Polynesia,2018,5,monthly,132
-French Polynesia,2018,6,monthly,152
-French Polynesia,2018,7,monthly,118
-French Polynesia,2018,8,monthly,148
-French Polynesia,2018,9,monthly,111
-French Polynesia,2018,10,monthly,120
-French Polynesia,2018,11,monthly,155
-French Polynesia,2018,12,monthly,118
-French Polynesia,2019,1,monthly,123
-French Polynesia,2019,2,monthly,134
-French Polynesia,2019,3,monthly,160
-French Polynesia,2019,4,monthly,118
-French Polynesia,2019,5,monthly,120
-French Polynesia,2019,6,monthly,120
-French Polynesia,2019,7,monthly,141
-French Polynesia,2019,8,monthly,144
-French Polynesia,2019,9,monthly,114
-French Polynesia,2019,10,monthly,134
-French Polynesia,2019,11,monthly,116
-French Polynesia,2019,12,monthly,137
-French Polynesia,2020,1,monthly,123
-French Polynesia,2020,2,monthly,140
-French Polynesia,2020,3,monthly,146
-French Polynesia,2020,4,monthly,144
-French Polynesia,2020,5,monthly,146
-French Polynesia,2020,6,monthly,128
-French Polynesia,2020,7,monthly,112
-French Polynesia,2020,8,monthly,114
-French Polynesia,2020,9,monthly,135
-French Polynesia,2020,10,monthly,140
-French Polynesia,2020,11,monthly,160
-French Polynesia,2020,12,monthly,177
+French Polynesia,2015,1,monthly,155
+French Polynesia,2015,2,monthly,95
+French Polynesia,2015,3,monthly,105
+French Polynesia,2015,4,monthly,131
+French Polynesia,2015,5,monthly,120
+French Polynesia,2015,6,monthly,94
+French Polynesia,2015,7,monthly,118
+French Polynesia,2015,8,monthly,124
+French Polynesia,2015,9,monthly,125
+French Polynesia,2015,10,monthly,111
+French Polynesia,2015,11,monthly,104
+French Polynesia,2015,12,monthly,127
+French Polynesia,2016,1,monthly,111
+French Polynesia,2016,2,monthly,111
+French Polynesia,2016,3,monthly,120
+French Polynesia,2016,4,monthly,126
+French Polynesia,2016,5,monthly,112
+French Polynesia,2016,6,monthly,110
+French Polynesia,2016,7,monthly,124
+French Polynesia,2016,8,monthly,113
+French Polynesia,2016,9,monthly,122
+French Polynesia,2016,10,monthly,114
+French Polynesia,2016,11,monthly,110
+French Polynesia,2016,12,monthly,121
+French Polynesia,2017,1,monthly,132
+French Polynesia,2017,2,monthly,139
+French Polynesia,2017,3,monthly,141
+French Polynesia,2017,4,monthly,179
+French Polynesia,2017,5,monthly,134
+French Polynesia,2017,6,monthly,106
+French Polynesia,2017,7,monthly,136
+French Polynesia,2017,8,monthly,131
+French Polynesia,2017,9,monthly,98
+French Polynesia,2017,10,monthly,126
+French Polynesia,2017,11,monthly,156
+French Polynesia,2017,12,monthly,130
+French Polynesia,2018,1,monthly,153
+French Polynesia,2018,2,monthly,132
+French Polynesia,2018,3,monthly,128
+French Polynesia,2018,4,monthly,143
+French Polynesia,2018,5,monthly,133
+French Polynesia,2018,6,monthly,151
+French Polynesia,2018,7,monthly,120
+French Polynesia,2018,8,monthly,150
+French Polynesia,2018,9,monthly,110
+French Polynesia,2018,10,monthly,123
+French Polynesia,2018,11,monthly,152
+French Polynesia,2018,12,monthly,121
+French Polynesia,2019,1,monthly,124
+French Polynesia,2019,2,monthly,124
+French Polynesia,2019,3,monthly,163
+French Polynesia,2019,4,monthly,117
+French Polynesia,2019,5,monthly,123
+French Polynesia,2019,6,monthly,118
+French Polynesia,2019,7,monthly,143
+French Polynesia,2019,8,monthly,147
+French Polynesia,2019,9,monthly,111
+French Polynesia,2019,10,monthly,138
+French Polynesia,2019,11,monthly,115
+French Polynesia,2019,12,monthly,140
+French Polynesia,2020,1,monthly,125
+French Polynesia,2020,2,monthly,133
+French Polynesia,2020,3,monthly,148
+French Polynesia,2020,4,monthly,141
+French Polynesia,2020,5,monthly,124
+French Polynesia,2020,6,monthly,126
+French Polynesia,2020,7,monthly,114
+French Polynesia,2020,8,monthly,115
+French Polynesia,2020,9,monthly,133
+French Polynesia,2020,10,monthly,141
+French Polynesia,2020,11,monthly,157
+French Polynesia,2020,12,monthly,179
 Georgia,2015,1,monthly,4575
 Georgia,2015,2,monthly,4177
 Georgia,2015,3,monthly,4725
@@ -14617,21 +14641,21 @@ Paraguay,2019,12,monthly,2729
 Paraguay,2020,1,monthly,2859
 Paraguay,2020,2,monthly,2856
 Paraguay,2020,3,monthly,3002
-Paraguay,2020,4,monthly,2555
-Paraguay,2020,5,monthly,2658
+Paraguay,2020,4,monthly,2557
+Paraguay,2020,5,monthly,2659
 Paraguay,2020,6,monthly,2824
 Paraguay,2020,7,monthly,2972
-Paraguay,2020,8,monthly,3423
-Paraguay,2020,9,monthly,3387
-Paraguay,2020,10,monthly,3388
-Paraguay,2020,11,monthly,3044
-Paraguay,2020,12,monthly,3432
-Paraguay,2021,1,monthly,3002
-Paraguay,2021,2,monthly,2995
-Paraguay,2021,3,monthly,4276
-Paraguay,2021,4,monthly,5648
-Paraguay,2021,5,monthly,6496
-Paraguay,2021,6,monthly,5301
+Paraguay,2020,8,monthly,3424
+Paraguay,2020,9,monthly,3389
+Paraguay,2020,10,monthly,3390
+Paraguay,2020,11,monthly,3046
+Paraguay,2020,12,monthly,3433
+Paraguay,2021,1,monthly,3004
+Paraguay,2021,2,monthly,2999
+Paraguay,2021,3,monthly,4307
+Paraguay,2021,4,monthly,5688
+Paraguay,2021,5,monthly,6579
+Paraguay,2021,6,monthly,5517
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -14929,18 +14953,21 @@ Philippines,2019,9,monthly,52035
 Philippines,2019,10,monthly,54980
 Philippines,2019,11,monthly,52787
 Philippines,2019,12,monthly,51862
-Philippines,2020,1,monthly,53476
-Philippines,2020,2,monthly,46236
-Philippines,2020,3,monthly,45941
-Philippines,2020,4,monthly,44711
-Philippines,2020,5,monthly,50193
-Philippines,2020,6,monthly,48446
-Philippines,2020,7,monthly,54385
-Philippines,2020,8,monthly,56792
-Philippines,2020,9,monthly,53905
-Philippines,2020,10,monthly,54117
-Philippines,2020,11,monthly,51459
-Philippines,2020,12,monthly,53606
+Philippines,2020,1,monthly,53506
+Philippines,2020,2,monthly,46264
+Philippines,2020,3,monthly,46003
+Philippines,2020,4,monthly,44777
+Philippines,2020,5,monthly,50257
+Philippines,2020,6,monthly,48494
+Philippines,2020,7,monthly,54427
+Philippines,2020,8,monthly,56843
+Philippines,2020,9,monthly,53968
+Philippines,2020,10,monthly,54211
+Philippines,2020,11,monthly,51581
+Philippines,2020,12,monthly,53769
+Philippines,2021,1,monthly,57140
+Philippines,2021,2,monthly,52638
+Philippines,2021,3,monthly,60689
 Poland,2015,1,weekly,7984
 Poland,2015,2,weekly,7754
 Poland,2015,3,weekly,7800
@@ -15621,6 +15648,8 @@ Portugal,2021,22,weekly,1882
 Portugal,2021,23,weekly,1940
 Portugal,2021,24,weekly,1972
 Portugal,2021,25,weekly,1824
+Portugal,2021,26,weekly,1939
+Portugal,2021,27,weekly,1912
 Qatar,2015,1,monthly,210
 Qatar,2015,2,monthly,196
 Qatar,2015,3,monthly,191
