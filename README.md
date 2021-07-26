@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 103 countries and territories.   
+We are currently providing data for 104 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -67,7 +67,7 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 ### Argentina (monthly)
 2015 to 2019: Email correspondence with [Argentina Ministry of Health: Health Statistics and Information Directorate](https://www.argentina.gob.ar/salud/deis).        
 2020: [Rearte et al. (2021) - All-cause excess mortality during the COVID-19 pandemic. Argentina, 2020](https://drive.google.com/file/d/11z2Iytptc74LGNGyEopCCOYzOig0Kode/view).     
-2020 and median 2015-2019 values were obtained were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
+2020 values were obtained were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
 
 ### Armenia (monthly)
