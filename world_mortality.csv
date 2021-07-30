@@ -1514,7 +1514,8 @@ Belgium,2021,23,weekly,1863
 Belgium,2021,24,weekly,1952
 Belgium,2021,25,weekly,1758
 Belgium,2021,26,weekly,1869
-Belgium,2021,27,weekly,1777
+Belgium,2021,27,weekly,1798
+Belgium,2021,28,weekly,1819
 Bermuda,2015,1,monthly,53
 Bermuda,2015,2,monthly,44
 Bermuda,2015,3,monthly,41
@@ -4603,6 +4604,7 @@ Denmark,2021,25,weekly,1004
 Denmark,2021,26,weekly,1060
 Denmark,2021,27,weekly,948
 Denmark,2021,28,weekly,1057
+Denmark,2021,29,weekly,1025
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -9901,6 +9903,9 @@ Kosovo,2020,12,monthly,1026
 Kosovo,2021,1,monthly,1167
 Kosovo,2021,2,monthly,1187
 Kosovo,2021,3,monthly,1177
+Kosovo,2021,4,monthly,1241
+Kosovo,2021,5,monthly,1023
+Kosovo,2021,6,monthly,1132
 Kyrgyzstan,2015,1,monthly,3051
 Kyrgyzstan,2015,2,monthly,2840
 Kyrgyzstan,2015,3,monthly,3041
@@ -14131,6 +14136,7 @@ North Macedonia,2021,1,monthly,2149
 North Macedonia,2021,2,monthly,2133
 North Macedonia,2021,3,monthly,2643
 North Macedonia,2021,4,monthly,3153
+North Macedonia,2021,5,monthly,2453
 Norway,2015,1,weekly,937
 Norway,2015,2,weekly,977
 Norway,2015,3,weekly,913
