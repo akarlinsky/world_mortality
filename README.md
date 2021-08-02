@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 104 countries and territories.   
+We are currently providing data for 105 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -180,6 +180,10 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595
 
 ### El Salvador (monthly)
 2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/)
+
+
+### Faroe Islands (monthly)
+2015 onward: [Statistics Faroe Islands](https://hagstova.fo/en/population/births-and-deaths/deaths)
 
 
 ### French Polynesia (monthly)
