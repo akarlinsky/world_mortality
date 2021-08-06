@@ -1816,14 +1816,14 @@ Brazil,2020,7,monthly,147109
 Brazil,2020,8,monthly,142756
 Brazil,2020,9,monthly,127773
 Brazil,2020,10,monthly,128250
-Brazil,2020,11,monthly,123369.5
-Brazil,2020,12,monthly,139772.1
-Brazil,2021,1,monthly,146494.1
-Brazil,2021,2,monthly,134211.4
-Brazil,2021,3,monthly,203306.7
-Brazil,2021,4,monthly,202686.3
-Brazil,2021,5,monthly,176868.5
-Brazil,2021,6,monthly,176279.3
+Brazil,2020,11,monthly,123374.5
+Brazil,2020,12,monthly,139775
+Brazil,2021,1,monthly,146485.8
+Brazil,2021,2,monthly,134230.8
+Brazil,2021,3,monthly,203301.2
+Brazil,2021,4,monthly,202725
+Brazil,2021,5,monthly,176884
+Brazil,2021,6,monthly,176377.6
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -11351,10 +11351,11 @@ Macao,2020,10,monthly,184
 Macao,2020,11,monthly,192
 Macao,2020,12,monthly,190
 Macao,2021,1,monthly,211
-Macao,2021,2,monthly,191
-Macao,2021,3,monthly,184
-Macao,2021,4,monthly,173
-Macao,2021,5,monthly,176
+Macao,2021,2,monthly,192
+Macao,2021,3,monthly,186
+Macao,2021,4,monthly,187
+Macao,2021,5,monthly,181
+Macao,2021,6,monthly,186
 Malaysia,2015,1,monthly,14073
 Malaysia,2015,2,monthly,12247
 Malaysia,2015,3,monthly,13397
@@ -16668,7 +16669,8 @@ Russia,2021,2,monthly,172672
 Russia,2021,3,monthly,191320
 Russia,2021,4,monthly,168345
 Russia,2021,5,monthly,162283
-Russia,2021,6,monthly,185381.4
+Russia,2021,6,monthly,185655
+Russia,2021,7,monthly,213963.7
 San Marino,2015,1,monthly,27
 San Marino,2015,2,monthly,17
 San Marino,2015,3,monthly,19
