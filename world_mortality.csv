@@ -1522,6 +1522,7 @@ Belgium,2021,25,weekly,1768
 Belgium,2021,26,weekly,1907
 Belgium,2021,27,weekly,1798
 Belgium,2021,28,weekly,1819
+Belgium,2021,29,weekly,1940
 Bermuda,2015,1,monthly,53
 Bermuda,2015,2,monthly,44
 Bermuda,2015,3,monthly,41
@@ -4627,6 +4628,7 @@ Denmark,2021,26,weekly,1060
 Denmark,2021,27,weekly,948
 Denmark,2021,28,weekly,1067
 Denmark,2021,29,weekly,1025
+Denmark,2021,30,weekly,1036
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -8607,6 +8609,7 @@ Hungary,2021,23,weekly,2269
 Hungary,2021,24,weekly,2209
 Hungary,2021,25,weekly,2397
 Hungary,2021,26,weekly,2056
+Hungary,2021,27,weekly,2067
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -17650,6 +17653,10 @@ Slovenia,2021,21,weekly,389
 Slovenia,2021,22,weekly,406
 Slovenia,2021,23,weekly,377
 Slovenia,2021,24,weekly,379
+Slovenia,2021,25,weekly,375
+Slovenia,2021,26,weekly,379
+Slovenia,2021,27,weekly,334
+Slovenia,2021,28,weekly,323
 South Africa,0,1,weekly,9708
 South Africa,0,2,weekly,8753
 South Africa,0,3,weekly,8552
@@ -20530,6 +20537,12 @@ Uruguay,2020,9,monthly,2853
 Uruguay,2020,10,monthly,2712
 Uruguay,2020,11,monthly,2579
 Uruguay,2020,12,monthly,2859
+Uruguay,2021,1,monthly,3140
+Uruguay,2021,2,monthly,1877
+Uruguay,2021,3,monthly,3115
+Uruguay,2021,4,monthly,4467
+Uruguay,2021,5,monthly,4808
+Uruguay,2021,6,monthly,4437
 Uzbekistan,2015,1,monthly,9402
 Uzbekistan,2015,2,monthly,13028
 Uzbekistan,2015,3,monthly,12873

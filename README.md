@@ -476,6 +476,8 @@ The data from the report's figure 1 was digitized using [WebPlotDigitizer](https
 2015 - 2019: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
 2020: [Cruz Castanheira, Monteiro da Silva, Del Popolo & Bay (2021)](https://submissions2.mirasmart.com/Verify/PAA2021/Submission/Temp/radd1ojc3g3.pdf), Table 3.
 
+2021: [El Pais - Uruguay](https://www.elpais.com.uy/informacion/salud/covid-principal-causa-muerte-semestre-represento-fallecimientos.html) as obtained from Uruguay Ministry of Public Health
+
 
 ### Thailand (monthly)
 2015 onward: Official Statistics Registration Systems:
