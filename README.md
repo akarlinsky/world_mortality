@@ -100,6 +100,8 @@ Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
+July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401342.html
+
 
 ### Bermuda (monthly)
 2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1   
