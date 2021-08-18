@@ -91,7 +91,7 @@ Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
 2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip   
-2021: https://www.stat.gov.az/news/index.php?id=4860
+2021: https://www.stat.gov.az/news/macroeconomy.php
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
 
