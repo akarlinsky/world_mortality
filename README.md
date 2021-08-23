@@ -95,7 +95,6 @@ Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
 
-2021 Press release provides total deaths in January-February 2021. To keep the data as monthly, we divided it equally between them. 
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
