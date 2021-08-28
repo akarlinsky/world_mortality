@@ -4677,6 +4677,9 @@ Denmark,2021,27,weekly,950
 Denmark,2021,28,weekly,1070
 Denmark,2021,29,weekly,1040
 Denmark,2021,30,weekly,1036
+Denmark,2021,31,weekly,1133
+Denmark,2021,32,weekly,1079
+Denmark,2021,33,weekly,1025
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -8671,6 +8674,7 @@ Hungary,2021,26,weekly,2210
 Hungary,2021,27,weekly,2144
 Hungary,2021,28,weekly,2059
 Hungary,2021,29,weekly,1993
+Hungary,2021,30,weekly,2173
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -9789,6 +9793,10 @@ Italy,2021,18,weekly,12278
 Italy,2021,19,weekly,11918
 Italy,2021,20,weekly,11613
 Italy,2021,21,weekly,11269
+Italy,2021,22,weekly,11501
+Italy,2021,23,weekly,11420
+Italy,2021,24,weekly,11166
+Italy,2021,25,weekly,12232
 Jamaica,2015,1,monthly,1735
 Jamaica,2015,2,monthly,1511
 Jamaica,2015,3,monthly,1517
@@ -11017,6 +11025,7 @@ Lithuania,2021,28,weekly,859
 Lithuania,2021,29,weekly,686
 Lithuania,2021,30,weekly,736
 Lithuania,2021,31,weekly,711
+Lithuania,2021,32,weekly,772
 Luxembourg,2015,1,weekly,81
 Luxembourg,2015,2,weekly,87
 Luxembourg,2015,3,weekly,80
@@ -15941,7 +15950,8 @@ Portugal,2021,27,weekly,1945
 Portugal,2021,28,weekly,2053
 Portugal,2021,29,weekly,1950
 Portugal,2021,30,weekly,1947
-Portugal,2021,31,weekly,2022
+Portugal,2021,31,weekly,2046
+Portugal,2021,32,weekly,2059
 Qatar,2015,1,monthly,210
 Qatar,2015,2,monthly,196
 Qatar,2015,3,monthly,191
@@ -16776,7 +16786,7 @@ Russia,2021,3,monthly,191320
 Russia,2021,4,monthly,168345
 Russia,2021,5,monthly,162283
 Russia,2021,6,monthly,185655
-Russia,2021,7,monthly,213963.7
+Russia,2021,7,monthly,215265
 San Marino,2015,1,monthly,27
 San Marino,2015,2,monthly,17
 San Marino,2015,3,monthly,19
