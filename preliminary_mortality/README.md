@@ -34,6 +34,9 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 ### Bengaluru City, India (January 1st to July 31st)
 2019-2020: https://www.thehindu.com/news/national/karnataka/32-increase-in-mortality-rate-in-bengaluru-patil/article32509298.ece
 
+### Costa Rica (Half-Yearly)
+2015-2021: https://www.inec.cr/estadisticas-vitales
+Monthly data 2015 to 2020 is on [World Mortality](https://github.com/akarlinsky/world_mortality). Monthly data for 2021 is only expected by March 2022, while data for first half of 2021 already exists. 
 
 ### Tamil Nadu State, India
 Removed from Preliminary Mortality, now available on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) by month. 
@@ -57,7 +60,7 @@ Total monthly counts for Bosnia & Herzegovina are available at [World Mortality]
 ### Turkey (Monthly)
 2015 - 2019: [Turkey Statistical Institute Monthly Deaths](https://biruni.tuik.gov.tr/medas/?kn=114&locale=en)
 
-2020 - 2021: [Güçlü Yaman](https://twitter.com/GucluYaman)'s [collection of all-cause-mortality from 24 cities in Turkey](https://github.com/gucluyaman/Excess-mortality-in-Turkey) which cover about 50% of deaths in Turkey in ordinary times. Monthly total from these cities in 2020-2021 were projected to the entirety of Turkey using the monthly ratios between deaths in 2019 (ranges from 49.2% to 51.7%). 
+2020 - 2021: [Güçlü Yaman](https://twitter.com/GucluYaman)'s [collection of all-cause-mortality from 21 cities in Turkey](https://gucluyaman.com/excess-mortality-in-turkey/) which cover about 47% of deaths in Turkey in ordinary times. Monthly total from these cities in 2020-2021 were projected to the entirety of Turkey using the 47% ratio between deaths in 2019. 
 
 ### Kuwait (Annual)
 [Alahmad, AlMekhled, Odeh & Gasana (2021)](https://www.medrxiv.org/content/10.1101/2021.03.25.21254360v1.full.pdf), obtained from Kuwait
