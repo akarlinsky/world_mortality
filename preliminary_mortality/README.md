@@ -10,6 +10,7 @@ Sources are listed below the figures. We welcome any contributions.
 
 
 ![Albania](plot_albania.png)
+![Costa Rica](plot_costa_rica.png)
 ![Gujarat](plot_gujarat.png)
 ![Srpska](plot_srpska.png)
 ![Bosnia](plot_bosnia.png)
