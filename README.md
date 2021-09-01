@@ -471,9 +471,7 @@ The data from the report's figure 1 was digitized using [WebPlotDigitizer](https
 
 
 ### Uruguay (monthly)
-2015 - 2019: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
-2020: [Cruz Castanheira, Monteiro da Silva, Del Popolo & Bay (2021)](https://submissions2.mirasmart.com/Verify/PAA2021/Submission/Temp/radd1ojc3g3.pdf), Table 3.
-
+2015 - 2020: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
 2021: [El Pais - Uruguay](https://www.elpais.com.uy/informacion/salud/covid-principal-causa-muerte-semestre-represento-fallecimientos.html) as obtained from Uruguay Ministry of Public Health
 
 
@@ -496,7 +494,7 @@ Access by: Statistical Information -> Population and migration -> Number of live
 
 2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
 
-2021: https://www.stat.uz/images/uploads/reliz2021/demografiya_mart_uz.pdf
+2021: https://www.stat.uz/images/uploads/reliz2021/demografiyauzb0721uz.pdf
 
 
 ### United States (weekly)
