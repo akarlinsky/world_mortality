@@ -5945,6 +5945,7 @@ Finland,2021,28,weekly,1121
 Finland,2021,29,weekly,988
 Finland,2021,30,weekly,989
 Finland,2021,31,weekly,983
+Finland,2021,32,weekly,1014
 France,2015,1,weekly,12804
 France,2015,2,weekly,13142
 France,2015,3,weekly,12803
@@ -7121,6 +7122,7 @@ Germany,2021,29,weekly,17483
 Germany,2021,30,weekly,17187
 Germany,2021,31,weekly,17017
 Germany,2021,32,weekly,17837
+Germany,2021,33,weekly,17819
 Gibraltar,2015,1,monthly,25
 Gibraltar,2015,2,monthly,26
 Gibraltar,2015,3,monthly,22
@@ -10532,6 +10534,7 @@ Latvia,2021,28,weekly,629
 Latvia,2021,29,weekly,505
 Latvia,2021,30,weekly,542
 Latvia,2021,31,weekly,550
+Latvia,2021,32,weekly,492
 Lebanon,2015,1,monthly,2291
 Lebanon,2015,2,monthly,2211
 Lebanon,2015,3,monthly,2502
@@ -11034,6 +11037,7 @@ Lithuania,2021,29,weekly,686
 Lithuania,2021,30,weekly,736
 Lithuania,2021,31,weekly,711
 Lithuania,2021,32,weekly,772
+Lithuania,2021,33,weekly,799
 Luxembourg,2015,1,weekly,81
 Luxembourg,2015,2,weekly,87
 Luxembourg,2015,3,weekly,80
@@ -11374,6 +11378,10 @@ Luxembourg,2021,23,weekly,81
 Luxembourg,2021,24,weekly,85
 Luxembourg,2021,25,weekly,69
 Luxembourg,2021,26,weekly,85
+Luxembourg,2021,27,weekly,76
+Luxembourg,2021,28,weekly,86
+Luxembourg,2021,29,weekly,69
+Luxembourg,2021,30,weekly,66
 Macao,2015,1,monthly,193
 Macao,2015,2,monthly,163
 Macao,2015,3,monthly,186
@@ -13050,6 +13058,8 @@ Moldova,2020,12,monthly,4754
 Moldova,2021,1,monthly,4129
 Moldova,2021,2,monthly,3690
 Moldova,2021,3,monthly,4908
+Moldova,2021,4,monthly,4345
+Moldova,2021,5,monthly,3378
 Monaco,2015,1,monthly,60
 Monaco,2015,2,monthly,70
 Monaco,2015,3,monthly,50
@@ -14722,6 +14732,7 @@ Norway,2021,29,weekly,744
 Norway,2021,30,weekly,718
 Norway,2021,31,weekly,728
 Norway,2021,32,weekly,703
+Norway,2021,33,weekly,695
 Oman,2015,1,monthly,732
 Oman,2015,2,monthly,550
 Oman,2015,3,monthly,602
@@ -19310,6 +19321,7 @@ Switzerland,2021,27,weekly,1135
 Switzerland,2021,28,weekly,1136
 Switzerland,2021,29,weekly,1171
 Switzerland,2021,30,weekly,1093
+Switzerland,2021,31,weekly,1089
 Taiwan,2015,1,monthly,14310
 Taiwan,2015,2,monthly,12122
 Taiwan,2015,3,monthly,16092
