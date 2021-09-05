@@ -3580,6 +3580,11 @@ Croatia,2021,22,weekly,1132
 Croatia,2021,23,weekly,1047
 Croatia,2021,24,weekly,1017
 Croatia,2021,25,weekly,1061
+Croatia,2021,26,weekly,976
+Croatia,2021,27,weekly,993
+Croatia,2021,28,weekly,964
+Croatia,2021,29,weekly,849
+Croatia,2021,30,weekly,908
 Cuba,2015,1,monthly,8543
 Cuba,2015,2,monthly,8692
 Cuba,2015,3,monthly,7986
@@ -4686,6 +4691,7 @@ Denmark,2021,30,weekly,1052
 Denmark,2021,31,weekly,1133
 Denmark,2021,32,weekly,1079
 Denmark,2021,33,weekly,1025
+Denmark,2021,34,weekly,1044
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -8683,6 +8689,7 @@ Hungary,2021,27,weekly,2241
 Hungary,2021,28,weekly,2222
 Hungary,2021,29,weekly,1993
 Hungary,2021,30,weekly,2173
+Hungary,2021,31,weekly,1980
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -9018,32 +9025,236 @@ Iceland,2021,18,weekly,53
 Iceland,2021,19,weekly,40
 Iceland,2021,20,weekly,39
 Iceland,2021,21,weekly,35
-Iran,2015,1,quarterly (Solar Hijri),104609
-Iran,2015,2,quarterly (Solar Hijri),91198
-Iran,2015,3,quarterly (Solar Hijri),90009
-Iran,2015,4,quarterly (Solar Hijri),90451
-Iran,2016,1,quarterly (Solar Hijri),95026
-Iran,2016,2,quarterly (Solar Hijri),90558
-Iran,2016,3,quarterly (Solar Hijri),88026
-Iran,2016,4,quarterly (Solar Hijri),95737
-Iran,2017,1,quarterly (Solar Hijri),94831
-Iran,2017,2,quarterly (Solar Hijri),93067
-Iran,2017,3,quarterly (Solar Hijri),88002
-Iran,2017,4,quarterly (Solar Hijri),94214
-Iran,2018,1,quarterly (Solar Hijri),101030
-Iran,2018,2,quarterly (Solar Hijri),90214
-Iran,2018,3,quarterly (Solar Hijri),91737
-Iran,2018,4,quarterly (Solar Hijri),93863
-Iran,2019,1,quarterly (Solar Hijri),101210
-Iran,2019,2,quarterly (Solar Hijri),91742
-Iran,2019,3,quarterly (Solar Hijri),94441
-Iran,2019,4,quarterly (Solar Hijri),103422
-Iran,2020,1,quarterly (Solar Hijri),105787
-Iran,2020,2,quarterly (Solar Hijri),110384
-Iran,2020,3,quarterly (Solar Hijri),131294
-Iran,2020,4,quarterly (Solar Hijri),156857.43
-Iran,2021,1,quarterly (Solar Hijri),113237.43
-Iran,2021,2,quarterly (Solar Hijri),134334
+Iran,2017,13,weekly,8816.1
+Iran,2017,14,weekly,6595.3
+Iran,2017,15,weekly,6960.4
+Iran,2017,16,weekly,7269.7
+Iran,2017,17,weekly,7067.9
+Iran,2017,18,weekly,6895.9
+Iran,2017,19,weekly,6687.9
+Iran,2017,20,weekly,6704
+Iran,2017,21,weekly,7018.6
+Iran,2017,22,weekly,6810.7
+Iran,2017,23,weekly,6189.7
+Iran,2017,24,weekly,6799.9
+Iran,2017,25,weekly,6458.4
+Iran,2017,26,weekly,6046.1
+Iran,2017,27,weekly,7194.7
+Iran,2017,28,weekly,6619.7
+Iran,2017,29,weekly,6358.1
+Iran,2017,30,weekly,7120.6
+Iran,2017,31,weekly,6540
+Iran,2017,32,weekly,6540
+Iran,2017,33,weekly,6524.6
+Iran,2017,34,weekly,6627.3
+Iran,2017,35,weekly,6682.3
+Iran,2017,36,weekly,6644
+Iran,2017,37,weekly,6405.9
+Iran,2017,38,weekly,6531.3
+Iran,2017,39,weekly,6873.6
+Iran,2017,40,weekly,6362.1
+Iran,2017,41,weekly,6883.4
+Iran,2017,42,weekly,6889.1
+Iran,2017,43,weekly,7417.3
+Iran,2017,44,weekly,6935.9
+Iran,2017,45,weekly,6611.9
+Iran,2017,46,weekly,7285.3
+Iran,2017,47,weekly,7142
+Iran,2017,48,weekly,7430.4
+Iran,2017,49,weekly,7377.7
+Iran,2017,50,weekly,7940.4
+Iran,2017,51,weekly,7879.6
+Iran,2017,52,weekly,8319
+Iran,2018,1,weekly,8203.6
+Iran,2018,2,weekly,8065.1
+Iran,2018,3,weekly,8326.1
+Iran,2018,4,weekly,8301
+Iran,2018,5,weekly,7971
+Iran,2018,6,weekly,8136.6
+Iran,2018,7,weekly,7346.1
+Iran,2018,8,weekly,7520
+Iran,2018,9,weekly,7852.9
+Iran,2018,10,weekly,7284.7
+Iran,2018,11,weekly,6607.3
+Iran,2018,13,weekly,7961.7
+Iran,2018,14,weekly,6297.4
+Iran,2018,15,weekly,7205.4
+Iran,2018,16,weekly,6600.4
+Iran,2018,17,weekly,7047.1
+Iran,2018,18,weekly,6475.3
+Iran,2018,19,weekly,7089.4
+Iran,2018,20,weekly,6720.1
+Iran,2018,21,weekly,6879.3
+Iran,2018,22,weekly,6169.4
+Iran,2018,23,weekly,5679.1
+Iran,2018,24,weekly,7236.6
+Iran,2018,25,weekly,6592.4
+Iran,2018,26,weekly,7107.9
+Iran,2018,27,weekly,6991.6
+Iran,2018,28,weekly,7053.4
+Iran,2018,29,weekly,7388.1
+Iran,2018,30,weekly,7339.4
+Iran,2018,31,weekly,7289.1
+Iran,2018,32,weekly,6953
+Iran,2018,33,weekly,6526.1
+Iran,2018,34,weekly,6066.7
+Iran,2018,35,weekly,6795.7
+Iran,2018,36,weekly,7148.9
+Iran,2018,37,weekly,6293.6
+Iran,2018,38,weekly,6165.3
+Iran,2018,39,weekly,8111.7
+Iran,2018,40,weekly,7031.6
+Iran,2018,41,weekly,6894
+Iran,2018,42,weekly,7000.3
+Iran,2018,43,weekly,6918.1
+Iran,2018,44,weekly,6449.6
+Iran,2018,45,weekly,6699.4
+Iran,2018,46,weekly,7991.6
+Iran,2018,47,weekly,7213.1
+Iran,2018,48,weekly,7463
+Iran,2018,49,weekly,7574.6
+Iran,2018,50,weekly,7382
+Iran,2018,51,weekly,7509.7
+Iran,2018,52,weekly,8288.3
+Iran,2019,1,weekly,8154.9
+Iran,2019,2,weekly,8268.9
+Iran,2019,3,weekly,8285
+Iran,2019,4,weekly,8092.7
+Iran,2019,5,weekly,8049.3
+Iran,2019,6,weekly,7604.4
+Iran,2019,7,weekly,7033.1
+Iran,2019,8,weekly,7713.7
+Iran,2019,9,weekly,7457.4
+Iran,2019,10,weekly,7318.4
+Iran,2019,11,weekly,7086.7
+Iran,2019,12,weekly,8213.1
+Iran,2019,13,weekly,6674.1
+Iran,2019,14,weekly,5990.3
+Iran,2019,15,weekly,8573.7
+Iran,2019,16,weekly,6930.9
+Iran,2019,17,weekly,7044.7
+Iran,2019,18,weekly,7267.3
+Iran,2019,19,weekly,7090.1
+Iran,2019,20,weekly,6618.4
+Iran,2019,21,weekly,6859.7
+Iran,2019,22,weekly,6296.4
+Iran,2019,23,weekly,5796.4
+Iran,2019,24,weekly,8112.9
+Iran,2019,25,weekly,7125
+Iran,2019,26,weekly,7127.3
+Iran,2019,27,weekly,7233.7
+Iran,2019,28,weekly,7153
+Iran,2019,29,weekly,7202.4
+Iran,2019,30,weekly,7425.9
+Iran,2019,31,weekly,7300.4
+Iran,2019,32,weekly,6926.6
+Iran,2019,33,weekly,6404.1
+Iran,2019,34,weekly,6780.1
+Iran,2019,35,weekly,7469.4
+Iran,2019,36,weekly,6742.4
+Iran,2019,37,weekly,6172.6
+Iran,2019,38,weekly,7441.9
+Iran,2019,39,weekly,7408.1
+Iran,2019,40,weekly,7248.9
+Iran,2019,41,weekly,7090
+Iran,2019,42,weekly,7095.7
+Iran,2019,43,weekly,7050.6
+Iran,2019,44,weekly,6959.4
+Iran,2019,45,weekly,8068.3
+Iran,2019,46,weekly,8699.3
+Iran,2019,47,weekly,8571.4
+Iran,2019,48,weekly,9409.3
+Iran,2019,49,weekly,8816.3
+Iran,2019,50,weekly,8597.4
+Iran,2019,51,weekly,8264.3
+Iran,2019,52,weekly,7982
+Iran,2020,1,weekly,7868.7
+Iran,2020,2,weekly,7527.1
+Iran,2020,3,weekly,7717.3
+Iran,2020,4,weekly,7509.4
+Iran,2020,5,weekly,7443.1
+Iran,2020,6,weekly,8022.6
+Iran,2020,7,weekly,7343.6
+Iran,2020,8,weekly,8151
+Iran,2020,9,weekly,7895.3
+Iran,2020,10,weekly,8737
+Iran,2020,11,weekly,9865.7
+Iran,2020,12,weekly,10646.6
+Iran,2020,13,weekly,8696.7
+Iran,2020,14,weekly,8087.9
+Iran,2020,15,weekly,10126.3
+Iran,2020,16,weekly,9272.4
+Iran,2020,17,weekly,8380.7
+Iran,2020,18,weekly,8146.1
+Iran,2020,19,weekly,7577.6
+Iran,2020,20,weekly,7311.3
+Iran,2020,21,weekly,7493.6
+Iran,2020,22,weekly,6933.6
+Iran,2020,23,weekly,7831.1
+Iran,2020,24,weekly,9429.4
+Iran,2020,25,weekly,8421
+Iran,2020,26,weekly,9823.3
+Iran,2020,27,weekly,9477.4
+Iran,2020,28,weekly,9826.1
+Iran,2020,29,weekly,10213.9
+Iran,2020,30,weekly,10512.1
+Iran,2020,31,weekly,11327.3
+Iran,2020,32,weekly,10651.7
+Iran,2020,33,weekly,9549.9
+Iran,2020,34,weekly,9726.1
+Iran,2020,35,weekly,9369.7
+Iran,2020,36,weekly,8351.4
+Iran,2020,37,weekly,9179.1
+Iran,2020,38,weekly,9046
+Iran,2020,39,weekly,9571.6
+Iran,2020,40,weekly,10081.1
+Iran,2020,41,weekly,10211.3
+Iran,2020,42,weekly,11648
+Iran,2020,43,weekly,11606.9
+Iran,2020,44,weekly,13075.6
+Iran,2020,45,weekly,14019.1
+Iran,2020,46,weekly,15608.4
+Iran,2020,47,weekly,14411.7
+Iran,2020,48,weekly,13887
+Iran,2020,49,weekly,12210.7
+Iran,2020,50,weekly,11198.1
+Iran,2020,51,weekly,10653.7
+Iran,2020,52,weekly,9764.3
+Iran,2020,53,weekly,9316
+Iran,2021,1,weekly,8929
+Iran,2021,2,weekly,8628.3
+Iran,2021,3,weekly,8651.4
+Iran,2021,4,weekly,8933.9
+Iran,2021,5,weekly,8426.1
+Iran,2021,6,weekly,7880.7
+Iran,2021,7,weekly,8528.4
+Iran,2021,8,weekly,8304.3
+Iran,2021,9,weekly,8672.1
+Iran,2021,10,weekly,8497.3
+Iran,2021,11,weekly,9341.1
+Iran,2021,12,weekly,5860.7
+Iran,2021,13,weekly,9754.9
+Iran,2021,14,weekly,10664.1
+Iran,2021,15,weekly,10997.9
+Iran,2021,16,weekly,12153.1
+Iran,2021,17,weekly,12372.7
+Iran,2021,18,weekly,10916.4
+Iran,2021,19,weekly,10800.3
+Iran,2021,20,weekly,11003.9
+Iran,2021,21,weekly,10225
+Iran,2021,22,weekly,9352
+Iran,2021,23,weekly,9142.4
+Iran,2021,24,weekly,9257.1
+Iran,2021,25,weekly,8625.9
+Iran,2021,26,weekly,8929.7
+Iran,2021,27,weekly,8708
+Iran,2021,28,weekly,9588.6
+Iran,2021,29,weekly,9209.3
+Iran,2021,30,weekly,11563.9
+Iran,2021,31,weekly,13007.6
+Iran,2021,32,weekly,12663.3
+Iran,2021,33,weekly,14426.4
+Iran,2021,34,weekly,18497.7
 Ireland,2015,1,monthly,2967
 Ireland,2015,2,monthly,2756
 Ireland,2015,3,monthly,2875
@@ -14962,13 +15173,13 @@ Paraguay,2020,9,monthly,3393
 Paraguay,2020,10,monthly,3393
 Paraguay,2020,11,monthly,3064
 Paraguay,2020,12,monthly,3461
-Paraguay,2021,1,monthly,3032
+Paraguay,2021,1,monthly,3034
 Paraguay,2021,2,monthly,3050
 Paraguay,2021,3,monthly,4400
-Paraguay,2021,4,monthly,5948
-Paraguay,2021,5,monthly,7085
-Paraguay,2021,6,monthly,6563
-Paraguay,2021,7,monthly,4150
+Paraguay,2021,4,monthly,5950
+Paraguay,2021,5,monthly,7086
+Paraguay,2021,6,monthly,6566
+Paraguay,2021,7,monthly,4166
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740

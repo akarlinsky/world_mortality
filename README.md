@@ -221,11 +221,8 @@ Hong Kong Census and Statistics Department:
 On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month of occurrence rather than month of registration, via an email correspondence with [Hong Kong Census and Statistics Department](http://censtatd.gov.hk/). 
 
 
-### Iran (quarterly)
-Iran National Organization for Civil Registration 2015-2020: https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3272&Page=Magazines/SquareshowMagazine
-
-2020 - 2021 [weekly deaths data](https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3273&Page=Magazines/SquareshowMagazine) transformed to average daily, then aggregated to quarterly. 
-The data are provided in Solar Hirji seasons (Spring, Summer, Autumn, Winter). Winter starts on Dec 22, so we count it as the next calendar year (e.g. Winter 1393 as the first entry for 2015).
+### Iran (weekly)
+2017 - 2021 [Weekly deaths data (Persian Calendar ISO Weeks)](https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3273&Page=Magazines/SquareshowMagazine) transformed to average daily, then aggregated to ISO 8601 weeks. 
 
 
 ### Ireland (monthly)
