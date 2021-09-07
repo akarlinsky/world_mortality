@@ -222,7 +222,7 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 
 ### Iran (weekly)
-2017 - 2021 [Weekly deaths data (Persian Calendar ISO Weeks)](https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3273&Page=Magazines/SquareshowMagazine) transformed to average daily, then aggregated to ISO 8601 weeks. 
+2017 to 2021: [Weekly deaths data (Persian Calendar ISO Weeks)](https://www.sabteahval.ir/avej/Page.aspx?mId=49826&ID=3273&Page=Magazines/SquareshowMagazine) transformed to average daily, then aggregated to ISO 8601 weeks. 
 
 
 ### Ireland (monthly)
@@ -403,7 +403,7 @@ The number for June 2021 is a preliminary estimate based on the official stateme
 ### Serbia (monthly)
 2015 to 2020: [Statistical Office of the Republic of Serbia Table Generator](https://data.stat.gov.rs/Home/Result/18030306?languageCode=en-US).
 
-2021 onward: [Statistical Office of the Republic of Serbia Births and Deahts](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
+2021 onward: [Statistical Office of the Republic of Serbia Births and Deaths](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
 
 
 ### Seychelles (monthly)
