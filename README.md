@@ -153,9 +153,8 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 
 
 ### Cuba (monthly)
-2015 - 2019: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2017 - 2019](http://www.onei.gob.cu/node/13808)
+2015 - 2020: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2020](http://www.onei.gob.cu/node/16425)
 
-2020: [Cruz Castanheira, Monteiro da Silva, Del Popolo & Bay (2021)](https://submissions2.mirasmart.com/Verify/PAA2021/Submission/Temp/radd1ojc3g3.pdf), Table 3
 
 ### Ecuador (weekly)
 2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml   
