@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 105 countries and territories.   
+We are currently providing data for 106 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -62,6 +62,10 @@ French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/e
 2015 to 2020: Email correspondence with [Andorra Department of Statistics](https://www.estadistica.ad/serveiestudis/web/index.asp?lang=1). 
 
 See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/noticies/noticia5913cat.pdf 
+
+
+### Antigua and Barbuda (monthly)
+2015 to 2020: Email correspondence with [Statistics Division of Antigua and Barbuda](https://statistics.gov.ag/)
 
 
 ### Argentina (monthly)
