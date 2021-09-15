@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 106 countries and territories.   
+We are currently providing data for 107 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -196,6 +196,9 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 2015-2020: Georgia National Office of Statistics (GEOSTAT): https://www.geostat.ge/en/modules/categories/320/deaths  
 
 Access by: Number of Deaths Per Month -> Download XLS file.
+
+2021: [SUMMARY VITAL STATISTICS 2021 JANUARY-JUNE (PRELIMINARY RESULTS)
+](https://www.geostat.ge/en/single-news/2329/summary-vital-statistics-2021-january-june-preliminary-results)
 
 
 ### Gibraltar (monthly)
