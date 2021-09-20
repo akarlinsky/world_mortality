@@ -1,4 +1,4 @@
-﻿country_name,year,time,time_unit,deaths
+country_name,year,time,time_unit,deaths
 Albania,2015,1,monthly,2490
 Albania,2015,2,monthly,2139
 Albania,2015,3,monthly,2051
@@ -1935,9 +1935,9 @@ Brazil,2021,1,monthly,147367.6
 Brazil,2021,2,monthly,135128.2
 Brazil,2021,3,monthly,204937.2
 Brazil,2021,4,monthly,204587.4
-Brazil,2021,5,monthly,178657.9
-Brazil,2021,6,monthly,178434.4
-Brazil,2021,7,monthly,161721.7
+Brazil,2021,5,monthly,178655.7
+Brazil,2021,6,monthly,178443.1
+Brazil,2021,7,monthly,161732.5
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -15317,8 +15317,9 @@ Oman,2021,2,monthly,741
 Oman,2021,3,monthly,879
 Oman,2021,4,monthly,1105
 Oman,2021,5,monthly,1226
-Oman,2021,6,monthly,1737
-Oman,2021,7,monthly,1807
+Oman,2021,6,monthly,1741
+Oman,2021,7,monthly,1825
+Oman,2021,8,monthly,1020
 Panama,2015,1,monthly,1602
 Panama,2015,2,monthly,1377
 Panama,2015,3,monthly,1557
@@ -15462,18 +15463,18 @@ Paraguay,2020,4,monthly,2561
 Paraguay,2020,5,monthly,2667
 Paraguay,2020,6,monthly,2825
 Paraguay,2020,7,monthly,2976
-Paraguay,2020,8,monthly,3428
+Paraguay,2020,8,monthly,3429
 Paraguay,2020,9,monthly,3396
-Paraguay,2020,10,monthly,3393
+Paraguay,2020,10,monthly,3396
 Paraguay,2020,11,monthly,3065
 Paraguay,2020,12,monthly,3465
 Paraguay,2021,1,monthly,3044
 Paraguay,2021,2,monthly,3063
 Paraguay,2021,3,monthly,4417
-Paraguay,2021,4,monthly,5957
-Paraguay,2021,5,monthly,7101
-Paraguay,2021,6,monthly,6737
-Paraguay,2021,7,monthly,4495
+Paraguay,2021,4,monthly,5958
+Paraguay,2021,5,monthly,7102
+Paraguay,2021,6,monthly,6739
+Paraguay,2021,7,monthly,4502
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -20851,6 +20852,7 @@ Ukraine,2021,3,monthly,64938
 Ukraine,2021,4,monthly,68621
 Ukraine,2021,5,monthly,57293
 Ukraine,2021,6,monthly,49077
+Ukraine,2021,7,monthly,46851
 United Kingdom,2015,1,weekly,12559
 United Kingdom,2015,2,weekly,18317
 United Kingdom,2015,3,weekly,16735
