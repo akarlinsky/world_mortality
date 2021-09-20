@@ -1628,7 +1628,8 @@ Belgium,2021,30,weekly,1858
 Belgium,2021,31,weekly,1842
 Belgium,2021,32,weekly,1820
 Belgium,2021,33,weekly,1777
-Belgium,2021,34,weekly,1785
+Belgium,2021,34,weekly,1811
+Belgium,2021,35,weekly,1887
 Bermuda,2015,1,monthly,53
 Bermuda,2015,2,monthly,44
 Bermuda,2015,3,monthly,41
@@ -1855,6 +1856,9 @@ Bosnia,2020,12,monthly,5962
 Bosnia,2021,1,monthly,3452
 Bosnia,2021,2,monthly,3454
 Bosnia,2021,3,monthly,4787
+Bosnia,2021,4,monthly,6051
+Bosnia,2021,5,monthly,4223
+Bosnia,2021,6,monthly,3276
 Brazil,2015,1,monthly,106695
 Brazil,2015,2,monthly,90612
 Brazil,2015,3,monthly,102473
@@ -6398,6 +6402,8 @@ France,2021,30,weekly,10504
 France,2021,31,weekly,10358
 France,2021,32,weekly,11226
 France,2021,33,weekly,10305
+France,2021,34,weekly,11246
+France,2021,35,weekly,11102
 French Guiana,2015,1,weekly,14
 French Guiana,2015,2,weekly,17
 French Guiana,2015,3,weekly,18
@@ -6736,15 +6742,17 @@ French Guiana,2021,21,weekly,23
 French Guiana,2021,22,weekly,25
 French Guiana,2021,23,weekly,29
 French Guiana,2021,24,weekly,30
-French Guiana,2021,25,weekly,30
-French Guiana,2021,26,weekly,19
+French Guiana,2021,25,weekly,31
+French Guiana,2021,26,weekly,20
 French Guiana,2021,27,weekly,31
-French Guiana,2021,28,weekly,25
+French Guiana,2021,28,weekly,26
 French Guiana,2021,29,weekly,29
-French Guiana,2021,30,weekly,28
+French Guiana,2021,30,weekly,29
 French Guiana,2021,31,weekly,34
-French Guiana,2021,32,weekly,23
+French Guiana,2021,32,weekly,24
 French Guiana,2021,33,weekly,29
+French Guiana,2021,34,weekly,35
+French Guiana,2021,35,weekly,28
 French Polynesia,2015,1,monthly,155
 French Polynesia,2015,2,monthly,95
 French Polynesia,2015,3,monthly,105
@@ -8066,21 +8074,23 @@ Guadeloupe,2021,15,weekly,80
 Guadeloupe,2021,16,weekly,80
 Guadeloupe,2021,17,weekly,64
 Guadeloupe,2021,18,weekly,68
-Guadeloupe,2021,19,weekly,69
+Guadeloupe,2021,19,weekly,70
 Guadeloupe,2021,20,weekly,80
 Guadeloupe,2021,21,weekly,68
 Guadeloupe,2021,22,weekly,63
-Guadeloupe,2021,23,weekly,79
+Guadeloupe,2021,23,weekly,80
 Guadeloupe,2021,24,weekly,74
 Guadeloupe,2021,25,weekly,61
 Guadeloupe,2021,26,weekly,69
 Guadeloupe,2021,27,weekly,69
-Guadeloupe,2021,28,weekly,62
-Guadeloupe,2021,29,weekly,70
-Guadeloupe,2021,30,weekly,75
-Guadeloupe,2021,31,weekly,126
-Guadeloupe,2021,32,weekly,161
-Guadeloupe,2021,33,weekly,244
+Guadeloupe,2021,28,weekly,63
+Guadeloupe,2021,29,weekly,74
+Guadeloupe,2021,30,weekly,76
+Guadeloupe,2021,31,weekly,132
+Guadeloupe,2021,32,weekly,200
+Guadeloupe,2021,33,weekly,297
+Guadeloupe,2021,34,weekly,269
+Guadeloupe,2021,35,weekly,167
 Guatemala,2015,1,weekly,1690
 Guatemala,2015,2,weekly,1616
 Guatemala,2015,3,weekly,1604
@@ -11151,8 +11161,9 @@ Liechtenstein,2021,2,monthly,23
 Liechtenstein,2021,3,monthly,16
 Liechtenstein,2021,4,monthly,28
 Liechtenstein,2021,5,monthly,24
-Liechtenstein,2021,6,monthly,10
-Liechtenstein,2021,7,monthly,22
+Liechtenstein,2021,6,monthly,11
+Liechtenstein,2021,7,monthly,23
+Liechtenstein,2021,8,monthly,16
 Lithuania,2015,1,weekly,844
 Lithuania,2015,2,weekly,827
 Lithuania,2015,3,weekly,905
@@ -12693,10 +12704,12 @@ Martinique,2021,26,weekly,64
 Martinique,2021,27,weekly,82
 Martinique,2021,28,weekly,73
 Martinique,2021,29,weekly,84
-Martinique,2021,30,weekly,119
-Martinique,2021,31,weekly,169
-Martinique,2021,32,weekly,183
-Martinique,2021,33,weekly,159
+Martinique,2021,30,weekly,120
+Martinique,2021,31,weekly,172
+Martinique,2021,32,weekly,200
+Martinique,2021,33,weekly,213
+Martinique,2021,34,weekly,177
+Martinique,2021,35,weekly,168
 Mauritius,2015,1,monthly,845
 Mauritius,2015,2,monthly,711
 Mauritius,2015,3,monthly,773
@@ -13108,13 +13121,13 @@ Mayotte,2021,16,weekly,18
 Mayotte,2021,17,weekly,15
 Mayotte,2021,18,weekly,8
 Mayotte,2021,19,weekly,28
-Mayotte,2021,20,weekly,12
+Mayotte,2021,20,weekly,13
 Mayotte,2021,21,weekly,17
 Mayotte,2021,22,weekly,21
 Mayotte,2021,23,weekly,11
 Mayotte,2021,24,weekly,12
 Mayotte,2021,25,weekly,13
-Mayotte,2021,26,weekly,15
+Mayotte,2021,26,weekly,16
 Mayotte,2021,27,weekly,17
 Mayotte,2021,28,weekly,13
 Mayotte,2021,29,weekly,15
@@ -13122,6 +13135,8 @@ Mayotte,2021,30,weekly,16
 Mayotte,2021,31,weekly,10
 Mayotte,2021,32,weekly,17
 Mayotte,2021,33,weekly,20
+Mayotte,2021,34,weekly,21
+Mayotte,2021,35,weekly,12
 Mexico,2015,1,weekly,15101
 Mexico,2015,2,weekly,15449
 Mexico,2015,3,weekly,14820
@@ -16479,6 +16494,7 @@ Portugal,2021,31,weekly,2066
 Portugal,2021,32,weekly,2076
 Portugal,2021,33,weekly,2115
 Portugal,2021,34,weekly,2064
+Portugal,2021,35,weekly,2028
 Puerto Rico,2015,1,weekly,637
 Puerto Rico,2015,2,weekly,633
 Puerto Rico,2015,3,weekly,620
@@ -17243,10 +17259,12 @@ Réunion,2021,26,weekly,134
 Réunion,2021,27,weekly,130
 Réunion,2021,28,weekly,108
 Réunion,2021,29,weekly,126
-Réunion,2021,30,weekly,97
+Réunion,2021,30,weekly,98
 Réunion,2021,31,weekly,132
 Réunion,2021,32,weekly,108
-Réunion,2021,33,weekly,122
+Réunion,2021,33,weekly,123
+Réunion,2021,34,weekly,120
+Réunion,2021,35,weekly,104
 Romania,2015,1,weekly,5803
 Romania,2015,2,weekly,5848
 Romania,2015,3,weekly,5602
@@ -19811,39 +19829,40 @@ Sweden,2020,50,weekly,2173.5
 Sweden,2020,51,weekly,2355.5
 Sweden,2020,52,weekly,2372.5
 Sweden,2020,53,weekly,2433.1
-Sweden,2021,1,weekly,2367.5
-Sweden,2021,2,weekly,2347.5
-Sweden,2021,3,weekly,2305.5
-Sweden,2021,4,weekly,2126.5
-Sweden,2021,5,weekly,1905.5
-Sweden,2021,6,weekly,1916.5
-Sweden,2021,7,weekly,1891.5
-Sweden,2021,8,weekly,1857.5
-Sweden,2021,9,weekly,1710.5
-Sweden,2021,10,weekly,1856.5
-Sweden,2021,11,weekly,1735.5
-Sweden,2021,12,weekly,1767.5
-Sweden,2021,13,weekly,1717.6
-Sweden,2021,14,weekly,1745.9
-Sweden,2021,15,weekly,1703.9
-Sweden,2021,16,weekly,1730.9
-Sweden,2021,17,weekly,1662.7
-Sweden,2021,18,weekly,1722.7
-Sweden,2021,19,weekly,1702.7
-Sweden,2021,20,weekly,1591.7
-Sweden,2021,21,weekly,1558.7
-Sweden,2021,22,weekly,1557.1
-Sweden,2021,23,weekly,1554.1
-Sweden,2021,24,weekly,1516.1
-Sweden,2021,25,weekly,1538.1
-Sweden,2021,26,weekly,1531
-Sweden,2021,27,weekly,1574.9
-Sweden,2021,28,weekly,1596.9
-Sweden,2021,29,weekly,1557.9
-Sweden,2021,30,weekly,1626.8
-Sweden,2021,31,weekly,1510.4
-Sweden,2021,32,weekly,1609.4
-Sweden,2021,33,weekly,1557.4
+Sweden,2021,1,weekly,2367.6
+Sweden,2021,2,weekly,2347.6
+Sweden,2021,3,weekly,2305.6
+Sweden,2021,4,weekly,2127.6
+Sweden,2021,5,weekly,1905.6
+Sweden,2021,6,weekly,1916.6
+Sweden,2021,7,weekly,1891.6
+Sweden,2021,8,weekly,1857.6
+Sweden,2021,9,weekly,1710.6
+Sweden,2021,10,weekly,1856.6
+Sweden,2021,11,weekly,1735.6
+Sweden,2021,12,weekly,1767.6
+Sweden,2021,13,weekly,1717.7
+Sweden,2021,14,weekly,1747
+Sweden,2021,15,weekly,1704
+Sweden,2021,16,weekly,1731
+Sweden,2021,17,weekly,1662.8
+Sweden,2021,18,weekly,1722.8
+Sweden,2021,19,weekly,1702.8
+Sweden,2021,20,weekly,1591.8
+Sweden,2021,21,weekly,1557.8
+Sweden,2021,22,weekly,1557.4
+Sweden,2021,23,weekly,1554.5
+Sweden,2021,24,weekly,1516.5
+Sweden,2021,25,weekly,1538.5
+Sweden,2021,26,weekly,1531.2
+Sweden,2021,27,weekly,1575
+Sweden,2021,28,weekly,1598
+Sweden,2021,29,weekly,1560
+Sweden,2021,30,weekly,1630.3
+Sweden,2021,31,weekly,1514
+Sweden,2021,32,weekly,1615
+Sweden,2021,33,weekly,1568
+Sweden,2021,34,weekly,1577
 Switzerland,2015,1,weekly,1423
 Switzerland,2015,2,weekly,1494
 Switzerland,2015,3,weekly,1524
