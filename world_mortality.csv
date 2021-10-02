@@ -1637,6 +1637,7 @@ Belgium,2021,33,weekly,1815
 Belgium,2021,34,weekly,1822
 Belgium,2021,35,weekly,1912
 Belgium,2021,36,weekly,1941
+Belgium,2021,37,weekly,1836
 Bermuda,2015,1,monthly,53
 Bermuda,2015,2,monthly,44
 Bermuda,2015,3,monthly,41
@@ -1944,8 +1945,8 @@ Brazil,2021,3,monthly,205022.3
 Brazil,2021,4,monthly,204770.4
 Brazil,2021,5,monthly,178696.1
 Brazil,2021,6,monthly,178531.8
-Brazil,2021,7,monthly,162181.4
-Brazil,2021,8,monthly,148249.2
+Brazil,2021,7,monthly,162292.7
+Brazil,2021,8,monthly,148351.8
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -8852,6 +8853,7 @@ Hungary,2021,31,weekly,2167
 Hungary,2021,32,weekly,2321
 Hungary,2021,33,weekly,2166
 Hungary,2021,34,weekly,2082
+Hungary,2021,35,weekly,2147
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -11908,6 +11910,11 @@ Luxembourg,2021,27,weekly,76
 Luxembourg,2021,28,weekly,86
 Luxembourg,2021,29,weekly,69
 Luxembourg,2021,30,weekly,66
+Luxembourg,2021,31,weekly,75
+Luxembourg,2021,32,weekly,77
+Luxembourg,2021,33,weekly,65
+Luxembourg,2021,34,weekly,72
+Luxembourg,2021,35,weekly,79
 Macao,2015,1,monthly,193
 Macao,2015,2,monthly,163
 Macao,2015,3,monthly,186
@@ -14956,6 +14963,7 @@ North Macedonia,2021,3,monthly,2643
 North Macedonia,2021,4,monthly,3153
 North Macedonia,2021,5,monthly,2453
 North Macedonia,2021,6,monthly,1890
+North Macedonia,2021,7,monthly,1886
 Norway,2015,1,weekly,937
 Norway,2015,2,weekly,977
 Norway,2015,3,weekly,913
