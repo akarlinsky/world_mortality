@@ -210,13 +210,9 @@ Access by: Number of Deaths Per Month -> Download XLS file.
 
 
 ### Guatemala (weekly)
-2015 to 2019: Guatemala Instituto Nacional de Estadística (INE) Estadísticas Vitales
+2015 to 2020: Guatemala Instituto Nacional de Estadística (INE) Estadísticas Vitales
 https://www.ine.gob.gt/ine/vitales/
 Access by: Base de datos, select appropriate year under Año and then select Defunciones.
-
-2020: Public Information Request from [Registro Nacional De Las Personas (RENAP)](https://www.renap.gob.gt/). 
-
-RENAP information was obtained as daily deaths from January 1st 2020 to December 31st 2020, and aggregated to ISO year and week.
 
 
 ### Hong Kong (monthly)
