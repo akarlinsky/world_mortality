@@ -173,18 +173,18 @@ Antigua and Barbuda,2016,9,monthly,38
 Antigua and Barbuda,2016,10,monthly,52
 Antigua and Barbuda,2016,11,monthly,55
 Antigua and Barbuda,2016,12,monthly,45
-Antigua and Barbuda,2017,1,monthly,48
-Antigua and Barbuda,2017,2,monthly,81
-Antigua and Barbuda,2017,3,monthly,85
-Antigua and Barbuda,2017,4,monthly,85
-Antigua and Barbuda,2017,5,monthly,58
-Antigua and Barbuda,2017,6,monthly,65
-Antigua and Barbuda,2017,7,monthly,48
-Antigua and Barbuda,2017,8,monthly,90
-Antigua and Barbuda,2017,9,monthly,65
-Antigua and Barbuda,2017,10,monthly,89
-Antigua and Barbuda,2017,11,monthly,78
-Antigua and Barbuda,2017,12,monthly,66
+Antigua and Barbuda,2017,1,monthly,42
+Antigua and Barbuda,2017,2,monthly,49
+Antigua and Barbuda,2017,3,monthly,52
+Antigua and Barbuda,2017,4,monthly,41
+Antigua and Barbuda,2017,5,monthly,54
+Antigua and Barbuda,2017,6,monthly,38
+Antigua and Barbuda,2017,7,monthly,43
+Antigua and Barbuda,2017,8,monthly,49
+Antigua and Barbuda,2017,9,monthly,45
+Antigua and Barbuda,2017,10,monthly,68
+Antigua and Barbuda,2017,11,monthly,43
+Antigua and Barbuda,2017,12,monthly,49
 Antigua and Barbuda,2018,1,monthly,37
 Antigua and Barbuda,2018,2,monthly,40
 Antigua and Barbuda,2018,3,monthly,60
@@ -5157,6 +5157,7 @@ Ecuador,2021,34,weekly,1603
 Ecuador,2021,35,weekly,1542
 Ecuador,2021,36,weekly,1493
 Ecuador,2021,37,weekly,1494
+Ecuador,2021,38,weekly,1431
 Egypt,2015,1,monthly,59713
 Egypt,2015,2,monthly,47678
 Egypt,2015,3,monthly,46524
@@ -16929,6 +16930,8 @@ Puerto Rico,2021,29,weekly,580
 Puerto Rico,2021,30,weekly,582
 Puerto Rico,2021,31,weekly,628
 Puerto Rico,2021,32,weekly,666
+Puerto Rico,2021,33,weekly,670
+Puerto Rico,2021,34,weekly,653
 Qatar,2015,1,monthly,210
 Qatar,2015,2,monthly,196
 Qatar,2015,3,monthly,191
