@@ -424,13 +424,8 @@ Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/pub
 
 
 ### South Africa (weekly)
-South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
+2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
 
-South African data is provided in an Epidemiological Week format, which run from Sunday to Saturday. 
-
-SAMRC does not publish weekly data for years before 2020. Instead, the 2018--2019 data were used by SAMRC to forecast expected weekly mortality using the Excel `Holt-Winters` time series forecasting method in Excel function. We denote this forecast as `year = 0` in the data.
-
-For additional details, refer to SAMRC (2021): METHODOLOGICAL NOTE: PREDICTED NUMBERS OF DEATHS BY EPI-WEEK FOR SOUTH AFRICA IN 2020 AND 2021, available at: https://www.samrc.ac.za/sites/default/files/files/2021-01-24/Methodological%20Note%20on%20Predicted%20Weekly%20Deaths%2020_Jan_2021.pdf  
 
 ### Sweden (weekly)
 Statistics Sweden - Preliminary Statistics on Deaths (2015 onward, daily):
