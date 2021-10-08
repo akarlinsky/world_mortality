@@ -214,6 +214,7 @@ Access by: Number of Deaths Per Month -> Download XLS file.
 https://www.ine.gob.gt/ine/vitales/
 Access by: Base de datos, select appropriate year under Año and then select Defunciones.
 
+2021: Public Information Request from [RENAP](https://www.renap.gob.gt/solicitud-de-informacion-publica-decreto-57-2008).
 
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
