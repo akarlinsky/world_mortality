@@ -401,11 +401,10 @@ The CDC reports death counts for Puerto Rico and the US separately, as thus the 
 
 ### Russia (monthly)
 https://www.fedstat.ru/indicator/33556 (data available from 2006)  
-The latest month is published on *rosstat.gov.ru* first and it takes several weeks for the data to appear on *fedstat.ru*. The exact URL is always different. For July 2021, the URL is https://rosstat.gov.ru/storage/mediabank/edn07_2021.htm.
+The latest month is published on https://rosstat.gov.ru first and it takes several weeks for the data to appear on https://www.fedstat.ru. The exact URL is always different. For August 2021, the URL is https://rosstat.gov.ru/storage/mediabank/edn08_2021(2).htm.
 
-<!---
-The number for June 2021 is a preliminary estimate based on the official statement from July 9, 2021, that the number of deaths in June rose by 13.9% compared to last year: https://ria.ru/20210709/smertonost-1740669673.html. We therefore estimate it as 162758 * 1.139 = 185381.4, where 162758 is the reported number of deaths in June 2020.
--->
+<!--- --->
+The number for September 2021 is a preliminary estimate based on the official statement from October 8, 2021, that the number of deaths in September dropped by 6.1% compared to August: https://ria.ru/20211008/smertnost-1753747111.html. 
 
 ### San Marino (monthly)
 2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
