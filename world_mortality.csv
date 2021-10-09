@@ -1640,6 +1640,7 @@ Belgium,2021,34,weekly,1831
 Belgium,2021,35,weekly,1921
 Belgium,2021,36,weekly,1974
 Belgium,2021,37,weekly,1836
+Belgium,2021,38,weekly,1832
 Bermuda,2015,1,monthly,53
 Bermuda,2015,2,monthly,44
 Bermuda,2015,3,monthly,41
@@ -4813,6 +4814,7 @@ Denmark,2021,35,weekly,1046
 Denmark,2021,36,weekly,1092
 Denmark,2021,37,weekly,1044
 Denmark,2021,38,weekly,1032
+Denmark,2021,39,weekly,1107
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -7715,6 +7717,10 @@ Greece,2021,28,weekly,2694
 Greece,2021,29,weekly,2449
 Greece,2021,30,weekly,2811
 Greece,2021,31,weekly,3860
+Greece,2021,32,weekly,2941
+Greece,2021,33,weekly,2665
+Greece,2021,34,weekly,2772
+Greece,2021,35,weekly,2560
 Greenland,2015,1,monthly,44
 Greenland,2015,2,monthly,33
 Greenland,2015,3,monthly,45
@@ -8914,6 +8920,7 @@ Hungary,2021,32,weekly,2326
 Hungary,2021,33,weekly,2201
 Hungary,2021,34,weekly,2142
 Hungary,2021,35,weekly,2147
+Hungary,2021,36,weekly,2353
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -16650,6 +16657,7 @@ Portugal,2021,34,weekly,2088
 Portugal,2021,35,weekly,2072
 Portugal,2021,36,weekly,1976
 Portugal,2021,37,weekly,1891
+Portugal,2021,38,weekly,1988
 Puerto Rico,2015,1,weekly,637
 Puerto Rico,2015,2,weekly,633
 Puerto Rico,2015,3,weekly,620
@@ -17743,35 +17751,36 @@ Romania,2020,50,weekly,8172
 Romania,2020,51,weekly,7425
 Romania,2020,52,weekly,7425
 Romania,2020,53,weekly,7047
-Romania,2021,1,weekly,6715
-Romania,2021,2,weekly,6455
-Romania,2021,3,weekly,6894
-Romania,2021,4,weekly,6274
-Romania,2021,5,weekly,6216
-Romania,2021,6,weekly,5871
-Romania,2021,7,weekly,5883
-Romania,2021,8,weekly,5883
-Romania,2021,9,weekly,6182
-Romania,2021,10,weekly,6344
-Romania,2021,11,weekly,6802
-Romania,2021,12,weekly,7068
-Romania,2021,13,weekly,7139
-Romania,2021,14,weekly,7104
-Romania,2021,15,weekly,7073
-Romania,2021,16,weekly,6691
-Romania,2021,17,weekly,6434
-Romania,2021,18,weekly,5829
-Romania,2021,19,weekly,5545
-Romania,2021,20,weekly,5243
-Romania,2021,21,weekly,4919
-Romania,2021,22,weekly,4769
-Romania,2021,23,weekly,4816
-Romania,2021,24,weekly,4576
-Romania,2021,25,weekly,5429
-Romania,2021,26,weekly,4687
-Romania,2021,27,weekly,4539
-Romania,2021,28,weekly,4779
-Romania,2021,29,weekly,4474
+Romania,2021,1,weekly,6721
+Romania,2021,2,weekly,6461
+Romania,2021,3,weekly,6902
+Romania,2021,4,weekly,6279
+Romania,2021,5,weekly,6222
+Romania,2021,6,weekly,5881
+Romania,2021,7,weekly,5888
+Romania,2021,8,weekly,5888
+Romania,2021,9,weekly,6186
+Romania,2021,10,weekly,6347
+Romania,2021,11,weekly,6806
+Romania,2021,12,weekly,7076
+Romania,2021,13,weekly,7148
+Romania,2021,14,weekly,7113
+Romania,2021,15,weekly,7079
+Romania,2021,16,weekly,6702
+Romania,2021,17,weekly,6443
+Romania,2021,18,weekly,5842
+Romania,2021,19,weekly,5554
+Romania,2021,20,weekly,5248
+Romania,2021,21,weekly,4928
+Romania,2021,22,weekly,4788
+Romania,2021,23,weekly,4837
+Romania,2021,24,weekly,4601
+Romania,2021,25,weekly,5463
+Romania,2021,26,weekly,4737
+Romania,2021,27,weekly,4601
+Romania,2021,28,weekly,4854
+Romania,2021,29,weekly,4560
+Romania,2021,30,weekly,4899
 Russia,2015,1,monthly,174723
 Russia,2015,2,monthly,156737
 Russia,2015,3,monthly,175810
@@ -21958,6 +21967,7 @@ United States,2021,32,weekly,65745
 United States,2021,33,weekly,68809
 United States,2021,34,weekly,70156
 United States,2021,35,weekly,70069
+United States,2021,36,weekly,68592
 Uruguay,2015,1,monthly,2514
 Uruguay,2015,2,monthly,2219
 Uruguay,2015,3,monthly,2474
