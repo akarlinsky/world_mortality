@@ -65,7 +65,7 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 
 ### Antigua and Barbuda (monthly)
-2015 to 2020: Email correspondence with [Statistics Division of Antigua and Barbuda](https://statistics.gov.ag/)
+2015 onward: [Statistics Division of Antigua and Barbuda: Deaths by month and sex 2008 to 2020](https://statistics.gov.ag/subjects/population-and-demography/deaths-by-month-and-sex-2008-2020/)
 
 
 ### Argentina (monthly)
