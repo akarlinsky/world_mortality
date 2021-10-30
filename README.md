@@ -268,7 +268,15 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 
 
 ### Kosovo (monthly)
-2015 onward: Kosovo Agency of Statistics Quarterly Bulletin: https://ask.rks-gov.net/en/kosovo-agency-of-statistics/add-news/quarterly-bulletin-q1-2021
+2015 - 2019: [Statistical Yearbook of the Republic of Kosovo](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/vjetari-statistikor-i-republikes-se-kosoves-2021) 
+
+2020: [Quarterly Bulletin](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/buletini-tremujor-tm3-2021)
+
+2021: [Deaths by place of death and place of permanents residence in the municipality](https://askdata.rks-gov.net/PXWeb/pxweb/en/askdata/askdata__09%20Population__Demography%20and%20Migration__Monthly%20indicators__Births,%20deaths,%20marriages%20and%20divorces/tab03.px/?rxid=02560921-b63c-4973-81c9-4ceae84f5b04)
+
+Notes: for 2020, values fro the quarterly bulletin were multiplied by 1.168, which is the ratio between the annual number of deaths registered in 2020 from the Statistical Yearbook of the Republic of Kosovo to the number from the Quarterly Bulletin. 2020 Monthly deaths in Kosovo have been rounded to one significant digit to emphasize they were adjusted. 
+
+For 2021, only deaths that occured in Kosovo are taken.
 
 
 ### Kyrgyzstan (monthly)
