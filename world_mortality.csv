@@ -1651,6 +1651,7 @@ Belgium,2021,37,weekly,1877
 Belgium,2021,38,weekly,1869
 Belgium,2021,39,weekly,1909
 Belgium,2021,40,weekly,2003
+Belgium,2021,41,weekly,2155
 Belize,2015,1,monthly,149
 Belize,2015,2,monthly,147
 Belize,2015,3,monthly,167
@@ -2024,14 +2025,14 @@ Brazil,2020,9,monthly,128972
 Brazil,2020,10,monthly,130493
 Brazil,2020,11,monthly,124326
 Brazil,2020,12,monthly,141190
-Brazil,2021,1,monthly,147348.2
-Brazil,2021,2,monthly,135175.7
-Brazil,2021,3,monthly,205080.8
-Brazil,2021,4,monthly,204919.9
-Brazil,2021,5,monthly,178906.2
-Brazil,2021,6,monthly,178874.9
-Brazil,2021,7,monthly,162674.9
-Brazil,2021,8,monthly,149066.7
+Brazil,2021,1,monthly,147379.1
+Brazil,2021,2,monthly,135147.8
+Brazil,2021,3,monthly,205041.6
+Brazil,2021,4,monthly,204908.9
+Brazil,2021,5,monthly,178899.8
+Brazil,2021,6,monthly,178861
+Brazil,2021,7,monthly,162664.6
+Brazil,2021,8,monthly,149094
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -4917,6 +4918,7 @@ Denmark,2021,38,weekly,1051
 Denmark,2021,39,weekly,1133
 Denmark,2021,40,weekly,1056
 Denmark,2021,41,weekly,1144
+Denmark,2021,42,weekly,1110
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -10525,6 +10527,10 @@ Italy,2021,27,weekly,11540
 Italy,2021,28,weekly,11169
 Italy,2021,29,weekly,11393
 Italy,2021,30,weekly,10337
+Italy,2021,31,weekly,12173
+Italy,2021,32,weekly,13165
+Italy,2021,33,weekly,12318
+Italy,2021,34,weekly,11515
 Jamaica,2015,1,monthly,1735
 Jamaica,2015,2,monthly,1511
 Jamaica,2015,3,monthly,1517
@@ -15207,6 +15213,7 @@ North Macedonia,2021,4,monthly,3153
 North Macedonia,2021,5,monthly,2453
 North Macedonia,2021,6,monthly,1890
 North Macedonia,2021,7,monthly,1886
+North Macedonia,2021,8,monthly,2204
 Norway,2015,1,weekly,937
 Norway,2015,2,weekly,977
 Norway,2015,3,weekly,913
@@ -15561,6 +15568,7 @@ Norway,2021,37,weekly,811
 Norway,2021,38,weekly,788
 Norway,2021,39,weekly,755
 Norway,2021,40,weekly,734
+Norway,2021,41,weekly,733
 Oman,2015,1,monthly,732
 Oman,2015,2,monthly,550
 Oman,2015,3,monthly,602
@@ -15780,24 +15788,24 @@ Paraguay,2019,11,monthly,2605
 Paraguay,2019,12,monthly,2729
 Paraguay,2020,1,monthly,2864
 Paraguay,2020,2,monthly,2860
-Paraguay,2020,3,monthly,3007
-Paraguay,2020,4,monthly,2570
+Paraguay,2020,3,monthly,3006
+Paraguay,2020,4,monthly,2569
 Paraguay,2020,5,monthly,2674
-Paraguay,2020,6,monthly,2827
-Paraguay,2020,7,monthly,2984
+Paraguay,2020,6,monthly,2828
+Paraguay,2020,7,monthly,2985
 Paraguay,2020,8,monthly,3437
-Paraguay,2020,9,monthly,3400
-Paraguay,2020,10,monthly,3415
+Paraguay,2020,9,monthly,3399
+Paraguay,2020,10,monthly,3414
 Paraguay,2020,11,monthly,3088
 Paraguay,2020,12,monthly,3488
-Paraguay,2021,1,monthly,3065
-Paraguay,2021,2,monthly,3097
-Paraguay,2021,3,monthly,4439
-Paraguay,2021,4,monthly,6008
-Paraguay,2021,5,monthly,7134
-Paraguay,2021,6,monthly,6797
-Paraguay,2021,7,monthly,4686
-Paraguay,2021,8,monthly,3075
+Paraguay,2021,1,monthly,3088
+Paraguay,2021,2,monthly,3101
+Paraguay,2021,3,monthly,4442
+Paraguay,2021,4,monthly,6011
+Paraguay,2021,5,monthly,7136
+Paraguay,2021,6,monthly,6801
+Paraguay,2021,7,monthly,4688
+Paraguay,2021,8,monthly,3096
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -16836,6 +16844,7 @@ Portugal,2021,37,weekly,1915
 Portugal,2021,38,weekly,2025
 Portugal,2021,39,weekly,1998
 Portugal,2021,40,weekly,2092
+Portugal,2021,41,weekly,2095
 Puerto Rico,2015,1,weekly,637
 Puerto Rico,2015,2,weekly,633
 Puerto Rico,2015,3,weekly,620
@@ -17267,6 +17276,7 @@ Qatar,2021,5,monthly,273
 Qatar,2021,6,monthly,229
 Qatar,2021,7,monthly,209
 Qatar,2021,8,monthly,221
+Qatar,2021,9,monthly,168
 Réunion,2015,1,weekly,74
 Réunion,2015,2,weekly,108
 Réunion,2015,3,weekly,76
@@ -18048,7 +18058,7 @@ Russia,2021,5,monthly,162283
 Russia,2021,6,monthly,185655
 Russia,2021,7,monthly,215265
 Russia,2021,8,monthly,208237
-Russia,2021,9,monthly,195534.5
+Russia,2021,9,monthly,201945
 San Marino,2015,1,monthly,27
 San Marino,2015,2,monthly,17
 San Marino,2015,3,monthly,19
@@ -21078,6 +21088,7 @@ Transnistria,2021,5,monthly,772
 Transnistria,2021,6,monthly,643
 Transnistria,2021,7,monthly,559
 Transnistria,2021,8,monthly,519
+Transnistria,2021,9,monthly,591
 Tunisia,2015,1,monthly,7019
 Tunisia,2015,2,monthly,6704
 Tunisia,2015,3,monthly,6468

@@ -33,7 +33,7 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly STMF data for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
@@ -405,8 +405,6 @@ The CDC reports death counts for Puerto Rico and the US separately, as thus the 
 https://www.fedstat.ru/indicator/33556 (data available from 2006)  
 The latest month is published on https://rosstat.gov.ru first and it takes several weeks for the data to appear on https://www.fedstat.ru. The exact URL is always different. For August 2021, the URL is https://rosstat.gov.ru/storage/mediabank/edn08_2021(2).htm.
 
-<!--- --->
-The number for September 2021 is a preliminary estimate based on the official statement from October 8, 2021, that the number of deaths in September dropped by 6.1% compared to August: https://ria.ru/20211008/smertnost-1753747111.html. 
 
 ### San Marino (monthly)
 2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
