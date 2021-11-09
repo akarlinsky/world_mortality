@@ -139,7 +139,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 
 ### Canada (weekly)
-StatCan - https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020017-eng.htm
+StatCan - https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021028-eng.htm
 
 Weekly mortality counts were transformed to ISO-8601 weeks by using reference date. 
 
