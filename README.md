@@ -1,13 +1,13 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 108 countries and territories.   
+We are currently providing data for 109 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
 Karlinsky & Kobak 2021, Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset, _eLife_ https://doi.org/10.7554/eLife.69336
 
-![World Mortality coverage](coverage_map_title_fixed.png)
+![World Mortality coverage](coverage_map_title.png)
 
 
 For the excess mortality analysis using this data see https://github.com/dkobak/excess-mortality.
@@ -277,6 +277,11 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 Notes: for 2020, values fro the quarterly bulletin were multiplied by 1.168, which is the ratio between the annual number of deaths registered in 2020 from the Statistical Yearbook of the Republic of Kosovo to the number from the Quarterly Bulletin. 2020 Monthly deaths in Kosovo have been rounded to one significant digit to emphasize they were adjusted. 
 
 For 2021, only deaths that occured in Kosovo are taken.
+
+
+### Kuwait (monthly)
+2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths 2015 - 2020](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201)
+
 
 
 ### Kyrgyzstan (monthly)
