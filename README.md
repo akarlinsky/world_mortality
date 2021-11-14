@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 109 countries and territories.   
+We are currently providing data for 110 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -162,6 +162,12 @@ Here we sum values in three categories: Natural, Violenta (Violent), and En estu
 2015 - 2020: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2020](http://www.onei.gob.cu/node/16425)
 
 
+### Dominican Republic (monthly)
+2015 onward: Oficina Nacional de Estadística (ONE) [Estadísticas Vitales - Defunciones](https://one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estadisticas-vitales/)
+
+Note: ONE has information on deaths up to end of 2020, yet deaths in the Dominician Republic may have a signficant delay in registration, espically in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to September 2020.  
+
+
 ### Ecuador (weekly)
 2015 to 2016: https://aplicaciones3.ecuadorencifras.gob.ec/BIINEC-war/index.xhtml   
 2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/  
@@ -280,7 +286,7 @@ For 2021, only deaths that occured in Kosovo are taken.
 
 
 ### Kuwait (monthly)
-2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths 2015 - 2020](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201)
+2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths 2015 - 2020](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201).
 
 
 

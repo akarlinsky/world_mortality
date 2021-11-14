@@ -2030,15 +2030,15 @@ Brazil,2020,9,monthly,128972
 Brazil,2020,10,monthly,130493
 Brazil,2020,11,monthly,124326
 Brazil,2020,12,monthly,141190
-Brazil,2021,1,monthly,147509.7
-Brazil,2021,2,monthly,135291.2
-Brazil,2021,3,monthly,205125.5
-Brazil,2021,4,monthly,204900
-Brazil,2021,5,monthly,178887.1
-Brazil,2021,6,monthly,178828.8
-Brazil,2021,7,monthly,162694.6
-Brazil,2021,8,monthly,149190.3
-Brazil,2021,9,monthly,129656
+Brazil,2021,1,monthly,147513.8
+Brazil,2021,2,monthly,135292.4
+Brazil,2021,3,monthly,205132.1
+Brazil,2021,4,monthly,204895.9
+Brazil,2021,5,monthly,178883.7
+Brazil,2021,6,monthly,178848.1
+Brazil,2021,7,monthly,162723.1
+Brazil,2021,8,monthly,149212.7
+Brazil,2021,9,monthly,129730.8
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -4936,6 +4936,75 @@ Denmark,2021,40,weekly,1060
 Denmark,2021,41,weekly,1157
 Denmark,2021,42,weekly,1124
 Denmark,2021,43,weekly,1107
+Dominican Republic,2015,1,monthly,3626
+Dominican Republic,2015,2,monthly,3202
+Dominican Republic,2015,3,monthly,3644
+Dominican Republic,2015,4,monthly,3425
+Dominican Republic,2015,5,monthly,3255
+Dominican Republic,2015,6,monthly,3236
+Dominican Republic,2015,7,monthly,3402
+Dominican Republic,2015,8,monthly,3368
+Dominican Republic,2015,9,monthly,3390
+Dominican Republic,2015,10,monthly,3772
+Dominican Republic,2015,11,monthly,3592
+Dominican Republic,2015,12,monthly,3757
+Dominican Republic,2016,1,monthly,3812
+Dominican Republic,2016,2,monthly,3598
+Dominican Republic,2016,3,monthly,3754
+Dominican Republic,2016,4,monthly,3487
+Dominican Republic,2016,5,monthly,3545
+Dominican Republic,2016,6,monthly,3752
+Dominican Republic,2016,7,monthly,3671
+Dominican Republic,2016,8,monthly,3571
+Dominican Republic,2016,9,monthly,3417
+Dominican Republic,2016,10,monthly,3665
+Dominican Republic,2016,11,monthly,3807
+Dominican Republic,2016,12,monthly,3874
+Dominican Republic,2017,1,monthly,4129
+Dominican Republic,2017,2,monthly,3485
+Dominican Republic,2017,3,monthly,3704
+Dominican Republic,2017,4,monthly,3405
+Dominican Republic,2017,5,monthly,3636
+Dominican Republic,2017,6,monthly,3402
+Dominican Republic,2017,7,monthly,3535
+Dominican Republic,2017,8,monthly,3440
+Dominican Republic,2017,9,monthly,3343
+Dominican Republic,2017,10,monthly,3647
+Dominican Republic,2017,11,monthly,3551
+Dominican Republic,2017,12,monthly,3722
+Dominican Republic,2018,1,monthly,3623
+Dominican Republic,2018,2,monthly,3576
+Dominican Republic,2018,3,monthly,4106
+Dominican Republic,2018,4,monthly,3529
+Dominican Republic,2018,5,monthly,3391
+Dominican Republic,2018,6,monthly,3299
+Dominican Republic,2018,7,monthly,3507
+Dominican Republic,2018,8,monthly,3345
+Dominican Republic,2018,9,monthly,3299
+Dominican Republic,2018,10,monthly,3473
+Dominican Republic,2018,11,monthly,3502
+Dominican Republic,2018,12,monthly,3549
+Dominican Republic,2019,1,monthly,3788
+Dominican Republic,2019,2,monthly,3445
+Dominican Republic,2019,3,monthly,3712
+Dominican Republic,2019,4,monthly,3421
+Dominican Republic,2019,5,monthly,3601
+Dominican Republic,2019,6,monthly,3580
+Dominican Republic,2019,7,monthly,3872
+Dominican Republic,2019,8,monthly,3652
+Dominican Republic,2019,9,monthly,3796
+Dominican Republic,2019,10,monthly,3797
+Dominican Republic,2019,11,monthly,3577
+Dominican Republic,2019,12,monthly,3783
+Dominican Republic,2020,1,monthly,4107
+Dominican Republic,2020,2,monthly,3630
+Dominican Republic,2020,3,monthly,3355
+Dominican Republic,2020,4,monthly,2714
+Dominican Republic,2020,5,monthly,2931
+Dominican Republic,2020,6,monthly,3710
+Dominican Republic,2020,7,monthly,4753
+Dominican Republic,2020,8,monthly,4375
+Dominican Republic,2020,9,monthly,3409
 Ecuador,2015,1,weekly,1327
 Ecuador,2015,2,weekly,1234
 Ecuador,2015,3,weekly,1305
@@ -15912,26 +15981,26 @@ Paraguay,2019,9,monthly,2882
 Paraguay,2019,10,monthly,2855
 Paraguay,2019,11,monthly,2605
 Paraguay,2019,12,monthly,2729
-Paraguay,2020,1,monthly,2864
+Paraguay,2020,1,monthly,2862
 Paraguay,2020,2,monthly,2859
-Paraguay,2020,3,monthly,3006
+Paraguay,2020,3,monthly,3007
 Paraguay,2020,4,monthly,2569
 Paraguay,2020,5,monthly,2675
-Paraguay,2020,6,monthly,2828
-Paraguay,2020,7,monthly,2988
-Paraguay,2020,8,monthly,3437
-Paraguay,2020,9,monthly,3399
+Paraguay,2020,6,monthly,2826
+Paraguay,2020,7,monthly,2989
+Paraguay,2020,8,monthly,3436
+Paraguay,2020,9,monthly,3400
 Paraguay,2020,10,monthly,3416
 Paraguay,2020,11,monthly,3091
 Paraguay,2020,12,monthly,3539
-Paraguay,2021,1,monthly,3195
-Paraguay,2021,2,monthly,3225
-Paraguay,2021,3,monthly,4504
-Paraguay,2021,4,monthly,6049
-Paraguay,2021,5,monthly,7178
-Paraguay,2021,6,monthly,6834
-Paraguay,2021,7,monthly,4773
-Paraguay,2021,8,monthly,3240
+Paraguay,2021,1,monthly,3197
+Paraguay,2021,2,monthly,3228
+Paraguay,2021,3,monthly,4525
+Paraguay,2021,4,monthly,6050
+Paraguay,2021,5,monthly,7181
+Paraguay,2021,6,monthly,6836
+Paraguay,2021,7,monthly,4775
+Paraguay,2021,8,monthly,3271
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -21076,6 +21145,7 @@ Taiwan,2021,6,monthly,16639
 Taiwan,2021,7,monthly,15523
 Taiwan,2021,8,monthly,14952
 Taiwan,2021,9,monthly,13894
+Taiwan,2021,10,monthly,14415
 Tajikistan,2015,1,quarterly,9235
 Tajikistan,2015,2,quarterly,8093
 Tajikistan,2015,3,quarterly,7716
