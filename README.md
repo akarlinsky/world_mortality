@@ -408,7 +408,7 @@ Peru provides daily death counts. We summed them up to form weekly death counts.
 Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
 
 
-### Puerto Rico (weelly)
+### Puerto Rico (weekly)
 2015 onward: [CDC Weekly Counts of Deaths by Jurisdiction and Age](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-Jurisdiction-and-Age/y5bj-9g5w)
 
 The CDC reports death counts for Puerto Rico and the US separately, as thus the WHO for COVID deaths. We are thus reporting death counts for the territory of Puerto Rico separately from the rest of the US.
