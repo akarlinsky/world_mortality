@@ -2037,15 +2037,15 @@ Brazil,2020,9,monthly,128972
 Brazil,2020,10,monthly,130493
 Brazil,2020,11,monthly,124326
 Brazil,2020,12,monthly,141190
-Brazil,2021,1,monthly,147534.5
-Brazil,2021,2,monthly,135305.5
-Brazil,2021,3,monthly,205141.3
-Brazil,2021,4,monthly,204920.2
-Brazil,2021,5,monthly,178887.7
-Brazil,2021,6,monthly,178854.2
-Brazil,2021,7,monthly,162449
-Brazil,2021,8,monthly,149213.8
-Brazil,2021,9,monthly,129777.8
+Brazil,2021,1,monthly,147537.3
+Brazil,2021,2,monthly,135312.8
+Brazil,2021,3,monthly,205163
+Brazil,2021,4,monthly,204928.9
+Brazil,2021,5,monthly,178893.4
+Brazil,2021,6,monthly,178910.6
+Brazil,2021,7,monthly,162461.4
+Brazil,2021,8,monthly,149220.9
+Brazil,2021,9,monthly,129807.8
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -9167,6 +9167,8 @@ Hungary,2021,36,weekly,2358
 Hungary,2021,37,weekly,2421
 Hungary,2021,38,weekly,2320
 Hungary,2021,39,weekly,2287
+Hungary,2021,40,weekly,2437
+Hungary,2021,41,weekly,2522
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -18385,6 +18387,7 @@ San Marino,2021,6,monthly,20
 San Marino,2021,7,monthly,24
 San Marino,2021,8,monthly,22
 San Marino,2021,9,monthly,23
+San Marino,2021,10,monthly,26
 Serbia,2015,1,monthly,10121
 Serbia,2015,2,monthly,9316
 Serbia,2015,3,monthly,9794
