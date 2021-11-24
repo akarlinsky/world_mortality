@@ -359,6 +359,12 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 2016 onward: Mongolian Statistical Information Service: http://www.1212.mn/tables.aspx?tbl_id=DT_NSO_2100_027V2&SOUM_select_all=0&SOUMSingleSelect=_0&YearM_select_all=0&YearMSingleSelect=_202011_202010_202009_202008_202007_202006_202005_202004_202003_202002_202001_202012&viewtype=table
 
 
+### New Caledonia (monthly)
+2015 onward: [Institute of Statistics and Economic Studies (ISEE): DEATH - MORTALITY - LIFE EXPECTANCY](https://www.isee.nc/population/demographie/deces-mortalite-esperance-de-vie)
+
+ISEE has released some data for monthly deaths in 2021, but only for September onward. These preliminary show large excess, but we have chosen not to include it until data for previous months in 2021 is available. 
+
+
 ### North Macedonia (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
