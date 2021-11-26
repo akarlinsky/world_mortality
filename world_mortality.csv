@@ -2044,15 +2044,15 @@ Brazil,2020,9,monthly,128972
 Brazil,2020,10,monthly,130493
 Brazil,2020,11,monthly,124326
 Brazil,2020,12,monthly,141190
-Brazil,2021,1,monthly,147555
-Brazil,2021,2,monthly,135308.2
-Brazil,2021,3,monthly,205164.4
-Brazil,2021,4,monthly,204923.9
-Brazil,2021,5,monthly,178882.7
-Brazil,2021,6,monthly,178904.3
-Brazil,2021,7,monthly,162487.1
-Brazil,2021,8,monthly,149290.2
-Brazil,2021,9,monthly,129900.8
+Brazil,2021,1,monthly,147551.7
+Brazil,2021,2,monthly,135319.4
+Brazil,2021,3,monthly,205161.8
+Brazil,2021,4,monthly,204920.2
+Brazil,2021,5,monthly,178874.8
+Brazil,2021,6,monthly,178905
+Brazil,2021,7,monthly,162491.8
+Brazil,2021,8,monthly,149336.4
+Brazil,2021,9,monthly,129966.3
 Bulgaria,2015,1,weekly,2502
 Bulgaria,2015,2,weekly,2511
 Bulgaria,2015,3,weekly,2423
@@ -10703,6 +10703,7 @@ Italy,2021,35,weekly,11730
 Italy,2021,36,weekly,11833
 Italy,2021,37,weekly,11888
 Italy,2021,38,weekly,11258
+Italy,2021,39,weekly,11074
 Jamaica,2015,1,monthly,1735
 Jamaica,2015,2,monthly,1511
 Jamaica,2015,3,monthly,1517
@@ -11527,6 +11528,7 @@ Latvia,2021,40,weekly,658
 Latvia,2021,41,weekly,773
 Latvia,2021,42,weekly,911
 Latvia,2021,43,weekly,911
+Latvia,2021,44,weekly,913
 Lebanon,2015,1,monthly,2291
 Lebanon,2015,2,monthly,2211
 Lebanon,2015,3,monthly,2502
@@ -17216,6 +17218,7 @@ Portugal,2021,41,weekly,2130
 Portugal,2021,42,weekly,2036
 Portugal,2021,43,weekly,2173
 Portugal,2021,44,weekly,2113
+Portugal,2021,45,weekly,2387
 Puerto Rico,2015,1,weekly,637
 Puerto Rico,2015,2,weekly,633
 Puerto Rico,2015,3,weekly,620
@@ -21258,6 +21261,7 @@ Switzerland,2021,39,weekly,1274
 Switzerland,2021,40,weekly,1204
 Switzerland,2021,41,weekly,1261
 Switzerland,2021,42,weekly,1266
+Switzerland,2021,43,weekly,1280
 Taiwan,2015,1,monthly,14310
 Taiwan,2015,2,monthly,12122
 Taiwan,2015,3,monthly,16092
