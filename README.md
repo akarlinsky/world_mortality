@@ -199,6 +199,8 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 ### French Polynesia (monthly)
 2015 to 2020: Email correspondence with [Institut de la Statistique de la Polynésie Française (ISPF)](https://www.ispf.pf/). 
 
+2021: [ISPF Les dernières publications -  Décès en septembre 2021](https://www.ispf.pf/Publications.aspx).
+
 
 ### Georgia (monthly)
 2015-2020: Georgia National Office of Statistics (GEOSTAT): https://www.geostat.ge/en/modules/categories/320/deaths  
