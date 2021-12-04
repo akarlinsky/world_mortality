@@ -33,11 +33,9 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
+We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
-
-United States data from 2017 onward are replaced with CDC 'predictions' that account for underreporting in recent weeks (see below).
 
 For some European countries, STMF sometimes has more up-to-date (and backward revised) data than EuroStat, as it culls data from countries' NSOs. 
 We harmonize the data between these two sources by defaulting to STMF wherever possible, and appending additional from Eurostat if available. 
@@ -534,7 +532,8 @@ Access by: Statistical Information -> Population and migration -> Number of live
 
 
 ### United States (weekly)
-2015--2016: STMF, see above.  
+2015--2017: [Centers for Disease Control and Prevention](https://data.cdc.gov/api/views/y5bj-9g5w/rows.csv?accessType=DOWNLOAD)
+
 From 2017: Centers for Disease Control and Prevention: https://data.cdc.gov/api/views/xkkf-xrst/rows.csv  
 We use the 'predicted' (weighted) time series that accounts for underreporting in recent weeks. See https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm for more information.  
 We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/grasp/fluview/mortality.html as being <90% complete.
