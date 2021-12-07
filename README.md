@@ -85,7 +85,10 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 2021: https://www.armstat.am/file/article/sv_04_21r_510.pdf
 
 ### Aruba (monthly)
-Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://cbs.aw/wp/index.php/2020/12/17/quarterly-demographic-bulletin-2019-2/
+2015 - 2020: Aruba Central Bureau Of Statistics Quarterly Demographic Bulletin 2020: https://cbs.aw/wp/index.php/2020/12/17/quarterly-demographic-bulletin-2019-2/
+
+2021: [Monthly deaths data](https://www.facebook.com/permalink.php?story_fbid=2005136112986868&id=143358652497966
+) was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 
 ### Azerbaijan (monthly)
