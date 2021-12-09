@@ -32,8 +32,8 @@ Notes:
 
 ## Sources
 
-### Human Mortality Database, Short-Term Mortality Flucations
-We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland , Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
+### Human Mortality Database, Short-Term Mortality Fluctuations
+We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
