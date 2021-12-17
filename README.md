@@ -285,13 +285,13 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 ### Kosovo (monthly)
 2015 - 2019: [Statistical Yearbook of the Republic of Kosovo](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/vjetari-statistikor-i-republikes-se-kosoves-2021) 
 
-2020: [Quarterly Bulletin](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/buletini-tremujor-tm3-2021)
+2020: [Death Statistics 2020](https://ask.rks-gov.net/media/6529/vdekjet-2020-vjetore.pdf)
 
 2021: [Deaths by place of death and place of permanents residence in the municipality](https://askdata.rks-gov.net/PXWeb/pxweb/en/askdata/askdata__09%20Population__Demography%20and%20Migration__Monthly%20indicators__Births,%20deaths,%20marriages%20and%20divorces/tab03.px/?rxid=02560921-b63c-4973-81c9-4ceae84f5b04)
 
-Notes: for 2020, values fro the quarterly bulletin were multiplied by 1.168, which is the ratio between the annual number of deaths registered in 2020 from the Statistical Yearbook of the Republic of Kosovo to the number from the Quarterly Bulletin. 2020 Monthly deaths in Kosovo have been rounded to one significant digit to emphasize they were adjusted. 
+Note: Since 2020, Kosovo's NSO has released monthly mortality data disaggregated by place of death, with a substantial share occurring outside Kosovo due to a large diaspora. Data from previous years is for deaths that occur in Kosovo only. Thus, for consistency - all values are for deaths that occur in Kosovo.
 
-For 2021, only deaths that occured in Kosovo are taken.
+We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
 
 ### Kuwait (monthly)
