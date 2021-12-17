@@ -10160,24 +10160,28 @@ Ireland,2019,9,monthly,2386
 Ireland,2019,10,monthly,2627
 Ireland,2019,11,monthly,2696
 Ireland,2019,12,monthly,3052
-Ireland,2020,1,monthly,2949
-Ireland,2020,2,monthly,2640
-Ireland,2020,3,monthly,2864
-Ireland,2020,4,monthly,3504
-Ireland,2020,5,monthly,2639
-Ireland,2020,6,monthly,2205
-Ireland,2020,7,monthly,2239
-Ireland,2020,8,monthly,2339
-Ireland,2020,9,monthly,2364
-Ireland,2020,10,monthly,2709
-Ireland,2020,11,monthly,2482
-Ireland,2020,12,monthly,2760
-Ireland,2021,1,monthly,3919
+Ireland,2020,1,monthly,2968
+Ireland,2020,2,monthly,2635
+Ireland,2020,3,monthly,2881
+Ireland,2020,4,monthly,3479
+Ireland,2020,5,monthly,2647
+Ireland,2020,6,monthly,2196
+Ireland,2020,7,monthly,2260
+Ireland,2020,8,monthly,2340
+Ireland,2020,9,monthly,2345
+Ireland,2020,10,monthly,2702
+Ireland,2020,11,monthly,2506
+Ireland,2020,12,monthly,2739
+Ireland,2021,1,monthly,3929
 Ireland,2021,2,monthly,3147
-Ireland,2021,3,monthly,2640
-Ireland,2021,4,monthly,2539
-Ireland,2021,5,monthly,2612
-Ireland,2021,6,monthly,2315
+Ireland,2021,3,monthly,2631
+Ireland,2021,4,monthly,2525
+Ireland,2021,5,monthly,2627
+Ireland,2021,6,monthly,2300
+Ireland,2021,7,monthly,2528
+Ireland,2021,8,monthly,2545
+Ireland,2021,9,monthly,2639
+Ireland,2021,10,monthly,2900
 Israel,2015,1,weekly,936
 Israel,2015,2,weekly,1020
 Israel,2015,3,weekly,988
@@ -22669,6 +22673,7 @@ United States,2021,41,weekly,66240
 United States,2021,42,weekly,66016
 United States,2021,43,weekly,65481
 United States,2021,44,weekly,64755
+United States,2021,45,weekly,64790
 Uruguay,2015,1,monthly,2514
 Uruguay,2015,2,monthly,2219
 Uruguay,2015,3,monthly,2474
