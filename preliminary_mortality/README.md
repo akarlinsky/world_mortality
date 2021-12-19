@@ -11,7 +11,7 @@ Sources are listed below the figures. We welcome any contributions.
 
 ![Albania](plot_albania.png)
 ![Costa Rica](plot_costa_rica.png)
-![Jakarta](plot_jakarta.png)
+![Odisha](plot_india_odisha.png)
 ![Gujarat](plot_gujarat.png)
 ![Srpska](plot_srpska.png)
 ![Bosnia](plot_bosnia.png)
@@ -36,15 +36,17 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 ### Bengaluru City, India (January 1st to July 31st)
 2019-2020: https://www.thehindu.com/news/national/karnataka/32-increase-in-mortality-rate-in-bengaluru-patil/article32509298.ece
 
+### State of Odisha, India
+2015-2019: [Annual Report on Vital Statistics of India based on CRS](https://censusindia.gov.in/2011-Common/Annual_Report.html)
+
+2020: [Hindustan Times - Odisha: 20,035 excess deaths in 2020 amid Covid deaths underreporting cloud](https://www.hindustantimes.com/india-news/odisha-20-035-excess-deaths-in-2020-amid-covid-deaths-underreporting-cloud-101631417118338.html)
+
+2021: [Government of Odisha - Birth and Death Registration & Issuance of Certificates](https://www.birthdeath.odisha.gov.in/#/home)
+
+
 ### Costa Rica (Half-Yearly)
 2015-2021: https://www.inec.cr/estadisticas-vitales
 Monthly data 2015 to 2020 is on [World Mortality](https://github.com/akarlinsky/world_mortality). Monthly data for 2021 is only expected by March 2022, while data for first half of 2021 already exists. 
-
-
-### Jakarta, Indonesia (Quarterly)
-2015 - 2021
-Monthly data 2015 to January 2021 is on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality). 
-
 
 ### Tamil Nadu State, India
 Removed from Preliminary Mortality, now available on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) by month. 
