@@ -726,9 +726,9 @@ Australia,2020,3,weekly,2516
 Australia,2020,4,weekly,2619
 Australia,2020,5,weekly,2522
 Australia,2020,6,weekly,2547
-Australia,2020,7,weekly,2628
+Australia,2020,7,weekly,2629
 Australia,2020,8,weekly,2631
-Australia,2020,9,weekly,2695
+Australia,2020,9,weekly,2696
 Australia,2020,10,weekly,2614
 Australia,2020,11,weekly,2589
 Australia,2020,12,weekly,2707
@@ -755,7 +755,7 @@ Australia,2020,32,weekly,2952
 Australia,2020,33,weekly,3067
 Australia,2020,34,weekly,2892
 Australia,2020,35,weekly,2879
-Australia,2020,36,weekly,2894
+Australia,2020,36,weekly,2895
 Australia,2020,37,weekly,2825
 Australia,2020,38,weekly,2713
 Australia,2020,39,weekly,2794
@@ -767,46 +767,55 @@ Australia,2020,44,weekly,2651
 Australia,2020,45,weekly,2679
 Australia,2020,46,weekly,2731
 Australia,2020,47,weekly,2626
-Australia,2020,48,weekly,2553
+Australia,2020,48,weekly,2554
 Australia,2020,49,weekly,2698
 Australia,2020,50,weekly,2627
 Australia,2020,51,weekly,2636
 Australia,2020,52,weekly,2647
-Australia,2020,53,weekly,2566
-Australia,2021,1,weekly,2613
+Australia,2020,53,weekly,2567
+Australia,2021,1,weekly,2614
 Australia,2021,2,weekly,2537
 Australia,2021,3,weekly,2699
-Australia,2021,4,weekly,2549
-Australia,2021,5,weekly,2681
+Australia,2021,4,weekly,2550
+Australia,2021,5,weekly,2682
 Australia,2021,6,weekly,2566
-Australia,2021,7,weekly,2545
+Australia,2021,7,weekly,2547
 Australia,2021,8,weekly,2664
-Australia,2021,9,weekly,2644
-Australia,2021,10,weekly,2719
-Australia,2021,11,weekly,2685
+Australia,2021,9,weekly,2645
+Australia,2021,10,weekly,2720
+Australia,2021,11,weekly,2687
 Australia,2021,12,weekly,2671
 Australia,2021,13,weekly,2690
-Australia,2021,14,weekly,2589
+Australia,2021,14,weekly,2591
 Australia,2021,15,weekly,2852
-Australia,2021,16,weekly,2833
-Australia,2021,17,weekly,2836
-Australia,2021,18,weekly,2972
-Australia,2021,19,weekly,2935
-Australia,2021,20,weekly,2948
-Australia,2021,21,weekly,3079
-Australia,2021,22,weekly,2934
-Australia,2021,23,weekly,3119
-Australia,2021,24,weekly,3034
-Australia,2021,25,weekly,2980
-Australia,2021,26,weekly,3005
-Australia,2021,27,weekly,3071
-Australia,2021,28,weekly,3109
-Australia,2021,29,weekly,3157
-Australia,2021,30,weekly,3210
-Australia,2021,31,weekly,3033
-Australia,2021,32,weekly,2991
-Australia,2021,33,weekly,3033
-Australia,2021,34,weekly,2969
+Australia,2021,16,weekly,2835
+Australia,2021,17,weekly,2838
+Australia,2021,18,weekly,2973
+Australia,2021,19,weekly,2940
+Australia,2021,20,weekly,2950
+Australia,2021,21,weekly,3080
+Australia,2021,22,weekly,2936
+Australia,2021,23,weekly,3125
+Australia,2021,24,weekly,3039
+Australia,2021,25,weekly,2985
+Australia,2021,26,weekly,3012
+Australia,2021,27,weekly,3073
+Australia,2021,28,weekly,3116
+Australia,2021,29,weekly,3168
+Australia,2021,30,weekly,3225
+Australia,2021,31,weekly,3047
+Australia,2021,32,weekly,3013
+Australia,2021,33,weekly,3062
+Australia,2021,34,weekly,2998
+Australia,2021,35,weekly,3049
+Australia,2021,36,weekly,2932
+Australia,2021,37,weekly,3023
+Australia,2021,38,weekly,2888
+Australia,2021,39,weekly,2987
+Australia,2021,40,weekly,2866
+Australia,2021,41,weekly,2795
+Australia,2021,42,weekly,2804
+Australia,2021,43,weekly,2622
 Austria,2015,1,weekly,1704
 Austria,2015,2,weekly,1768
 Austria,2015,3,weekly,1837
@@ -2510,6 +2519,7 @@ Bulgaria,2021,45,weekly,4026
 Bulgaria,2021,46,weekly,3919
 Bulgaria,2021,47,weekly,3584
 Bulgaria,2021,48,weekly,3386
+Bulgaria,2021,49,weekly,3225
 Canada,2015,1,weekly,6235
 Canada,2015,2,weekly,6255
 Canada,2015,3,weekly,6190
@@ -6039,6 +6049,7 @@ Estonia,2021,46,weekly,399
 Estonia,2021,47,weekly,420
 Estonia,2021,48,weekly,365
 Estonia,2021,49,weekly,376
+Estonia,2021,50,weekly,365
 Faroe Islands,2015,1,monthly,41
 Faroe Islands,2015,2,monthly,29
 Faroe Islands,2015,3,monthly,32
@@ -6482,6 +6493,7 @@ Finland,2021,44,weekly,1077
 Finland,2021,45,weekly,1139
 Finland,2021,46,weekly,1147
 Finland,2021,47,weekly,1124
+Finland,2021,48,weekly,1135
 France,2015,1,weekly,12804
 France,2015,2,weekly,13142
 France,2015,3,weekly,12803
@@ -7727,6 +7739,7 @@ Germany,2021,45,weekly,20792
 Germany,2021,46,weekly,22066
 Germany,2021,47,weekly,22847
 Germany,2021,48,weekly,23424
+Germany,2021,49,weekly,23410
 Gibraltar,2015,1,monthly,25
 Gibraltar,2015,2,monthly,26
 Gibraltar,2015,3,monthly,22
@@ -9391,6 +9404,7 @@ Hungary,2021,42,weekly,2566
 Hungary,2021,43,weekly,2852
 Hungary,2021,44,weekly,3203
 Hungary,2021,45,weekly,3325
+Hungary,2021,46,weekly,3552
 Iceland,2015,1,weekly,49
 Iceland,2015,2,weekly,42
 Iceland,2015,3,weekly,44
@@ -10905,7 +10919,11 @@ Italy,2021,35,weekly,11730
 Italy,2021,36,weekly,11833
 Italy,2021,37,weekly,11888
 Italy,2021,38,weekly,11258
-Italy,2021,39,weekly,11074
+Italy,2021,39,weekly,11361
+Italy,2021,40,weekly,11137
+Italy,2021,41,weekly,12214
+Italy,2021,42,weekly,12696
+Italy,2021,43,weekly,12295
 Jamaica,2015,1,monthly,1735
 Jamaica,2015,2,monthly,1511
 Jamaica,2015,3,monthly,1517
@@ -11737,6 +11755,7 @@ Latvia,2021,44,weekly,913
 Latvia,2021,45,weekly,889
 Latvia,2021,46,weekly,828
 Latvia,2021,47,weekly,713
+Latvia,2021,48,weekly,669
 Lebanon,2015,1,monthly,2291
 Lebanon,2015,2,monthly,2211
 Lebanon,2015,3,monthly,2502
@@ -20497,7 +20516,6 @@ South Korea,2021,40,weekly,6031
 South Korea,2021,41,weekly,6037
 South Korea,2021,42,weekly,6227
 South Korea,2021,43,weekly,6404
-South Korea,2021,44,weekly,5855
 Spain,2015,1,weekly,9605
 Spain,2015,2,weekly,10415
 Spain,2015,3,weekly,10738
