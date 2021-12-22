@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 112 countries and territories.   
+We are currently providing data for 114 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -99,6 +99,9 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 2021: https://www.stat.gov.az/news/macroeconomy.php
 
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
+
+### Barbados (monthly)
+2015 onward: Email correspondence with [Barbados Statistical Service](https://stats.gov.bb/).
 
 
 ### Belarus (monthly)
@@ -399,6 +402,10 @@ Oman National Center for Statistics and Information
 
 Note: 2019 monthly death counts was smaller at 1020 deaths than total yearly mortality count (Shown in the January 2021 Monthly Bulletin). 
 In order to account for this, all 2019 monthly data was increased by the mean monthly difference of 85. Final official monthly data for 2019 should be available by November 2021. 
+
+
+### Palestine (monthly)
+2018 onward: Palestinian Central Bureau of Statistics [Statstical Yearbook 2019-2021](https://pcbs.gov.ps/pcbs_2012/Publications_AR.aspx)
 
 
 ### Panama (monthly)
