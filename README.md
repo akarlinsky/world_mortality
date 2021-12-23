@@ -101,8 +101,9 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
 
 ### Barbados (monthly)
-2015 onward: Email correspondence with [Barbados Statistical Service](https://stats.gov.bb/).
+2015 onward: Email correspondence with [Barbados Statistical Service (BSS)](https://stats.gov.bb/).
 
+Note: The data we obtained from BSS listed 0 deaths for September 2017 and April 2018. We used the [annual amount of deaths registered](https://stats.gov.bb/subjects/social-demographic-statistics/population-demography-statistics/) to impute these missing values.
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
@@ -405,11 +406,11 @@ In order to account for this, all 2019 monthly data was increased by the mean mo
 
 
 ### Palestine (monthly)
-2018 onward: Palestinian Central Bureau of Statistics [Statstical Yearbook 2019-2021](https://pcbs.gov.ps/pcbs_2012/Publications_AR.aspx)
+2018 onward: Palestinian Central Bureau of Statistics [Statstical Yearbook 2019-2021](https://pcbs.gov.ps/pcbs_2012/Publications_AR.aspx).
 
 
 ### Panama (monthly)
-2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a591&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a591&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1.  
 
 2019 onward: Email correspondence with [Registro Civil - Tribunal Electoral](https://www.tribunal-electoral.gob.pa/registro-civil-reinicia-tramites/).
 
@@ -417,21 +418,21 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 
 ### Paraguay (monthly)
-2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php
+2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php.
 
 
 ### Peru (weekly)
-2017 onward: Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp
+2017 onward: Peruvian Ministry of Health - National Deaths Registration System (SINADEF): https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp.
 
 Peru provides daily death counts. We summed them up to form weekly death counts.
 
 
 ### Philippines (monthly)
-Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table
+Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table.
 
 
 ### Puerto Rico (weekly)
-2015 onward: [CDC Weekly Counts of Deaths by Jurisdiction and Age](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-Jurisdiction-and-Age/y5bj-9g5w)
+2015 onward: [CDC Weekly Counts of Deaths by Jurisdiction and Age](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-Jurisdiction-and-Age/y5bj-9g5w).
 
 The CDC reports death counts for Puerto Rico and the US separately, as thus the WHO for COVID deaths. We are thus reporting death counts for the territory of Puerto Rico separately from the rest of the US.
 
@@ -453,9 +454,9 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 
 
 ### San Marino (monthly)
-2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html
+2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html.
 
-2021: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#
+2021: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#.
 
 
 ### Serbia (monthly)
@@ -469,16 +470,16 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 
 
 ### Singapore (monthly)
-Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=15167
+Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=15167.
 
 
 ### South Africa (weekly)
-2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
+2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa.
 
 
 ### Sweden (weekly)
 Statistics Sweden - Preliminary Statistics on Deaths (2015 onward, daily):
-https://scb.se/en/About-us/news-and-press-releases/follow-the-preliminary-statistics-on-deaths/
+https://scb.se/en/About-us/news-and-press-releases/follow-the-preliminary-statistics-on-deaths/.
 
 Note: Sweden has a significant number of deaths which occurred in an "unknown" date (and thus week) in all years. However, 95% these have a [known month of death](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101G/ManadFoddDod/). In order to account for this, we have adjusted the daily number of deaths in Sweden by the difference between monthly deaths from daily deaths and total monthly deaths, and the residual with unknown month, distributed throughout the year. 
 For example, the sum of daily deaths in April 2020 is 10376. The total monthly deaths in April 2020 is 10555, which yields a daily mean difference of 5.97 added to each day in April 2020. The 254 additional deaths in 2020 with unknown month, were distributed uniformly across months and then daily within each month. Thus, each day in April 2020 is increased by 6.67 deaths.
