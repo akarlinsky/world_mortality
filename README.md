@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 114 countries and territories.   
+We are currently providing data for 115 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -364,6 +364,10 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 2015 to 2019: Email correspondence with [Monegasque Institute of Statistics and Economic Studies (IMSEE)](https://www.imsee.mc/).
 
 2020 onward: https://www.imsee.mc/Publications/Rapports-COVID-19 digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+
+
+### Maldives (monthly)
+2015 onward: [Maldives Statistical Yearbook - Monthly Records of Births and Deaths](http://statisticsmaldives.gov.mv/yearbook/2021/#).
 
 
 ### Mongolia (monthly)
