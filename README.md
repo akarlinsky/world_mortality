@@ -503,15 +503,14 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 
 
 ### Tajikistan (quarterly)
-Tajikistan Agency on Statistics: 
-2015 to 2019: Demographic Yearbook of the Republic of Tajikistan 2021 (paper copy): https://www.stat.tj/en/news/publications/demographic-yearbook-of-the-republic-of-tajikistan
-
+2015 to 2019: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2021 (paper copy)](https://www.stat.tj/en/news/publications/demographic-yearbook-of-the-republic-of-tajikistan). 
 Monthly counts were aggregated to quarterly counts. 
 
-2020 Q1 to Q3: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A
-Crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Tajikistan 2020 which is 9,127,000. 
+2020 Annual: [Health care in the Republic of Tajikistan](https://www.stat.tj/en/news/publications/health-care-in-the-republic-of-tajikistan).
 
-2020Q4 was derived as the difference between total yearly deaths in 2020 (42626) and sum of 2020Q1-2020Q3. 
+2020 Q1 to Q4: [UNData MBS (as crude death rates)](https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A).
+
+2020 Annual death count (42,626 ) was made to be proportionate to UNDATA MBS quarterly CDRs.
 
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
