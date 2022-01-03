@@ -512,6 +512,9 @@ Monthly counts were aggregated to quarterly counts.
 
 The sum of the quarterly values obtained through the UNDATA MBS 2020 was substantially lower than the annual value (42,626) reported in the statistical annual report. We scaled the quarterly values by a corrective factor to make them sum to the correct annual value. We give the resulting values with one decimal digit to emphasize our corrective procedure.
 
+2021 Q1 to Q4: [UNData MBS (as crude death rates)](https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A).
+CDRs were transformed to death counts using UNDATA's mid-2021 population count.
+
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
 
