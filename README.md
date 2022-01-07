@@ -254,7 +254,7 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 
 ### Ireland (monthly)
-2015 - 2019: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://www.cso.ie/en/releasesandpublications/fb/b-mpds/measuringmortalityusingpublicdatasources2019-2021/
+2015 - 2019: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://data.cso.ie/table/RIP02
 
 2020 onward: CSO PxStat Daily Deaths: https://data.cso.ie/table/RIP02
 
