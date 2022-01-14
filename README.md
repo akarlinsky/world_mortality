@@ -134,9 +134,11 @@ July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401
 ### Brazil (monthly)
 2015 to 2019: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade-sim-1979-a-2019  
 
-2020: SIM 2020: https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade  
+2020: SIM 2020: https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-mortalidade 
 
-2021: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
+2021 up to June: http://svs.aids.gov.br/dantps/centrais-de-conteudos/dados-abertos/sim/
+
+2021 July onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
 In order to account for this, the monthly counts from the CR are corrected using the ratio between total deaths in SIM 2020 (1,581,645) to total deaths in RC 2020 (1,464,243). 
 
@@ -158,7 +160,7 @@ StatCan has more up to date data than present in World Mortality, yet it is inco
 
 ### Colombia (weekly)
 https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
-Direct link to the latest table in Excel (May 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-09may.xlsx
+Direct link to the latest table in Excel (September 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-05sep.xlsx
 Here we sum values in three categories: Natural, Violenta (Violent), and En estudio (unclassified deaths). 
 
 
