@@ -33,14 +33,13 @@ Notes:
 ## Sources
 
 ### Human Mortality Database, Short-Term Mortality Fluctuations
-We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Australia\*, Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
+We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated. 
 
 For some European countries, STMF sometimes has more up-to-date (and backward revised) data than EuroStat, as it culls data from countries' NSOs. 
 We harmonize the data between these two sources by defaulting to STMF wherever possible, and appending additional from Eurostat if available. 
 
-\* Australia's data (all years) is "Doctor Certified Deaths" rather than "All Registered Deaths". These constitute about 85%-90% of all deaths in Australia. 
 
 
 ### Eurostat
@@ -90,6 +89,16 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 2021: [Monthly deaths data](https://www.facebook.com/permalink.php?story_fbid=2005136112986868&id=143358652497966
 ) was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
+
+
+### Australia (weekly)
+2015 - 2019: [STMF data](https://mpidr.shinyapps.io/stmortality/).   
+2020 onward: Australian Bureau of Statistics - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/jan-2020-oct-2021).
+
+Australia's weekly data (all years) is "Doctor Certified Deaths" rather than "All Deaths". These constitute about [86%-89% of deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia-doctor-certified-deaths-summary-tables/2019) in any given year in Australia.
+To obtain total number of deaths, we corrected the weekly number of deaths by the [ratio between annual doctor certified deaths to total deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/2020).
+For 2021, we assume that the ratio is the same as it was in 2020. Death figures were rounded to one significant digit to emphasize that they were adjusted. 
+
 
 
 ### Azerbaijan (monthly)
