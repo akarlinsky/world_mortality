@@ -2172,12 +2172,12 @@ Brazil,2021,3,monthly,208686
 Brazil,2021,4,monthly,195857
 Brazil,2021,5,monthly,181805
 Brazil,2021,6,monthly,170589
-Brazil,2021,7,monthly,162794.9
-Brazil,2021,8,monthly,149487.7
-Brazil,2021,9,monthly,130464.8
-Brazil,2021,10,monthly,121265
-Brazil,2021,11,monthly,122272.7
-Brazil,2021,12,monthly,124970.7
+Brazil,2021,7,monthly,162801.6
+Brazil,2021,8,monthly,149471.5
+Brazil,2021,9,monthly,130426.2
+Brazil,2021,10,monthly,121229.1
+Brazil,2021,11,monthly,122236.5
+Brazil,2021,12,monthly,124933.8
 Brunei,2015,1,monthly,120
 Brunei,2015,2,monthly,97
 Brunei,2015,3,monthly,140
@@ -12503,6 +12503,7 @@ Lithuania,2021,49,weekly,963
 Lithuania,2021,50,weekly,992
 Lithuania,2021,51,weekly,1066
 Lithuania,2021,52,weekly,890
+Lithuania,2022,1,weekly,956
 Luxembourg,2015,1,weekly,81
 Luxembourg,2015,2,weekly,87
 Luxembourg,2015,3,weekly,80
@@ -14789,6 +14790,7 @@ Monaco,2021,8,monthly,45
 Monaco,2021,9,monthly,46
 Monaco,2021,10,monthly,50
 Monaco,2021,11,monthly,36
+Monaco,2021,12,monthly,58
 Mongolia,2015,1,monthly,1340
 Mongolia,2015,2,monthly,1292
 Mongolia,2015,3,monthly,1445
@@ -16528,6 +16530,7 @@ Norway,2021,49,weekly,1016
 Norway,2021,50,weekly,959
 Norway,2021,51,weekly,919
 Norway,2021,52,weekly,874
+Norway,2022,1,weekly,889
 Oman,2015,1,monthly,732
 Oman,2015,2,monthly,550
 Oman,2015,3,monthly,602
@@ -16609,8 +16612,9 @@ Oman,2021,6,monthly,1741
 Oman,2021,7,monthly,1829
 Oman,2021,8,monthly,1026
 Oman,2021,9,monthly,711
-Oman,2021,10,monthly,785
-Oman,2021,11,monthly,762
+Oman,2021,10,monthly,784
+Oman,2021,11,monthly,768
+Oman,2021,12,monthly,847
 Palestine,2018,1,monthly,1159
 Palestine,2018,2,monthly,1093
 Palestine,2018,3,monthly,1003
@@ -17514,6 +17518,11 @@ Poland,2021,46,weekly,11951
 Poland,2021,47,weekly,12600
 Poland,2021,48,weekly,12752
 Poland,2021,49,weekly,12403
+Poland,2021,50,weekly,13722
+Poland,2021,51,weekly,13618
+Poland,2021,52,weekly,13107
+Poland,2022,1,weekly,11319
+Poland,2022,2,weekly,9733
 Portugal,2015,1,weekly,2813
 Portugal,2015,2,weekly,3054
 Portugal,2015,3,weekly,3167
