@@ -514,23 +514,13 @@ Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https:/
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
 
-### Tajikistan (quarterly)
-2015 to 2019: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2021 (paper copy)](https://www.stat.tj/en/news/publications/demographic-yearbook-of-the-republic-of-tajikistan). 
-Monthly counts were aggregated to quarterly counts. 
-
-2020 Annual: [Health care in the Republic of Tajikistan](https://www.stat.tj/en/news/publications/health-care-in-the-republic-of-tajikistan).
-
-2020 Q1 to Q4: [UNData MBS (as crude death rates)](https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A).
-
-The sum of the quarterly values obtained through the UNDATA MBS 2020 was substantially lower than the annual value (42,626) reported in the statistical annual report. We scaled the quarterly values by a corrective factor to make them sum to the correct annual value. We give the resulting values with one decimal digit to emphasize our corrective procedure.
-
-2021 Q1 to Q4: [UNData MBS (as crude death rates)](https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=762&yearfrom=2020&yearto=2021&p=A).
-CDRs were transformed to death counts using UNDATA's mid-2021 population count.
+### Tajikistan (monthly)
+2015 to 2020: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released). 
 
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
 
-### Transnistria (monthly)
+### Transnistria (monthly)  
 Transnistria State Statistics Service Statistical information bulletin: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/informaczionnyj-statisticheskij-byulleten.html  
 
 Social and economic development of the PMR: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/o-soczialno-ekonomicheskom-polozhenii-pmr.html  
