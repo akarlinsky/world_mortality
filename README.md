@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 116 countries and territories.   
+We are currently providing data for 117 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -53,6 +53,12 @@ French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/e
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2015, 2019 onward: Email correspondence with [Albania Institute of Statistics](http://www.instat.gov.al/en/).
+
+### Algeria (monthly)
+2018 to 2020: Office National des Statistiques
+[Démographie Algérienne](https://www.ons.dz/spip.php?rubrique182).
+
+2018-2019 values were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). These are shown with one significant digit to emphasize this.
 
 
 ### Andorra (monthly)
