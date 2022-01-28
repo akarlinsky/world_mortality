@@ -2210,12 +2210,12 @@ Brazil,2021,3,monthly,208686
 Brazil,2021,4,monthly,195857
 Brazil,2021,5,monthly,181805
 Brazil,2021,6,monthly,170589
-Brazil,2021,7,monthly,162869.2
-Brazil,2021,8,monthly,149480.7
-Brazil,2021,9,monthly,130507.4
-Brazil,2021,10,monthly,121349.6
-Brazil,2021,11,monthly,122445.2
-Brazil,2021,12,monthly,125315.6
+Brazil,2021,7,monthly,162853.5
+Brazil,2021,8,monthly,149458.8
+Brazil,2021,9,monthly,130504.2
+Brazil,2021,10,monthly,121382.6
+Brazil,2021,11,monthly,122478
+Brazil,2021,12,monthly,125399.5
 Brunei,2015,1,monthly,120
 Brunei,2015,2,monthly,97
 Brunei,2015,3,monthly,140
@@ -10753,19 +10753,21 @@ Israel,2021,34,weekly,1042
 Israel,2021,35,weekly,1084
 Israel,2021,36,weekly,989
 Israel,2021,37,weekly,1031
-Israel,2021,38,weekly,954
-Israel,2021,39,weekly,953
+Israel,2021,38,weekly,953
+Israel,2021,39,weekly,954
 Israel,2021,40,weekly,961
-Israel,2021,41,weekly,918
+Israel,2021,41,weekly,919
 Israel,2021,42,weekly,971
 Israel,2021,43,weekly,883
-Israel,2021,44,weekly,906
-Israel,2021,45,weekly,940
-Israel,2021,46,weekly,848
-Israel,2021,47,weekly,833
-Israel,2021,48,weekly,872
-Israel,2021,49,weekly,944
-Israel,2021,50,weekly,987
+Israel,2021,44,weekly,908
+Israel,2021,45,weekly,941
+Israel,2021,46,weekly,856
+Israel,2021,47,weekly,837
+Israel,2021,48,weekly,884
+Israel,2021,49,weekly,953
+Israel,2021,50,weekly,995
+Israel,2021,51,weekly,970
+Israel,2021,52,weekly,1053
 Italy,2015,1,weekly,15178
 Italy,2015,2,weekly,15811
 Italy,2015,3,weekly,15480
@@ -11419,6 +11421,7 @@ Kazakhstan,2021,7,monthly,16700
 Kazakhstan,2021,8,monthly,24342
 Kazakhstan,2021,9,monthly,19975
 Kazakhstan,2021,10,monthly,16002
+Kazakhstan,2021,11,monthly,15862
 Kosovo,2015,1,monthly,762
 Kosovo,2015,2,monthly,704
 Kosovo,2015,3,monthly,729
@@ -12023,6 +12026,7 @@ Latvia,2021,49,weekly,691
 Latvia,2021,50,weekly,649
 Latvia,2021,51,weekly,650
 Latvia,2021,52,weekly,686
+Latvia,2022,1,weekly,682
 Lebanon,2015,1,monthly,2291
 Lebanon,2015,2,monthly,2211
 Lebanon,2015,3,monthly,2502
@@ -12176,7 +12180,7 @@ Liechtenstein,2020,8,monthly,23
 Liechtenstein,2020,9,monthly,30
 Liechtenstein,2020,10,monthly,23
 Liechtenstein,2020,11,monthly,39
-Liechtenstein,2020,12,monthly,51
+Liechtenstein,2020,12,monthly,52
 Liechtenstein,2021,1,monthly,31
 Liechtenstein,2021,2,monthly,23
 Liechtenstein,2021,3,monthly,16
@@ -12187,7 +12191,8 @@ Liechtenstein,2021,7,monthly,26
 Liechtenstein,2021,8,monthly,20
 Liechtenstein,2021,9,monthly,18
 Liechtenstein,2021,10,monthly,20
-Liechtenstein,2021,11,monthly,20
+Liechtenstein,2021,11,monthly,25
+Liechtenstein,2021,12,monthly,25
 Lithuania,2015,1,weekly,844
 Lithuania,2015,2,weekly,827
 Lithuania,2015,3,weekly,905
@@ -12555,6 +12560,7 @@ Lithuania,2021,50,weekly,992
 Lithuania,2021,51,weekly,1066
 Lithuania,2021,52,weekly,890
 Lithuania,2022,1,weekly,956
+Lithuania,2022,2,weekly,941
 Luxembourg,2015,1,weekly,81
 Luxembourg,2015,2,weekly,87
 Luxembourg,2015,3,weekly,80
@@ -16853,23 +16859,23 @@ Paraguay,2020,2,monthly,2866
 Paraguay,2020,3,monthly,3006
 Paraguay,2020,4,monthly,2571
 Paraguay,2020,5,monthly,2675
-Paraguay,2020,6,monthly,2827
-Paraguay,2020,7,monthly,2993
+Paraguay,2020,6,monthly,2826
+Paraguay,2020,7,monthly,2991
 Paraguay,2020,8,monthly,3452
 Paraguay,2020,9,monthly,3409
-Paraguay,2020,10,monthly,3422
+Paraguay,2020,10,monthly,3421
 Paraguay,2020,11,monthly,3104
 Paraguay,2020,12,monthly,3552
-Paraguay,2021,1,monthly,3248
-Paraguay,2021,2,monthly,3264
-Paraguay,2021,3,monthly,4650
-Paraguay,2021,4,monthly,6250
-Paraguay,2021,5,monthly,7394
-Paraguay,2021,6,monthly,7010
-Paraguay,2021,7,monthly,4998
+Paraguay,2021,1,monthly,3254
+Paraguay,2021,2,monthly,3265
+Paraguay,2021,3,monthly,4659
+Paraguay,2021,4,monthly,6267
+Paraguay,2021,5,monthly,7404
+Paraguay,2021,6,monthly,7018
+Paraguay,2021,7,monthly,5000
 Paraguay,2021,8,monthly,3562
 Paraguay,2021,9,monthly,2778
-Paraguay,2021,10,monthly,2686
+Paraguay,2021,10,monthly,2705
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -22083,6 +22089,7 @@ Switzerland,2021,48,weekly,1668
 Switzerland,2021,49,weekly,1732
 Switzerland,2021,50,weekly,1653
 Switzerland,2021,51,weekly,1517
+Switzerland,2021,52,weekly,1553
 Taiwan,2015,1,monthly,14310
 Taiwan,2015,2,monthly,12122
 Taiwan,2015,3,monthly,16092
@@ -23279,7 +23286,6 @@ United States,2021,49,weekly,70048
 United States,2021,50,weekly,68465
 United States,2021,51,weekly,68417
 United States,2021,52,weekly,68364
-United States,2022,1,weekly,65669
 Uruguay,2015,1,monthly,2514
 Uruguay,2015,2,monthly,2219
 Uruguay,2015,3,monthly,2474
@@ -23440,6 +23446,9 @@ Uzbekistan,2021,3,monthly,13603
 Uzbekistan,2021,4,monthly,12432
 Uzbekistan,2021,5,monthly,12440
 Uzbekistan,2021,6,monthly,14629
-Uzbekistan,2021,7,monthly,17458
-Uzbekistan,2021,8,monthly,17458
-Uzbekistan,2021,9,monthly,17458
+Uzbekistan,2021,7,monthly,17670
+Uzbekistan,2021,8,monthly,21208
+Uzbekistan,2021,9,monthly,13456
+Uzbekistan,2021,10,monthly,13701
+Uzbekistan,2021,11,monthly,12981
+Uzbekistan,2021,12,monthly,15797
