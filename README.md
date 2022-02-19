@@ -174,9 +174,9 @@ StatCan has more up to date data than present in World Mortality, yet it is inco
 
 
 ### Colombia (weekly)
-https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19  
-Direct link to the latest table in Excel (September 2021): https://www.dane.gov.co/files/investigaciones/poblacion/defunciones-covid19/anexos-defunciones-covid-nal-2020-02mar-2021-05sep.xlsx
-Here we sum values in three categories: Natural, Violenta (Violent), and En estudio (unclassified deaths). 
+Colombia Health Dashboard: https://experience.arcgis.com/experience/d9bfa6a650a249099b5f290a6c454804/?draft=true
+
+Queried from https://github.com/sociedatos. 
 
 
 ### Costa Rica (monthly)
