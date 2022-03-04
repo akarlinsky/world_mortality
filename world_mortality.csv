@@ -1844,6 +1844,7 @@ Belgium,2022,2,weekly,2205
 Belgium,2022,3,weekly,2351
 Belgium,2022,4,weekly,2490
 Belgium,2022,5,weekly,2576
+Belgium,2022,6,weekly,2489
 Belize,2015,1,monthly,149
 Belize,2015,2,monthly,147
 Belize,2015,3,monthly,167
@@ -2232,9 +2233,9 @@ Brazil,2021,7,monthly,162974.4
 Brazil,2021,8,monthly,149624.6
 Brazil,2021,9,monthly,130500.6
 Brazil,2021,10,monthly,121464.9
-Brazil,2021,11,monthly,122861.7
-Brazil,2021,12,monthly,126253.2
-Brazil,2022,1,monthly,157000.1
+Brazil,2021,11,monthly,123042.4
+Brazil,2021,12,monthly,126554.3
+Brazil,2022,1,monthly,157315.1
 Brunei,2015,1,monthly,120
 Brunei,2015,2,monthly,97
 Brunei,2015,3,monthly,140
@@ -5676,16 +5677,16 @@ Ecuador,2020,8,weekly,1477
 Ecuador,2020,9,weekly,1539
 Ecuador,2020,10,weekly,1439
 Ecuador,2020,11,weekly,1470
-Ecuador,2020,12,weekly,1519
+Ecuador,2020,12,weekly,1520
 Ecuador,2020,13,weekly,3754
-Ecuador,2020,14,weekly,7208
-Ecuador,2020,15,weekly,6385
-Ecuador,2020,16,weekly,4465
-Ecuador,2020,17,weekly,3475
-Ecuador,2020,18,weekly,2825
-Ecuador,2020,19,weekly,2603
+Ecuador,2020,14,weekly,7209
+Ecuador,2020,15,weekly,6386
+Ecuador,2020,16,weekly,4466
+Ecuador,2020,17,weekly,3476
+Ecuador,2020,18,weekly,2827
+Ecuador,2020,19,weekly,2606
 Ecuador,2020,20,weekly,2302
-Ecuador,2020,21,weekly,2139
+Ecuador,2020,21,weekly,2141
 Ecuador,2020,22,weekly,2113
 Ecuador,2020,23,weekly,2077
 Ecuador,2020,24,weekly,2174
@@ -5693,7 +5694,7 @@ Ecuador,2020,25,weekly,2138
 Ecuador,2020,26,weekly,2134
 Ecuador,2020,27,weekly,2238
 Ecuador,2020,28,weekly,2425
-Ecuador,2020,29,weekly,2528
+Ecuador,2020,29,weekly,2529
 Ecuador,2020,30,weekly,2563
 Ecuador,2020,31,weekly,2538
 Ecuador,2020,32,weekly,2475
@@ -5701,7 +5702,7 @@ Ecuador,2020,33,weekly,2372
 Ecuador,2020,34,weekly,2194
 Ecuador,2020,35,weekly,2076
 Ecuador,2020,36,weekly,2067
-Ecuador,2020,37,weekly,1943
+Ecuador,2020,37,weekly,1944
 Ecuador,2020,38,weekly,1877
 Ecuador,2020,39,weekly,1782
 Ecuador,2020,40,weekly,1699
@@ -5715,7 +5716,7 @@ Ecuador,2020,47,weekly,1808
 Ecuador,2020,48,weekly,1710
 Ecuador,2020,49,weekly,1792
 Ecuador,2020,50,weekly,1661
-Ecuador,2020,51,weekly,1776
+Ecuador,2020,51,weekly,1777
 Ecuador,2020,52,weekly,1777
 Ecuador,2020,53,weekly,1911
 Ecuador,2021,1,weekly,2003
@@ -5723,59 +5724,61 @@ Ecuador,2021,2,weekly,2194
 Ecuador,2021,3,weekly,2338
 Ecuador,2021,4,weekly,2203
 Ecuador,2021,5,weekly,2232
-Ecuador,2021,6,weekly,2211
-Ecuador,2021,7,weekly,2250
+Ecuador,2021,6,weekly,2212
+Ecuador,2021,7,weekly,2251
 Ecuador,2021,8,weekly,2275
 Ecuador,2021,9,weekly,2217
 Ecuador,2021,10,weekly,2420
 Ecuador,2021,11,weekly,2629
-Ecuador,2021,12,weekly,2707
+Ecuador,2021,12,weekly,2708
 Ecuador,2021,13,weekly,2849
-Ecuador,2021,14,weekly,3043
-Ecuador,2021,15,weekly,3136
-Ecuador,2021,16,weekly,3258
+Ecuador,2021,14,weekly,3044
+Ecuador,2021,15,weekly,3137
+Ecuador,2021,16,weekly,3260
 Ecuador,2021,17,weekly,3083
 Ecuador,2021,18,weekly,2893
 Ecuador,2021,19,weekly,2574
 Ecuador,2021,20,weekly,2379
 Ecuador,2021,21,weekly,2182
 Ecuador,2021,22,weekly,1989
-Ecuador,2021,23,weekly,1973
+Ecuador,2021,23,weekly,1974
 Ecuador,2021,24,weekly,1931
 Ecuador,2021,25,weekly,1909
-Ecuador,2021,26,weekly,1826
+Ecuador,2021,26,weekly,1827
 Ecuador,2021,27,weekly,1879
-Ecuador,2021,28,weekly,1808
-Ecuador,2021,29,weekly,1739
+Ecuador,2021,28,weekly,1809
+Ecuador,2021,29,weekly,1740
 Ecuador,2021,30,weekly,1767
-Ecuador,2021,31,weekly,1615
-Ecuador,2021,32,weekly,1580
-Ecuador,2021,33,weekly,1545
+Ecuador,2021,31,weekly,1616
+Ecuador,2021,32,weekly,1581
+Ecuador,2021,33,weekly,1546
 Ecuador,2021,34,weekly,1612
-Ecuador,2021,35,weekly,1565
+Ecuador,2021,35,weekly,1566
 Ecuador,2021,36,weekly,1524
-Ecuador,2021,37,weekly,1537
-Ecuador,2021,38,weekly,1495
+Ecuador,2021,37,weekly,1539
+Ecuador,2021,38,weekly,1496
 Ecuador,2021,39,weekly,1602
-Ecuador,2021,40,weekly,1491
+Ecuador,2021,40,weekly,1492
 Ecuador,2021,41,weekly,1544
 Ecuador,2021,42,weekly,1470
-Ecuador,2021,43,weekly,1465
-Ecuador,2021,44,weekly,1459
-Ecuador,2021,45,weekly,1575
+Ecuador,2021,43,weekly,1466
+Ecuador,2021,44,weekly,1460
+Ecuador,2021,45,weekly,1576
 Ecuador,2021,46,weekly,1593
-Ecuador,2021,47,weekly,1582
-Ecuador,2021,48,weekly,1513
-Ecuador,2021,49,weekly,1628
-Ecuador,2021,50,weekly,1630
-Ecuador,2021,51,weekly,1710
-Ecuador,2021,52,weekly,1769
-Ecuador,2022,1,weekly,1914
-Ecuador,2022,2,weekly,2250
-Ecuador,2022,3,weekly,2590
-Ecuador,2022,4,weekly,2450
-Ecuador,2022,5,weekly,2288
-Ecuador,2022,6,weekly,1962
+Ecuador,2021,47,weekly,1583
+Ecuador,2021,48,weekly,1516
+Ecuador,2021,49,weekly,1629
+Ecuador,2021,50,weekly,1633
+Ecuador,2021,51,weekly,1713
+Ecuador,2021,52,weekly,1771
+Ecuador,2022,1,weekly,1919
+Ecuador,2022,2,weekly,2257
+Ecuador,2022,3,weekly,2597
+Ecuador,2022,4,weekly,2464
+Ecuador,2022,5,weekly,2320
+Ecuador,2022,6,weekly,1995
+Ecuador,2022,7,weekly,1721
+Ecuador,2022,8,weekly,1123
 Egypt,2015,1,monthly,59713
 Egypt,2015,2,monthly,47678
 Egypt,2015,3,monthly,46524
@@ -7121,6 +7124,10 @@ France,2021,51,weekly,14386
 France,2021,52,weekly,14383
 France,2022,1,weekly,14156
 France,2022,2,weekly,13522
+France,2022,3,weekly,14722
+France,2022,4,weekly,15264
+France,2022,5,weekly,15137
+France,2022,6,weekly,13631
 French Guiana,2015,1,weekly,14
 French Guiana,2015,2,weekly,17
 French Guiana,2015,3,weekly,18
@@ -7431,7 +7438,7 @@ French Guiana,2020,46,weekly,11
 French Guiana,2020,47,weekly,21
 French Guiana,2020,48,weekly,20
 French Guiana,2020,49,weekly,21
-French Guiana,2020,50,weekly,15
+French Guiana,2020,50,weekly,16
 French Guiana,2020,51,weekly,16
 French Guiana,2020,52,weekly,20
 French Guiana,2020,53,weekly,15
@@ -7468,27 +7475,31 @@ French Guiana,2021,30,weekly,31
 French Guiana,2021,31,weekly,36
 French Guiana,2021,32,weekly,24
 French Guiana,2021,33,weekly,33
-French Guiana,2021,34,weekly,38
+French Guiana,2021,34,weekly,39
 French Guiana,2021,35,weekly,32
 French Guiana,2021,36,weekly,27
 French Guiana,2021,37,weekly,37
-French Guiana,2021,38,weekly,43
+French Guiana,2021,38,weekly,44
 French Guiana,2021,39,weekly,40
 French Guiana,2021,40,weekly,34
 French Guiana,2021,41,weekly,28
 French Guiana,2021,42,weekly,26
 French Guiana,2021,43,weekly,35
-French Guiana,2021,44,weekly,28
+French Guiana,2021,44,weekly,29
 French Guiana,2021,45,weekly,26
-French Guiana,2021,46,weekly,17
-French Guiana,2021,47,weekly,18
-French Guiana,2021,48,weekly,12
-French Guiana,2021,49,weekly,15
-French Guiana,2021,50,weekly,14
-French Guiana,2021,51,weekly,19
-French Guiana,2021,52,weekly,19
-French Guiana,2022,1,weekly,24
+French Guiana,2021,46,weekly,18
+French Guiana,2021,47,weekly,19
+French Guiana,2021,48,weekly,13
+French Guiana,2021,49,weekly,19
+French Guiana,2021,50,weekly,16
+French Guiana,2021,51,weekly,20
+French Guiana,2021,52,weekly,21
+French Guiana,2022,1,weekly,27
 French Guiana,2022,2,weekly,27
+French Guiana,2022,3,weekly,39
+French Guiana,2022,4,weekly,35
+French Guiana,2022,5,weekly,21
+French Guiana,2022,6,weekly,16
 French Polynesia,2015,1,monthly,155
 French Polynesia,2015,2,monthly,95
 French Polynesia,2015,3,monthly,105
@@ -8894,23 +8905,27 @@ Guadeloupe,2021,34,weekly,290
 Guadeloupe,2021,35,weekly,192
 Guadeloupe,2021,36,weekly,161
 Guadeloupe,2021,37,weekly,96
-Guadeloupe,2021,38,weekly,102
+Guadeloupe,2021,38,weekly,103
 Guadeloupe,2021,39,weekly,82
 Guadeloupe,2021,40,weekly,67
 Guadeloupe,2021,41,weekly,74
 Guadeloupe,2021,42,weekly,63
 Guadeloupe,2021,43,weekly,66
 Guadeloupe,2021,44,weekly,60
-Guadeloupe,2021,45,weekly,56
+Guadeloupe,2021,45,weekly,57
 Guadeloupe,2021,46,weekly,72
 Guadeloupe,2021,47,weekly,63
 Guadeloupe,2021,48,weekly,53
 Guadeloupe,2021,49,weekly,66
 Guadeloupe,2021,50,weekly,54
 Guadeloupe,2021,51,weekly,71
-Guadeloupe,2021,52,weekly,63
+Guadeloupe,2021,52,weekly,64
 Guadeloupe,2022,1,weekly,64
-Guadeloupe,2022,2,weekly,70
+Guadeloupe,2022,2,weekly,87
+Guadeloupe,2022,3,weekly,86
+Guadeloupe,2022,4,weekly,105
+Guadeloupe,2022,5,weekly,116
+Guadeloupe,2022,6,weekly,81
 Guatemala,2015,1,weekly,1690
 Guatemala,2015,2,weekly,1616
 Guatemala,2015,3,weekly,1604
@@ -12180,6 +12195,7 @@ Latvia,2022,2,weekly,680
 Latvia,2022,3,weekly,651
 Latvia,2022,4,weekly,588
 Latvia,2022,5,weekly,661
+Latvia,2022,6,weekly,674
 Lebanon,2015,1,monthly,2291
 Lebanon,2015,2,monthly,2211
 Lebanon,2015,3,monthly,2502
@@ -13084,6 +13100,11 @@ Luxembourg,2021,49,weekly,90
 Luxembourg,2021,50,weekly,93
 Luxembourg,2021,51,weekly,109
 Luxembourg,2021,52,weekly,99
+Luxembourg,2022,1,weekly,98
+Luxembourg,2022,2,weekly,89
+Luxembourg,2022,3,weekly,84
+Luxembourg,2022,4,weekly,94
+Luxembourg,2022,5,weekly,96
 Macao,2015,1,monthly,212
 Macao,2015,2,monthly,193
 Macao,2015,3,monthly,188
@@ -14051,9 +14072,13 @@ Martinique,2021,48,weekly,78
 Martinique,2021,49,weekly,80
 Martinique,2021,50,weekly,65
 Martinique,2021,51,weekly,93
-Martinique,2021,52,weekly,65
-Martinique,2022,1,weekly,81
-Martinique,2022,2,weekly,95
+Martinique,2021,52,weekly,66
+Martinique,2022,1,weekly,83
+Martinique,2022,2,weekly,99
+Martinique,2022,3,weekly,96
+Martinique,2022,4,weekly,83
+Martinique,2022,5,weekly,97
+Martinique,2022,6,weekly,86
 Mauritius,2015,1,monthly,845
 Mauritius,2015,2,monthly,711
 Mauritius,2015,3,monthly,773
@@ -14472,7 +14497,7 @@ Mayotte,2021,23,weekly,11
 Mayotte,2021,24,weekly,13
 Mayotte,2021,25,weekly,13
 Mayotte,2021,26,weekly,16
-Mayotte,2021,27,weekly,17
+Mayotte,2021,27,weekly,18
 Mayotte,2021,28,weekly,13
 Mayotte,2021,29,weekly,15
 Mayotte,2021,30,weekly,16
@@ -14484,7 +14509,7 @@ Mayotte,2021,35,weekly,13
 Mayotte,2021,36,weekly,21
 Mayotte,2021,37,weekly,22
 Mayotte,2021,38,weekly,21
-Mayotte,2021,39,weekly,21
+Mayotte,2021,39,weekly,22
 Mayotte,2021,40,weekly,17
 Mayotte,2021,41,weekly,20
 Mayotte,2021,42,weekly,15
@@ -14497,9 +14522,13 @@ Mayotte,2021,48,weekly,15
 Mayotte,2021,49,weekly,21
 Mayotte,2021,50,weekly,21
 Mayotte,2021,51,weekly,35
-Mayotte,2021,52,weekly,28
-Mayotte,2022,1,weekly,21
+Mayotte,2021,52,weekly,29
+Mayotte,2022,1,weekly,26
 Mayotte,2022,2,weekly,28
+Mayotte,2022,3,weekly,25
+Mayotte,2022,4,weekly,23
+Mayotte,2022,5,weekly,16
+Mayotte,2022,6,weekly,12
 Mexico,2015,1,weekly,15101
 Mexico,2015,2,weekly,15449
 Mexico,2015,3,weekly,14820
@@ -14947,6 +14976,8 @@ Moldova,2021,6,monthly,3024
 Moldova,2021,7,monthly,2946
 Moldova,2021,8,monthly,2499
 Moldova,2021,9,monthly,3574
+Moldova,2021,10,monthly,4764
+Moldova,2021,11,monthly,4713
 Monaco,2015,1,monthly,60
 Monaco,2015,2,monthly,70
 Monaco,2015,3,monthly,50
@@ -17090,19 +17121,19 @@ Paraguay,2020,9,monthly,3412
 Paraguay,2020,10,monthly,3423
 Paraguay,2020,11,monthly,3104
 Paraguay,2020,12,monthly,3554
-Paraguay,2021,1,monthly,3265
-Paraguay,2021,2,monthly,3269
-Paraguay,2021,3,monthly,4669
-Paraguay,2021,4,monthly,6279
-Paraguay,2021,5,monthly,7407
-Paraguay,2021,6,monthly,7025
-Paraguay,2021,7,monthly,5013
-Paraguay,2021,8,monthly,3590
-Paraguay,2021,9,monthly,2796
-Paraguay,2021,10,monthly,2753
-Paraguay,2021,11,monthly,2566
-Paraguay,2021,12,monthly,2891
-Paraguay,2022,1,monthly,4324
+Paraguay,2021,1,monthly,3266
+Paraguay,2021,2,monthly,3273
+Paraguay,2021,3,monthly,4673
+Paraguay,2021,4,monthly,6281
+Paraguay,2021,5,monthly,7421
+Paraguay,2021,6,monthly,7034
+Paraguay,2021,7,monthly,5023
+Paraguay,2021,8,monthly,3601
+Paraguay,2021,9,monthly,2814
+Paraguay,2021,10,monthly,2766
+Paraguay,2021,11,monthly,2590
+Paraguay,2021,12,monthly,2927
+Paraguay,2022,1,monthly,4502
 Peru,2017,1,weekly,1586
 Peru,2017,2,weekly,1672
 Peru,2017,3,weekly,1740
@@ -17314,32 +17345,32 @@ Peru,2020,52,weekly,3412
 Peru,2020,53,weekly,3612
 Peru,2021,1,weekly,3987
 Peru,2021,2,weekly,4638
-Peru,2021,3,weekly,5708
+Peru,2021,3,weekly,5707
 Peru,2021,4,weekly,6710
 Peru,2021,5,weekly,7024
 Peru,2021,6,weekly,7696
 Peru,2021,7,weekly,7723
 Peru,2021,8,weekly,7396
 Peru,2021,9,weekly,7503
-Peru,2021,10,weekly,7391
+Peru,2021,10,weekly,7392
 Peru,2021,11,weekly,7434
-Peru,2021,12,weekly,7578
+Peru,2021,12,weekly,7579
 Peru,2021,13,weekly,7908
 Peru,2021,14,weekly,8475
-Peru,2021,15,weekly,8435
+Peru,2021,15,weekly,8434
 Peru,2021,16,weekly,8253
 Peru,2021,17,weekly,7701
-Peru,2021,18,weekly,7176
+Peru,2021,18,weekly,7175
 Peru,2021,19,weekly,6537
 Peru,2021,20,weekly,6059
 Peru,2021,21,weekly,5631
-Peru,2021,22,weekly,5289
+Peru,2021,22,weekly,5291
 Peru,2021,23,weekly,4724
 Peru,2021,24,weekly,4335
 Peru,2021,25,weekly,4024
 Peru,2021,26,weekly,3818
 Peru,2021,27,weekly,3603
-Peru,2021,28,weekly,3334
+Peru,2021,28,weekly,3335
 Peru,2021,29,weekly,3255
 Peru,2021,30,weekly,3166
 Peru,2021,31,weekly,3067
@@ -17347,15 +17378,15 @@ Peru,2021,32,weekly,3117
 Peru,2021,33,weekly,2936
 Peru,2021,34,weekly,3109
 Peru,2021,35,weekly,2989
-Peru,2021,36,weekly,2890
-Peru,2021,37,weekly,2890
+Peru,2021,36,weekly,2889
+Peru,2021,37,weekly,2889
 Peru,2021,38,weekly,2945
-Peru,2021,39,weekly,2885
+Peru,2021,39,weekly,2884
 Peru,2021,40,weekly,2975
 Peru,2021,41,weekly,2891
 Peru,2021,42,weekly,2869
 Peru,2021,43,weekly,2800
-Peru,2021,44,weekly,2942
+Peru,2021,44,weekly,2943
 Peru,2021,45,weekly,2846
 Peru,2021,46,weekly,2801
 Peru,2021,47,weekly,2884
@@ -17366,12 +17397,12 @@ Peru,2021,51,weekly,3093
 Peru,2021,52,weekly,3301
 Peru,2022,1,weekly,3419
 Peru,2022,2,weekly,3657
-Peru,2022,3,weekly,4183
-Peru,2022,4,weekly,4477
-Peru,2022,5,weekly,4330
-Peru,2022,6,weekly,3978
-Peru,2022,7,weekly,3502
-Peru,2022,8,weekly,3116
+Peru,2022,3,weekly,4185
+Peru,2022,4,weekly,4476
+Peru,2022,5,weekly,4340
+Peru,2022,6,weekly,3984
+Peru,2022,7,weekly,3514
+Peru,2022,8,weekly,3148
 Philippines,2015,1,monthly,50381
 Philippines,2015,2,monthly,44540
 Philippines,2015,3,monthly,46452
@@ -19001,7 +19032,7 @@ Réunion,2021,38,weekly,90
 Réunion,2021,39,weekly,109
 Réunion,2021,40,weekly,110
 Réunion,2021,41,weekly,106
-Réunion,2021,42,weekly,111
+Réunion,2021,42,weekly,112
 Réunion,2021,43,weekly,107
 Réunion,2021,44,weekly,116
 Réunion,2021,45,weekly,97
@@ -19011,9 +19042,13 @@ Réunion,2021,48,weekly,97
 Réunion,2021,49,weekly,108
 Réunion,2021,50,weekly,124
 Réunion,2021,51,weekly,128
-Réunion,2021,52,weekly,116
-Réunion,2022,1,weekly,150
-Réunion,2022,2,weekly,171
+Réunion,2021,52,weekly,119
+Réunion,2022,1,weekly,152
+Réunion,2022,2,weekly,174
+Réunion,2022,3,weekly,175
+Réunion,2022,4,weekly,159
+Réunion,2022,5,weekly,163
+Réunion,2022,6,weekly,161
 Romania,2015,1,weekly,5803
 Romania,2015,2,weekly,5848
 Romania,2015,3,weekly,5602
@@ -23593,6 +23628,7 @@ United States,2022,1,weekly,77837
 United States,2022,2,weekly,83086
 United States,2022,3,weekly,83077
 United States,2022,4,weekly,80921
+United States,2022,5,weekly,74247
 Uruguay,2015,1,monthly,2514
 Uruguay,2015,2,monthly,2219
 Uruguay,2015,3,monthly,2474
