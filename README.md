@@ -478,6 +478,8 @@ Starting with 2021, there are no data by date of death yet available, we we are 
 
 Starting from mid-2021, when announcing the registered number of deaths in another month, Russian authorities began announcing approximate preliminary number for the most recent month, as an increase/decrease in percentage. We compute the corresponding number of deaths and report it with one decimal digit, to show that it was computed by us and not directly reported. Example for October 2021: https://tass.ru/obschestvo/12802275. 
 
+### Saint Kitts and Nevis (monthly)
+2016-2020: Ministry of Finance, Economic Planning and Information Technology Statistical Office Vital Statistics: http://stats.gov.vc/subjects/vital-statistics/
 
 
 ### San Marino (monthly)
