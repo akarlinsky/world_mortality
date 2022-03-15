@@ -99,7 +99,7 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 ### Australia (weekly)
 2015 - 2019: [STMF data](https://mpidr.shinyapps.io/stmortality/).   
-2020 onward: Australian Bureau of Statistics - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/jan-2020-oct-2021).
+2020 onward: Australian Bureau of Statistics - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release).
 
 Australia's weekly data (all years) is "Doctor Certified Deaths" rather than "All Deaths". These constitute about [86%-89% of deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia-doctor-certified-deaths-summary-tables/2019) in any given year in Australia.
 To obtain total number of deaths, we corrected the weekly number of deaths by the [ratio between annual doctor certified deaths to total deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/2020).
@@ -201,8 +201,6 @@ Note: ONE has information on deaths up to end of 2020, yet deaths in the Dominic
 2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
 2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
-Direct link to the latest table in XLS:  
-https://www.registrocivil.gob.ec/wp-content/uploads/downloads/2021/06/Defunciones_Generales_act_20_JUN_2021.xlsx
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
