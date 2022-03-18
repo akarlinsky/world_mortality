@@ -255,8 +255,6 @@ Access by: Base de datos, select appropriate year under Año and then select Def
 
 2021: Public Information Request from [RENAP](https://www.renap.gob.gt/solicitud-de-informacion-publica-decreto-57-2008).
 
-2021 info is by date of occurrence, and had strong edge effects on last week of 2020 and first week of 2021 and on Easter. The values for these weeks were averaged to avoid this. 
-
 
 ### Hong Kong (monthly)
 Hong Kong Census and Statistics Department:  
