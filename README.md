@@ -502,6 +502,11 @@ Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/pub
 2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa.
 
 
+### Suriname (monthly)
+2015 to 2019: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
+
+2020: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
+
 ### Sweden (weekly)
 Statistics Sweden - Preliminary Statistics on Deaths (2015 onward, daily):
 https://scb.se/en/About-us/news-and-press-releases/follow-the-preliminary-statistics-on-deaths/.
