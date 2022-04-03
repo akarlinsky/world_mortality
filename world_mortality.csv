@@ -3734,38 +3734,40 @@ COL,Colombia,2021,27,weekly,9669
 COL,Colombia,2021,28,weekly,8864
 COL,Colombia,2021,29,weekly,7734
 COL,Colombia,2021,30,weekly,7111
-COL,Colombia,2021,31,weekly,6439
-COL,Colombia,2021,32,weekly,5953
-COL,Colombia,2021,33,weekly,5710
-COL,Colombia,2021,34,weekly,5430
-COL,Colombia,2021,35,weekly,5185
-COL,Colombia,2021,36,weekly,5158
-COL,Colombia,2021,37,weekly,5116
-COL,Colombia,2021,38,weekly,5342
-COL,Colombia,2021,39,weekly,5121
-COL,Colombia,2021,40,weekly,5253
-COL,Colombia,2021,41,weekly,5199
-COL,Colombia,2021,42,weekly,5126
-COL,Colombia,2021,43,weekly,5150
-COL,Colombia,2021,44,weekly,5266
-COL,Colombia,2021,45,weekly,5450
-COL,Colombia,2021,46,weekly,5416
-COL,Colombia,2021,47,weekly,5428
-COL,Colombia,2021,48,weekly,5658
-COL,Colombia,2021,49,weekly,5783
-COL,Colombia,2021,50,weekly,5638
-COL,Colombia,2021,51,weekly,6080
-COL,Colombia,2021,52,weekly,6154
-COL,Colombia,2022,1,weekly,6562
-COL,Colombia,2022,2,weekly,7276
-COL,Colombia,2022,3,weekly,8122
-COL,Colombia,2022,4,weekly,8506
-COL,Colombia,2022,5,weekly,8044
-COL,Colombia,2022,6,weekly,7291
-COL,Colombia,2022,7,weekly,6497
-COL,Colombia,2022,8,weekly,5888
-COL,Colombia,2022,9,weekly,5638
-COL,Colombia,2022,10,weekly,5741
+COL,Colombia,2021,31,weekly,6359
+COL,Colombia,2021,32,weekly,5871
+COL,Colombia,2021,33,weekly,5642
+COL,Colombia,2021,34,weekly,5357
+COL,Colombia,2021,35,weekly,5113
+COL,Colombia,2021,36,weekly,5081
+COL,Colombia,2021,37,weekly,5012
+COL,Colombia,2021,38,weekly,5243
+COL,Colombia,2021,39,weekly,5021
+COL,Colombia,2021,40,weekly,5160
+COL,Colombia,2021,41,weekly,5080
+COL,Colombia,2021,42,weekly,5010
+COL,Colombia,2021,43,weekly,5023
+COL,Colombia,2021,44,weekly,5132
+COL,Colombia,2021,45,weekly,5303
+COL,Colombia,2021,46,weekly,5290
+COL,Colombia,2021,47,weekly,5285
+COL,Colombia,2021,48,weekly,5497
+COL,Colombia,2021,49,weekly,5612
+COL,Colombia,2021,50,weekly,5491
+COL,Colombia,2021,51,weekly,5871
+COL,Colombia,2021,52,weekly,5931
+COL,Colombia,2022,1,weekly,6344
+COL,Colombia,2022,2,weekly,7037
+COL,Colombia,2022,3,weekly,7839
+COL,Colombia,2022,4,weekly,8233
+COL,Colombia,2022,5,weekly,7657
+COL,Colombia,2022,6,weekly,6846
+COL,Colombia,2022,7,weekly,6049
+COL,Colombia,2022,8,weekly,5403
+COL,Colombia,2022,9,weekly,5103
+COL,Colombia,2022,10,weekly,4979
+COL,Colombia,2022,11,weekly,4868
+COL,Colombia,2022,12,weekly,4688
 CRI,Costa Rica,2015,1,monthly,1926
 CRI,Costa Rica,2015,2,monthly,1544
 CRI,Costa Rica,2015,3,monthly,1764
@@ -19704,6 +19706,7 @@ RUS,Russia,2021,10,monthly,247197
 RUS,Russia,2021,11,monthly,257292
 RUS,Russia,2021,12,monthly,215529
 RUS,Russia,2022,1,monthly,192952
+RUS,Russia,2022,2,monthly,190628
 KNA,Saint Kitts and Nevis,2016,1,monthly,42
 KNA,Saint Kitts and Nevis,2016,2,monthly,25
 KNA,Saint Kitts and Nevis,2016,3,monthly,33
@@ -23029,6 +23032,7 @@ THA,Thailand,2021,11,monthly,48892
 THA,Thailand,2021,12,monthly,51107
 THA,Thailand,2022,1,monthly,48377
 THA,Thailand,2022,2,monthly,42195
+THA,Thailand,2022,3,monthly,53256
 TRA,Transnistria,2016,7,monthly,479
 TRA,Transnistria,2016,8,monthly,572
 TRA,Transnistria,2016,9,monthly,474
