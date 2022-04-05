@@ -407,7 +407,7 @@ ARM,Armenia,2020,9,monthly,2042
 ARM,Armenia,2020,10,monthly,3632
 ARM,Armenia,2020,11,monthly,6060
 ARM,Armenia,2020,12,monthly,4395
-ARM,Armenia,2021,1,monthly,3014
+ARM,Armenia,2021,1,monthly,3013
 ARM,Armenia,2021,2,monthly,2418
 ARM,Armenia,2021,3,monthly,2836
 ARM,Armenia,2021,4,monthly,3361
@@ -419,7 +419,8 @@ ARM,Armenia,2021,9,monthly,2559
 ARM,Armenia,2021,10,monthly,3462
 ARM,Armenia,2021,11,monthly,4577
 ARM,Armenia,2021,12,monthly,3001
-ARM,Armenia,2022,1,monthly,2840
+ARM,Armenia,2022,1,monthly,2789
+ARM,Armenia,2022,2,monthly,3241
 ABW,Aruba,2015,1,monthly,51
 ABW,Aruba,2015,2,monthly,55
 ABW,Aruba,2015,3,monthly,57
@@ -1863,6 +1864,8 @@ BEL,Belgium,2022,6,weekly,2533
 BEL,Belgium,2022,7,weekly,2431
 BEL,Belgium,2022,8,weekly,2279
 BEL,Belgium,2022,9,weekly,2119
+BEL,Belgium,2022,10,weekly,2394
+BEL,Belgium,2022,11,weekly,2335
 BLZ,Belize,2015,1,monthly,149
 BLZ,Belize,2015,2,monthly,147
 BLZ,Belize,2015,3,monthly,167
@@ -3736,40 +3739,40 @@ COL,Colombia,2021,27,weekly,9669
 COL,Colombia,2021,28,weekly,8864
 COL,Colombia,2021,29,weekly,7734
 COL,Colombia,2021,30,weekly,7111
-COL,Colombia,2021,31,weekly,6359
+COL,Colombia,2021,31,weekly,6360
 COL,Colombia,2021,32,weekly,5871
-COL,Colombia,2021,33,weekly,5642
+COL,Colombia,2021,33,weekly,5643
 COL,Colombia,2021,34,weekly,5357
 COL,Colombia,2021,35,weekly,5113
 COL,Colombia,2021,36,weekly,5081
 COL,Colombia,2021,37,weekly,5012
 COL,Colombia,2021,38,weekly,5243
 COL,Colombia,2021,39,weekly,5021
-COL,Colombia,2021,40,weekly,5160
-COL,Colombia,2021,41,weekly,5080
-COL,Colombia,2021,42,weekly,5010
+COL,Colombia,2021,40,weekly,5161
+COL,Colombia,2021,41,weekly,5081
+COL,Colombia,2021,42,weekly,5012
 COL,Colombia,2021,43,weekly,5023
-COL,Colombia,2021,44,weekly,5132
+COL,Colombia,2021,44,weekly,5134
 COL,Colombia,2021,45,weekly,5303
-COL,Colombia,2021,46,weekly,5290
-COL,Colombia,2021,47,weekly,5285
-COL,Colombia,2021,48,weekly,5497
-COL,Colombia,2021,49,weekly,5612
-COL,Colombia,2021,50,weekly,5491
-COL,Colombia,2021,51,weekly,5871
-COL,Colombia,2021,52,weekly,5931
-COL,Colombia,2022,1,weekly,6344
-COL,Colombia,2022,2,weekly,7037
-COL,Colombia,2022,3,weekly,7839
-COL,Colombia,2022,4,weekly,8233
-COL,Colombia,2022,5,weekly,7657
-COL,Colombia,2022,6,weekly,6846
-COL,Colombia,2022,7,weekly,6049
-COL,Colombia,2022,8,weekly,5403
-COL,Colombia,2022,9,weekly,5103
-COL,Colombia,2022,10,weekly,4979
-COL,Colombia,2022,11,weekly,4868
-COL,Colombia,2022,12,weekly,4688
+COL,Colombia,2021,46,weekly,5294
+COL,Colombia,2021,47,weekly,5287
+COL,Colombia,2021,48,weekly,5498
+COL,Colombia,2021,49,weekly,5613
+COL,Colombia,2021,50,weekly,5492
+COL,Colombia,2021,51,weekly,5872
+COL,Colombia,2021,52,weekly,5936
+COL,Colombia,2022,1,weekly,6352
+COL,Colombia,2022,2,weekly,7042
+COL,Colombia,2022,3,weekly,7848
+COL,Colombia,2022,4,weekly,8246
+COL,Colombia,2022,5,weekly,7663
+COL,Colombia,2022,6,weekly,6855
+COL,Colombia,2022,7,weekly,6059
+COL,Colombia,2022,8,weekly,5413
+COL,Colombia,2022,9,weekly,5131
+COL,Colombia,2022,10,weekly,5000
+COL,Colombia,2022,11,weekly,4895
+COL,Colombia,2022,12,weekly,4869
 CRI,Costa Rica,2015,1,monthly,1926
 CRI,Costa Rica,2015,2,monthly,1544
 CRI,Costa Rica,2015,3,monthly,1764
@@ -5929,6 +5932,7 @@ EGY,Egypt,2021,8,monthly,56200
 EGY,Egypt,2021,9,monthly,56600
 EGY,Egypt,2021,10,monthly,65100
 EGY,Egypt,2021,11,monthly,60200
+EGY,Egypt,2021,12,monthly,59700
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -10678,7 +10682,8 @@ IRL,Ireland,2021,9,monthly,2678
 IRL,Ireland,2021,10,monthly,2948
 IRL,Ireland,2021,11,monthly,3039
 IRL,Ireland,2021,12,monthly,3155
-IRL,Ireland,2022,1,monthly,3131
+IRL,Ireland,2022,1,monthly,3133
+IRL,Ireland,2022,2,monthly,2770
 ISR,Israel,2015,1,weekly,936
 ISR,Israel,2015,2,weekly,1020
 ISR,Israel,2015,3,weekly,988
@@ -12884,8 +12889,10 @@ LTU,Lithuania,2022,4,weekly,917
 LTU,Lithuania,2022,5,weekly,886
 LTU,Lithuania,2022,6,weekly,1036
 LTU,Lithuania,2022,7,weekly,981
+LTU,Lithuania,2022,8,weekly,947
 LTU,Lithuania,2022,9,weekly,891
 LTU,Lithuania,2022,10,weekly,897
+LTU,Lithuania,2022,11,weekly,891
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -20021,11 +20028,17 @@ SYC,Seychelles,2020,10,monthly,43
 SYC,Seychelles,2020,11,monthly,66
 SYC,Seychelles,2020,12,monthly,64
 SYC,Seychelles,2021,1,monthly,69
-SYC,Seychelles,2021,2,monthly,74
-SYC,Seychelles,2021,3,monthly,70
-SYC,Seychelles,2021,4,monthly,71
+SYC,Seychelles,2021,2,monthly,78
+SYC,Seychelles,2021,3,monthly,74
+SYC,Seychelles,2021,4,monthly,63
 SYC,Seychelles,2021,5,monthly,91
-SYC,Seychelles,2021,6,monthly,109
+SYC,Seychelles,2021,6,monthly,108
+SYC,Seychelles,2021,7,monthly,98
+SYC,Seychelles,2021,8,monthly,66
+SYC,Seychelles,2021,9,monthly,72
+SYC,Seychelles,2021,10,monthly,72
+SYC,Seychelles,2021,11,monthly,59
+SYC,Seychelles,2021,12,monthly,75
 SGP,Singapore,2015,1,monthly,1701
 SGP,Singapore,2015,2,monthly,1481
 SGP,Singapore,2015,3,monthly,1680
@@ -23111,6 +23124,7 @@ TRA,Transnistria,2021,10,monthly,808
 TRA,Transnistria,2021,11,monthly,1081
 TRA,Transnistria,2021,12,monthly,791
 TRA,Transnistria,2022,1,monthly,673
+TRA,Transnistria,2022,2,monthly,719
 TUN,Tunisia,2015,1,monthly,7019
 TUN,Tunisia,2015,2,monthly,6704
 TUN,Tunisia,2015,3,monthly,6468
