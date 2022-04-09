@@ -263,6 +263,18 @@ ATG,Antigua and Barbuda,2020,9,monthly,45
 ATG,Antigua and Barbuda,2020,10,monthly,50
 ATG,Antigua and Barbuda,2020,11,monthly,49
 ATG,Antigua and Barbuda,2020,12,monthly,40
+ATG,Antigua and Barbuda,2021,1,monthly,56
+ATG,Antigua and Barbuda,2021,2,monthly,68
+ATG,Antigua and Barbuda,2021,3,monthly,55
+ATG,Antigua and Barbuda,2021,4,monthly,50
+ATG,Antigua and Barbuda,2021,5,monthly,46
+ATG,Antigua and Barbuda,2021,6,monthly,39
+ATG,Antigua and Barbuda,2021,7,monthly,55
+ATG,Antigua and Barbuda,2021,8,monthly,47
+ATG,Antigua and Barbuda,2021,9,monthly,104
+ATG,Antigua and Barbuda,2021,10,monthly,26
+ATG,Antigua and Barbuda,2021,11,monthly,64
+ATG,Antigua and Barbuda,2021,12,monthly,39
 ARG,Argentina,2015,1,monthly,25583
 ARG,Argentina,2015,2,monthly,22728
 ARG,Argentina,2015,3,monthly,25145
@@ -4670,11 +4682,16 @@ CYP,Cyprus,2021,49,weekly,128
 CYP,Cyprus,2021,50,weekly,155
 CYP,Cyprus,2021,51,weekly,141
 CYP,Cyprus,2021,52,weekly,168
-CYP,Cyprus,2022,1,weekly,177
-CYP,Cyprus,2022,2,weekly,166
-CYP,Cyprus,2022,3,weekly,190
-CYP,Cyprus,2022,4,weekly,168
-CYP,Cyprus,2022,5,weekly,183
+CYP,Cyprus,2022,1,weekly,178
+CYP,Cyprus,2022,2,weekly,168
+CYP,Cyprus,2022,3,weekly,195
+CYP,Cyprus,2022,4,weekly,171
+CYP,Cyprus,2022,5,weekly,191
+CYP,Cyprus,2022,6,weekly,174
+CYP,Cyprus,2022,7,weekly,164
+CYP,Cyprus,2022,8,weekly,162
+CYP,Cyprus,2022,9,weekly,133
+CYP,Cyprus,2022,10,weekly,129
 CZE,Czechia,2015,1,weekly,2378
 CZE,Czechia,2015,2,weekly,2432
 CZE,Czechia,2015,3,weekly,2396
@@ -8167,6 +8184,7 @@ DEU,Germany,2022,8,weekly,20137
 DEU,Germany,2022,9,weekly,20449
 DEU,Germany,2022,10,weekly,21013
 DEU,Germany,2022,11,weekly,21037
+DEU,Germany,2022,12,weekly,20650
 GIB,Gibraltar,2015,1,monthly,25
 GIB,Gibraltar,2015,2,monthly,26
 GIB,Gibraltar,2015,3,monthly,22
@@ -8611,6 +8629,10 @@ GRC,Greece,2022,2,weekly,3373
 GRC,Greece,2022,3,weekly,3257
 GRC,Greece,2022,4,weekly,3669
 GRC,Greece,2022,5,weekly,3545
+GRC,Greece,2022,6,weekly,3236
+GRC,Greece,2022,7,weekly,3058
+GRC,Greece,2022,8,weekly,2792
+GRC,Greece,2022,9,weekly,2836
 GRL,Greenland,2015,1,monthly,44
 GRL,Greenland,2015,2,monthly,33
 GRL,Greenland,2015,3,monthly,45
