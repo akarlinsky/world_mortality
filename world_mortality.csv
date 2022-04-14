@@ -2729,6 +2729,8 @@ BGR,Bulgaria,2022,9,weekly,2640
 BGR,Bulgaria,2022,10,weekly,2541
 BGR,Bulgaria,2022,11,weekly,2356
 BGR,Bulgaria,2022,12,weekly,2355
+BGR,Bulgaria,2022,13,weekly,2306
+BGR,Bulgaria,2022,14,weekly,2146
 CAN,Canada,2015,1,weekly,6235
 CAN,Canada,2015,2,weekly,6255
 CAN,Canada,2015,3,weekly,6190
@@ -6436,6 +6438,7 @@ EST,Estonia,2022,10,weekly,385
 EST,Estonia,2022,11,weekly,367
 EST,Estonia,2022,12,weekly,346
 EST,Estonia,2022,13,weekly,325
+EST,Estonia,2022,14,weekly,306
 FRO,Faroe Islands,2015,1,monthly,41
 FRO,Faroe Islands,2015,2,monthly,29
 FRO,Faroe Islands,2015,3,monthly,32
@@ -11559,17 +11562,29 @@ JAM,Jamaica,2019,9,monthly,1529
 JAM,Jamaica,2019,10,monthly,1545
 JAM,Jamaica,2019,11,monthly,1622
 JAM,Jamaica,2019,12,monthly,1547
-JAM,Jamaica,2020,1,monthly,1568
-JAM,Jamaica,2020,2,monthly,1409
-JAM,Jamaica,2020,3,monthly,1497
-JAM,Jamaica,2020,4,monthly,1457
-JAM,Jamaica,2020,5,monthly,1423
-JAM,Jamaica,2020,6,monthly,1479
-JAM,Jamaica,2020,7,monthly,1513
-JAM,Jamaica,2020,8,monthly,1619
-JAM,Jamaica,2020,9,monthly,1642
-JAM,Jamaica,2020,10,monthly,1609
-JAM,Jamaica,2020,11,monthly,1547
+JAM,Jamaica,2020,1,monthly,1596
+JAM,Jamaica,2020,2,monthly,1453
+JAM,Jamaica,2020,3,monthly,1525
+JAM,Jamaica,2020,4,monthly,1479
+JAM,Jamaica,2020,5,monthly,1462
+JAM,Jamaica,2020,6,monthly,1503
+JAM,Jamaica,2020,7,monthly,1551
+JAM,Jamaica,2020,8,monthly,1672
+JAM,Jamaica,2020,9,monthly,1685
+JAM,Jamaica,2020,10,monthly,1659
+JAM,Jamaica,2020,11,monthly,1628
+JAM,Jamaica,2020,12,monthly,1765
+JAM,Jamaica,2021,1,monthly,1704
+JAM,Jamaica,2021,2,monthly,1806
+JAM,Jamaica,2021,3,monthly,2435
+JAM,Jamaica,2021,4,monthly,1892
+JAM,Jamaica,2021,5,monthly,1713
+JAM,Jamaica,2021,6,monthly,1539
+JAM,Jamaica,2021,7,monthly,1601
+JAM,Jamaica,2021,8,monthly,2986
+JAM,Jamaica,2021,9,monthly,3583
+JAM,Jamaica,2021,10,monthly,2028
+JAM,Jamaica,2021,11,monthly,1556
 JPN,Japan,2015,1,monthly,134256
 JPN,Japan,2015,2,monthly,110042
 JPN,Japan,2015,3,monthly,113860
@@ -12966,6 +12981,7 @@ LTU,Lithuania,2022,9,weekly,891
 LTU,Lithuania,2022,10,weekly,897
 LTU,Lithuania,2022,11,weekly,891
 LTU,Lithuania,2022,12,weekly,887
+LTU,Lithuania,2022,13,weekly,840
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -18151,6 +18167,10 @@ POL,Poland,2022,7,weekly,10328
 POL,Poland,2022,8,weekly,9726
 POL,Poland,2022,9,weekly,8719
 POL,Poland,2022,10,weekly,8311
+POL,Poland,2022,11,weekly,8695
+POL,Poland,2022,12,weekly,8787
+POL,Poland,2022,13,weekly,8570
+POL,Poland,2022,14,weekly,7837
 PRT,Portugal,2015,1,weekly,2813
 PRT,Portugal,2015,2,weekly,3054
 PRT,Portugal,2015,3,weekly,3167
