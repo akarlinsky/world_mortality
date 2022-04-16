@@ -1346,6 +1346,7 @@ AZE,Azerbaijan,2021,10,monthly,5978
 AZE,Azerbaijan,2021,11,monthly,7610
 AZE,Azerbaijan,2021,12,monthly,7117
 AZE,Azerbaijan,2022,1,monthly,6009
+AZE,Azerbaijan,2022,2,monthly,6548
 BRB,Barbados,2015,1,monthly,336
 BRB,Barbados,2015,2,monthly,187
 BRB,Barbados,2015,3,monthly,224
@@ -2277,8 +2278,8 @@ BRA,Brazil,2021,9,monthly,130717.9
 BRA,Brazil,2021,10,monthly,121765.7
 BRA,Brazil,2021,11,monthly,123072.2
 BRA,Brazil,2021,12,monthly,126591.2
-BRA,Brazil,2022,1,monthly,158182.1
-BRA,Brazil,2022,2,monthly,136936.9
+BRA,Brazil,2022,1,monthly,158271.2
+BRA,Brazil,2022,2,monthly,137073.2
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -2731,6 +2732,78 @@ BGR,Bulgaria,2022,11,weekly,2356
 BGR,Bulgaria,2022,12,weekly,2355
 BGR,Bulgaria,2022,13,weekly,2306
 BGR,Bulgaria,2022,14,weekly,2146
+CPV,Cabo Verde,2015,1,monthly,273
+CPV,Cabo Verde,2015,2,monthly,235
+CPV,Cabo Verde,2015,3,monthly,275
+CPV,Cabo Verde,2015,4,monthly,194
+CPV,Cabo Verde,2015,5,monthly,191
+CPV,Cabo Verde,2015,6,monthly,189
+CPV,Cabo Verde,2015,7,monthly,233
+CPV,Cabo Verde,2015,8,monthly,253
+CPV,Cabo Verde,2015,9,monthly,234
+CPV,Cabo Verde,2015,10,monthly,241
+CPV,Cabo Verde,2015,11,monthly,223
+CPV,Cabo Verde,2015,12,monthly,220
+CPV,Cabo Verde,2016,1,monthly,231
+CPV,Cabo Verde,2016,2,monthly,196
+CPV,Cabo Verde,2016,3,monthly,212
+CPV,Cabo Verde,2016,4,monthly,218
+CPV,Cabo Verde,2016,5,monthly,195
+CPV,Cabo Verde,2016,6,monthly,183
+CPV,Cabo Verde,2016,7,monthly,195
+CPV,Cabo Verde,2016,8,monthly,250
+CPV,Cabo Verde,2016,9,monthly,222
+CPV,Cabo Verde,2016,10,monthly,248
+CPV,Cabo Verde,2016,11,monthly,197
+CPV,Cabo Verde,2016,12,monthly,244
+CPV,Cabo Verde,2017,1,monthly,243
+CPV,Cabo Verde,2017,2,monthly,194
+CPV,Cabo Verde,2017,3,monthly,241
+CPV,Cabo Verde,2017,4,monthly,187
+CPV,Cabo Verde,2017,5,monthly,202
+CPV,Cabo Verde,2017,6,monthly,170
+CPV,Cabo Verde,2017,7,monthly,210
+CPV,Cabo Verde,2017,8,monthly,235
+CPV,Cabo Verde,2017,9,monthly,218
+CPV,Cabo Verde,2017,10,monthly,202
+CPV,Cabo Verde,2017,11,monthly,187
+CPV,Cabo Verde,2017,12,monthly,208
+CPV,Cabo Verde,2018,1,monthly,262
+CPV,Cabo Verde,2018,2,monthly,278
+CPV,Cabo Verde,2018,3,monthly,276
+CPV,Cabo Verde,2018,4,monthly,242
+CPV,Cabo Verde,2018,5,monthly,215
+CPV,Cabo Verde,2018,6,monthly,229
+CPV,Cabo Verde,2018,7,monthly,210
+CPV,Cabo Verde,2018,8,monthly,242
+CPV,Cabo Verde,2018,9,monthly,219
+CPV,Cabo Verde,2018,10,monthly,193
+CPV,Cabo Verde,2018,11,monthly,231
+CPV,Cabo Verde,2018,12,monthly,239
+CPV,Cabo Verde,2019,1,monthly,228
+CPV,Cabo Verde,2019,2,monthly,190
+CPV,Cabo Verde,2019,3,monthly,245
+CPV,Cabo Verde,2019,4,monthly,201
+CPV,Cabo Verde,2019,5,monthly,208
+CPV,Cabo Verde,2019,6,monthly,214
+CPV,Cabo Verde,2019,7,monthly,232
+CPV,Cabo Verde,2019,8,monthly,238
+CPV,Cabo Verde,2019,9,monthly,242
+CPV,Cabo Verde,2019,10,monthly,263
+CPV,Cabo Verde,2019,11,monthly,256
+CPV,Cabo Verde,2019,12,monthly,254
+CPV,Cabo Verde,2020,1,monthly,250
+CPV,Cabo Verde,2020,2,monthly,226
+CPV,Cabo Verde,2020,3,monthly,212
+CPV,Cabo Verde,2020,4,monthly,221
+CPV,Cabo Verde,2020,5,monthly,206
+CPV,Cabo Verde,2020,6,monthly,245
+CPV,Cabo Verde,2020,7,monthly,227
+CPV,Cabo Verde,2020,8,monthly,259
+CPV,Cabo Verde,2020,9,monthly,283
+CPV,Cabo Verde,2020,10,monthly,293
+CPV,Cabo Verde,2020,11,monthly,264
+CPV,Cabo Verde,2020,12,monthly,273
 CAN,Canada,2015,1,weekly,6235
 CAN,Canada,2015,2,weekly,6255
 CAN,Canada,2015,3,weekly,6190
@@ -3050,7 +3123,7 @@ CAN,Canada,2021,2,weekly,6765
 CAN,Canada,2021,3,weekly,6740
 CAN,Canada,2021,4,weekly,6655
 CAN,Canada,2021,5,weekly,6465
-CAN,Canada,2021,6,weekly,6090
+CAN,Canada,2021,6,weekly,6095
 CAN,Canada,2021,7,weekly,6035
 CAN,Canada,2021,8,weekly,5870
 CAN,Canada,2021,9,weekly,5850
@@ -3064,14 +3137,14 @@ CAN,Canada,2021,16,weekly,5665
 CAN,Canada,2021,17,weekly,5870
 CAN,Canada,2021,18,weekly,5795
 CAN,Canada,2021,19,weekly,5685
-CAN,Canada,2021,20,weekly,5730
-CAN,Canada,2021,21,weekly,5275
+CAN,Canada,2021,20,weekly,5735
+CAN,Canada,2021,21,weekly,5280
 CAN,Canada,2021,22,weekly,5560
 CAN,Canada,2021,23,weekly,5240
-CAN,Canada,2021,24,weekly,5310
+CAN,Canada,2021,24,weekly,5315
 CAN,Canada,2021,25,weekly,5245
 CAN,Canada,2021,26,weekly,6125
-CAN,Canada,2021,27,weekly,5360
+CAN,Canada,2021,27,weekly,5365
 CAN,Canada,2021,28,weekly,5330
 CAN,Canada,2021,29,weekly,5360
 CAN,Canada,2021,30,weekly,5470
@@ -3079,14 +3152,28 @@ CAN,Canada,2021,31,weekly,5490
 CAN,Canada,2021,32,weekly,5405
 CAN,Canada,2021,33,weekly,5650
 CAN,Canada,2021,34,weekly,5580
-CAN,Canada,2021,35,weekly,5765
+CAN,Canada,2021,35,weekly,5760
 CAN,Canada,2021,36,weekly,6050
 CAN,Canada,2021,37,weekly,5990
-CAN,Canada,2021,38,weekly,5975
+CAN,Canada,2021,38,weekly,5980
 CAN,Canada,2021,39,weekly,6065
 CAN,Canada,2021,40,weekly,5990
 CAN,Canada,2021,41,weekly,6195
 CAN,Canada,2021,42,weekly,6140
+CAN,Canada,2021,43,weekly,5985
+CAN,Canada,2021,44,weekly,6020
+CAN,Canada,2021,45,weekly,6075
+CAN,Canada,2021,46,weekly,5780
+CAN,Canada,2021,47,weekly,5675
+CAN,Canada,2021,48,weekly,5625
+CAN,Canada,2021,49,weekly,5355
+CAN,Canada,2021,50,weekly,5465
+CAN,Canada,2021,51,weekly,5340
+CAN,Canada,2021,52,weekly,5120
+CAN,Canada,2022,1,weekly,4660
+CAN,Canada,2022,2,weekly,5150
+CAN,Canada,2022,3,weekly,5545
+CAN,Canada,2022,4,weekly,5840
 CHL,Chile,2016,1,weekly,1884
 CHL,Chile,2016,2,weekly,1885
 CHL,Chile,2016,3,weekly,1916
@@ -11815,6 +11902,7 @@ KAZ,Kazakhstan,2021,10,monthly,16002
 KAZ,Kazakhstan,2021,11,monthly,15862
 KAZ,Kazakhstan,2021,12,monthly,13913
 KAZ,Kazakhstan,2022,1,monthly,13264
+KAZ,Kazakhstan,2022,2,monthly,13800
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -11900,6 +11988,7 @@ KOS,Kosovo,2021,10,monthly,869
 KOS,Kosovo,2021,11,monthly,757
 KOS,Kosovo,2021,12,monthly,981
 KOS,Kosovo,2022,1,monthly,900
+KOS,Kosovo,2022,2,monthly,987
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -17424,16 +17513,16 @@ PRY,Paraguay,2021,1,monthly,3266
 PRY,Paraguay,2021,2,monthly,3281
 PRY,Paraguay,2021,3,monthly,4699
 PRY,Paraguay,2021,4,monthly,6332
-PRY,Paraguay,2021,5,monthly,7476
-PRY,Paraguay,2021,6,monthly,7093
-PRY,Paraguay,2021,7,monthly,5060
-PRY,Paraguay,2021,8,monthly,3633
-PRY,Paraguay,2021,9,monthly,2847
+PRY,Paraguay,2021,5,monthly,7478
+PRY,Paraguay,2021,6,monthly,7094
+PRY,Paraguay,2021,7,monthly,5061
+PRY,Paraguay,2021,8,monthly,3646
+PRY,Paraguay,2021,9,monthly,2848
 PRY,Paraguay,2021,10,monthly,2810
-PRY,Paraguay,2021,11,monthly,2713
-PRY,Paraguay,2021,12,monthly,3104
-PRY,Paraguay,2022,1,monthly,5325
-PRY,Paraguay,2022,2,monthly,3123
+PRY,Paraguay,2021,11,monthly,2715
+PRY,Paraguay,2021,12,monthly,3105
+PRY,Paraguay,2022,1,monthly,5354
+PRY,Paraguay,2022,2,monthly,3135
 PER,Peru,2017,1,weekly,1586
 PER,Peru,2017,2,weekly,1672
 PER,Peru,2017,3,weekly,1740
@@ -17645,32 +17734,32 @@ PER,Peru,2020,52,weekly,3412
 PER,Peru,2020,53,weekly,3612
 PER,Peru,2021,1,weekly,3987
 PER,Peru,2021,2,weekly,4638
-PER,Peru,2021,3,weekly,5707
+PER,Peru,2021,3,weekly,5708
 PER,Peru,2021,4,weekly,6710
 PER,Peru,2021,5,weekly,7024
 PER,Peru,2021,6,weekly,7696
 PER,Peru,2021,7,weekly,7723
 PER,Peru,2021,8,weekly,7396
 PER,Peru,2021,9,weekly,7504
-PER,Peru,2021,10,weekly,7390
-PER,Peru,2021,11,weekly,7435
-PER,Peru,2021,12,weekly,7580
-PER,Peru,2021,13,weekly,7908
+PER,Peru,2021,10,weekly,7391
+PER,Peru,2021,11,weekly,7434
+PER,Peru,2021,12,weekly,7578
+PER,Peru,2021,13,weekly,7907
 PER,Peru,2021,14,weekly,8475
 PER,Peru,2021,15,weekly,8435
 PER,Peru,2021,16,weekly,8253
-PER,Peru,2021,17,weekly,7699
-PER,Peru,2021,18,weekly,7176
+PER,Peru,2021,17,weekly,7701
+PER,Peru,2021,18,weekly,7175
 PER,Peru,2021,19,weekly,6537
 PER,Peru,2021,20,weekly,6059
 PER,Peru,2021,21,weekly,5631
-PER,Peru,2021,22,weekly,5289
+PER,Peru,2021,22,weekly,5290
 PER,Peru,2021,23,weekly,4724
 PER,Peru,2021,24,weekly,4335
 PER,Peru,2021,25,weekly,4024
 PER,Peru,2021,26,weekly,3818
 PER,Peru,2021,27,weekly,3603
-PER,Peru,2021,28,weekly,3334
+PER,Peru,2021,28,weekly,3335
 PER,Peru,2021,29,weekly,3255
 PER,Peru,2021,30,weekly,3166
 PER,Peru,2021,31,weekly,3067
@@ -17679,10 +17768,10 @@ PER,Peru,2021,33,weekly,2936
 PER,Peru,2021,34,weekly,3109
 PER,Peru,2021,35,weekly,2989
 PER,Peru,2021,36,weekly,2889
-PER,Peru,2021,37,weekly,2890
-PER,Peru,2021,38,weekly,2945
+PER,Peru,2021,37,weekly,2889
+PER,Peru,2021,38,weekly,2946
 PER,Peru,2021,39,weekly,2884
-PER,Peru,2021,40,weekly,2976
+PER,Peru,2021,40,weekly,2975
 PER,Peru,2021,41,weekly,2891
 PER,Peru,2021,42,weekly,2869
 PER,Peru,2021,43,weekly,2800
@@ -17694,20 +17783,21 @@ PER,Peru,2021,48,weekly,2981
 PER,Peru,2021,49,weekly,3076
 PER,Peru,2021,50,weekly,2989
 PER,Peru,2021,51,weekly,3093
-PER,Peru,2021,52,weekly,3309
-PER,Peru,2022,1,weekly,3440
-PER,Peru,2022,2,weekly,3678
-PER,Peru,2022,3,weekly,4208
-PER,Peru,2022,4,weekly,4507
-PER,Peru,2022,5,weekly,4389
-PER,Peru,2022,6,weekly,4038
-PER,Peru,2022,7,weekly,3579
-PER,Peru,2022,8,weekly,3253
-PER,Peru,2022,9,weekly,3175
-PER,Peru,2022,10,weekly,3049
-PER,Peru,2022,11,weekly,3001
-PER,Peru,2022,12,weekly,2729
-PER,Peru,2022,13,weekly,2681
+PER,Peru,2021,52,weekly,3311
+PER,Peru,2022,1,weekly,3444
+PER,Peru,2022,2,weekly,3683
+PER,Peru,2022,3,weekly,4214
+PER,Peru,2022,4,weekly,4508
+PER,Peru,2022,5,weekly,4392
+PER,Peru,2022,6,weekly,4042
+PER,Peru,2022,7,weekly,3586
+PER,Peru,2022,8,weekly,3257
+PER,Peru,2022,9,weekly,3179
+PER,Peru,2022,10,weekly,3057
+PER,Peru,2022,11,weekly,3009
+PER,Peru,2022,12,weekly,2743
+PER,Peru,2022,13,weekly,2708
+PER,Peru,2022,14,weekly,2740
 PHL,Philippines,2015,1,monthly,50381
 PHL,Philippines,2015,2,monthly,44540
 PHL,Philippines,2015,3,monthly,46452
@@ -23246,9 +23336,9 @@ TRA,Transnistria,2020,12,monthly,1005
 TRA,Transnistria,2021,1,monthly,902
 TRA,Transnistria,2021,2,monthly,654
 TRA,Transnistria,2021,3,monthly,887
-TRA,Transnistria,2021,4,monthly,772
-TRA,Transnistria,2021,5,monthly,772
-TRA,Transnistria,2021,6,monthly,643
+TRA,Transnistria,2021,4,monthly,862
+TRA,Transnistria,2021,5,monthly,684
+TRA,Transnistria,2021,6,monthly,642
 TRA,Transnistria,2021,7,monthly,559
 TRA,Transnistria,2021,8,monthly,519
 TRA,Transnistria,2021,9,monthly,591

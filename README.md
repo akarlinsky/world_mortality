@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 118 countries and territories.   
+We are currently providing data for 119 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -161,6 +161,10 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 ### Brunei (monthly)
 2015 onward: [Department of Economic Planning and Statistics - Vital Statistics](http://www.deps.gov.bn/SitePages/Vital%20Statistics.aspx)
+
+
+### Cabo Verde (monthly)
+2015 to 2020: [National Institute of Statistics - Vital Statistics](https://ine.cv/publicacoes/estatisticas-vitais-nascimentos-obitos-casamentos-2019-2020/) 
 
 
 ### Canada (weekly)
