@@ -539,10 +539,9 @@ Social and economic development of the PMR: http://mer.gospmr.org/gosudarstvenna
 
 
 
-### Tunisia (weekly)
-Tunisia National Institute of statistics Recent dynamics of mortality in Tunisia: http://www.ins.tn/publication/dynamique-recente-de-la-mortalite-en-tunisie
+### Tunisia (monthly)
+2015 onward: Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-february-2022
 
-The data from the report's figure 1 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
 
 ### Uruguay (monthly)
