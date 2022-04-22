@@ -211,10 +211,11 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 
 ### Egypt (monthly)
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
+
 2020: Monthly Bulletin of the Egyptian NSO (CAPMAS): https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518 & Egypt in Figures 2021 - Vital:
 https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Statistics: It is expected that the population of Egypt: https://www.capmas.gov.eg/Pages/GeneralNews.aspx?page_id=1
 
-Note: The Egyptian monthly bulletin skipped the month of July 2021 yet has released data for later months. In order to have the most up-to-date data as possible, we provide July 2021 as the mean of June and August. See https://github.com/akarlinsky/world_mortality/issues/22.
+2021: Egypt in Figures 2022 - Vital: https://www.capmas.gov.eg/Pages/StaticPages.aspx?page_id=5035
 
 
 ### El Salvador (monthly)
