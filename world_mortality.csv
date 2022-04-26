@@ -2280,8 +2280,8 @@ BRA,Brazil,2021,9,monthly,130761.5
 BRA,Brazil,2021,10,monthly,121818.2
 BRA,Brazil,2021,11,monthly,123169.4
 BRA,Brazil,2021,12,monthly,126658.5
-BRA,Brazil,2022,1,monthly,158297.7
-BRA,Brazil,2022,2,monthly,137163.4
+BRA,Brazil,2022,1,monthly,158020.8
+BRA,Brazil,2022,2,monthly,136942.3
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -13092,6 +13092,7 @@ LTU,Lithuania,2022,10,weekly,897
 LTU,Lithuania,2022,11,weekly,891
 LTU,Lithuania,2022,12,weekly,887
 LTU,Lithuania,2022,13,weekly,840
+LTU,Lithuania,2022,14,weekly,814
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -20120,6 +20121,7 @@ SMR,San Marino,2021,11,monthly,23
 SMR,San Marino,2021,12,monthly,35
 SMR,San Marino,2022,1,monthly,33
 SMR,San Marino,2022,2,monthly,22
+SMR,San Marino,2022,3,monthly,19
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
@@ -20206,6 +20208,7 @@ SRB,Serbia,2021,11,monthly,15113
 SRB,Serbia,2021,12,monthly,12409
 SRB,Serbia,2022,1,monthly,11392
 SRB,Serbia,2022,2,monthly,13094
+SRB,Serbia,2022,3,monthly,11250
 SYC,Seychelles,2015,1,monthly,52
 SYC,Seychelles,2015,2,monthly,50
 SYC,Seychelles,2015,3,monthly,69
