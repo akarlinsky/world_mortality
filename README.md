@@ -98,12 +98,9 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 
 ### Australia (weekly)
-2015 - 2019: [STMF data](https://mpidr.shinyapps.io/stmortality/).   
-2020 onward: Australian Bureau of Statistics - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release).
+2015 onward: Australian Bureau of Statistics (ABS) - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release).   
 
-Australia's weekly data (all years) is "Doctor Certified Deaths" rather than "All Deaths". These constitute about [86%-89% of deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia-doctor-certified-deaths-summary-tables/2019) in any given year in Australia.
-To obtain total number of deaths, we corrected the weekly number of deaths by the [ratio between annual doctor certified deaths to total deaths](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/2020).
-For 2021, we assume that the ratio is the same as it was in 2020. Death figures were rounded to one significant digit to emphasize that they were adjusted. 
+On April 28th 2022, ABS released weekly data as all deaths (doctor + coroner), such that a correction is no longer needed. WMD now reports and analyzes total deaths for Australia. 
 
 
 
