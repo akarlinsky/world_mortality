@@ -2738,6 +2738,8 @@ BGR,Bulgaria,2022,11,weekly,2364
 BGR,Bulgaria,2022,12,weekly,2416
 BGR,Bulgaria,2022,13,weekly,2306
 BGR,Bulgaria,2022,14,weekly,2146
+BGR,Bulgaria,2022,15,weekly,2060
+BGR,Bulgaria,2022,16,weekly,1804
 CPV,Cabo Verde,2015,1,monthly,273
 CPV,Cabo Verde,2015,2,monthly,235
 CPV,Cabo Verde,2015,3,monthly,275
@@ -6079,6 +6081,7 @@ EGY,Egypt,2021,9,monthly,56573
 EGY,Egypt,2021,10,monthly,65093
 EGY,Egypt,2021,11,monthly,60180
 EGY,Egypt,2021,12,monthly,59726
+EGY,Egypt,2022,1,monthly,69000
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -6527,6 +6530,8 @@ EST,Estonia,2022,11,weekly,367
 EST,Estonia,2022,12,weekly,347
 EST,Estonia,2022,13,weekly,328
 EST,Estonia,2022,14,weekly,306
+EST,Estonia,2022,15,weekly,297
+EST,Estonia,2022,16,weekly,310
 FRO,Faroe Islands,2015,1,monthly,41
 FRO,Faroe Islands,2015,2,monthly,29
 FRO,Faroe Islands,2015,3,monthly,32
@@ -11131,8 +11136,8 @@ ISR,Israel,2020,4,weekly,1001
 ISR,Israel,2020,5,weekly,991
 ISR,Israel,2020,6,weekly,944
 ISR,Israel,2020,7,weekly,966
-ISR,Israel,2020,8,weekly,992
-ISR,Israel,2020,9,weekly,905
+ISR,Israel,2020,8,weekly,991
+ISR,Israel,2020,9,weekly,906
 ISR,Israel,2020,10,weekly,930
 ISR,Israel,2020,11,weekly,965
 ISR,Israel,2020,12,weekly,892
@@ -11161,7 +11166,7 @@ ISR,Israel,2020,34,weekly,913
 ISR,Israel,2020,35,weekly,899
 ISR,Israel,2020,36,weekly,897
 ISR,Israel,2020,37,weekly,963
-ISR,Israel,2020,38,weekly,1004
+ISR,Israel,2020,38,weekly,1005
 ISR,Israel,2020,39,weekly,1026
 ISR,Israel,2020,40,weekly,1011
 ISR,Israel,2020,41,weekly,1114
@@ -11179,8 +11184,8 @@ ISR,Israel,2020,52,weekly,1016
 ISR,Israel,2020,53,weekly,1138
 ISR,Israel,2021,1,weekly,1211
 ISR,Israel,2021,2,weekly,1263
-ISR,Israel,2021,3,weekly,1277
-ISR,Israel,2021,4,weekly,1298
+ISR,Israel,2021,3,weekly,1278
+ISR,Israel,2021,4,weekly,1297
 ISR,Israel,2021,5,weekly,1252
 ISR,Israel,2021,6,weekly,1183
 ISR,Israel,2021,7,weekly,1089
@@ -11205,7 +11210,7 @@ ISR,Israel,2021,25,weekly,867
 ISR,Israel,2021,26,weekly,840
 ISR,Israel,2021,27,weekly,837
 ISR,Israel,2021,28,weekly,750
-ISR,Israel,2021,29,weekly,900
+ISR,Israel,2021,29,weekly,901
 ISR,Israel,2021,30,weekly,890
 ISR,Israel,2021,31,weekly,947
 ISR,Israel,2021,32,weekly,1021
@@ -11224,21 +11229,23 @@ ISR,Israel,2021,44,weekly,908
 ISR,Israel,2021,45,weekly,944
 ISR,Israel,2021,46,weekly,858
 ISR,Israel,2021,47,weekly,841
-ISR,Israel,2021,48,weekly,890
-ISR,Israel,2021,49,weekly,965
+ISR,Israel,2021,48,weekly,892
+ISR,Israel,2021,49,weekly,966
 ISR,Israel,2021,50,weekly,1021
 ISR,Israel,2021,51,weekly,1002
 ISR,Israel,2021,52,weekly,1100
-ISR,Israel,2022,1,weekly,1067
-ISR,Israel,2022,2,weekly,1205
-ISR,Israel,2022,3,weekly,1383
-ISR,Israel,2022,4,weekly,1469
-ISR,Israel,2022,5,weekly,1550
-ISR,Israel,2022,6,weekly,1428
-ISR,Israel,2022,7,weekly,1274
-ISR,Israel,2022,8,weekly,1186
-ISR,Israel,2022,9,weekly,1080
-ISR,Israel,2022,10,weekly,961
+ISR,Israel,2022,1,weekly,1068
+ISR,Israel,2022,2,weekly,1207
+ISR,Israel,2022,3,weekly,1387
+ISR,Israel,2022,4,weekly,1480
+ISR,Israel,2022,5,weekly,1558
+ISR,Israel,2022,6,weekly,1434
+ISR,Israel,2022,7,weekly,1278
+ISR,Israel,2022,8,weekly,1191
+ISR,Israel,2022,9,weekly,1089
+ISR,Israel,2022,10,weekly,1006
+ISR,Israel,2022,11,weekly,1010
+ISR,Israel,2022,12,weekly,967
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -16892,6 +16899,7 @@ MKD,North Macedonia,2021,10,monthly,2213
 MKD,North Macedonia,2021,11,monthly,2403
 MKD,North Macedonia,2021,12,monthly,2570
 MKD,North Macedonia,2022,1,monthly,2228
+MKD,North Macedonia,2022,2,monthly,3037
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
@@ -21403,10 +21411,10 @@ ZAF,South Africa,2020,8,weekly,9311
 ZAF,South Africa,2020,9,weekly,9019
 ZAF,South Africa,2020,10,weekly,9836
 ZAF,South Africa,2020,11,weekly,9398
-ZAF,South Africa,2020,12,weekly,9115
+ZAF,South Africa,2020,12,weekly,9116
 ZAF,South Africa,2020,13,weekly,9043
 ZAF,South Africa,2020,14,weekly,8772
-ZAF,South Africa,2020,15,weekly,8765
+ZAF,South Africa,2020,15,weekly,8764
 ZAF,South Africa,2020,16,weekly,8616
 ZAF,South Africa,2020,17,weekly,8429
 ZAF,South Africa,2020,18,weekly,8479
@@ -21428,8 +21436,8 @@ ZAF,South Africa,2020,33,weekly,12735
 ZAF,South Africa,2020,34,weekly,12388
 ZAF,South Africa,2020,35,weekly,11554
 ZAF,South Africa,2020,36,weekly,11379
-ZAF,South Africa,2020,37,weekly,10484
-ZAF,South Africa,2020,38,weekly,10006
+ZAF,South Africa,2020,37,weekly,10485
+ZAF,South Africa,2020,38,weekly,10009
 ZAF,South Africa,2020,39,weekly,10260
 ZAF,South Africa,2020,40,weekly,9940
 ZAF,South Africa,2020,41,weekly,10518
@@ -21444,10 +21452,10 @@ ZAF,South Africa,2020,49,weekly,11878
 ZAF,South Africa,2020,50,weekly,12804
 ZAF,South Africa,2020,51,weekly,14320
 ZAF,South Africa,2020,52,weekly,17523
-ZAF,South Africa,2020,53,weekly,20231
+ZAF,South Africa,2020,53,weekly,20232
 ZAF,South Africa,2021,1,weekly,23511
 ZAF,South Africa,2021,2,weekly,24952
-ZAF,South Africa,2021,3,weekly,21801
+ZAF,South Africa,2021,3,weekly,21802
 ZAF,South Africa,2021,4,weekly,15818
 ZAF,South Africa,2021,5,weekly,13832
 ZAF,South Africa,2021,6,weekly,12181
@@ -21457,61 +21465,62 @@ ZAF,South Africa,2021,9,weekly,10964
 ZAF,South Africa,2021,10,weekly,10919
 ZAF,South Africa,2021,11,weekly,10169
 ZAF,South Africa,2021,12,weekly,10172
-ZAF,South Africa,2021,13,weekly,10620
+ZAF,South Africa,2021,13,weekly,10621
 ZAF,South Africa,2021,14,weekly,10846
-ZAF,South Africa,2021,15,weekly,10809
-ZAF,South Africa,2021,16,weekly,10634
-ZAF,South Africa,2021,17,weekly,10927
-ZAF,South Africa,2021,18,weekly,11470
+ZAF,South Africa,2021,15,weekly,10808
+ZAF,South Africa,2021,16,weekly,10636
+ZAF,South Africa,2021,17,weekly,10928
+ZAF,South Africa,2021,18,weekly,11471
 ZAF,South Africa,2021,19,weekly,11722
 ZAF,South Africa,2021,20,weekly,11773
-ZAF,South Africa,2021,21,weekly,12286
-ZAF,South Africa,2021,22,weekly,13564
+ZAF,South Africa,2021,21,weekly,12287
+ZAF,South Africa,2021,22,weekly,13566
 ZAF,South Africa,2021,23,weekly,14339
 ZAF,South Africa,2021,24,weekly,13940
-ZAF,South Africa,2021,25,weekly,15720
-ZAF,South Africa,2021,26,weekly,17345
+ZAF,South Africa,2021,25,weekly,15722
+ZAF,South Africa,2021,26,weekly,17346
 ZAF,South Africa,2021,27,weekly,18878
 ZAF,South Africa,2021,28,weekly,21363
-ZAF,South Africa,2021,29,weekly,20396
+ZAF,South Africa,2021,29,weekly,20397
 ZAF,South Africa,2021,30,weekly,19067
-ZAF,South Africa,2021,31,weekly,17441
+ZAF,South Africa,2021,31,weekly,17442
 ZAF,South Africa,2021,32,weekly,15646
 ZAF,South Africa,2021,33,weekly,15778
-ZAF,South Africa,2021,34,weekly,14881
+ZAF,South Africa,2021,34,weekly,14884
 ZAF,South Africa,2021,35,weekly,14699
-ZAF,South Africa,2021,36,weekly,13682
+ZAF,South Africa,2021,36,weekly,13684
 ZAF,South Africa,2021,37,weekly,12170
 ZAF,South Africa,2021,38,weekly,11792
 ZAF,South Africa,2021,39,weekly,11156
 ZAF,South Africa,2021,40,weekly,11145
-ZAF,South Africa,2021,41,weekly,11028
-ZAF,South Africa,2021,42,weekly,10445
-ZAF,South Africa,2021,43,weekly,10045
+ZAF,South Africa,2021,41,weekly,11026
+ZAF,South Africa,2021,42,weekly,10444
+ZAF,South Africa,2021,43,weekly,10046
 ZAF,South Africa,2021,44,weekly,11137
 ZAF,South Africa,2021,45,weekly,10968
-ZAF,South Africa,2021,46,weekly,10338
-ZAF,South Africa,2021,47,weekly,10151
+ZAF,South Africa,2021,46,weekly,10339
+ZAF,South Africa,2021,47,weekly,10152
 ZAF,South Africa,2021,48,weekly,11489
 ZAF,South Africa,2021,49,weekly,11296
-ZAF,South Africa,2021,50,weekly,11969
-ZAF,South Africa,2021,51,weekly,13320
-ZAF,South Africa,2021,52,weekly,13579
-ZAF,South Africa,2022,1,weekly,12417
-ZAF,South Africa,2022,2,weekly,11333
-ZAF,South Africa,2022,3,weekly,10342
+ZAF,South Africa,2021,50,weekly,11970
+ZAF,South Africa,2021,51,weekly,13321
+ZAF,South Africa,2021,52,weekly,13581
+ZAF,South Africa,2022,1,weekly,12420
+ZAF,South Africa,2022,2,weekly,11336
+ZAF,South Africa,2022,3,weekly,10344
 ZAF,South Africa,2022,4,weekly,9807
-ZAF,South Africa,2022,5,weekly,10189
-ZAF,South Africa,2022,6,weekly,9912
-ZAF,South Africa,2022,7,weekly,9570
-ZAF,South Africa,2022,8,weekly,9706
-ZAF,South Africa,2022,9,weekly,10061
-ZAF,South Africa,2022,10,weekly,10032
-ZAF,South Africa,2022,11,weekly,9634
-ZAF,South Africa,2022,12,weekly,9731
-ZAF,South Africa,2022,13,weekly,9946
-ZAF,South Africa,2022,14,weekly,9597
-ZAF,South Africa,2022,15,weekly,10105
+ZAF,South Africa,2022,5,weekly,10193
+ZAF,South Africa,2022,6,weekly,9914
+ZAF,South Africa,2022,7,weekly,9577
+ZAF,South Africa,2022,8,weekly,9717
+ZAF,South Africa,2022,9,weekly,10065
+ZAF,South Africa,2022,10,weekly,10041
+ZAF,South Africa,2022,11,weekly,9645
+ZAF,South Africa,2022,12,weekly,9751
+ZAF,South Africa,2022,13,weekly,9999
+ZAF,South Africa,2022,14,weekly,9927
+ZAF,South Africa,2022,15,weekly,10446
+ZAF,South Africa,2022,16,weekly,10085
 KOR,South Korea,2015,1,weekly,5699
 KOR,South Korea,2015,2,weekly,5622
 KOR,South Korea,2015,3,weekly,5551
@@ -23095,6 +23104,7 @@ CHE,Switzerland,2022,9,weekly,1429
 CHE,Switzerland,2022,10,weekly,1439
 CHE,Switzerland,2022,11,weekly,1494
 CHE,Switzerland,2022,12,weekly,1469
+CHE,Switzerland,2022,13,weekly,1439
 TWN,Taiwan,2015,1,monthly,14310
 TWN,Taiwan,2015,2,monthly,12122
 TWN,Taiwan,2015,3,monthly,16092
