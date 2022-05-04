@@ -408,14 +408,7 @@ ISEE has released some data for monthly deaths in 2021, but only for September o
 
 
 ### Nicaragua (monthly)
-2015 to 2019: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: https://www.inide.gob.ni/Home/Compendios
-
-2020 January to June: https://lalupa.press/2020/07/21/nicaragua-reporta-preocupante-aumento-del-40-en-defunciones-en-111-dias/
-
-2020 July to August: http://mapasalud.minsa.gob.ni/
-
-To obtain mortality counts for July and August, we used the MAPASALUD January-August count, and subtracted the January-June counts from the LALUPA source, assuming a uniform distrbution between July and August.
-
+2015 to 2020: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: https://www.inide.gob.ni/Home/Compendios
 
 
 ### Oman (monthly)
