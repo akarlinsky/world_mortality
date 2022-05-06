@@ -1,6 +1,6 @@
 # Preliminary Mortality Dataset
 
-This repository contains preliminary data on all-cause mortality in 2015–2021, which doesn't fit into [World Mortality](https://github.com/akarlinsky/world_mortality) or [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) for various reasons such as time format (not weekly, monthly or quarterly), un-official status, projections, early releases of more detailed data forthcoming, etc.
+This repository contains preliminary data on all-cause mortality in 2015 onward, which doesn't fit into [World Mortality](https://github.com/akarlinsky/world_mortality) or [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) for various reasons such as time format (not weekly, monthly or quarterly), un-official status, projections, early releases of more detailed data forthcoming, etc.
 Each datum source, properties and limitations is listed below.
 As the time format varies substantially, each source is provided as a separate csv file.
 
@@ -8,6 +8,12 @@ We advise not to use Preliminary Mortality for comparisons and analysis, as we c
  
 Sources are listed below the figures. We welcome any contributions.
 
+![Andorra](plot_andorra.png)
+![Jordan](plot_jordan.png)
+![Honduras](plot_honduras.png)
+![Nicaragua](plot_nicaragua.png)
+![Curacao](plot_curacao.png)
+![Sri Lanka](plot_sri_lanka.png)
 
 ![Albania](plot_albania.png)
 ![Costa Rica](plot_costa_rica.png)
@@ -22,7 +28,32 @@ Sources are listed below the figures. We welcome any contributions.
 ![Vietnam](plot_vietnam.png)
 
 
+
 ## Sources
+
+### Andorra
+2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
+2021: [A004 Estadística del moviment natural de població](https://www.estadistica.ad/serveiestudis/noticies/noticia6603cat.pdf)
+
+
+### Jordan
+2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
+2021: [Jordan Statistical Yearbook 2021](http://dosweb.dos.gov.jo/products/jordan-statistical-yearbook-2021/)
+
+
+### Honduras
+2015 onward: [Registro Nacional de las Personas Transparency Portal](https://portalunico.iaip.gob.hn/portal/index.php?portal=369)
+
+### Nicaragua
+2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
+2021: [Ministry of Health Health Map](http://mapasalud.minsa.gob.ni/)
+
+### Curacao
+2015 onward: [Central Bureau of Statistics - Mortality](https://www.cbs.cw/population-tables).
+
+### Sri Lanka
+2015 onward: [Department of Statistics - Statistical Abstract](http://www.statistics.gov.lk/Abstract2021/preface).
+
 
 ### Albania (Quarterly)
 [Albania Institute of Statistics Demographic indicators](http://www.instat.gov.al/en/themes/demography-and-social-indicators/births-deaths-and-marriages/publication/2021/demographic-indicators-q1-2021/).
