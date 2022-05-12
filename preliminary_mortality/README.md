@@ -12,6 +12,7 @@ Sources are listed below the figures. We welcome any contributions.
 ![Jordan](plot_jordan.png)
 ![Honduras](plot_honduras.png)
 ![Nicaragua](plot_nicaragua.png)
+![Cuba](plot_cuba.png)
 ![Curacao](plot_curacao.png)
 ![Sri Lanka](plot_sri_lanka.png)
 
@@ -47,6 +48,10 @@ Sources are listed below the figures. We welcome any contributions.
 ### Nicaragua
 2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
 2021: [Ministry of Health Health Map](http://mapasalud.minsa.gob.ni/)
+
+### Cuba
+2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
+2021: [ONEI Demographic Indicators](http://www.onei.gob.cu/node/13815)
 
 ### Curacao
 2015 onward: [Central Bureau of Statistics - Mortality](https://www.cbs.cw/population-tables).
