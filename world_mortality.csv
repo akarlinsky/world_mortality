@@ -83,6 +83,9 @@ ALB,Albania,2021,9,monthly,2506
 ALB,Albania,2021,10,monthly,2559
 ALB,Albania,2021,11,monthly,2506
 ALB,Albania,2021,12,monthly,2772
+ALB,Albania,2022,1,monthly,3294
+ALB,Albania,2022,2,monthly,2752
+ALB,Albania,2022,3,monthly,1892
 DZA,Algeria,2018,1,monthly,16409.1
 DZA,Algeria,2018,2,monthly,15409.1
 DZA,Algeria,2018,3,monthly,15227.3
@@ -1894,6 +1897,7 @@ BEL,Belgium,2022,13,weekly,2490
 BEL,Belgium,2022,14,weekly,2524
 BEL,Belgium,2022,15,weekly,2403
 BEL,Belgium,2022,16,weekly,2294
+BEL,Belgium,2022,17,weekly,2143
 BLZ,Belize,2015,1,monthly,149
 BLZ,Belize,2015,2,monthly,147
 BLZ,Belize,2015,3,monthly,167
@@ -8344,6 +8348,7 @@ DEU,Germany,2022,13,weekly,20491
 DEU,Germany,2022,14,weekly,20414
 DEU,Germany,2022,15,weekly,19832
 DEU,Germany,2022,16,weekly,19249
+DEU,Germany,2022,17,weekly,18919
 GIB,Gibraltar,2015,1,monthly,25
 GIB,Gibraltar,2015,2,monthly,26
 GIB,Gibraltar,2015,3,monthly,22
@@ -8792,6 +8797,10 @@ GRC,Greece,2022,6,weekly,3236
 GRC,Greece,2022,7,weekly,3058
 GRC,Greece,2022,8,weekly,2792
 GRC,Greece,2022,9,weekly,2836
+GRC,Greece,2022,10,weekly,2839
+GRC,Greece,2022,11,weekly,3041
+GRC,Greece,2022,12,weekly,3035
+GRC,Greece,2022,13,weekly,3025
 GRL,Greenland,2015,1,monthly,44
 GRL,Greenland,2015,2,monthly,33
 GRL,Greenland,2015,3,monthly,45
@@ -12001,6 +12010,7 @@ KAZ,Kazakhstan,2021,11,monthly,15862
 KAZ,Kazakhstan,2021,12,monthly,13913
 KAZ,Kazakhstan,2022,1,monthly,13264
 KAZ,Kazakhstan,2022,2,monthly,13800
+KAZ,Kazakhstan,2022,3,monthly,11036
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -15644,6 +15654,7 @@ MNG,Mongolia,2021,12,monthly,1783
 MNG,Mongolia,2022,1,monthly,1345
 MNG,Mongolia,2022,2,monthly,1487
 MNG,Mongolia,2022,3,monthly,1496
+MNG,Mongolia,2022,4,monthly,1558
 MNE,Montenegro,2015,1,weekly,142
 MNE,Montenegro,2015,2,weekly,140
 MNE,Montenegro,2015,3,weekly,148
@@ -17377,6 +17388,7 @@ NOR,Norway,2022,13,weekly,880
 NOR,Norway,2022,14,weekly,927
 NOR,Norway,2022,15,weekly,828
 NOR,Norway,2022,16,weekly,803
+NOR,Norway,2022,17,weekly,808
 OMN,Oman,2015,1,monthly,732
 OMN,Oman,2015,2,monthly,550
 OMN,Oman,2015,3,monthly,602
@@ -23232,6 +23244,7 @@ CHE,Switzerland,2022,11,weekly,1507
 CHE,Switzerland,2022,12,weekly,1501
 CHE,Switzerland,2022,13,weekly,1484
 CHE,Switzerland,2022,14,weekly,1375
+CHE,Switzerland,2022,15,weekly,1253
 TWN,Taiwan,2015,1,monthly,14310
 TWN,Taiwan,2015,2,monthly,12122
 TWN,Taiwan,2015,3,monthly,16092
