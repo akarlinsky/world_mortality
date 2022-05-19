@@ -1271,8 +1271,9 @@ AUT,Austria,2022,11,weekly,1914
 AUT,Austria,2022,12,weekly,1997
 AUT,Austria,2022,13,weekly,1948
 AUT,Austria,2022,14,weekly,1948
-AUT,Austria,2022,15,weekly,1793
-AUT,Austria,2022,16,weekly,1629
+AUT,Austria,2022,15,weekly,1796
+AUT,Austria,2022,16,weekly,1641
+AUT,Austria,2022,17,weekly,1645
 AZE,Azerbaijan,2015,1,monthly,5146
 AZE,Azerbaijan,2015,2,monthly,5227
 AZE,Azerbaijan,2015,3,monthly,4824
@@ -1359,6 +1360,7 @@ AZE,Azerbaijan,2021,11,monthly,7610
 AZE,Azerbaijan,2021,12,monthly,7117
 AZE,Azerbaijan,2022,1,monthly,6009
 AZE,Azerbaijan,2022,2,monthly,6548
+AZE,Azerbaijan,2022,3,monthly,6166
 BRB,Barbados,2015,1,monthly,336
 BRB,Barbados,2015,2,monthly,187
 BRB,Barbados,2015,3,monthly,224
@@ -1844,7 +1846,7 @@ BEL,Belgium,2021,12,weekly,2115
 BEL,Belgium,2021,13,weekly,2229
 BEL,Belgium,2021,14,weekly,2219
 BEL,Belgium,2021,15,weekly,2173
-BEL,Belgium,2021,16,weekly,2223
+BEL,Belgium,2021,16,weekly,2222
 BEL,Belgium,2021,17,weekly,2212
 BEL,Belgium,2021,18,weekly,2264
 BEL,Belgium,2021,19,weekly,2079
@@ -1862,9 +1864,9 @@ BEL,Belgium,2021,30,weekly,1887
 BEL,Belgium,2021,31,weekly,1879
 BEL,Belgium,2021,32,weekly,1895
 BEL,Belgium,2021,33,weekly,1840
-BEL,Belgium,2021,34,weekly,1863
+BEL,Belgium,2021,34,weekly,1864
 BEL,Belgium,2021,35,weekly,1959
-BEL,Belgium,2021,36,weekly,2015
+BEL,Belgium,2021,36,weekly,2016
 BEL,Belgium,2021,37,weekly,1899
 BEL,Belgium,2021,38,weekly,1890
 BEL,Belgium,2021,39,weekly,1946
@@ -1882,21 +1884,21 @@ BEL,Belgium,2021,50,weekly,2542
 BEL,Belgium,2021,51,weekly,2435
 BEL,Belgium,2021,52,weekly,2454
 BEL,Belgium,2022,1,weekly,2351
-BEL,Belgium,2022,2,weekly,2217
-BEL,Belgium,2022,3,weekly,2362
-BEL,Belgium,2022,4,weekly,2519
-BEL,Belgium,2022,5,weekly,2631
+BEL,Belgium,2022,2,weekly,2218
+BEL,Belgium,2022,3,weekly,2363
+BEL,Belgium,2022,4,weekly,2520
+BEL,Belgium,2022,5,weekly,2632
 BEL,Belgium,2022,6,weekly,2550
 BEL,Belgium,2022,7,weekly,2444
 BEL,Belgium,2022,8,weekly,2293
-BEL,Belgium,2022,9,weekly,2157
-BEL,Belgium,2022,10,weekly,2412
-BEL,Belgium,2022,11,weekly,2379
-BEL,Belgium,2022,12,weekly,2384
-BEL,Belgium,2022,13,weekly,2490
-BEL,Belgium,2022,14,weekly,2524
-BEL,Belgium,2022,15,weekly,2403
-BEL,Belgium,2022,16,weekly,2294
+BEL,Belgium,2022,9,weekly,2159
+BEL,Belgium,2022,10,weekly,2413
+BEL,Belgium,2022,11,weekly,2381
+BEL,Belgium,2022,12,weekly,2385
+BEL,Belgium,2022,13,weekly,2494
+BEL,Belgium,2022,14,weekly,2528
+BEL,Belgium,2022,15,weekly,2414
+BEL,Belgium,2022,16,weekly,2313
 BEL,Belgium,2022,17,weekly,2143
 BLZ,Belize,2015,1,monthly,149
 BLZ,Belize,2015,2,monthly,147
@@ -2293,11 +2295,11 @@ BRA,Brazil,2021,7,monthly,157911
 BRA,Brazil,2021,8,monthly,142697
 BRA,Brazil,2021,9,monthly,124695
 BRA,Brazil,2021,10,monthly,120819
-BRA,Brazil,2021,11,monthly,123184.7
-BRA,Brazil,2021,12,monthly,126691.8
-BRA,Brazil,2022,1,monthly,158107
-BRA,Brazil,2022,2,monthly,137119.9
-BRA,Brazil,2022,3,monthly,131303.3
+BRA,Brazil,2021,11,monthly,123255.6
+BRA,Brazil,2021,12,monthly,126737.4
+BRA,Brazil,2022,1,monthly,158177.7
+BRA,Brazil,2022,2,monthly,137305.1
+BRA,Brazil,2022,3,monthly,131589
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -3503,23 +3505,25 @@ CHL,Chile,2021,48,weekly,2538
 CHL,Chile,2021,49,weekly,2383
 CHL,Chile,2021,50,weekly,2426
 CHL,Chile,2021,51,weekly,2419
-CHL,Chile,2021,52,weekly,2419
-CHL,Chile,2022,1,weekly,2476
-CHL,Chile,2022,2,weekly,2485
+CHL,Chile,2021,52,weekly,2420
+CHL,Chile,2022,1,weekly,2478
+CHL,Chile,2022,2,weekly,2486
 CHL,Chile,2022,3,weekly,2417
-CHL,Chile,2022,4,weekly,2654
-CHL,Chile,2022,5,weekly,2907
-CHL,Chile,2022,6,weekly,3029
-CHL,Chile,2022,7,weekly,3236
+CHL,Chile,2022,4,weekly,2655
+CHL,Chile,2022,5,weekly,2909
+CHL,Chile,2022,6,weekly,3030
+CHL,Chile,2022,7,weekly,3238
 CHL,Chile,2022,8,weekly,3261
-CHL,Chile,2022,9,weekly,3094
-CHL,Chile,2022,10,weekly,2871
-CHL,Chile,2022,11,weekly,2669
-CHL,Chile,2022,12,weekly,2545
-CHL,Chile,2022,13,weekly,2464
-CHL,Chile,2022,14,weekly,2446
-CHL,Chile,2022,15,weekly,2204
-CHL,Chile,2022,16,weekly,2219
+CHL,Chile,2022,9,weekly,3095
+CHL,Chile,2022,10,weekly,2872
+CHL,Chile,2022,11,weekly,2671
+CHL,Chile,2022,12,weekly,2551
+CHL,Chile,2022,13,weekly,2476
+CHL,Chile,2022,14,weekly,2457
+CHL,Chile,2022,15,weekly,2241
+CHL,Chile,2022,16,weekly,2397
+CHL,Chile,2022,17,weekly,2248
+CHL,Chile,2022,18,weekly,2305
 COL,Colombia,2015,1,weekly,4725
 COL,Colombia,2015,2,weekly,4565
 COL,Colombia,2015,3,weekly,4506
@@ -3867,21 +3871,21 @@ COL,Colombia,2021,30,weekly,7111
 COL,Colombia,2021,31,weekly,6361
 COL,Colombia,2021,32,weekly,5874
 COL,Colombia,2021,33,weekly,5644
-COL,Colombia,2021,34,weekly,5359
-COL,Colombia,2021,35,weekly,5116
+COL,Colombia,2021,34,weekly,5360
+COL,Colombia,2021,35,weekly,5118
 COL,Colombia,2021,36,weekly,5081
-COL,Colombia,2021,37,weekly,5013
+COL,Colombia,2021,37,weekly,5014
 COL,Colombia,2021,38,weekly,5244
 COL,Colombia,2021,39,weekly,5025
 COL,Colombia,2021,40,weekly,5163
-COL,Colombia,2021,41,weekly,5085
+COL,Colombia,2021,41,weekly,5086
 COL,Colombia,2021,42,weekly,5015
-COL,Colombia,2021,43,weekly,5025
-COL,Colombia,2021,44,weekly,5139
-COL,Colombia,2021,45,weekly,5306
+COL,Colombia,2021,43,weekly,5027
+COL,Colombia,2021,44,weekly,5137
+COL,Colombia,2021,45,weekly,5308
 COL,Colombia,2021,46,weekly,5295
 COL,Colombia,2021,47,weekly,5289
-COL,Colombia,2021,48,weekly,5500
+COL,Colombia,2021,48,weekly,5501
 COL,Colombia,2021,49,weekly,5615
 COL,Colombia,2021,50,weekly,5495
 COL,Colombia,2021,51,weekly,5876
@@ -3890,19 +3894,20 @@ COL,Colombia,2022,1,weekly,6360
 COL,Colombia,2022,2,weekly,7046
 COL,Colombia,2022,3,weekly,7858
 COL,Colombia,2022,4,weekly,8258
-COL,Colombia,2022,5,weekly,7678
-COL,Colombia,2022,6,weekly,6869
-COL,Colombia,2022,7,weekly,6075
-COL,Colombia,2022,8,weekly,5432
-COL,Colombia,2022,9,weekly,5157
-COL,Colombia,2022,10,weekly,5042
-COL,Colombia,2022,11,weekly,4944
-COL,Colombia,2022,12,weekly,4945
-COL,Colombia,2022,13,weekly,4846
-COL,Colombia,2022,14,weekly,4865
-COL,Colombia,2022,15,weekly,4732
-COL,Colombia,2022,16,weekly,4942
-COL,Colombia,2022,17,weekly,4829
+COL,Colombia,2022,5,weekly,7681
+COL,Colombia,2022,6,weekly,6875
+COL,Colombia,2022,7,weekly,6079
+COL,Colombia,2022,8,weekly,5429
+COL,Colombia,2022,9,weekly,5158
+COL,Colombia,2022,10,weekly,5045
+COL,Colombia,2022,11,weekly,4947
+COL,Colombia,2022,12,weekly,4947
+COL,Colombia,2022,13,weekly,4855
+COL,Colombia,2022,14,weekly,4879
+COL,Colombia,2022,15,weekly,4746
+COL,Colombia,2022,16,weekly,4957
+COL,Colombia,2022,17,weekly,4855
+COL,Colombia,2022,18,weekly,5066
 CRI,Costa Rica,2015,1,monthly,1926
 CRI,Costa Rica,2015,2,monthly,1544
 CRI,Costa Rica,2015,3,monthly,1764
@@ -5558,9 +5563,9 @@ DNK,Denmark,2021,44,weekly,1141
 DNK,Denmark,2021,45,weekly,1142
 DNK,Denmark,2021,46,weekly,1132
 DNK,Denmark,2021,47,weekly,1209
-DNK,Denmark,2021,48,weekly,1214
+DNK,Denmark,2021,48,weekly,1215
 DNK,Denmark,2021,49,weekly,1265
-DNK,Denmark,2021,50,weekly,1258
+DNK,Denmark,2021,50,weekly,1259
 DNK,Denmark,2021,51,weekly,1286
 DNK,Denmark,2021,52,weekly,1275
 DNK,Denmark,2022,1,weekly,1350
@@ -5569,17 +5574,18 @@ DNK,Denmark,2022,3,weekly,1179
 DNK,Denmark,2022,4,weekly,1179
 DNK,Denmark,2022,5,weekly,1209
 DNK,Denmark,2022,6,weekly,1280
-DNK,Denmark,2022,7,weekly,1268
+DNK,Denmark,2022,7,weekly,1267
 DNK,Denmark,2022,8,weekly,1254
 DNK,Denmark,2022,9,weekly,1230
 DNK,Denmark,2022,10,weekly,1221
 DNK,Denmark,2022,11,weekly,1186
-DNK,Denmark,2022,12,weekly,1221
-DNK,Denmark,2022,13,weekly,1196
-DNK,Denmark,2022,14,weekly,1195
-DNK,Denmark,2022,15,weekly,1156
-DNK,Denmark,2022,16,weekly,1076
-DNK,Denmark,2022,17,weekly,1115
+DNK,Denmark,2022,12,weekly,1222
+DNK,Denmark,2022,13,weekly,1197
+DNK,Denmark,2022,14,weekly,1196
+DNK,Denmark,2022,15,weekly,1157
+DNK,Denmark,2022,16,weekly,1079
+DNK,Denmark,2022,17,weekly,1123
+DNK,Denmark,2022,18,weekly,1074
 DOM,Dominican Republic,2015,1,monthly,3637
 DOM,Dominican Republic,2015,2,monthly,3212
 DOM,Dominican Republic,2015,3,monthly,3650
@@ -6508,7 +6514,7 @@ EST,Estonia,2021,2,weekly,396
 EST,Estonia,2021,3,weekly,407
 EST,Estonia,2021,4,weekly,354
 EST,Estonia,2021,5,weekly,353
-EST,Estonia,2021,6,weekly,379
+EST,Estonia,2021,6,weekly,380
 EST,Estonia,2021,7,weekly,349
 EST,Estonia,2021,8,weekly,406
 EST,Estonia,2021,9,weekly,422
@@ -6563,16 +6569,343 @@ EST,Estonia,2022,5,weekly,379
 EST,Estonia,2022,6,weekly,371
 EST,Estonia,2022,7,weekly,435
 EST,Estonia,2022,8,weekly,436
-EST,Estonia,2022,9,weekly,401
-EST,Estonia,2022,10,weekly,386
+EST,Estonia,2022,9,weekly,402
+EST,Estonia,2022,10,weekly,387
 EST,Estonia,2022,11,weekly,367
 EST,Estonia,2022,12,weekly,348
 EST,Estonia,2022,13,weekly,329
 EST,Estonia,2022,14,weekly,315
 EST,Estonia,2022,15,weekly,301
-EST,Estonia,2022,16,weekly,314
-EST,Estonia,2022,17,weekly,277
+EST,Estonia,2022,16,weekly,316
+EST,Estonia,2022,17,weekly,278
 EST,Estonia,2022,18,weekly,295
+EST,Estonia,2022,19,weekly,313
+NA,European Union - 27 countries (from 2020),2016,1,weekly,95928
+NA,European Union - 27 countries (from 2020),2016,2,weekly,93990
+NA,European Union - 27 countries (from 2020),2016,3,weekly,95103
+NA,European Union - 27 countries (from 2020),2016,4,weekly,95043
+NA,European Union - 27 countries (from 2020),2016,5,weekly,93445
+NA,European Union - 27 countries (from 2020),2016,6,weekly,93893
+NA,European Union - 27 countries (from 2020),2016,7,weekly,92131
+NA,European Union - 27 countries (from 2020),2016,8,weekly,92095
+NA,European Union - 27 countries (from 2020),2016,9,weekly,93363
+NA,European Union - 27 countries (from 2020),2016,10,weekly,92606
+NA,European Union - 27 countries (from 2020),2016,11,weekly,93076
+NA,European Union - 27 countries (from 2020),2016,12,weekly,91794
+NA,European Union - 27 countries (from 2020),2016,13,weekly,92508
+NA,European Union - 27 countries (from 2020),2016,14,weekly,89747
+NA,European Union - 27 countries (from 2020),2016,15,weekly,86939
+NA,European Union - 27 countries (from 2020),2016,16,weekly,83967
+NA,European Union - 27 countries (from 2020),2016,17,weekly,83762
+NA,European Union - 27 countries (from 2020),2016,18,weekly,84761
+NA,European Union - 27 countries (from 2020),2016,19,weekly,84629
+NA,European Union - 27 countries (from 2020),2016,20,weekly,82018
+NA,European Union - 27 countries (from 2020),2016,21,weekly,82651
+NA,European Union - 27 countries (from 2020),2016,22,weekly,81074
+NA,European Union - 27 countries (from 2020),2016,23,weekly,79244
+NA,European Union - 27 countries (from 2020),2016,24,weekly,78991
+NA,European Union - 27 countries (from 2020),2016,25,weekly,85089
+NA,European Union - 27 countries (from 2020),2016,26,weekly,80310
+NA,European Union - 27 countries (from 2020),2016,27,weekly,79945
+NA,European Union - 27 countries (from 2020),2016,28,weekly,80755
+NA,European Union - 27 countries (from 2020),2016,29,weekly,81762
+NA,European Union - 27 countries (from 2020),2016,30,weekly,80851
+NA,European Union - 27 countries (from 2020),2016,31,weekly,78726
+NA,European Union - 27 countries (from 2020),2016,32,weekly,77620
+NA,European Union - 27 countries (from 2020),2016,33,weekly,80020
+NA,European Union - 27 countries (from 2020),2016,34,weekly,82015
+NA,European Union - 27 countries (from 2020),2016,35,weekly,79331
+NA,European Union - 27 countries (from 2020),2016,36,weekly,79319
+NA,European Union - 27 countries (from 2020),2016,37,weekly,79017
+NA,European Union - 27 countries (from 2020),2016,38,weekly,77603
+NA,European Union - 27 countries (from 2020),2016,39,weekly,81635
+NA,European Union - 27 countries (from 2020),2016,40,weekly,82289
+NA,European Union - 27 countries (from 2020),2016,41,weekly,86685
+NA,European Union - 27 countries (from 2020),2016,42,weekly,87302
+NA,European Union - 27 countries (from 2020),2016,43,weekly,86851
+NA,European Union - 27 countries (from 2020),2016,44,weekly,86149
+NA,European Union - 27 countries (from 2020),2016,45,weekly,87717
+NA,European Union - 27 countries (from 2020),2016,46,weekly,90322
+NA,European Union - 27 countries (from 2020),2016,47,weekly,89336
+NA,European Union - 27 countries (from 2020),2016,48,weekly,90258
+NA,European Union - 27 countries (from 2020),2016,49,weekly,92630
+NA,European Union - 27 countries (from 2020),2016,50,weekly,94609
+NA,European Union - 27 countries (from 2020),2016,51,weekly,100957
+NA,European Union - 27 countries (from 2020),2016,52,weekly,108578
+NA,European Union - 27 countries (from 2020),2017,1,weekly,116987
+NA,European Union - 27 countries (from 2020),2017,2,weekly,121661
+NA,European Union - 27 countries (from 2020),2017,3,weekly,116375
+NA,European Union - 27 countries (from 2020),2017,4,weekly,114643
+NA,European Union - 27 countries (from 2020),2017,5,weekly,114182
+NA,European Union - 27 countries (from 2020),2017,6,weekly,106639
+NA,European Union - 27 countries (from 2020),2017,7,weekly,104015
+NA,European Union - 27 countries (from 2020),2017,8,weekly,100831
+NA,European Union - 27 countries (from 2020),2017,9,weekly,96664
+NA,European Union - 27 countries (from 2020),2017,10,weekly,92553
+NA,European Union - 27 countries (from 2020),2017,11,weekly,90181
+NA,European Union - 27 countries (from 2020),2017,12,weekly,88538
+NA,European Union - 27 countries (from 2020),2017,13,weekly,87607
+NA,European Union - 27 countries (from 2020),2017,14,weekly,85772
+NA,European Union - 27 countries (from 2020),2017,15,weekly,85797
+NA,European Union - 27 countries (from 2020),2017,16,weekly,84979
+NA,European Union - 27 countries (from 2020),2017,17,weekly,86566
+NA,European Union - 27 countries (from 2020),2017,18,weekly,85813
+NA,European Union - 27 countries (from 2020),2017,19,weekly,84592
+NA,European Union - 27 countries (from 2020),2017,20,weekly,83486
+NA,European Union - 27 countries (from 2020),2017,21,weekly,82309
+NA,European Union - 27 countries (from 2020),2017,22,weekly,82373
+NA,European Union - 27 countries (from 2020),2017,23,weekly,79067
+NA,European Union - 27 countries (from 2020),2017,24,weekly,81061
+NA,European Union - 27 countries (from 2020),2017,25,weekly,84273
+NA,European Union - 27 countries (from 2020),2017,26,weekly,81240
+NA,European Union - 27 countries (from 2020),2017,27,weekly,80952
+NA,European Union - 27 countries (from 2020),2017,28,weekly,79910
+NA,European Union - 27 countries (from 2020),2017,29,weekly,80982
+NA,European Union - 27 countries (from 2020),2017,30,weekly,79442
+NA,European Union - 27 countries (from 2020),2017,31,weekly,85173
+NA,European Union - 27 countries (from 2020),2017,32,weekly,83496
+NA,European Union - 27 countries (from 2020),2017,33,weekly,79741
+NA,European Union - 27 countries (from 2020),2017,34,weekly,79003
+NA,European Union - 27 countries (from 2020),2017,35,weekly,79660
+NA,European Union - 27 countries (from 2020),2017,36,weekly,77476
+NA,European Union - 27 countries (from 2020),2017,37,weekly,80140
+NA,European Union - 27 countries (from 2020),2017,38,weekly,81373
+NA,European Union - 27 countries (from 2020),2017,39,weekly,83286
+NA,European Union - 27 countries (from 2020),2017,40,weekly,85105
+NA,European Union - 27 countries (from 2020),2017,41,weekly,86269
+NA,European Union - 27 countries (from 2020),2017,42,weekly,85333
+NA,European Union - 27 countries (from 2020),2017,43,weekly,84884
+NA,European Union - 27 countries (from 2020),2017,44,weekly,85341
+NA,European Union - 27 countries (from 2020),2017,45,weekly,86149
+NA,European Union - 27 countries (from 2020),2017,46,weekly,88557
+NA,European Union - 27 countries (from 2020),2017,47,weekly,89098
+NA,European Union - 27 countries (from 2020),2017,48,weekly,89499
+NA,European Union - 27 countries (from 2020),2017,49,weekly,92364
+NA,European Union - 27 countries (from 2020),2017,50,weekly,95049
+NA,European Union - 27 countries (from 2020),2017,51,weekly,95419
+NA,European Union - 27 countries (from 2020),2017,52,weekly,100424
+NA,European Union - 27 countries (from 2020),2018,1,weekly,104457
+NA,European Union - 27 countries (from 2020),2018,2,weekly,102040
+NA,European Union - 27 countries (from 2020),2018,3,weekly,102732
+NA,European Union - 27 countries (from 2020),2018,4,weekly,100570
+NA,European Union - 27 countries (from 2020),2018,5,weekly,101487
+NA,European Union - 27 countries (from 2020),2018,6,weekly,102468
+NA,European Union - 27 countries (from 2020),2018,7,weekly,104808
+NA,European Union - 27 countries (from 2020),2018,8,weekly,107346
+NA,European Union - 27 countries (from 2020),2018,9,weekly,113702
+NA,European Union - 27 countries (from 2020),2018,10,weekly,114552
+NA,European Union - 27 countries (from 2020),2018,11,weekly,106611
+NA,European Union - 27 countries (from 2020),2018,12,weekly,101035
+NA,European Union - 27 countries (from 2020),2018,13,weekly,98192
+NA,European Union - 27 countries (from 2020),2018,14,weekly,95178
+NA,European Union - 27 countries (from 2020),2018,15,weekly,92225
+NA,European Union - 27 countries (from 2020),2018,16,weekly,88329
+NA,European Union - 27 countries (from 2020),2018,17,weekly,85172
+NA,European Union - 27 countries (from 2020),2018,18,weekly,82797
+NA,European Union - 27 countries (from 2020),2018,19,weekly,82407
+NA,European Union - 27 countries (from 2020),2018,20,weekly,81323
+NA,European Union - 27 countries (from 2020),2018,21,weekly,82613
+NA,European Union - 27 countries (from 2020),2018,22,weekly,83515
+NA,European Union - 27 countries (from 2020),2018,23,weekly,81234
+NA,European Union - 27 countries (from 2020),2018,24,weekly,79140
+NA,European Union - 27 countries (from 2020),2018,25,weekly,80039
+NA,European Union - 27 countries (from 2020),2018,26,weekly,80832
+NA,European Union - 27 countries (from 2020),2018,27,weekly,82470
+NA,European Union - 27 countries (from 2020),2018,28,weekly,81080
+NA,European Union - 27 countries (from 2020),2018,29,weekly,82595
+NA,European Union - 27 countries (from 2020),2018,30,weekly,85334
+NA,European Union - 27 countries (from 2020),2018,31,weekly,90777
+NA,European Union - 27 countries (from 2020),2018,32,weekly,87246
+NA,European Union - 27 countries (from 2020),2018,33,weekly,80934
+NA,European Union - 27 countries (from 2020),2018,34,weekly,81022
+NA,European Union - 27 countries (from 2020),2018,35,weekly,78994
+NA,European Union - 27 countries (from 2020),2018,36,weekly,80605
+NA,European Union - 27 countries (from 2020),2018,37,weekly,80294
+NA,European Union - 27 countries (from 2020),2018,38,weekly,82342
+NA,European Union - 27 countries (from 2020),2018,39,weekly,80839
+NA,European Union - 27 countries (from 2020),2018,40,weekly,85207
+NA,European Union - 27 countries (from 2020),2018,41,weekly,85555
+NA,European Union - 27 countries (from 2020),2018,42,weekly,84365
+NA,European Union - 27 countries (from 2020),2018,43,weekly,85295
+NA,European Union - 27 countries (from 2020),2018,44,weekly,86164
+NA,European Union - 27 countries (from 2020),2018,45,weekly,87262
+NA,European Union - 27 countries (from 2020),2018,46,weekly,86346
+NA,European Union - 27 countries (from 2020),2018,47,weekly,89112
+NA,European Union - 27 countries (from 2020),2018,48,weekly,89970
+NA,European Union - 27 countries (from 2020),2018,49,weekly,91729
+NA,European Union - 27 countries (from 2020),2018,50,weekly,91782
+NA,European Union - 27 countries (from 2020),2018,51,weekly,95038
+NA,European Union - 27 countries (from 2020),2018,52,weekly,94963
+NA,European Union - 27 countries (from 2020),2019,1,weekly,99554
+NA,European Union - 27 countries (from 2020),2019,2,weekly,103589
+NA,European Union - 27 countries (from 2020),2019,3,weekly,104633
+NA,European Union - 27 countries (from 2020),2019,4,weekly,105570
+NA,European Union - 27 countries (from 2020),2019,5,weekly,107004
+NA,European Union - 27 countries (from 2020),2019,6,weekly,105370
+NA,European Union - 27 countries (from 2020),2019,7,weekly,103376
+NA,European Union - 27 countries (from 2020),2019,8,weekly,101762
+NA,European Union - 27 countries (from 2020),2019,9,weekly,101073
+NA,European Union - 27 countries (from 2020),2019,10,weekly,98118
+NA,European Union - 27 countries (from 2020),2019,11,weekly,95239
+NA,European Union - 27 countries (from 2020),2019,12,weekly,91787
+NA,European Union - 27 countries (from 2020),2019,13,weekly,89915
+NA,European Union - 27 countries (from 2020),2019,14,weekly,90610
+NA,European Union - 27 countries (from 2020),2019,15,weekly,88058
+NA,European Union - 27 countries (from 2020),2019,16,weekly,88078
+NA,European Union - 27 countries (from 2020),2019,17,weekly,88259
+NA,European Union - 27 countries (from 2020),2019,18,weekly,85450
+NA,European Union - 27 countries (from 2020),2019,19,weekly,85370
+NA,European Union - 27 countries (from 2020),2019,20,weekly,84787
+NA,European Union - 27 countries (from 2020),2019,21,weekly,84420
+NA,European Union - 27 countries (from 2020),2019,22,weekly,83302
+NA,European Union - 27 countries (from 2020),2019,23,weekly,85251
+NA,European Union - 27 countries (from 2020),2019,24,weekly,84595
+NA,European Union - 27 countries (from 2020),2019,25,weekly,82904
+NA,European Union - 27 countries (from 2020),2019,26,weekly,86331
+NA,European Union - 27 countries (from 2020),2019,27,weekly,84354
+NA,European Union - 27 countries (from 2020),2019,28,weekly,81095
+NA,European Union - 27 countries (from 2020),2019,29,weekly,81545
+NA,European Union - 27 countries (from 2020),2019,30,weekly,88979
+NA,European Union - 27 countries (from 2020),2019,31,weekly,81233
+NA,European Union - 27 countries (from 2020),2019,32,weekly,81422
+NA,European Union - 27 countries (from 2020),2019,33,weekly,79739
+NA,European Union - 27 countries (from 2020),2019,34,weekly,80803
+NA,European Union - 27 countries (from 2020),2019,35,weekly,83980
+NA,European Union - 27 countries (from 2020),2019,36,weekly,78257
+NA,European Union - 27 countries (from 2020),2019,37,weekly,79918
+NA,European Union - 27 countries (from 2020),2019,38,weekly,81149
+NA,European Union - 27 countries (from 2020),2019,39,weekly,83843
+NA,European Union - 27 countries (from 2020),2019,40,weekly,83719
+NA,European Union - 27 countries (from 2020),2019,41,weekly,85602
+NA,European Union - 27 countries (from 2020),2019,42,weekly,85733
+NA,European Union - 27 countries (from 2020),2019,43,weekly,86005
+NA,European Union - 27 countries (from 2020),2019,44,weekly,85931
+NA,European Union - 27 countries (from 2020),2019,45,weekly,87725
+NA,European Union - 27 countries (from 2020),2019,46,weekly,88632
+NA,European Union - 27 countries (from 2020),2019,47,weekly,89403
+NA,European Union - 27 countries (from 2020),2019,48,weekly,90355
+NA,European Union - 27 countries (from 2020),2019,49,weekly,91142
+NA,European Union - 27 countries (from 2020),2019,50,weekly,93275
+NA,European Union - 27 countries (from 2020),2019,51,weekly,94188
+NA,European Union - 27 countries (from 2020),2019,52,weekly,91780
+NA,European Union - 27 countries (from 2020),2020,1,weekly,96530
+NA,European Union - 27 countries (from 2020),2020,2,weekly,99652
+NA,European Union - 27 countries (from 2020),2020,3,weekly,98371
+NA,European Union - 27 countries (from 2020),2020,4,weekly,97824
+NA,European Union - 27 countries (from 2020),2020,5,weekly,100586
+NA,European Union - 27 countries (from 2020),2020,6,weekly,97001
+NA,European Union - 27 countries (from 2020),2020,7,weekly,97747
+NA,European Union - 27 countries (from 2020),2020,8,weekly,94320
+NA,European Union - 27 countries (from 2020),2020,9,weekly,95975
+NA,European Union - 27 countries (from 2020),2020,10,weekly,96725
+NA,European Union - 27 countries (from 2020),2020,11,weekly,102031
+NA,European Union - 27 countries (from 2020),2020,12,weekly,111634
+NA,European Union - 27 countries (from 2020),2020,13,weekly,123567
+NA,European Union - 27 countries (from 2020),2020,14,weekly,127564
+NA,European Union - 27 countries (from 2020),2020,15,weekly,120820
+NA,European Union - 27 countries (from 2020),2020,16,weekly,109129
+NA,European Union - 27 countries (from 2020),2020,17,weekly,98493
+NA,European Union - 27 countries (from 2020),2020,18,weekly,91508
+NA,European Union - 27 countries (from 2020),2020,19,weekly,88817
+NA,European Union - 27 countries (from 2020),2020,20,weekly,86076
+NA,European Union - 27 countries (from 2020),2020,21,weekly,84958
+NA,European Union - 27 countries (from 2020),2020,22,weekly,82738
+NA,European Union - 27 countries (from 2020),2020,23,weekly,83761
+NA,European Union - 27 countries (from 2020),2020,24,weekly,82455
+NA,European Union - 27 countries (from 2020),2020,25,weekly,81781
+NA,European Union - 27 countries (from 2020),2020,26,weekly,85455
+NA,European Union - 27 countries (from 2020),2020,27,weekly,85113
+NA,European Union - 27 countries (from 2020),2020,28,weekly,82534
+NA,European Union - 27 countries (from 2020),2020,29,weekly,82385
+NA,European Union - 27 countries (from 2020),2020,30,weekly,84399
+NA,European Union - 27 countries (from 2020),2020,31,weekly,89323
+NA,European Union - 27 countries (from 2020),2020,32,weekly,87721
+NA,European Union - 27 countries (from 2020),2020,33,weekly,92315
+NA,European Union - 27 countries (from 2020),2020,34,weekly,86619
+NA,European Union - 27 countries (from 2020),2020,35,weekly,84571
+NA,European Union - 27 countries (from 2020),2020,36,weekly,84064
+NA,European Union - 27 countries (from 2020),2020,37,weekly,86412
+NA,European Union - 27 countries (from 2020),2020,38,weekly,88535
+NA,European Union - 27 countries (from 2020),2020,39,weekly,86677
+NA,European Union - 27 countries (from 2020),2020,40,weekly,90241
+NA,European Union - 27 countries (from 2020),2020,41,weekly,92163
+NA,European Union - 27 countries (from 2020),2020,42,weekly,96236
+NA,European Union - 27 countries (from 2020),2020,43,weekly,106080
+NA,European Union - 27 countries (from 2020),2020,44,weekly,113946
+NA,European Union - 27 countries (from 2020),2020,45,weekly,121691
+NA,European Union - 27 countries (from 2020),2020,46,weekly,124661
+NA,European Union - 27 countries (from 2020),2020,47,weekly,124436
+NA,European Union - 27 countries (from 2020),2020,48,weekly,124459
+NA,European Union - 27 countries (from 2020),2020,49,weekly,125125
+NA,European Union - 27 countries (from 2020),2020,50,weekly,124289
+NA,European Union - 27 countries (from 2020),2020,51,weekly,122550
+NA,European Union - 27 countries (from 2020),2020,52,weekly,120774
+NA,European Union - 27 countries (from 2020),2020,53,weekly,121591
+NA,European Union - 27 countries (from 2020),2021,1,weekly,122682
+NA,European Union - 27 countries (from 2020),2021,2,weekly,123175
+NA,European Union - 27 countries (from 2020),2021,3,weekly,125418
+NA,European Union - 27 countries (from 2020),2021,4,weekly,119863
+NA,European Union - 27 countries (from 2020),2021,5,weekly,114094
+NA,European Union - 27 countries (from 2020),2021,6,weekly,109157
+NA,European Union - 27 countries (from 2020),2021,7,weekly,108158
+NA,European Union - 27 countries (from 2020),2021,8,weekly,103989
+NA,European Union - 27 countries (from 2020),2021,9,weekly,103143
+NA,European Union - 27 countries (from 2020),2021,10,weekly,105589
+NA,European Union - 27 countries (from 2020),2021,11,weekly,106809
+NA,European Union - 27 countries (from 2020),2021,12,weekly,108584
+NA,European Union - 27 countries (from 2020),2021,13,weekly,111099
+NA,European Union - 27 countries (from 2020),2021,14,weekly,108868
+NA,European Union - 27 countries (from 2020),2021,15,weekly,106435
+NA,European Union - 27 countries (from 2020),2021,16,weekly,104720
+NA,European Union - 27 countries (from 2020),2021,17,weekly,101369
+NA,European Union - 27 countries (from 2020),2021,18,weekly,98258
+NA,European Union - 27 countries (from 2020),2021,19,weekly,93672
+NA,European Union - 27 countries (from 2020),2021,20,weekly,89552
+NA,European Union - 27 countries (from 2020),2021,21,weekly,87110
+NA,European Union - 27 countries (from 2020),2021,22,weekly,87755
+NA,European Union - 27 countries (from 2020),2021,23,weekly,86749
+NA,European Union - 27 countries (from 2020),2021,24,weekly,88420
+NA,European Union - 27 countries (from 2020),2021,25,weekly,88373
+NA,European Union - 27 countries (from 2020),2021,26,weekly,86036
+NA,European Union - 27 countries (from 2020),2021,27,weekly,85505
+NA,European Union - 27 countries (from 2020),2021,28,weekly,86841
+NA,European Union - 27 countries (from 2020),2021,29,weekly,86861
+NA,European Union - 27 countries (from 2020),2021,30,weekly,88855
+NA,European Union - 27 countries (from 2020),2021,31,weekly,88713
+NA,European Union - 27 countries (from 2020),2021,32,weekly,91221
+NA,European Union - 27 countries (from 2020),2021,33,weekly,89185
+NA,European Union - 27 countries (from 2020),2021,34,weekly,87205
+NA,European Union - 27 countries (from 2020),2021,35,weekly,87935
+NA,European Union - 27 countries (from 2020),2021,36,weekly,92214
+NA,European Union - 27 countries (from 2020),2021,37,weekly,90580
+NA,European Union - 27 countries (from 2020),2021,38,weekly,90431
+NA,European Union - 27 countries (from 2020),2021,39,weekly,92623
+NA,European Union - 27 countries (from 2020),2021,40,weekly,95341
+NA,European Union - 27 countries (from 2020),2021,41,weekly,100678
+NA,European Union - 27 countries (from 2020),2021,42,weekly,104514
+NA,European Union - 27 countries (from 2020),2021,43,weekly,107354
+NA,European Union - 27 countries (from 2020),2021,44,weekly,107620
+NA,European Union - 27 countries (from 2020),2021,45,weekly,109884
+NA,European Union - 27 countries (from 2020),2021,46,weekly,112434
+NA,European Union - 27 countries (from 2020),2021,47,weekly,114658
+NA,European Union - 27 countries (from 2020),2021,48,weekly,118512
+NA,European Union - 27 countries (from 2020),2021,49,weekly,118466
+NA,European Union - 27 countries (from 2020),2021,50,weekly,116508
+NA,European Union - 27 countries (from 2020),2021,51,weekly,116579
+NA,European Union - 27 countries (from 2020),2021,52,weekly,114799
+NA,European Union - 27 countries (from 2020),2022,1,weekly,112191
+NA,European Union - 27 countries (from 2020),2022,2,weekly,110923
+NA,European Union - 27 countries (from 2020),2022,3,weekly,110882
+NA,European Union - 27 countries (from 2020),2022,4,weekly,113924
+NA,European Union - 27 countries (from 2020),2022,5,weekly,116048
+NA,European Union - 27 countries (from 2020),2022,6,weekly,112604
+NA,European Union - 27 countries (from 2020),2022,7,weekly,110378
+NA,European Union - 27 countries (from 2020),2022,8,weekly,103979
+NA,European Union - 27 countries (from 2020),2022,9,weekly,102378
+NA,European Union - 27 countries (from 2020),2022,10,weekly,102078
+NA,European Union - 27 countries (from 2020),2022,11,weekly,101129
+NA,European Union - 27 countries (from 2020),2022,12,weekly,100666
+NA,European Union - 27 countries (from 2020),2022,13,weekly,100108
 FRO,Faroe Islands,2015,1,monthly,41
 FRO,Faroe Islands,2015,2,monthly,29
 FRO,Faroe Islands,2015,3,monthly,32
@@ -8332,22 +8665,22 @@ DEU,Germany,2021,49,weekly,23917
 DEU,Germany,2021,50,weekly,22812
 DEU,Germany,2021,51,weekly,22363
 DEU,Germany,2021,52,weekly,21998
-DEU,Germany,2022,1,weekly,20649
-DEU,Germany,2022,2,weekly,19764
-DEU,Germany,2022,3,weekly,19691
-DEU,Germany,2022,4,weekly,20044
-DEU,Germany,2022,5,weekly,20527
-DEU,Germany,2022,6,weekly,20290
-DEU,Germany,2022,7,weekly,20932
-DEU,Germany,2022,8,weekly,20171
-DEU,Germany,2022,9,weekly,20514
-DEU,Germany,2022,10,weekly,20981
-DEU,Germany,2022,11,weekly,21051
-DEU,Germany,2022,12,weekly,20952
-DEU,Germany,2022,13,weekly,20491
-DEU,Germany,2022,14,weekly,20414
-DEU,Germany,2022,15,weekly,19832
-DEU,Germany,2022,16,weekly,19249
+DEU,Germany,2022,1,weekly,20655
+DEU,Germany,2022,2,weekly,19769
+DEU,Germany,2022,3,weekly,19698
+DEU,Germany,2022,4,weekly,20058
+DEU,Germany,2022,5,weekly,20536
+DEU,Germany,2022,6,weekly,20308
+DEU,Germany,2022,7,weekly,20960
+DEU,Germany,2022,8,weekly,20201
+DEU,Germany,2022,9,weekly,20527
+DEU,Germany,2022,10,weekly,20966
+DEU,Germany,2022,11,weekly,21049
+DEU,Germany,2022,12,weekly,20955
+DEU,Germany,2022,13,weekly,20613
+DEU,Germany,2022,14,weekly,20536
+DEU,Germany,2022,15,weekly,19804
+DEU,Germany,2022,16,weekly,19238
 DEU,Germany,2022,17,weekly,18919
 GIB,Gibraltar,2015,1,monthly,25
 GIB,Gibraltar,2015,2,monthly,26
@@ -8788,15 +9121,15 @@ GRC,Greece,2021,49,weekly,3340
 GRC,Greece,2021,50,weekly,3286
 GRC,Greece,2021,51,weekly,3300
 GRC,Greece,2021,52,weekly,3297
-GRC,Greece,2022,1,weekly,3264
-GRC,Greece,2022,2,weekly,3374
+GRC,Greece,2022,1,weekly,3267
+GRC,Greece,2022,2,weekly,3377
 GRC,Greece,2022,3,weekly,3263
-GRC,Greece,2022,4,weekly,3675
-GRC,Greece,2022,5,weekly,3552
-GRC,Greece,2022,6,weekly,3236
-GRC,Greece,2022,7,weekly,3058
-GRC,Greece,2022,8,weekly,2792
-GRC,Greece,2022,9,weekly,2836
+GRC,Greece,2022,4,weekly,3677
+GRC,Greece,2022,5,weekly,3555
+GRC,Greece,2022,6,weekly,3241
+GRC,Greece,2022,7,weekly,3061
+GRC,Greece,2022,8,weekly,2796
+GRC,Greece,2022,9,weekly,2843
 GRC,Greece,2022,10,weekly,2839
 GRC,Greece,2022,11,weekly,3041
 GRC,Greece,2022,12,weekly,3035
@@ -10099,6 +10432,7 @@ HUN,Hungary,2022,11,weekly,2783
 HUN,Hungary,2022,12,weekly,2660
 HUN,Hungary,2022,13,weekly,2645
 HUN,Hungary,2022,14,weekly,2456
+HUN,Hungary,2022,15,weekly,2318
 ISL,Iceland,2015,1,weekly,49
 ISL,Iceland,2015,2,weekly,42
 ISL,Iceland,2015,3,weekly,44
@@ -11293,7 +11627,7 @@ ISR,Israel,2021,35,weekly,1084
 ISR,Israel,2021,36,weekly,990
 ISR,Israel,2021,37,weekly,1033
 ISR,Israel,2021,38,weekly,955
-ISR,Israel,2021,39,weekly,957
+ISR,Israel,2021,39,weekly,958
 ISR,Israel,2021,40,weekly,961
 ISR,Israel,2021,41,weekly,919
 ISR,Israel,2021,42,weekly,976
@@ -11303,24 +11637,25 @@ ISR,Israel,2021,45,weekly,945
 ISR,Israel,2021,46,weekly,858
 ISR,Israel,2021,47,weekly,841
 ISR,Israel,2021,48,weekly,892
-ISR,Israel,2021,49,weekly,966
+ISR,Israel,2021,49,weekly,967
 ISR,Israel,2021,50,weekly,1022
-ISR,Israel,2021,51,weekly,1002
+ISR,Israel,2021,51,weekly,1003
 ISR,Israel,2021,52,weekly,1100
 ISR,Israel,2022,1,weekly,1069
-ISR,Israel,2022,2,weekly,1206
-ISR,Israel,2022,3,weekly,1389
+ISR,Israel,2022,2,weekly,1208
+ISR,Israel,2022,3,weekly,1388
 ISR,Israel,2022,4,weekly,1484
-ISR,Israel,2022,5,weekly,1558
-ISR,Israel,2022,6,weekly,1436
-ISR,Israel,2022,7,weekly,1280
+ISR,Israel,2022,5,weekly,1560
+ISR,Israel,2022,6,weekly,1439
+ISR,Israel,2022,7,weekly,1282
 ISR,Israel,2022,8,weekly,1193
-ISR,Israel,2022,9,weekly,1094
-ISR,Israel,2022,10,weekly,1008
-ISR,Israel,2022,11,weekly,1016
-ISR,Israel,2022,12,weekly,995
-ISR,Israel,2022,13,weekly,1096
-ISR,Israel,2022,14,weekly,995
+ISR,Israel,2022,9,weekly,1097
+ISR,Israel,2022,10,weekly,1009
+ISR,Israel,2022,11,weekly,1018
+ISR,Israel,2022,12,weekly,1003
+ISR,Israel,2022,13,weekly,1116
+ISR,Israel,2022,14,weekly,1034
+ISR,Israel,2022,15,weekly,870
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -12097,6 +12432,7 @@ KOS,Kosovo,2021,11,monthly,757
 KOS,Kosovo,2021,12,monthly,981
 KOS,Kosovo,2022,1,monthly,900
 KOS,Kosovo,2022,2,monthly,987
+KOS,Kosovo,2022,3,monthly,763
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -12254,6 +12590,8 @@ KGZ,Kyrgyzstan,2021,10,monthly,3257
 KGZ,Kyrgyzstan,2021,11,monthly,3381
 KGZ,Kyrgyzstan,2021,12,monthly,3590
 KGZ,Kyrgyzstan,2022,1,monthly,2671
+KGZ,Kyrgyzstan,2022,2,monthly,3177
+KGZ,Kyrgyzstan,2022,3,monthly,2955
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -12632,7 +12970,7 @@ LVA,Latvia,2022,9,weekly,700
 LVA,Latvia,2022,10,weekly,651
 LVA,Latvia,2022,11,weekly,691
 LVA,Latvia,2022,12,weekly,666
-LVA,Latvia,2022,13,weekly,606
+LVA,Latvia,2022,13,weekly,607
 LVA,Latvia,2022,14,weekly,600
 LVA,Latvia,2022,15,weekly,568
 LVA,Latvia,2022,16,weekly,559
@@ -15382,20 +15720,29 @@ MEX,Mexico,2021,35,weekly,26520
 MEX,Mexico,2021,36,weekly,25357
 MEX,Mexico,2021,37,weekly,23955
 MEX,Mexico,2021,38,weekly,22189
-MEX,Mexico,2021,39,weekly,20673
-MEX,Mexico,2021,40,weekly,19340
-MEX,Mexico,2021,41,weekly,18361
-MEX,Mexico,2021,42,weekly,16936
-MEX,Mexico,2021,43,weekly,16305
-MEX,Mexico,2021,44,weekly,16291
-MEX,Mexico,2021,45,weekly,16177
-MEX,Mexico,2021,46,weekly,16143
-MEX,Mexico,2021,47,weekly,16009
-MEX,Mexico,2021,48,weekly,15951
-MEX,Mexico,2021,49,weekly,15905
-MEX,Mexico,2021,50,weekly,15908
-MEX,Mexico,2021,51,weekly,16326
-MEX,Mexico,2021,52,weekly,16901
+MEX,Mexico,2021,39,weekly,20747
+MEX,Mexico,2021,40,weekly,19417
+MEX,Mexico,2021,41,weekly,18430
+MEX,Mexico,2021,42,weekly,17007
+MEX,Mexico,2021,43,weekly,16382
+MEX,Mexico,2021,44,weekly,16378
+MEX,Mexico,2021,45,weekly,16277
+MEX,Mexico,2021,46,weekly,16245
+MEX,Mexico,2021,47,weekly,16110
+MEX,Mexico,2021,48,weekly,16077
+MEX,Mexico,2021,49,weekly,16009
+MEX,Mexico,2021,50,weekly,16034
+MEX,Mexico,2021,51,weekly,16471
+MEX,Mexico,2021,52,weekly,17106
+MEX,Mexico,2022,1,weekly,17442
+MEX,Mexico,2022,2,weekly,18964
+MEX,Mexico,2022,3,weekly,22895
+MEX,Mexico,2022,4,weekly,30049
+MEX,Mexico,2022,5,weekly,28324
+MEX,Mexico,2022,6,weekly,24103
+MEX,Mexico,2022,7,weekly,20402
+MEX,Mexico,2022,8,weekly,17147
+MEX,Mexico,2022,9,weekly,15478
 MDA,Moldova,2015,1,monthly,4013
 MDA,Moldova,2015,2,monthly,3476
 MDA,Moldova,2015,3,monthly,3681
@@ -15567,6 +15914,7 @@ MCO,Monaco,2021,12,monthly,58
 MCO,Monaco,2022,1,monthly,51
 MCO,Monaco,2022,2,monthly,33
 MCO,Monaco,2022,3,monthly,50
+MCO,Monaco,2022,4,monthly,42
 MNG,Mongolia,2015,1,monthly,1340
 MNG,Mongolia,2015,2,monthly,1292
 MNG,Mongolia,2015,3,monthly,1445
@@ -16378,22 +16726,24 @@ NLD,Netherlands,2021,49,weekly,4364
 NLD,Netherlands,2021,50,weekly,4036
 NLD,Netherlands,2021,51,weekly,3740
 NLD,Netherlands,2021,52,weekly,3644
-NLD,Netherlands,2022,1,weekly,3430
-NLD,Netherlands,2022,2,weekly,3152
-NLD,Netherlands,2022,3,weekly,3184
-NLD,Netherlands,2022,4,weekly,3198
-NLD,Netherlands,2022,5,weekly,3277
-NLD,Netherlands,2022,6,weekly,3242
-NLD,Netherlands,2022,7,weekly,3370
-NLD,Netherlands,2022,8,weekly,3339
-NLD,Netherlands,2022,9,weekly,3217
-NLD,Netherlands,2022,10,weekly,3366
-NLD,Netherlands,2022,11,weekly,3567
+NLD,Netherlands,2022,1,weekly,3433
+NLD,Netherlands,2022,2,weekly,3153
+NLD,Netherlands,2022,3,weekly,3186
+NLD,Netherlands,2022,4,weekly,3200
+NLD,Netherlands,2022,5,weekly,3279
+NLD,Netherlands,2022,6,weekly,3248
+NLD,Netherlands,2022,7,weekly,3374
+NLD,Netherlands,2022,8,weekly,3345
+NLD,Netherlands,2022,9,weekly,3226
+NLD,Netherlands,2022,10,weekly,3380
+NLD,Netherlands,2022,11,weekly,3587
 NLD,Netherlands,2022,12,weekly,3614
 NLD,Netherlands,2022,13,weekly,3552
 NLD,Netherlands,2022,14,weekly,3552
 NLD,Netherlands,2022,15,weekly,3471
-NLD,Netherlands,2022,16,weekly,3284
+NLD,Netherlands,2022,16,weekly,3213
+NLD,Netherlands,2022,17,weekly,3090
+NLD,Netherlands,2022,18,weekly,3016
 NCL,New Caledonia,2015,1,monthly,126
 NCL,New Caledonia,2015,2,monthly,124
 NCL,New Caledonia,2015,3,monthly,118
@@ -16811,7 +17161,7 @@ NZL,New Zealand,2021,28,weekly,762
 NZL,New Zealand,2021,29,weekly,754
 NZL,New Zealand,2021,30,weekly,756
 NZL,New Zealand,2021,31,weekly,779
-NZL,New Zealand,2021,32,weekly,786
+NZL,New Zealand,2021,32,weekly,787
 NZL,New Zealand,2021,33,weekly,770
 NZL,New Zealand,2021,34,weekly,705
 NZL,New Zealand,2021,35,weekly,734
@@ -16838,16 +17188,17 @@ NZL,New Zealand,2022,3,weekly,634
 NZL,New Zealand,2022,4,weekly,647
 NZL,New Zealand,2022,5,weekly,661
 NZL,New Zealand,2022,6,weekly,678
-NZL,New Zealand,2022,7,weekly,641
+NZL,New Zealand,2022,7,weekly,642
 NZL,New Zealand,2022,8,weekly,626
-NZL,New Zealand,2022,9,weekly,680
+NZL,New Zealand,2022,9,weekly,681
 NZL,New Zealand,2022,10,weekly,731
 NZL,New Zealand,2022,11,weekly,774
-NZL,New Zealand,2022,12,weekly,748
-NZL,New Zealand,2022,13,weekly,744
-NZL,New Zealand,2022,14,weekly,688
-NZL,New Zealand,2022,15,weekly,749
-NZL,New Zealand,2022,16,weekly,718
+NZL,New Zealand,2022,12,weekly,750
+NZL,New Zealand,2022,13,weekly,746
+NZL,New Zealand,2022,14,weekly,690
+NZL,New Zealand,2022,15,weekly,753
+NZL,New Zealand,2022,16,weekly,740
+NZL,New Zealand,2022,17,weekly,683
 NIC,Nicaragua,2015,1,monthly,2035
 NIC,Nicaragua,2015,2,monthly,1709
 NIC,Nicaragua,2015,3,monthly,1878
@@ -17321,7 +17672,7 @@ NOR,Norway,2020,51,weekly,823
 NOR,Norway,2020,52,weekly,830
 NOR,Norway,2020,53,weekly,839
 NOR,Norway,2021,1,weekly,830
-NOR,Norway,2021,2,weekly,867
+NOR,Norway,2021,2,weekly,868
 NOR,Norway,2021,3,weekly,860
 NOR,Norway,2021,4,weekly,851
 NOR,Norway,2021,5,weekly,792
@@ -17334,12 +17685,12 @@ NOR,Norway,2021,11,weekly,788
 NOR,Norway,2021,12,weekly,769
 NOR,Norway,2021,13,weekly,719
 NOR,Norway,2021,14,weekly,778
-NOR,Norway,2021,15,weekly,750
+NOR,Norway,2021,15,weekly,751
 NOR,Norway,2021,16,weekly,752
 NOR,Norway,2021,17,weekly,777
 NOR,Norway,2021,18,weekly,695
 NOR,Norway,2021,19,weekly,705
-NOR,Norway,2021,20,weekly,739
+NOR,Norway,2021,20,weekly,740
 NOR,Norway,2021,21,weekly,728
 NOR,Norway,2021,22,weekly,725
 NOR,Norway,2021,23,weekly,727
@@ -17356,7 +17707,7 @@ NOR,Norway,2021,33,weekly,789
 NOR,Norway,2021,34,weekly,784
 NOR,Norway,2021,35,weekly,791
 NOR,Norway,2021,36,weekly,786
-NOR,Norway,2021,37,weekly,819
+NOR,Norway,2021,37,weekly,820
 NOR,Norway,2021,38,weekly,817
 NOR,Norway,2021,39,weekly,806
 NOR,Norway,2021,40,weekly,804
@@ -17374,21 +17725,22 @@ NOR,Norway,2021,51,weekly,966
 NOR,Norway,2021,52,weekly,929
 NOR,Norway,2022,1,weekly,955
 NOR,Norway,2022,2,weekly,911
-NOR,Norway,2022,3,weekly,823
+NOR,Norway,2022,3,weekly,824
 NOR,Norway,2022,4,weekly,821
-NOR,Norway,2022,5,weekly,921
+NOR,Norway,2022,5,weekly,922
 NOR,Norway,2022,6,weekly,887
-NOR,Norway,2022,7,weekly,900
-NOR,Norway,2022,8,weekly,987
-NOR,Norway,2022,9,weekly,961
-NOR,Norway,2022,10,weekly,921
-NOR,Norway,2022,11,weekly,984
-NOR,Norway,2022,12,weekly,976
-NOR,Norway,2022,13,weekly,880
-NOR,Norway,2022,14,weekly,927
-NOR,Norway,2022,15,weekly,828
-NOR,Norway,2022,16,weekly,803
+NOR,Norway,2022,7,weekly,901
+NOR,Norway,2022,8,weekly,988
+NOR,Norway,2022,9,weekly,964
+NOR,Norway,2022,10,weekly,924
+NOR,Norway,2022,11,weekly,986
+NOR,Norway,2022,12,weekly,980
+NOR,Norway,2022,13,weekly,882
+NOR,Norway,2022,14,weekly,935
+NOR,Norway,2022,15,weekly,840
+NOR,Norway,2022,16,weekly,816
 NOR,Norway,2022,17,weekly,808
+NOR,Norway,2022,18,weekly,802
 OMN,Oman,2015,1,monthly,732
 OMN,Oman,2015,2,monthly,550
 OMN,Oman,2015,3,monthly,602
@@ -17666,20 +18018,20 @@ PRY,Paraguay,2020,9,monthly,3414
 PRY,Paraguay,2020,10,monthly,3425
 PRY,Paraguay,2020,11,monthly,3104
 PRY,Paraguay,2020,12,monthly,3556
-PRY,Paraguay,2021,1,monthly,3268
-PRY,Paraguay,2021,2,monthly,3290
-PRY,Paraguay,2021,3,monthly,4701
-PRY,Paraguay,2021,4,monthly,6352
-PRY,Paraguay,2021,5,monthly,7547
+PRY,Paraguay,2021,1,monthly,3270
+PRY,Paraguay,2021,2,monthly,3291
+PRY,Paraguay,2021,3,monthly,4702
+PRY,Paraguay,2021,4,monthly,6353
+PRY,Paraguay,2021,5,monthly,7550
 PRY,Paraguay,2021,6,monthly,7129
 PRY,Paraguay,2021,7,monthly,5088
-PRY,Paraguay,2021,8,monthly,3658
-PRY,Paraguay,2021,9,monthly,2866
-PRY,Paraguay,2021,10,monthly,2841
-PRY,Paraguay,2021,11,monthly,2745
-PRY,Paraguay,2021,12,monthly,3170
-PRY,Paraguay,2022,1,monthly,5734
-PRY,Paraguay,2022,2,monthly,3366
+PRY,Paraguay,2021,8,monthly,3660
+PRY,Paraguay,2021,9,monthly,2867
+PRY,Paraguay,2021,10,monthly,2843
+PRY,Paraguay,2021,11,monthly,2749
+PRY,Paraguay,2021,12,monthly,3176
+PRY,Paraguay,2022,1,monthly,5805
+PRY,Paraguay,2022,2,monthly,3513
 PER,Peru,2017,1,weekly,1586
 PER,Peru,2017,2,weekly,1672
 PER,Peru,2017,3,weekly,1740
@@ -17889,24 +18241,24 @@ PER,Peru,2020,50,weekly,3107
 PER,Peru,2020,51,weekly,3304
 PER,Peru,2020,52,weekly,3412
 PER,Peru,2020,53,weekly,3612
-PER,Peru,2021,1,weekly,3987
+PER,Peru,2021,1,weekly,3986
 PER,Peru,2021,2,weekly,4638
 PER,Peru,2021,3,weekly,5707
 PER,Peru,2021,4,weekly,6710
-PER,Peru,2021,5,weekly,7024
+PER,Peru,2021,5,weekly,7025
 PER,Peru,2021,6,weekly,7696
 PER,Peru,2021,7,weekly,7723
 PER,Peru,2021,8,weekly,7396
 PER,Peru,2021,9,weekly,7505
-PER,Peru,2021,10,weekly,7391
+PER,Peru,2021,10,weekly,7393
 PER,Peru,2021,11,weekly,7434
-PER,Peru,2021,12,weekly,7579
+PER,Peru,2021,12,weekly,7578
 PER,Peru,2021,13,weekly,7907
 PER,Peru,2021,14,weekly,8474
-PER,Peru,2021,15,weekly,8435
+PER,Peru,2021,15,weekly,8434
 PER,Peru,2021,16,weekly,8253
-PER,Peru,2021,17,weekly,7700
-PER,Peru,2021,18,weekly,7175
+PER,Peru,2021,17,weekly,7701
+PER,Peru,2021,18,weekly,7176
 PER,Peru,2021,19,weekly,6537
 PER,Peru,2021,20,weekly,6059
 PER,Peru,2021,21,weekly,5631
@@ -17915,15 +18267,15 @@ PER,Peru,2021,23,weekly,4724
 PER,Peru,2021,24,weekly,4335
 PER,Peru,2021,25,weekly,4024
 PER,Peru,2021,26,weekly,3818
-PER,Peru,2021,27,weekly,3603
+PER,Peru,2021,27,weekly,3604
 PER,Peru,2021,28,weekly,3334
 PER,Peru,2021,29,weekly,3255
 PER,Peru,2021,30,weekly,3166
 PER,Peru,2021,31,weekly,3067
-PER,Peru,2021,32,weekly,3118
+PER,Peru,2021,32,weekly,3116
 PER,Peru,2021,33,weekly,2936
 PER,Peru,2021,34,weekly,3109
-PER,Peru,2021,35,weekly,2989
+PER,Peru,2021,35,weekly,2990
 PER,Peru,2021,36,weekly,2889
 PER,Peru,2021,37,weekly,2890
 PER,Peru,2021,38,weekly,2945
@@ -17932,7 +18284,7 @@ PER,Peru,2021,40,weekly,2975
 PER,Peru,2021,41,weekly,2891
 PER,Peru,2021,42,weekly,2869
 PER,Peru,2021,43,weekly,2800
-PER,Peru,2021,44,weekly,2943
+PER,Peru,2021,44,weekly,2942
 PER,Peru,2021,45,weekly,2846
 PER,Peru,2021,46,weekly,2801
 PER,Peru,2021,47,weekly,2884
@@ -17940,24 +18292,26 @@ PER,Peru,2021,48,weekly,2981
 PER,Peru,2021,49,weekly,3076
 PER,Peru,2021,50,weekly,2989
 PER,Peru,2021,51,weekly,3093
-PER,Peru,2021,52,weekly,3313
-PER,Peru,2022,1,weekly,3450
-PER,Peru,2022,2,weekly,3691
-PER,Peru,2022,3,weekly,4229
-PER,Peru,2022,4,weekly,4529
-PER,Peru,2022,5,weekly,4425
-PER,Peru,2022,6,weekly,4064
-PER,Peru,2022,7,weekly,3607
-PER,Peru,2022,8,weekly,3270
-PER,Peru,2022,9,weekly,3196
-PER,Peru,2022,10,weekly,3071
-PER,Peru,2022,11,weekly,3023
-PER,Peru,2022,12,weekly,2768
-PER,Peru,2022,13,weekly,2745
-PER,Peru,2022,14,weekly,2856
-PER,Peru,2022,15,weekly,2723
-PER,Peru,2022,16,weekly,2752
-PER,Peru,2022,17,weekly,2640
+PER,Peru,2021,52,weekly,3315
+PER,Peru,2022,1,weekly,3457
+PER,Peru,2022,2,weekly,3700
+PER,Peru,2022,3,weekly,4240
+PER,Peru,2022,4,weekly,4538
+PER,Peru,2022,5,weekly,4440
+PER,Peru,2022,6,weekly,4076
+PER,Peru,2022,7,weekly,3616
+PER,Peru,2022,8,weekly,3281
+PER,Peru,2022,9,weekly,3208
+PER,Peru,2022,10,weekly,3076
+PER,Peru,2022,11,weekly,3029
+PER,Peru,2022,12,weekly,2774
+PER,Peru,2022,13,weekly,2750
+PER,Peru,2022,14,weekly,2870
+PER,Peru,2022,15,weekly,2738
+PER,Peru,2022,16,weekly,2772
+PER,Peru,2022,17,weekly,2678
+PER,Peru,2022,18,weekly,2674
+PER,Peru,2022,19,weekly,2755
 PHL,Philippines,2015,1,monthly,50381
 PHL,Philippines,2015,2,monthly,44540
 PHL,Philippines,2015,3,monthly,46452
@@ -18041,6 +18395,7 @@ PHL,Philippines,2021,8,monthly,95734
 PHL,Philippines,2021,9,monthly,114961
 PHL,Philippines,2021,10,monthly,82400
 PHL,Philippines,2021,11,monthly,57398
+PHL,Philippines,2021,12,monthly,48889
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800
@@ -18682,59 +19037,59 @@ PRT,Portugal,2019,49,weekly,2128
 PRT,Portugal,2019,50,weekly,2290
 PRT,Portugal,2019,51,weekly,2284
 PRT,Portugal,2019,52,weekly,2313
-PRT,Portugal,2020,1,weekly,2510
-PRT,Portugal,2020,2,weekly,2664
+PRT,Portugal,2020,1,weekly,2513
+PRT,Portugal,2020,2,weekly,2665
 PRT,Portugal,2020,3,weekly,2772
 PRT,Portugal,2020,4,weekly,2671
 PRT,Portugal,2020,5,weekly,2691
 PRT,Portugal,2020,6,weekly,2490
-PRT,Portugal,2020,7,weekly,2289
-PRT,Portugal,2020,8,weekly,2361
+PRT,Portugal,2020,7,weekly,2288
+PRT,Portugal,2020,8,weekly,2360
 PRT,Portugal,2020,9,weekly,2309
 PRT,Portugal,2020,10,weekly,2182
-PRT,Portugal,2020,11,weekly,2363
+PRT,Portugal,2020,11,weekly,2362
 PRT,Portugal,2020,12,weekly,2440
 PRT,Portugal,2020,13,weekly,2544
 PRT,Portugal,2020,14,weekly,2654
 PRT,Portugal,2020,15,weekly,2609
-PRT,Portugal,2020,16,weekly,2389
+PRT,Portugal,2020,16,weekly,2390
 PRT,Portugal,2020,17,weekly,2311
 PRT,Portugal,2020,18,weekly,2174
-PRT,Portugal,2020,19,weekly,2171
-PRT,Portugal,2020,20,weekly,2056
-PRT,Portugal,2020,21,weekly,2070
-PRT,Portugal,2020,22,weekly,2334
+PRT,Portugal,2020,19,weekly,2172
+PRT,Portugal,2020,20,weekly,2057
+PRT,Portugal,2020,21,weekly,2071
+PRT,Portugal,2020,22,weekly,2335
 PRT,Portugal,2020,23,weekly,2023
-PRT,Portugal,2020,24,weekly,1870
-PRT,Portugal,2020,25,weekly,1940
+PRT,Portugal,2020,24,weekly,1871
+PRT,Portugal,2020,25,weekly,1942
 PRT,Portugal,2020,26,weekly,2121
 PRT,Portugal,2020,27,weekly,2061
-PRT,Portugal,2020,28,weekly,2235
+PRT,Portugal,2020,28,weekly,2236
 PRT,Portugal,2020,29,weekly,2651
-PRT,Portugal,2020,30,weekly,2439
+PRT,Portugal,2020,30,weekly,2440
 PRT,Portugal,2020,31,weekly,2217
-PRT,Portugal,2020,32,weekly,2089
+PRT,Portugal,2020,32,weekly,2090
 PRT,Portugal,2020,33,weekly,1941
-PRT,Portugal,2020,34,weekly,2013
-PRT,Portugal,2020,35,weekly,2076
-PRT,Portugal,2020,36,weekly,2062
-PRT,Portugal,2020,37,weekly,2238
-PRT,Portugal,2020,38,weekly,2126
-PRT,Portugal,2020,39,weekly,1890
-PRT,Portugal,2020,40,weekly,2139
+PRT,Portugal,2020,34,weekly,2014
+PRT,Portugal,2020,35,weekly,2078
+PRT,Portugal,2020,36,weekly,2061
+PRT,Portugal,2020,37,weekly,2239
+PRT,Portugal,2020,38,weekly,2127
+PRT,Portugal,2020,39,weekly,1891
+PRT,Portugal,2020,40,weekly,2142
 PRT,Portugal,2020,41,weekly,2157
-PRT,Portugal,2020,42,weekly,2213
+PRT,Portugal,2020,42,weekly,2216
 PRT,Portugal,2020,43,weekly,2228
-PRT,Portugal,2020,44,weekly,2473
+PRT,Portugal,2020,44,weekly,2474
 PRT,Portugal,2020,45,weekly,2562
-PRT,Portugal,2020,46,weekly,2737
-PRT,Portugal,2020,47,weekly,2706
-PRT,Portugal,2020,48,weekly,2698
-PRT,Portugal,2020,49,weekly,2849
-PRT,Portugal,2020,50,weekly,3029
-PRT,Portugal,2020,51,weekly,2920
-PRT,Portugal,2020,52,weekly,2800
-PRT,Portugal,2020,53,weekly,3159
+PRT,Portugal,2020,46,weekly,2738
+PRT,Portugal,2020,47,weekly,2708
+PRT,Portugal,2020,48,weekly,2701
+PRT,Portugal,2020,49,weekly,2853
+PRT,Portugal,2020,50,weekly,3031
+PRT,Portugal,2020,51,weekly,2923
+PRT,Portugal,2020,52,weekly,2801
+PRT,Portugal,2020,53,weekly,3162
 PRT,Portugal,2021,1,weekly,3836
 PRT,Portugal,2021,2,weekly,4618
 PRT,Portugal,2021,3,weekly,5044
@@ -18790,19 +19145,20 @@ PRT,Portugal,2021,52,weekly,2539
 PRT,Portugal,2022,1,weekly,2467
 PRT,Portugal,2022,2,weekly,2555
 PRT,Portugal,2022,3,weekly,2793
-PRT,Portugal,2022,4,weekly,2788
+PRT,Portugal,2022,4,weekly,2789
 PRT,Portugal,2022,5,weekly,2875
 PRT,Portugal,2022,6,weekly,2702
-PRT,Portugal,2022,7,weekly,2702
+PRT,Portugal,2022,7,weekly,2703
 PRT,Portugal,2022,8,weekly,2473
-PRT,Portugal,2022,9,weekly,2394
-PRT,Portugal,2022,10,weekly,2444
-PRT,Portugal,2022,11,weekly,2414
-PRT,Portugal,2022,12,weekly,2437
-PRT,Portugal,2022,13,weekly,2457
-PRT,Portugal,2022,14,weekly,2410
-PRT,Portugal,2022,15,weekly,2426
-PRT,Portugal,2022,16,weekly,2277
+PRT,Portugal,2022,9,weekly,2396
+PRT,Portugal,2022,10,weekly,2445
+PRT,Portugal,2022,11,weekly,2416
+PRT,Portugal,2022,12,weekly,2438
+PRT,Portugal,2022,13,weekly,2463
+PRT,Portugal,2022,14,weekly,2408
+PRT,Portugal,2022,15,weekly,2427
+PRT,Portugal,2022,16,weekly,2293
+PRT,Portugal,2022,17,weekly,2255
 PRI,Puerto Rico,2015,1,weekly,637
 PRI,Puerto Rico,2015,2,weekly,633
 PRI,Puerto Rico,2015,3,weekly,620
@@ -19161,27 +19517,28 @@ PRI,Puerto Rico,2021,42,weekly,588
 PRI,Puerto Rico,2021,43,weekly,614
 PRI,Puerto Rico,2021,44,weekly,622
 PRI,Puerto Rico,2021,45,weekly,617
-PRI,Puerto Rico,2021,46,weekly,618
+PRI,Puerto Rico,2021,46,weekly,614
 PRI,Puerto Rico,2021,47,weekly,584
-PRI,Puerto Rico,2021,48,weekly,604
+PRI,Puerto Rico,2021,48,weekly,605
 PRI,Puerto Rico,2021,49,weekly,629
-PRI,Puerto Rico,2021,50,weekly,631
+PRI,Puerto Rico,2021,50,weekly,632
 PRI,Puerto Rico,2021,51,weekly,630
-PRI,Puerto Rico,2021,52,weekly,699
+PRI,Puerto Rico,2021,52,weekly,698
 PRI,Puerto Rico,2022,1,weekly,829
-PRI,Puerto Rico,2022,2,weekly,875
-PRI,Puerto Rico,2022,3,weekly,881
-PRI,Puerto Rico,2022,4,weekly,814
-PRI,Puerto Rico,2022,5,weekly,678
-PRI,Puerto Rico,2022,6,weekly,711
+PRI,Puerto Rico,2022,2,weekly,874
+PRI,Puerto Rico,2022,3,weekly,878
+PRI,Puerto Rico,2022,4,weekly,811
+PRI,Puerto Rico,2022,5,weekly,675
+PRI,Puerto Rico,2022,6,weekly,706
 PRI,Puerto Rico,2022,7,weekly,682
 PRI,Puerto Rico,2022,8,weekly,654
 PRI,Puerto Rico,2022,9,weekly,647
 PRI,Puerto Rico,2022,10,weekly,609
-PRI,Puerto Rico,2022,11,weekly,603
-PRI,Puerto Rico,2022,12,weekly,634
-PRI,Puerto Rico,2022,13,weekly,679
-PRI,Puerto Rico,2022,14,weekly,610
+PRI,Puerto Rico,2022,11,weekly,588
+PRI,Puerto Rico,2022,12,weekly,623
+PRI,Puerto Rico,2022,13,weekly,661
+PRI,Puerto Rico,2022,14,weekly,653
+PRI,Puerto Rico,2022,15,weekly,692
 QAT,Qatar,2015,1,monthly,210
 QAT,Qatar,2015,2,monthly,196
 QAT,Qatar,2015,3,monthly,191
@@ -21571,10 +21928,10 @@ ZAF,South Africa,2020,34,weekly,12388
 ZAF,South Africa,2020,35,weekly,11554
 ZAF,South Africa,2020,36,weekly,11379
 ZAF,South Africa,2020,37,weekly,10485
-ZAF,South Africa,2020,38,weekly,10009
-ZAF,South Africa,2020,39,weekly,10260
+ZAF,South Africa,2020,38,weekly,10010
+ZAF,South Africa,2020,39,weekly,10259
 ZAF,South Africa,2020,40,weekly,9941
-ZAF,South Africa,2020,41,weekly,10518
+ZAF,South Africa,2020,41,weekly,10519
 ZAF,South Africa,2020,42,weekly,10572
 ZAF,South Africa,2020,43,weekly,10450
 ZAF,South Africa,2020,44,weekly,10299
@@ -21583,9 +21940,9 @@ ZAF,South Africa,2020,46,weekly,10850
 ZAF,South Africa,2020,47,weekly,10744
 ZAF,South Africa,2020,48,weekly,10600
 ZAF,South Africa,2020,49,weekly,11878
-ZAF,South Africa,2020,50,weekly,12804
+ZAF,South Africa,2020,50,weekly,12805
 ZAF,South Africa,2020,51,weekly,14321
-ZAF,South Africa,2020,52,weekly,17523
+ZAF,South Africa,2020,52,weekly,17524
 ZAF,South Africa,2020,53,weekly,20232
 ZAF,South Africa,2021,1,weekly,23511
 ZAF,South Africa,2021,2,weekly,24952
@@ -21599,64 +21956,65 @@ ZAF,South Africa,2021,9,weekly,10964
 ZAF,South Africa,2021,10,weekly,10919
 ZAF,South Africa,2021,11,weekly,10169
 ZAF,South Africa,2021,12,weekly,10172
-ZAF,South Africa,2021,13,weekly,10621
-ZAF,South Africa,2021,14,weekly,10846
+ZAF,South Africa,2021,13,weekly,10622
+ZAF,South Africa,2021,14,weekly,10847
 ZAF,South Africa,2021,15,weekly,10808
-ZAF,South Africa,2021,16,weekly,10636
+ZAF,South Africa,2021,16,weekly,10635
 ZAF,South Africa,2021,17,weekly,10928
 ZAF,South Africa,2021,18,weekly,11471
 ZAF,South Africa,2021,19,weekly,11723
 ZAF,South Africa,2021,20,weekly,11773
-ZAF,South Africa,2021,21,weekly,12287
+ZAF,South Africa,2021,21,weekly,12289
 ZAF,South Africa,2021,22,weekly,13566
 ZAF,South Africa,2021,23,weekly,14339
 ZAF,South Africa,2021,24,weekly,13942
-ZAF,South Africa,2021,25,weekly,15722
-ZAF,South Africa,2021,26,weekly,17347
+ZAF,South Africa,2021,25,weekly,15725
+ZAF,South Africa,2021,26,weekly,17348
 ZAF,South Africa,2021,27,weekly,18878
-ZAF,South Africa,2021,28,weekly,21363
-ZAF,South Africa,2021,29,weekly,20398
+ZAF,South Africa,2021,28,weekly,21365
+ZAF,South Africa,2021,29,weekly,20399
 ZAF,South Africa,2021,30,weekly,19068
 ZAF,South Africa,2021,31,weekly,17442
 ZAF,South Africa,2021,32,weekly,15646
-ZAF,South Africa,2021,33,weekly,15778
+ZAF,South Africa,2021,33,weekly,15780
 ZAF,South Africa,2021,34,weekly,14884
 ZAF,South Africa,2021,35,weekly,14699
 ZAF,South Africa,2021,36,weekly,13684
-ZAF,South Africa,2021,37,weekly,12170
+ZAF,South Africa,2021,37,weekly,12171
 ZAF,South Africa,2021,38,weekly,11792
 ZAF,South Africa,2021,39,weekly,11156
 ZAF,South Africa,2021,40,weekly,11145
-ZAF,South Africa,2021,41,weekly,11028
-ZAF,South Africa,2021,42,weekly,10446
-ZAF,South Africa,2021,43,weekly,10048
+ZAF,South Africa,2021,41,weekly,11030
+ZAF,South Africa,2021,42,weekly,10447
+ZAF,South Africa,2021,43,weekly,10049
 ZAF,South Africa,2021,44,weekly,11137
 ZAF,South Africa,2021,45,weekly,10968
-ZAF,South Africa,2021,46,weekly,10339
-ZAF,South Africa,2021,47,weekly,10152
+ZAF,South Africa,2021,46,weekly,10340
+ZAF,South Africa,2021,47,weekly,10153
 ZAF,South Africa,2021,48,weekly,11489
-ZAF,South Africa,2021,49,weekly,11297
-ZAF,South Africa,2021,50,weekly,11971
+ZAF,South Africa,2021,49,weekly,11301
+ZAF,South Africa,2021,50,weekly,11972
 ZAF,South Africa,2021,51,weekly,13326
-ZAF,South Africa,2021,52,weekly,13581
-ZAF,South Africa,2022,1,weekly,12420
-ZAF,South Africa,2022,2,weekly,11340
-ZAF,South Africa,2022,3,weekly,10345
-ZAF,South Africa,2022,4,weekly,9809
-ZAF,South Africa,2022,5,weekly,10194
-ZAF,South Africa,2022,6,weekly,9920
-ZAF,South Africa,2022,7,weekly,9580
-ZAF,South Africa,2022,8,weekly,9724
-ZAF,South Africa,2022,9,weekly,10075
-ZAF,South Africa,2022,10,weekly,10050
-ZAF,South Africa,2022,11,weekly,9653
-ZAF,South Africa,2022,12,weekly,9773
-ZAF,South Africa,2022,13,weekly,10041
-ZAF,South Africa,2022,14,weekly,10002
-ZAF,South Africa,2022,15,weekly,10834
-ZAF,South Africa,2022,16,weekly,10284
-ZAF,South Africa,2022,17,weekly,10386
-ZAF,South Africa,2022,18,weekly,11335
+ZAF,South Africa,2021,52,weekly,13584
+ZAF,South Africa,2022,1,weekly,12425
+ZAF,South Africa,2022,2,weekly,11347
+ZAF,South Africa,2022,3,weekly,10346
+ZAF,South Africa,2022,4,weekly,9814
+ZAF,South Africa,2022,5,weekly,10198
+ZAF,South Africa,2022,6,weekly,9926
+ZAF,South Africa,2022,7,weekly,9582
+ZAF,South Africa,2022,8,weekly,9728
+ZAF,South Africa,2022,9,weekly,10080
+ZAF,South Africa,2022,10,weekly,10060
+ZAF,South Africa,2022,11,weekly,9666
+ZAF,South Africa,2022,12,weekly,9783
+ZAF,South Africa,2022,13,weekly,10051
+ZAF,South Africa,2022,14,weekly,10034
+ZAF,South Africa,2022,15,weekly,10884
+ZAF,South Africa,2022,16,weekly,10333
+ZAF,South Africa,2022,17,weekly,10614
+ZAF,South Africa,2022,18,weekly,11289
+ZAF,South Africa,2022,19,weekly,11556
 KOR,South Korea,2015,1,weekly,5699
 KOR,South Korea,2015,2,weekly,5622
 KOR,South Korea,2015,3,weekly,5551
@@ -22848,22 +23206,23 @@ SWE,Sweden,2021,48,weekly,1827.5
 SWE,Sweden,2021,49,weekly,1941.9
 SWE,Sweden,2021,50,weekly,1918.9
 SWE,Sweden,2021,51,weekly,1949.9
-SWE,Sweden,2021,52,weekly,2042.6
-SWE,Sweden,2022,1,weekly,2100.5
-SWE,Sweden,2022,2,weekly,2066.5
-SWE,Sweden,2022,3,weekly,2014.5
-SWE,Sweden,2022,4,weekly,2093.5
-SWE,Sweden,2022,5,weekly,2184.6
-SWE,Sweden,2022,6,weekly,2004.4
-SWE,Sweden,2022,7,weekly,2083.4
-SWE,Sweden,2022,8,weekly,1987.4
-SWE,Sweden,2022,9,weekly,1949.1
-SWE,Sweden,2022,10,weekly,1803.6
-SWE,Sweden,2022,11,weekly,1792.6
-SWE,Sweden,2022,12,weekly,1756.6
-SWE,Sweden,2022,13,weekly,1747.5
-SWE,Sweden,2022,14,weekly,1781.4
-SWE,Sweden,2022,15,weekly,1635.4
+SWE,Sweden,2021,52,weekly,2042.8
+SWE,Sweden,2022,1,weekly,2100.9
+SWE,Sweden,2022,2,weekly,2066.9
+SWE,Sweden,2022,3,weekly,2014.9
+SWE,Sweden,2022,4,weekly,2093.9
+SWE,Sweden,2022,5,weekly,2185.8
+SWE,Sweden,2022,6,weekly,2004.6
+SWE,Sweden,2022,7,weekly,2083.6
+SWE,Sweden,2022,8,weekly,1987.6
+SWE,Sweden,2022,9,weekly,1951
+SWE,Sweden,2022,10,weekly,1806.6
+SWE,Sweden,2022,11,weekly,1793.6
+SWE,Sweden,2022,12,weekly,1758.6
+SWE,Sweden,2022,13,weekly,1750.8
+SWE,Sweden,2022,14,weekly,1789.3
+SWE,Sweden,2022,15,weekly,1652.3
+SWE,Sweden,2022,16,weekly,1631.3
 CHE,Switzerland,2015,1,weekly,1423
 CHE,Switzerland,2015,2,weekly,1494
 CHE,Switzerland,2015,3,weekly,1524
@@ -23230,21 +23589,21 @@ CHE,Switzerland,2021,49,weekly,1793
 CHE,Switzerland,2021,50,weekly,1712
 CHE,Switzerland,2021,51,weekly,1589
 CHE,Switzerland,2021,52,weekly,1638
-CHE,Switzerland,2022,1,weekly,1539
+CHE,Switzerland,2022,1,weekly,1540
 CHE,Switzerland,2022,2,weekly,1507
 CHE,Switzerland,2022,3,weekly,1481
-CHE,Switzerland,2022,4,weekly,1460
-CHE,Switzerland,2022,5,weekly,1456
-CHE,Switzerland,2022,6,weekly,1437
-CHE,Switzerland,2022,7,weekly,1549
-CHE,Switzerland,2022,8,weekly,1420
-CHE,Switzerland,2022,9,weekly,1440
-CHE,Switzerland,2022,10,weekly,1452
-CHE,Switzerland,2022,11,weekly,1507
-CHE,Switzerland,2022,12,weekly,1501
-CHE,Switzerland,2022,13,weekly,1484
-CHE,Switzerland,2022,14,weekly,1375
-CHE,Switzerland,2022,15,weekly,1253
+CHE,Switzerland,2022,4,weekly,1467
+CHE,Switzerland,2022,5,weekly,1457
+CHE,Switzerland,2022,6,weekly,1440
+CHE,Switzerland,2022,7,weekly,1551
+CHE,Switzerland,2022,8,weekly,1424
+CHE,Switzerland,2022,9,weekly,1443
+CHE,Switzerland,2022,10,weekly,1454
+CHE,Switzerland,2022,11,weekly,1515
+CHE,Switzerland,2022,12,weekly,1510
+CHE,Switzerland,2022,13,weekly,1501
+CHE,Switzerland,2022,14,weekly,1389
+CHE,Switzerland,2022,15,weekly,1272
 TWN,Taiwan,2015,1,monthly,14310
 TWN,Taiwan,2015,2,monthly,12122
 TWN,Taiwan,2015,3,monthly,16092
@@ -24109,6 +24468,7 @@ GBR,United Kingdom,2022,13,weekly,11450
 GBR,United Kingdom,2022,14,weekly,12278
 GBR,United Kingdom,2022,15,weekly,11304
 GBR,United Kingdom,2022,16,weekly,12196
+GBR,United Kingdom,2022,17,weekly,14074
 USA,United States,2015,1,weekly,61889
 USA,United States,2015,2,weekly,61273
 USA,United States,2015,3,weekly,58754
@@ -24422,71 +24782,72 @@ USA,United States,2020,50,weekly,82010
 USA,United States,2020,51,weekly,82944
 USA,United States,2020,52,weekly,84373
 USA,United States,2020,53,weekly,87001
-USA,United States,2021,1,weekly,87072
-USA,United States,2021,2,weekly,87412
-USA,United States,2021,3,weekly,83676
-USA,United States,2021,4,weekly,79219
-USA,United States,2021,5,weekly,76517
-USA,United States,2021,6,weekly,71517
-USA,United States,2021,7,weekly,69510
+USA,United States,2021,1,weekly,87074
+USA,United States,2021,2,weekly,87413
+USA,United States,2021,3,weekly,83697
+USA,United States,2021,4,weekly,79198
+USA,United States,2021,5,weekly,76516
+USA,United States,2021,6,weekly,71503
+USA,United States,2021,7,weekly,69524
 USA,United States,2021,8,weekly,66730
-USA,United States,2021,9,weekly,63691
-USA,United States,2021,10,weekly,61887
-USA,United States,2021,11,weekly,60370
-USA,United States,2021,12,weekly,60837
+USA,United States,2021,9,weekly,63692
+USA,United States,2021,10,weekly,61864
+USA,United States,2021,11,weekly,60394
+USA,United States,2021,12,weekly,60838
 USA,United States,2021,13,weekly,58697
-USA,United States,2021,14,weekly,60991
-USA,United States,2021,15,weekly,59146
-USA,United States,2021,16,weekly,60253
-USA,United States,2021,17,weekly,59849
-USA,United States,2021,18,weekly,59018
-USA,United States,2021,19,weekly,58463
-USA,United States,2021,20,weekly,58747
-USA,United States,2021,21,weekly,57343
-USA,United States,2021,22,weekly,57452
-USA,United States,2021,23,weekly,57155
-USA,United States,2021,24,weekly,57233
-USA,United States,2021,25,weekly,56932
-USA,United States,2021,26,weekly,57510
-USA,United States,2021,27,weekly,57245
-USA,United States,2021,28,weekly,57203
-USA,United States,2021,29,weekly,58422
-USA,United States,2021,30,weekly,60293
-USA,United States,2021,31,weekly,63778
-USA,United States,2021,32,weekly,67043
+USA,United States,2021,14,weekly,61016
+USA,United States,2021,15,weekly,59172
+USA,United States,2021,16,weekly,60252
+USA,United States,2021,17,weekly,59824
+USA,United States,2021,18,weekly,59017
+USA,United States,2021,19,weekly,58480
+USA,United States,2021,20,weekly,58750
+USA,United States,2021,21,weekly,57329
+USA,United States,2021,22,weekly,57471
+USA,United States,2021,23,weekly,57158
+USA,United States,2021,24,weekly,57254
+USA,United States,2021,25,weekly,56914
+USA,United States,2021,26,weekly,57513
+USA,United States,2021,27,weekly,57211
+USA,United States,2021,28,weekly,57204
+USA,United States,2021,29,weekly,58460
+USA,United States,2021,30,weekly,60332
+USA,United States,2021,31,weekly,63780
+USA,United States,2021,32,weekly,67023
 USA,United States,2021,33,weekly,69944
-USA,United States,2021,34,weekly,72161
-USA,United States,2021,35,weekly,73507
-USA,United States,2021,36,weekly,73730
-USA,United States,2021,37,weekly,73304
-USA,United States,2021,38,weekly,72155
-USA,United States,2021,39,weekly,71319
-USA,United States,2021,40,weekly,69098
-USA,United States,2021,41,weekly,67545
-USA,United States,2021,42,weekly,67052
-USA,United States,2021,43,weekly,66453
-USA,United States,2021,44,weekly,66585
-USA,United States,2021,45,weekly,67427
-USA,United States,2021,46,weekly,67302
-USA,United States,2021,47,weekly,68315
-USA,United States,2021,48,weekly,70525
-USA,United States,2021,49,weekly,72497
-USA,United States,2021,50,weekly,71648
-USA,United States,2021,51,weekly,72686
-USA,United States,2021,52,weekly,74681
-USA,United States,2022,1,weekly,79214
-USA,United States,2022,2,weekly,84645
-USA,United States,2022,3,weekly,85331
-USA,United States,2022,4,weekly,85034
-USA,United States,2022,5,weekly,81246
-USA,United States,2022,6,weekly,77045
-USA,United States,2022,7,weekly,70932
-USA,United States,2022,8,weekly,66074
-USA,United States,2022,9,weekly,64426
-USA,United States,2022,10,weekly,61797
-USA,United States,2022,11,weekly,60663
-USA,United States,2022,12,weekly,58919
-USA,United States,2022,13,weekly,57740
+USA,United States,2021,34,weekly,72187
+USA,United States,2021,35,weekly,73532
+USA,United States,2021,36,weekly,73738
+USA,United States,2021,37,weekly,73291
+USA,United States,2021,38,weekly,72159
+USA,United States,2021,39,weekly,71325
+USA,United States,2021,40,weekly,69104
+USA,United States,2021,41,weekly,67552
+USA,United States,2021,42,weekly,67035
+USA,United States,2021,43,weekly,66456
+USA,United States,2021,44,weekly,66592
+USA,United States,2021,45,weekly,67437
+USA,United States,2021,46,weekly,66950
+USA,United States,2021,47,weekly,68309
+USA,United States,2021,48,weekly,70537
+USA,United States,2021,49,weekly,72504
+USA,United States,2021,50,weekly,71668
+USA,United States,2021,51,weekly,72659
+USA,United States,2021,52,weekly,74685
+USA,United States,2022,1,weekly,79272
+USA,United States,2022,2,weekly,84740
+USA,United States,2022,3,weekly,85379
+USA,United States,2022,4,weekly,85088
+USA,United States,2022,5,weekly,81336
+USA,United States,2022,6,weekly,77145
+USA,United States,2022,7,weekly,71040
+USA,United States,2022,8,weekly,66259
+USA,United States,2022,9,weekly,64577
+USA,United States,2022,10,weekly,61976
+USA,United States,2022,11,weekly,60727
+USA,United States,2022,12,weekly,58907
+USA,United States,2022,13,weekly,58517
+USA,United States,2022,14,weekly,57727
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
