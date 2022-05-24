@@ -191,7 +191,7 @@ Queried from https://github.com/sociedatos.
 ### Dominican Republic (monthly)
 2015 onward: Oficina Nacional de Estadística (ONE) [Estadísticas Vitales - Defunciones](https://one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estadisticas-vitales/)
 
-Note: ONE has information on deaths up to end of 2020, yet deaths in the Dominician Republic may have a signficant delay in registration, espically in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to September 2020.  
+Note: ONE has information on deaths up to end of 2021, yet deaths in the Dominican Republic may have a significant delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2021.  
 
 
 ### Ecuador (weekly)
@@ -261,7 +261,8 @@ Hong Kong Census and Statistics Department:
 2015 to 2018: https://www.censtatd.gov.hk/hkstat/sub/sp160.jsp?productCode=FA100094    
 2019 onward: Hong Kong Monthly Digest of Statistics, https://www.censtatd.gov.hk/hkstat/sub/sp110.jsp?productCode=B1010002
 
-On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month of occurrence rather than month of registration, via an email correspondence with [Hong Kong Census and Statistics Department](http://censtatd.gov.hk/). All monthly values for 2015 onward are now by month of occurrence of death. 
+On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month of occurrence rather than month of registration, via an email correspondence with [Hong Kong Census and Statistics Department](http://censtatd.gov.hk/). 
+Data by month of registration is available before data by month of occurrence. Starting from May 2022, Latest month data is by month of registration, all other monthly values are by month of occurrence of death. 
 
 
 ### Iran (weekly)

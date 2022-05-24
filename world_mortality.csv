@@ -3870,46 +3870,47 @@ COL,Colombia,2021,27,weekly,9669
 COL,Colombia,2021,28,weekly,8864
 COL,Colombia,2021,29,weekly,7734
 COL,Colombia,2021,30,weekly,7111
-COL,Colombia,2021,31,weekly,6361
+COL,Colombia,2021,31,weekly,6362
 COL,Colombia,2021,32,weekly,5874
 COL,Colombia,2021,33,weekly,5644
-COL,Colombia,2021,34,weekly,5360
+COL,Colombia,2021,34,weekly,5361
 COL,Colombia,2021,35,weekly,5118
 COL,Colombia,2021,36,weekly,5081
 COL,Colombia,2021,37,weekly,5014
-COL,Colombia,2021,38,weekly,5244
+COL,Colombia,2021,38,weekly,5245
 COL,Colombia,2021,39,weekly,5025
 COL,Colombia,2021,40,weekly,5163
 COL,Colombia,2021,41,weekly,5086
 COL,Colombia,2021,42,weekly,5015
 COL,Colombia,2021,43,weekly,5027
-COL,Colombia,2021,44,weekly,5137
-COL,Colombia,2021,45,weekly,5308
-COL,Colombia,2021,46,weekly,5295
+COL,Colombia,2021,44,weekly,5139
+COL,Colombia,2021,45,weekly,5309
+COL,Colombia,2021,46,weekly,5296
 COL,Colombia,2021,47,weekly,5289
-COL,Colombia,2021,48,weekly,5501
+COL,Colombia,2021,48,weekly,5502
 COL,Colombia,2021,49,weekly,5615
 COL,Colombia,2021,50,weekly,5495
-COL,Colombia,2021,51,weekly,5876
+COL,Colombia,2021,51,weekly,5878
 COL,Colombia,2021,52,weekly,5942
-COL,Colombia,2022,1,weekly,6360
+COL,Colombia,2022,1,weekly,6362
 COL,Colombia,2022,2,weekly,7046
 COL,Colombia,2022,3,weekly,7858
 COL,Colombia,2022,4,weekly,8258
-COL,Colombia,2022,5,weekly,7681
-COL,Colombia,2022,6,weekly,6875
-COL,Colombia,2022,7,weekly,6079
-COL,Colombia,2022,8,weekly,5429
+COL,Colombia,2022,5,weekly,7684
+COL,Colombia,2022,6,weekly,6871
+COL,Colombia,2022,7,weekly,6086
+COL,Colombia,2022,8,weekly,5434
 COL,Colombia,2022,9,weekly,5158
-COL,Colombia,2022,10,weekly,5045
-COL,Colombia,2022,11,weekly,4947
-COL,Colombia,2022,12,weekly,4947
-COL,Colombia,2022,13,weekly,4855
-COL,Colombia,2022,14,weekly,4879
-COL,Colombia,2022,15,weekly,4746
-COL,Colombia,2022,16,weekly,4957
-COL,Colombia,2022,17,weekly,4855
-COL,Colombia,2022,18,weekly,5066
+COL,Colombia,2022,10,weekly,5046
+COL,Colombia,2022,11,weekly,4948
+COL,Colombia,2022,12,weekly,4948
+COL,Colombia,2022,13,weekly,4860
+COL,Colombia,2022,14,weekly,4887
+COL,Colombia,2022,15,weekly,4749
+COL,Colombia,2022,16,weekly,4959
+COL,Colombia,2022,17,weekly,4876
+COL,Colombia,2022,18,weekly,5092
+COL,Colombia,2022,19,weekly,5022
 CRI,Costa Rica,2015,1,monthly,1926
 CRI,Costa Rica,2015,2,monthly,1544
 CRI,Costa Rica,2015,3,monthly,1764
@@ -7875,26 +7876,29 @@ PYF,French Polynesia,2019,10,monthly,138
 PYF,French Polynesia,2019,11,monthly,115
 PYF,French Polynesia,2019,12,monthly,140
 PYF,French Polynesia,2020,1,monthly,125
-PYF,French Polynesia,2020,2,monthly,133
-PYF,French Polynesia,2020,3,monthly,148
-PYF,French Polynesia,2020,4,monthly,141
-PYF,French Polynesia,2020,5,monthly,124
-PYF,French Polynesia,2020,6,monthly,126
+PYF,French Polynesia,2020,2,monthly,138
+PYF,French Polynesia,2020,3,monthly,153
+PYF,French Polynesia,2020,4,monthly,143
+PYF,French Polynesia,2020,5,monthly,125
+PYF,French Polynesia,2020,6,monthly,129
 PYF,French Polynesia,2020,7,monthly,114
-PYF,French Polynesia,2020,8,monthly,115
-PYF,French Polynesia,2020,9,monthly,133
+PYF,French Polynesia,2020,8,monthly,116
+PYF,French Polynesia,2020,9,monthly,136
 PYF,French Polynesia,2020,10,monthly,141
-PYF,French Polynesia,2020,11,monthly,157
+PYF,French Polynesia,2020,11,monthly,180
 PYF,French Polynesia,2020,12,monthly,179
-PYF,French Polynesia,2021,1,monthly,161
-PYF,French Polynesia,2021,2,monthly,144
-PYF,French Polynesia,2021,3,monthly,123
-PYF,French Polynesia,2021,4,monthly,119
-PYF,French Polynesia,2021,5,monthly,118
-PYF,French Polynesia,2021,6,monthly,115
-PYF,French Polynesia,2021,7,monthly,135
-PYF,French Polynesia,2021,8,monthly,575
-PYF,French Polynesia,2021,9,monthly,320
+PYF,French Polynesia,2021,1,monthly,162
+PYF,French Polynesia,2021,2,monthly,146
+PYF,French Polynesia,2021,3,monthly,122
+PYF,French Polynesia,2021,4,monthly,127
+PYF,French Polynesia,2021,5,monthly,115
+PYF,French Polynesia,2021,6,monthly,123
+PYF,French Polynesia,2021,7,monthly,138
+PYF,French Polynesia,2021,8,monthly,567
+PYF,French Polynesia,2021,9,monthly,356
+PYF,French Polynesia,2021,10,monthly,141
+PYF,French Polynesia,2021,11,monthly,146
+PYF,French Polynesia,2021,12,monthly,131
 GEO,Georgia,2015,1,monthly,4575
 GEO,Georgia,2015,2,monthly,4177
 GEO,Georgia,2015,3,monthly,4725
@@ -9733,6 +9737,8 @@ HKG,Hong Kong,2021,10,monthly,4291
 HKG,Hong Kong,2021,11,monthly,4332
 HKG,Hong Kong,2021,12,monthly,4637
 HKG,Hong Kong,2022,1,monthly,4634
+HKG,Hong Kong,2022,2,monthly,4519
+HKG,Hong Kong,2022,3,monthly,9511
 HUN,Hungary,2015,1,weekly,2800
 HUN,Hungary,2015,2,weekly,3005
 HUN,Hungary,2015,3,weekly,2900
