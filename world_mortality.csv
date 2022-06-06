@@ -437,6 +437,7 @@ ARM,Armenia,2021,12,monthly,3001
 ARM,Armenia,2022,1,monthly,2789
 ARM,Armenia,2022,2,monthly,3239
 ARM,Armenia,2022,3,monthly,2679
+ARM,Armenia,2022,4,monthly,1993
 ABW,Aruba,2015,1,monthly,51
 ABW,Aruba,2015,2,monthly,55
 ABW,Aruba,2015,3,monthly,57
@@ -2302,11 +2303,11 @@ BRA,Brazil,2021,7,monthly,157911
 BRA,Brazil,2021,8,monthly,142697
 BRA,Brazil,2021,9,monthly,124695
 BRA,Brazil,2021,10,monthly,120819
-BRA,Brazil,2021,11,monthly,123290.3
-BRA,Brazil,2021,12,monthly,126773.6
-BRA,Brazil,2022,1,monthly,158267.9
-BRA,Brazil,2022,2,monthly,137440
-BRA,Brazil,2022,3,monthly,131907.9
+BRA,Brazil,2021,11,monthly,123341.8
+BRA,Brazil,2021,12,monthly,126783.6
+BRA,Brazil,2022,1,monthly,158304.8
+BRA,Brazil,2022,2,monthly,137496.1
+BRA,Brazil,2022,3,monthly,131989.8
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -6156,6 +6157,7 @@ EGY,Egypt,2021,10,monthly,65093
 EGY,Egypt,2021,11,monthly,60180
 EGY,Egypt,2021,12,monthly,59726
 EGY,Egypt,2022,1,monthly,69000
+EGY,Egypt,2022,2,monthly,68100
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
