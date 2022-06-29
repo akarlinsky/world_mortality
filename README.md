@@ -199,7 +199,7 @@ Note: ONE has information on deaths up to end of 2021, yet deaths in the Dominic
 2017: https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/  
 2018: https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/  
 2019: https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/  
-2020 onward: https://www.registrocivil.gob.ec/cifrasdefuncion/  
+2020 onward: https://www.registrocivil.gob.ec/cifras_defunciones_2022/ 
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
@@ -435,7 +435,7 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 
 ### Paraguay (monthly)
-2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php.
+2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): https://ssiev.mspbs.gov.py/20220618/defuncion_reportes/multireporte_defuncion.php
 
 
 ### Peru (weekly)
