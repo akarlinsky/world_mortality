@@ -443,6 +443,10 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 Peru provides daily death counts. We summed them up to form weekly death counts.
 
+From July 1st 2022, we adjust SINADEF's figures to the total number of registered deaths in Peru using the ratio between it and Peru's stats office (INEI). The completeness rates are: 2017: 66%; 2018: 74%; 2019: 73%; 2020 onward: 94%. 
+For more details see the [discussion in our repo](https://github.com/akarlinsky/world_mortality/issues/4#issuecomment-1166526485).
+The adjusted deaths numbers were rounded to one significant digit to emphasize that they were adjusted.
+
 
 ### Philippines (monthly)
 Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table.
@@ -525,9 +529,9 @@ We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for pr
 
 
 ### Transnistria (monthly)  
-Transnistria State Statistics Service Statistical information bulletin: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/informaczionnyj-statisticheskij-byulleten.html  
+Transnistria State Statistics Service Statistical information bulletin: http://mer.gospmr.org/deyatelnost/gosudarstvennaya-sluzhba-statistiki-gosstat/informacziya/informaczionnyj-statisticheskij-byulleten.html 
 
-Social and economic development of the PMR: http://mer.gospmr.org/gosudarstvennaya-sluzhba-statistiki/informacziya/o-soczialno-ekonomicheskom-polozhenii-pmr.html  
+Social and economic development of the PMR: http://mer.gospmr.org/deyatelnost/gosudarstvennaya-sluzhba-statistiki-gosstat/informacziya/soczialno-ekonomicheskoe-razvitie-pmr.html
 
 
 
