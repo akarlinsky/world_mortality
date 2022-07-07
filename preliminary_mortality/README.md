@@ -84,6 +84,10 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 2015-2021: https://www.inec.cr/estadisticas-vitales
 Monthly data 2015 to 2020 is on [World Mortality](https://github.com/akarlinsky/world_mortality). Monthly data for 2021 is only expected by March 2022, while data for first half of 2021 already exists. 
 
+### Tajikistan
+2015-2020: [World Mortality](https://github.com/akarlinsky/world_mortality).
+2021: [Food Security and Poverty 2021](https://www.stat.tj/en/news/publications/food-security-and-poverty-4-2021).
+
 ### Tamil Nadu State, India
 Removed from Preliminary Mortality, now available on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) by month. 
 
