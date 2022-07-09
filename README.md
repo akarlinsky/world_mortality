@@ -72,10 +72,9 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 
 ### Argentina (monthly)
-2015 to 2019: Email correspondence with [Argentina Ministry of Health: Health Statistics and Information Directorate](https://www.argentina.gob.ar/salud/deis).        
-2020: [Rearte et al. (2021) - All-cause excess mortality during the COVID-19 pandemic. Argentina, 2020](https://rasp.msal.gov.ar/index.php/rasp/article/view/672).  
+2015 to 2020: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic.](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-2020 values were obtained were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
+Note: All years except 2016 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 
 ### Armenia (monthly)
