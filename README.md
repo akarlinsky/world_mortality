@@ -484,7 +484,7 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 ### Serbia (monthly)
 2015 to 2020: [Statistical Office of the Republic of Serbia Table Generator](https://data.stat.gov.rs/Home/Result/18030306?languageCode=en-US).
 
-2021 onward: [Statistical Office of the Republic of Serbia Births and Deaths](https://www.stat.gov.rs/en-us/oblasti/stanovnistvo/rodjeni-i-umrli/).
+2021 onward: [Statistical Office of the Republic of Serbia Births and Deaths](https://www.stat.gov.rs/sr-Cyrl/oblasti/stanovnistvo/rodjeni-i-umrli).
 
 
 ### Seychelles (monthly)
