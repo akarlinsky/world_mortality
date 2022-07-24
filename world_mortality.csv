@@ -11076,6 +11076,19 @@ IRN,Iran,2022,7,weekly,9876.7
 IRN,Iran,2022,8,weekly,11144.3
 IRN,Iran,2022,9,weekly,10155.6
 IRN,Iran,2022,10,weekly,10159.3
+IRN,Iran,2022,12,weekly,5391.6
+IRN,Iran,2022,13,weekly,11806.3
+IRN,Iran,2022,14,weekly,7825.9
+IRN,Iran,2022,15,weekly,7892.4
+IRN,Iran,2022,16,weekly,7499.6
+IRN,Iran,2022,17,weekly,7016
+IRN,Iran,2022,18,weekly,6255
+IRN,Iran,2022,19,weekly,7980.9
+IRN,Iran,2022,20,weekly,7279.7
+IRN,Iran,2022,21,weekly,7633.9
+IRN,Iran,2022,22,weekly,7712.1
+IRN,Iran,2022,23,weekly,7111.3
+IRN,Iran,2022,24,weekly,7706.3
 IRL,Ireland,2015,1,monthly,2967
 IRL,Ireland,2015,2,monthly,2756
 IRL,Ireland,2015,3,monthly,2875
@@ -12109,6 +12122,7 @@ JPN,Japan,2022,1,monthly,143992
 JPN,Japan,2022,2,monthly,138474
 JPN,Japan,2022,3,monthly,139571
 JPN,Japan,2022,4,monthly,121799
+JPN,Japan,2022,5,monthly,121473
 JOR,Jordan,2015,1,monthly,2840
 JOR,Jordan,2015,2,monthly,2270
 JOR,Jordan,2015,3,monthly,2426
