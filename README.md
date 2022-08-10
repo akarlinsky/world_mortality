@@ -492,7 +492,7 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 
 
 ### Singapore (monthly)
-Department of Statistics Singapore: https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=15167.
+Department of Statistics Singapore: https://tablebuilder.singstat.gov.sg/table/TS/M810121.
 
 
 ### South Africa (weekly)
