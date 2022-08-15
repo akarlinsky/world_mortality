@@ -2342,12 +2342,12 @@ BRA,Brazil,2021,9,monthly,125690
 BRA,Brazil,2021,10,monthly,124471
 BRA,Brazil,2021,11,monthly,118734
 BRA,Brazil,2021,12,monthly,127369
-BRA,Brazil,2022,1,monthly,158717.2
-BRA,Brazil,2022,2,monthly,137830.5
-BRA,Brazil,2022,3,monthly,132812.3
-BRA,Brazil,2022,4,monthly,114134.8
-BRA,Brazil,2022,5,monthly,131867.7
-BRA,Brazil,2022,6,monthly,137915.1
+BRA,Brazil,2022,1,monthly,158948.8
+BRA,Brazil,2022,2,monthly,138001.8
+BRA,Brazil,2022,3,monthly,132984.9
+BRA,Brazil,2022,4,monthly,114259.7
+BRA,Brazil,2022,5,monthly,132107.7
+BRA,Brazil,2022,6,monthly,138270.3
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -3921,7 +3921,7 @@ COL,Colombia,2020,49,weekly,6247
 COL,Colombia,2020,50,weekly,6683
 COL,Colombia,2020,51,weekly,6727
 COL,Colombia,2020,52,weekly,7232
-COL,Colombia,2020,53,weekly,7881
+COL,Colombia,2020,53,weekly,3495
 COL,Colombia,2021,1,weekly,8049
 COL,Colombia,2021,2,weekly,8528
 COL,Colombia,2021,3,weekly,8565
@@ -9995,6 +9995,7 @@ HKG,Hong Kong,2022,2,monthly,4519
 HKG,Hong Kong,2022,3,monthly,9747
 HKG,Hong Kong,2022,4,monthly,6936
 HKG,Hong Kong,2022,5,monthly,6503
+HKG,Hong Kong,2022,6,monthly,5282
 HUN,Hungary,2015,1,weekly,2800
 HUN,Hungary,2015,2,weekly,3005
 HUN,Hungary,2015,3,weekly,2900
@@ -11170,6 +11171,7 @@ IRN,Iran,2022,27,weekly,7204.3
 IRN,Iran,2022,28,weekly,7184.9
 IRN,Iran,2022,29,weekly,7660
 IRN,Iran,2022,30,weekly,8788
+IRN,Iran,2022,31,weekly,8142.9
 IRL,Ireland,2015,1,monthly,2967
 IRL,Ireland,2015,2,monthly,2756
 IRL,Ireland,2015,3,monthly,2875
@@ -12362,6 +12364,7 @@ KAZ,Kazakhstan,2022,2,monthly,13800
 KAZ,Kazakhstan,2022,3,monthly,11036
 KAZ,Kazakhstan,2022,4,monthly,9578
 KAZ,Kazakhstan,2022,5,monthly,10773
+KAZ,Kazakhstan,2022,6,monthly,10730
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -12451,6 +12454,7 @@ KOS,Kosovo,2022,2,monthly,987
 KOS,Kosovo,2022,3,monthly,763
 KOS,Kosovo,2022,4,monthly,742
 KOS,Kosovo,2022,5,monthly,746
+KOS,Kosovo,2022,6,monthly,640
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -12612,6 +12616,7 @@ KGZ,Kyrgyzstan,2022,2,monthly,3177
 KGZ,Kyrgyzstan,2022,3,monthly,2955
 KGZ,Kyrgyzstan,2022,4,monthly,2924
 KGZ,Kyrgyzstan,2022,5,monthly,1951
+KGZ,Kyrgyzstan,2022,6,monthly,2483
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -18193,12 +18198,12 @@ PRY,Paraguay,2021,9,monthly,2900
 PRY,Paraguay,2021,10,monthly,2897
 PRY,Paraguay,2021,11,monthly,2810
 PRY,Paraguay,2021,12,monthly,3223
-PRY,Paraguay,2022,1,monthly,6067
-PRY,Paraguay,2022,2,monthly,3730
-PRY,Paraguay,2022,3,monthly,2765
-PRY,Paraguay,2022,4,monthly,2461
-PRY,Paraguay,2022,5,monthly,2560
-PRY,Paraguay,2022,6,monthly,2697
+PRY,Paraguay,2022,1,monthly,6074
+PRY,Paraguay,2022,2,monthly,3745
+PRY,Paraguay,2022,3,monthly,2810
+PRY,Paraguay,2022,4,monthly,2519
+PRY,Paraguay,2022,5,monthly,2638
+PRY,Paraguay,2022,6,monthly,2874
 PER,Peru,2017,1,weekly,2404.1
 PER,Peru,2017,2,weekly,2534.5
 PER,Peru,2017,3,weekly,2637.6
@@ -18416,15 +18421,15 @@ PER,Peru,2021,5,weekly,7467.6
 PER,Peru,2021,6,weekly,8182
 PER,Peru,2021,7,weekly,8210.7
 PER,Peru,2021,8,weekly,7863.1
-PER,Peru,2021,9,weekly,7977.9
-PER,Peru,2021,10,weekly,7855.6
+PER,Peru,2021,9,weekly,7978.9
+PER,Peru,2021,10,weekly,7858.8
 PER,Peru,2021,11,weekly,7903.5
-PER,Peru,2021,12,weekly,8057.6
+PER,Peru,2021,12,weekly,8058.7
 PER,Peru,2021,13,weekly,8407.4
-PER,Peru,2021,14,weekly,9010.2
-PER,Peru,2021,15,weekly,8968.7
+PER,Peru,2021,14,weekly,9009.1
+PER,Peru,2021,15,weekly,8966.6
 PER,Peru,2021,16,weekly,8774.2
-PER,Peru,2021,17,weekly,8186.3
+PER,Peru,2021,17,weekly,8185.2
 PER,Peru,2021,18,weekly,7628.1
 PER,Peru,2021,19,weekly,6949.8
 PER,Peru,2021,20,weekly,6441.6
@@ -18435,7 +18440,7 @@ PER,Peru,2021,24,weekly,4608.8
 PER,Peru,2021,25,weekly,4278.1
 PER,Peru,2021,26,weekly,4059.1
 PER,Peru,2021,27,weekly,3830.5
-PER,Peru,2021,28,weekly,3544.5
+PER,Peru,2021,28,weekly,3545.6
 PER,Peru,2021,29,weekly,3460.6
 PER,Peru,2021,30,weekly,3365.9
 PER,Peru,2021,31,weekly,3260.7
@@ -18444,11 +18449,11 @@ PER,Peru,2021,33,weekly,3121.4
 PER,Peru,2021,34,weekly,3305.3
 PER,Peru,2021,35,weekly,3178.8
 PER,Peru,2021,36,weekly,3071.4
-PER,Peru,2021,37,weekly,3072.5
+PER,Peru,2021,37,weekly,3071.4
 PER,Peru,2021,38,weekly,3132
 PER,Peru,2021,39,weekly,3065.1
 PER,Peru,2021,40,weekly,3162.9
-PER,Peru,2021,41,weekly,3074.6
+PER,Peru,2021,41,weekly,3073.6
 PER,Peru,2021,42,weekly,3049.1
 PER,Peru,2021,43,weekly,2976.8
 PER,Peru,2021,44,weekly,3128.9
@@ -18467,7 +18472,7 @@ PER,Peru,2022,4,weekly,4824.6
 PER,Peru,2022,5,weekly,4720.4
 PER,Peru,2022,6,weekly,4333.4
 PER,Peru,2022,7,weekly,3844.4
-PER,Peru,2022,8,weekly,3489.3
+PER,Peru,2022,8,weekly,3488.2
 PER,Peru,2022,9,weekly,3410.6
 PER,Peru,2022,10,weekly,3270.3
 PER,Peru,2022,11,weekly,3220.3
@@ -18476,20 +18481,21 @@ PER,Peru,2022,13,weekly,2931.1
 PER,Peru,2022,14,weekly,3070.4
 PER,Peru,2022,15,weekly,2936.4
 PER,Peru,2022,16,weekly,2980
-PER,Peru,2022,17,weekly,2882.2
+PER,Peru,2022,17,weekly,2883.3
 PER,Peru,2022,18,weekly,2951.3
 PER,Peru,2022,19,weekly,3123.5
 PER,Peru,2022,20,weekly,2948.1
 PER,Peru,2022,21,weekly,3067.2
-PER,Peru,2022,22,weekly,3118.2
+PER,Peru,2022,22,weekly,3117.2
 PER,Peru,2022,23,weekly,3076.8
 PER,Peru,2022,24,weekly,3159.7
 PER,Peru,2022,25,weekly,3174.6
-PER,Peru,2022,26,weekly,3284.1
-PER,Peru,2022,27,weekly,3199
-PER,Peru,2022,28,weekly,3305.3
-PER,Peru,2022,29,weekly,3345.7
-PER,Peru,2022,30,weekly,3313.8
+PER,Peru,2022,26,weekly,3286.2
+PER,Peru,2022,27,weekly,3228.8
+PER,Peru,2022,28,weekly,3328.7
+PER,Peru,2022,29,weekly,3395.7
+PER,Peru,2022,30,weekly,3406.3
+PER,Peru,2022,31,weekly,3503.1
 PHL,Philippines,2015,1,monthly,50381
 PHL,Philippines,2015,2,monthly,44540
 PHL,Philippines,2015,3,monthly,46452
