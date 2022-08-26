@@ -890,22 +890,27 @@ AUS,Australia,2021,49,weekly,3143
 AUS,Australia,2021,50,weekly,3221
 AUS,Australia,2021,51,weekly,3324
 AUS,Australia,2021,52,weekly,3165
-AUS,Australia,2022,1,weekly,3307
-AUS,Australia,2022,2,weekly,3714
-AUS,Australia,2022,3,weekly,3867
-AUS,Australia,2022,4,weekly,3769
-AUS,Australia,2022,5,weekly,3716
-AUS,Australia,2022,6,weekly,3538
-AUS,Australia,2022,7,weekly,3389
-AUS,Australia,2022,8,weekly,3384
-AUS,Australia,2022,9,weekly,3332
-AUS,Australia,2022,10,weekly,3170
-AUS,Australia,2022,11,weekly,3310
-AUS,Australia,2022,12,weekly,3309
-AUS,Australia,2022,13,weekly,3355
-AUS,Australia,2022,14,weekly,3385
-AUS,Australia,2022,15,weekly,3289
-AUS,Australia,2022,16,weekly,3406
+AUS,Australia,2022,1,weekly,3312
+AUS,Australia,2022,2,weekly,3720
+AUS,Australia,2022,3,weekly,3870
+AUS,Australia,2022,4,weekly,3778
+AUS,Australia,2022,5,weekly,3724
+AUS,Australia,2022,6,weekly,3542
+AUS,Australia,2022,7,weekly,3395
+AUS,Australia,2022,8,weekly,3389
+AUS,Australia,2022,9,weekly,3352
+AUS,Australia,2022,10,weekly,3188
+AUS,Australia,2022,11,weekly,3327
+AUS,Australia,2022,12,weekly,3325
+AUS,Australia,2022,13,weekly,3380
+AUS,Australia,2022,14,weekly,3420
+AUS,Australia,2022,15,weekly,3336
+AUS,Australia,2022,16,weekly,3446
+AUS,Australia,2022,17,weekly,3438
+AUS,Australia,2022,18,weekly,3621
+AUS,Australia,2022,19,weekly,3732
+AUS,Australia,2022,20,weekly,3585
+AUS,Australia,2022,21,weekly,3665
 AUT,Austria,2015,1,weekly,1704
 AUT,Austria,2015,2,weekly,1768
 AUT,Austria,2015,3,weekly,1837
@@ -1942,6 +1947,10 @@ BEL,Belgium,2022,25,weekly,2010
 BEL,Belgium,2022,26,weekly,1933
 BEL,Belgium,2022,27,weekly,1989
 BEL,Belgium,2022,28,weekly,1955
+BEL,Belgium,2022,29,weekly,2113
+BEL,Belgium,2022,30,weekly,1984
+BEL,Belgium,2022,31,weekly,2018
+BEL,Belgium,2022,32,weekly,2079
 BLZ,Belize,2015,1,monthly,149
 BLZ,Belize,2015,2,monthly,147
 BLZ,Belize,2015,3,monthly,167
@@ -6776,6 +6785,10 @@ EST,Estonia,2022,23,weekly,325
 EST,Estonia,2022,24,weekly,296
 EST,Estonia,2022,25,weekly,335
 EST,Estonia,2022,26,weekly,332
+EST,Estonia,2022,27,weekly,309
+EST,Estonia,2022,28,weekly,294
+EST,Estonia,2022,29,weekly,294
+EST,Estonia,2022,30,weekly,309
 FRO,Faroe Islands,2015,1,monthly,41
 FRO,Faroe Islands,2015,2,monthly,29
 FRO,Faroe Islands,2015,3,monthly,32
@@ -11274,9 +11287,10 @@ IRL,Ireland,2021,12,monthly,3155
 IRL,Ireland,2022,1,monthly,3135
 IRL,Ireland,2022,2,monthly,2772
 IRL,Ireland,2022,3,monthly,2995
-IRL,Ireland,2022,4,monthly,3023
+IRL,Ireland,2022,4,monthly,3024
 IRL,Ireland,2022,5,monthly,2838
-IRL,Ireland,2022,6,monthly,2531
+IRL,Ireland,2022,6,monthly,2612
+IRL,Ireland,2022,7,monthly,2747
 ISR,Israel,2015,1,weekly,936
 ISR,Israel,2015,2,weekly,1020
 ISR,Israel,2015,3,weekly,988
@@ -13029,6 +13043,8 @@ LVA,Latvia,2022,26,weekly,600
 LVA,Latvia,2022,27,weekly,465
 LVA,Latvia,2022,28,weekly,479
 LVA,Latvia,2022,29,weekly,500
+LVA,Latvia,2022,30,weekly,516
+LVA,Latvia,2022,31,weekly,530
 LBN,Lebanon,2015,1,monthly,2291
 LBN,Lebanon,2015,2,monthly,2211
 LBN,Lebanon,2015,3,monthly,2502
@@ -13594,6 +13610,10 @@ LTU,Lithuania,2022,23,weekly,757
 LTU,Lithuania,2022,24,weekly,735
 LTU,Lithuania,2022,25,weekly,745
 LTU,Lithuania,2022,26,weekly,884
+LTU,Lithuania,2022,27,weekly,688
+LTU,Lithuania,2022,28,weekly,653
+LTU,Lithuania,2022,29,weekly,692
+LTU,Lithuania,2022,30,weekly,722
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -17948,7 +17968,8 @@ NOR,Norway,2022,27,weekly,841
 NOR,Norway,2022,28,weekly,858
 NOR,Norway,2022,29,weekly,847
 NOR,Norway,2022,30,weekly,766
-NOR,Norway,2022,31,weekly,776
+NOR,Norway,2022,31,weekly,782
+NOR,Norway,2022,32,weekly,758
 OMN,Oman,2015,1,monthly,732
 OMN,Oman,2015,2,monthly,550
 OMN,Oman,2015,3,monthly,602
@@ -21016,6 +21037,7 @@ SRB,Serbia,2022,3,monthly,11250
 SRB,Serbia,2022,4,monthly,8479
 SRB,Serbia,2022,5,monthly,8387
 SRB,Serbia,2022,6,monthly,7744
+SRB,Serbia,2022,7,monthly,7848
 SYC,Seychelles,2015,1,monthly,52
 SYC,Seychelles,2015,2,monthly,50
 SYC,Seychelles,2015,3,monthly,69
