@@ -74,7 +74,8 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 ### Argentina (monthly)
 2015 to 2020: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic.](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-Note: All years except 2016 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
+Notes: (1) December 2020 deaths are low due to registration in 2021. We have adjusted it to match 2020 from the vital statistics report (https://www.argentina.gob.ar/sites/default/files/serie5numero64_web.pdf). 
+(2) All years except 2016 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 
 ### Armenia (monthly)
