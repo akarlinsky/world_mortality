@@ -11758,31 +11758,33 @@ ISR,Israel,2022,2,weekly,1212
 ISR,Israel,2022,3,weekly,1392
 ISR,Israel,2022,4,weekly,1489
 ISR,Israel,2022,5,weekly,1565
-ISR,Israel,2022,6,weekly,1454
-ISR,Israel,2022,7,weekly,1286
+ISR,Israel,2022,6,weekly,1455
+ISR,Israel,2022,7,weekly,1287
 ISR,Israel,2022,8,weekly,1195
-ISR,Israel,2022,9,weekly,1101
+ISR,Israel,2022,9,weekly,1102
 ISR,Israel,2022,10,weekly,1017
 ISR,Israel,2022,11,weekly,1029
 ISR,Israel,2022,12,weekly,1015
 ISR,Israel,2022,13,weekly,1134
-ISR,Israel,2022,14,weekly,1057
+ISR,Israel,2022,14,weekly,1058
 ISR,Israel,2022,15,weekly,891
 ISR,Israel,2022,16,weekly,921
 ISR,Israel,2022,17,weekly,923
-ISR,Israel,2022,18,weekly,933
-ISR,Israel,2022,19,weekly,864
+ISR,Israel,2022,18,weekly,934
+ISR,Israel,2022,19,weekly,865
 ISR,Israel,2022,20,weekly,842
-ISR,Israel,2022,21,weekly,877
-ISR,Israel,2022,22,weekly,840
-ISR,Israel,2022,23,weekly,863
-ISR,Israel,2022,24,weekly,860
-ISR,Israel,2022,25,weekly,832
-ISR,Israel,2022,26,weekly,916
-ISR,Israel,2022,27,weekly,951
-ISR,Israel,2022,28,weekly,907
-ISR,Israel,2022,29,weekly,920
-ISR,Israel,2022,30,weekly,962
+ISR,Israel,2022,21,weekly,880
+ISR,Israel,2022,22,weekly,841
+ISR,Israel,2022,23,weekly,864
+ISR,Israel,2022,24,weekly,862
+ISR,Israel,2022,25,weekly,833
+ISR,Israel,2022,26,weekly,918
+ISR,Israel,2022,27,weekly,954
+ISR,Israel,2022,28,weekly,917
+ISR,Israel,2022,29,weekly,929
+ISR,Israel,2022,30,weekly,976
+ISR,Israel,2022,31,weekly,891
+ISR,Israel,2022,32,weekly,902
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -12510,6 +12512,7 @@ KAZ,Kazakhstan,2022,3,monthly,11036
 KAZ,Kazakhstan,2022,4,monthly,9578
 KAZ,Kazakhstan,2022,5,monthly,10773
 KAZ,Kazakhstan,2022,6,monthly,10730
+KAZ,Kazakhstan,2022,7,monthly,10628
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -12762,6 +12765,7 @@ KGZ,Kyrgyzstan,2022,3,monthly,2955
 KGZ,Kyrgyzstan,2022,4,monthly,2924
 KGZ,Kyrgyzstan,2022,5,monthly,1951
 KGZ,Kyrgyzstan,2022,6,monthly,2483
+KGZ,Kyrgyzstan,2022,7,monthly,2378
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -17169,6 +17173,18 @@ NCL,New Caledonia,2020,9,monthly,102
 NCL,New Caledonia,2020,10,monthly,132
 NCL,New Caledonia,2020,11,monthly,100
 NCL,New Caledonia,2020,12,monthly,122
+NCL,New Caledonia,2021,1,monthly,134
+NCL,New Caledonia,2021,2,monthly,120
+NCL,New Caledonia,2021,3,monthly,120
+NCL,New Caledonia,2021,4,monthly,140
+NCL,New Caledonia,2021,5,monthly,131
+NCL,New Caledonia,2021,6,monthly,142
+NCL,New Caledonia,2021,7,monthly,147
+NCL,New Caledonia,2021,8,monthly,170
+NCL,New Caledonia,2021,9,monthly,316
+NCL,New Caledonia,2021,10,monthly,276
+NCL,New Caledonia,2021,11,monthly,146
+NCL,New Caledonia,2021,12,monthly,141
 NZL,New Zealand,2015,1,weekly,564
 NZL,New Zealand,2015,2,weekly,566
 NZL,New Zealand,2015,3,weekly,595
@@ -18810,8 +18826,9 @@ PHL,Philippines,2021,9,monthly,119758
 PHL,Philippines,2021,10,monthly,84428
 PHL,Philippines,2021,11,monthly,58202
 PHL,Philippines,2021,12,monthly,56202
-PHL,Philippines,2022,1,monthly,68747
-PHL,Philippines,2022,2,monthly,48900
+PHL,Philippines,2022,1,monthly,69327
+PHL,Philippines,2022,2,monthly,51468
+PHL,Philippines,2022,3,monthly,49435
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800

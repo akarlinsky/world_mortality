@@ -181,11 +181,11 @@ Queried from https://github.com/sociedatos.
 ### Costa Rica (monthly)
 2015 to 2019: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 
-2020: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf
+2020 onward: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf
 
 
 ### Cuba (monthly)
-2015 - 2020: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2020](http://www.onei.gob.cu/node/16425)
+2015 onward: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2020](http://www.onei.gob.cu/node/16425)
 
 
 ### Dominican Republic (monthly)
@@ -226,7 +226,7 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 ### French Polynesia (monthly)
 2015 to 2020: Email correspondence with [Institut de la Statistique de la Polynésie Française (ISPF)](https://www.ispf.pf/). 
 
-2021: [ISPF Les dernières publications -  Décès en septembre 2021](https://www.ispf.pf/Publications.aspx).
+2021 onward: [ISPF Les dernières publications -  Décès en septembre 2021](https://www.ispf.pf/Publications.aspx).
 
 
 ### Georgia (monthly)
@@ -278,7 +278,7 @@ Data by month of registration is available before data by month of occurrence. S
 
 
 ### Israel (weekly)
-Israeli Central Bureau of Statistics: https://www.cbs.gov.il/he/subjects/Pages/%D7%AA%D7%9E%D7%95%D7%AA%D7%94-%D7%95%D7%AA%D7%95%D7%97%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D.aspx
+2015 onward: Israeli Central Bureau of Statistics: https://www.cbs.gov.il/he/subjects/Pages/%D7%AA%D7%9E%D7%95%D7%AA%D7%94-%D7%95%D7%AA%D7%95%D7%97%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D.aspx
 
 
 ### Jamaica (monthly)
@@ -287,7 +287,7 @@ Israeli Central Bureau of Statistics: https://www.cbs.gov.il/he/subjects/Pages/%
 
 
 ### Japan (monthly)
-Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
+2015 onward: Japanese Government Statistics Portal: https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0
 
 
 ### Jordan (monthly)
@@ -360,7 +360,7 @@ Access by selecting: Main Category - Social, Sub-Category - Demography. Publicat
 ### Mauritius (monthly)
 2015 to 2019: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a480&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 
-2020: Email correspondence with [Statistics Mauritius](https://statsmauritius.govmu.org/).
+2020 onward: Email correspondence with [Statistics Mauritius](https://statsmauritius.govmu.org/).
 
 
 ### Mexico (weekly)
@@ -399,7 +399,6 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 ### New Caledonia (monthly)
 2015 onward: [Institute of Statistics and Economic Studies (ISEE): DEATH - MORTALITY - LIFE EXPECTANCY](https://www.isee.nc/population/demographie/deces-mortalite-esperance-de-vie)
 
-ISEE has released some data for monthly deaths in 2021, but only for September onward. These preliminary show large excess, but we have chosen not to include it until data for previous months in 2021 is available. 
 
 
 ### North Macedonia (monthly)
@@ -449,7 +448,7 @@ The adjusted deaths numbers were rounded to one significant digit to emphasize t
 
 
 ### Philippines (monthly)
-Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table.
+2015 onward: Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table.
 
 
 ### Puerto Rico (weekly)
@@ -473,13 +472,13 @@ Starting with 2021, there are no data by date of death yet available, we we are 
 Starting from mid-2021, when announcing the registered number of deaths in another month, Russian authorities began announcing approximate preliminary number for the most recent month, as an increase/decrease in percentage. We compute the corresponding number of deaths and report it with one decimal digit, to show that it was computed by us and not directly reported. Example for October 2021: https://tass.ru/obschestvo/12802275. 
 
 ### Saint Kitts and Nevis (monthly)
-2016-2020: Department of Statistics Vital Statistics: https://www.stats.gov.kn/topics/demographic-social-statistics/births-and-deaths/
+2016 onward: Department of Statistics Vital Statistics: https://www.stats.gov.kn/topics/demographic-social-statistics/births-and-deaths/
 
 
 ### San Marino (monthly)
 2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html.
 
-2021: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#.
+2021 onward: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#.
 
 
 ### Serbia (monthly)
@@ -493,7 +492,7 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 
 
 ### Singapore (monthly)
-Department of Statistics Singapore: https://tablebuilder.singstat.gov.sg/table/TS/M810121.
+2015 onward: Department of Statistics Singapore: https://tablebuilder.singstat.gov.sg/table/TS/M810121.
 
 
 ### South Africa (weekly)
@@ -517,7 +516,7 @@ Weekly deaths in Sweden have been rounded to one significant digit to emphasize 
 
 
 ### Taiwan (monthly)
-Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/english/cl.aspx?n=7665
+2015 onward: Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/english/cl.aspx?n=7665
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
