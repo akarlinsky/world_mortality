@@ -2296,6 +2296,9 @@ BIH,Bosnia,2021,12,monthly,4655
 BIH,Bosnia,2022,1,monthly,3985
 BIH,Bosnia,2022,2,monthly,5060
 BIH,Bosnia,2022,3,monthly,3931
+BIH,Bosnia,2022,4,monthly,2970
+BIH,Bosnia,2022,5,monthly,3000
+BIH,Bosnia,2022,6,monthly,2705
 BRA,Brazil,2015,1,monthly,106695
 BRA,Brazil,2015,2,monthly,90612
 BRA,Brazil,2015,3,monthly,102473
@@ -16049,15 +16052,18 @@ MEX,Mexico,2022,16,weekly,13343
 MEX,Mexico,2022,17,weekly,12489
 MEX,Mexico,2022,18,weekly,13343
 MEX,Mexico,2022,19,weekly,13670
-MEX,Mexico,2022,20,weekly,13617
-MEX,Mexico,2022,21,weekly,13010
-MEX,Mexico,2022,22,weekly,12678
-MEX,Mexico,2022,23,weekly,13352
-MEX,Mexico,2022,24,weekly,13137
-MEX,Mexico,2022,25,weekly,12768
-MEX,Mexico,2022,26,weekly,13270
-MEX,Mexico,2022,27,weekly,13072
-MEX,Mexico,2022,28,weekly,13733
+MEX,Mexico,2022,20,weekly,13725
+MEX,Mexico,2022,21,weekly,13111
+MEX,Mexico,2022,22,weekly,12797
+MEX,Mexico,2022,23,weekly,13526
+MEX,Mexico,2022,24,weekly,13321
+MEX,Mexico,2022,25,weekly,13038
+MEX,Mexico,2022,26,weekly,13746
+MEX,Mexico,2022,27,weekly,13669
+MEX,Mexico,2022,28,weekly,14677
+MEX,Mexico,2022,29,weekly,14774
+MEX,Mexico,2022,30,weekly,14050
+MEX,Mexico,2022,31,weekly,13972
 MDA,Moldova,2015,1,monthly,4013
 MDA,Moldova,2015,2,monthly,3476
 MDA,Moldova,2015,3,monthly,3681
@@ -21162,6 +21168,7 @@ SMR,San Marino,2022,4,monthly,19
 SMR,San Marino,2022,5,monthly,23
 SMR,San Marino,2022,6,monthly,22
 SMR,San Marino,2022,7,monthly,22
+SMR,San Marino,2022,8,monthly,24
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
