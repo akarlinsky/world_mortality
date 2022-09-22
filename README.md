@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
-This repository contains country-level data on all-cause mortality in 2015–2021 collected from various sources, see below.   
-We are currently providing data for 120 countries and territories.   
+This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
+We are currently providing data for 121 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -473,6 +473,11 @@ Starting from mid-2021, when announcing the registered number of deaths in anoth
 
 ### Saint Kitts and Nevis (monthly)
 2016 onward: Department of Statistics Vital Statistics: https://www.stats.gov.kn/topics/demographic-social-statistics/births-and-deaths/
+
+
+
+### Saint Vincent and the Grenadines (monthly)
+2015 onward: Ministry of Finance, Economic Planning and Information Technology Vital Statistics: http://stats.gov.vc/subjects/vital-statistics/
 
 
 ### San Marino (monthly)
