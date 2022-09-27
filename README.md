@@ -148,7 +148,7 @@ July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401
 
 2020 - 2021: https://opendatasus.saude.gov.br/dataset/sim-2020-2021
 
-2022 January onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
+2022 February onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
 In order to account for this, the 2022 monthly counts from the RC are corrected using the ratio between total deaths in SIM 2020 (1,581,645) to total deaths in RC 2020 (1,475,561). 
 
