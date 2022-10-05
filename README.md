@@ -105,7 +105,7 @@ On April 28th 2022, ABS released weekly data as all deaths (doctor + coroner), s
 
 
 ### Azerbaijan (monthly)
-2015: https://www.stat.gov.az/news/source/2016_01ay.zip https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
+2015: https://www.stat.gov.az/news/source/2016_01ay.zip
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
 2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip   
