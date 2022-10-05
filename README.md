@@ -72,9 +72,9 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 
 
 ### Argentina (monthly)
-2015 to 2020: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic.](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
+2015 to 2020: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-Notes: (1) December 2020 deaths are low due to registration in 2021. We have adjusted it to match 2020 from the vital statistics report (https://www.argentina.gob.ar/sites/default/files/serie5numero64_web.pdf). 
+Notes: (1) December 2020 deaths are low due to registration in 2021. We have adjusted it to match 2020 from the vital statistics report (https://www.argentina.gob.ar/sites/default/files/serie5numero64_web.pdf).     
 (2) All years except 2016 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 
@@ -105,13 +105,15 @@ On April 28th 2022, ABS released weekly data as all deaths (doctor + coroner), s
 
 
 ### Azerbaijan (monthly)
-2015: UNData MBS (as crude death rates): https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
+2015: https://www.stat.gov.az/news/source/2016_01ay.zip https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
 2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip   
-2021: https://www.stat.gov.az/news/macroeconomy.php
+2021 onward: https://www.stat.gov.az/news/macroeconomy.php
 
-2015 crude death rates were transformed to mortality counts by using the UNDATA Mid-Year Population estimate for Azerbaijan 2015 which is 9,649,000.
+Note: data in 2015 was given in thousands so it is expressed as integers. 
+The total annual deaths from the monthly counts is 54,700 while the true annual total is 53,697 so we do not adjust further.
+
 
 ### Barbados (monthly)
 2015 onward: Email correspondence with [Barbados Statistical Service (BSS)](https://stats.gov.bb/).
@@ -210,23 +212,23 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 2015 to 2019: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 
 2020: Monthly Bulletin of the Egyptian NSO (CAPMAS): https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5107&Year=23518 & Egypt in Figures 2021 - Vital:
-https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Statistics: It is expected that the population of Egypt: https://www.capmas.gov.eg/Pages/GeneralNews.aspx?page_id=1
+https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Statistics: It is expected that the population of Egypt: https://www.capmas.gov.eg/Pages/GeneralNews.aspx?page_id=1.
 
-2021: Egypt in Figures 2022 - Vital: https://www.capmas.gov.eg/Pages/StaticPages.aspx?page_id=5035
+2021: Egypt in Figures 2022 - Vital: https://www.capmas.gov.eg/Pages/StaticPages.aspx?page_id=5035.
 
 
 ### El Salvador (monthly)
-2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/)
+2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/).
 
 
 ### Faroe Islands (monthly)
-2015 onward: [Statistics Faroe Islands](https://hagstova.fo/en/population/births-and-deaths/deaths)
+2015 onward: [Statistics Faroe Islands](https://hagstova.fo/en/population/births-and-deaths/deaths).
 
 
 ### French Polynesia (monthly)
 2015 to 2020: Email correspondence with [Institut de la Statistique de la Polynésie Française (ISPF)](https://www.ispf.pf/). 
 
-2021 onward: [ISPF Les dernières publications -  Décès en septembre 2021](https://www.ispf.pf/Publications.aspx).
+2021 onward: [ISPF Les dernières publications -  Bilan démographique 2021](https://www.ispf.pf/publication/1325).
 
 
 ### Georgia (monthly)
