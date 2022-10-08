@@ -105,7 +105,7 @@ On April 28th 2022, ABS released weekly data as all deaths (doctor + coroner), s
 
 
 ### Azerbaijan (monthly)
-2015: https://www.stat.gov.az/news/source/2016_01ay.zip
+2015: https://www.stat.gov.az/news/source/2016_01ay.zip https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A  
 2016 to 2017: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1  
 2018: https://www.stat.gov.az/news/source/2019_12ay.zip   
 2019-2020: https://www.stat.gov.az/news/source/2021_1ay.zip   
@@ -115,10 +115,15 @@ Note: data in 2015 was given in thousands so it is expressed as integers.
 The total annual deaths from the monthly counts is 54,700 while the true annual total is 53,697 so we do not adjust further.
 
 
+## Bahamas (monthly)
+2015 onward: Email correspondence with [Bahamas National Statistical Institute](https://stats.gov.bs/).
+
+
 ### Barbados (monthly)
 2015 onward: Email correspondence with [Barbados Statistical Service (BSS)](https://stats.gov.bb/).
 
 Note: The data we obtained from BSS listed 0 deaths for September 2017 and April 2018. We used the [annual amount of deaths registered](https://stats.gov.bb/subjects/social-demographic-statistics/population-demography-statistics/) to impute these missing values.
+
 
 ### Belarus (monthly)
 2015 to 2020: UNData - http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
