@@ -115,7 +115,7 @@ Note: data in 2015 was given in thousands so it is expressed as integers.
 The total annual deaths from the monthly counts is 54,700 while the true annual total is 53,697 so we do not adjust further.
 
 
-## Bahamas (monthly)
+### Bahamas (monthly)
 2015 onward: Email correspondence with [Bahamas National Statistical Institute](https://stats.gov.bs/).
 
 
