@@ -2492,14 +2492,14 @@ BRA,Brazil,2021,9,monthly,125984
 BRA,Brazil,2021,10,monthly,125180
 BRA,Brazil,2021,11,monthly,119930
 BRA,Brazil,2021,12,monthly,132436
-BRA,Brazil,2022,1,monthly,166738
-BRA,Brazil,2022,2,monthly,138340.5
-BRA,Brazil,2022,3,monthly,133375
-BRA,Brazil,2022,4,monthly,114593.9
-BRA,Brazil,2022,5,monthly,132601
-BRA,Brazil,2022,6,monthly,139296.1
-BRA,Brazil,2022,7,monthly,135782.4
-BRA,Brazil,2022,8,monthly,133758.8
+BRA,Brazil,2022,1,monthly,167728
+BRA,Brazil,2022,2,monthly,135361
+BRA,Brazil,2022,3,monthly,123152
+BRA,Brazil,2022,4,monthly,118054
+BRA,Brazil,2022,5,monthly,132753.5
+BRA,Brazil,2022,6,monthly,139512.4
+BRA,Brazil,2022,7,monthly,136021.3
+BRA,Brazil,2022,8,monthly,134031.5
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -7098,6 +7098,7 @@ FRO,Faroe Islands,2022,4,monthly,38
 FRO,Faroe Islands,2022,5,monthly,46
 FRO,Faroe Islands,2022,6,monthly,35
 FRO,Faroe Islands,2022,7,monthly,44
+FRO,Faroe Islands,2022,8,monthly,42
 FIN,Finland,2015,1,weekly,1084
 FIN,Finland,2015,2,weekly,1159
 FIN,Finland,2015,3,weekly,1151
@@ -11536,6 +11537,7 @@ IRN,Iran,2022,36,weekly,7878.3
 IRN,Iran,2022,37,weekly,7330.7
 IRN,Iran,2022,38,weekly,7225.6
 IRN,Iran,2022,39,weekly,7154.1
+IRN,Iran,2022,40,weekly,7614.1
 IRL,Ireland,2015,1,monthly,2967
 IRL,Ireland,2015,2,monthly,2756
 IRL,Ireland,2015,3,monthly,2875
