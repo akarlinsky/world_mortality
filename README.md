@@ -528,7 +528,7 @@ Weekly deaths in Sweden have been rounded to one significant digit to emphasize 
 
 
 ### Taiwan (monthly)
-2015 onward: Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/english/cl.aspx?n=7665
+2015 onward: Taiwan Ministry of the Interior Monthly Bulletin of Interior Statistics: https://www.moi.gov.tw/english/cl.aspx?n=7665 (or: https://www.ris.gov.tw/app/portal/346).
 
 Taiwan also has weekly data from STMF, but it is less updated, so we opted to keep the monthly data for now.
 
