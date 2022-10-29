@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
-We are currently providing data for 122 countries and territories.   
+We are currently providing data for 125 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -162,6 +162,15 @@ In order to account for this, the 2022 monthly counts from the RC are corrected 
 Monthly deaths in Brazil that have been corrected for delayed registration were rounded to one significant digit to emphasize they were adjusted. When comprehensive SIM data is available, no correction is conducted. 
 
 We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this. 
+
+
+### British Crown Dependencies (monthly)
+Guernsey: 2015 onward: Email correspondence with States of Guernsey Data and Analysis. Quarterly data available at https://www.gov.gg/population.
+
+Jersey: 2018 onward: [UNDATA](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a833&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
+
+Isle of Man: [Freedom of Information request](https://www.gov.je/government/freedomofinformation/pages/foi.aspx?ReportID=5768) from Government of Isle of Man. 
+
 
 ### Brunei (monthly)
 2015 onward: [Department of Economic Planning and Statistics - Vital Statistics](http://www.deps.gov.bn/SitePages/Vital%20Statistics.aspx)
