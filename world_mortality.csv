@@ -2510,10 +2510,11 @@ BRA,Brazil,2022,1,monthly,167728
 BRA,Brazil,2022,2,monthly,135361
 BRA,Brazil,2022,3,monthly,123152
 BRA,Brazil,2022,4,monthly,118054
-BRA,Brazil,2022,5,monthly,132840.8
-BRA,Brazil,2022,6,monthly,139699.4
-BRA,Brazil,2022,7,monthly,136196.4
-BRA,Brazil,2022,8,monthly,134197.6
+BRA,Brazil,2022,5,monthly,132848.9
+BRA,Brazil,2022,6,monthly,139773.3
+BRA,Brazil,2022,7,monthly,136328.7
+BRA,Brazil,2022,8,monthly,134548.2
+BRA,Brazil,2022,9,monthly,121969.3
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -6559,6 +6560,7 @@ EGY,Egypt,2022,3,monthly,53400
 EGY,Egypt,2022,4,monthly,44800
 EGY,Egypt,2022,5,monthly,44500
 EGY,Egypt,2022,6,monthly,42600
+EGY,Egypt,2022,8,monthly,48000
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -12211,30 +12213,32 @@ ISR,Israel,2022,9,weekly,1102
 ISR,Israel,2022,10,weekly,1017
 ISR,Israel,2022,11,weekly,1029
 ISR,Israel,2022,12,weekly,1016
-ISR,Israel,2022,13,weekly,1134
+ISR,Israel,2022,13,weekly,1135
 ISR,Israel,2022,14,weekly,1058
 ISR,Israel,2022,15,weekly,891
 ISR,Israel,2022,16,weekly,921
-ISR,Israel,2022,17,weekly,924
+ISR,Israel,2022,17,weekly,925
 ISR,Israel,2022,18,weekly,934
 ISR,Israel,2022,19,weekly,866
 ISR,Israel,2022,20,weekly,843
-ISR,Israel,2022,21,weekly,881
+ISR,Israel,2022,21,weekly,882
 ISR,Israel,2022,22,weekly,841
-ISR,Israel,2022,23,weekly,865
-ISR,Israel,2022,24,weekly,863
+ISR,Israel,2022,23,weekly,866
+ISR,Israel,2022,24,weekly,864
 ISR,Israel,2022,25,weekly,834
 ISR,Israel,2022,26,weekly,920
 ISR,Israel,2022,27,weekly,959
-ISR,Israel,2022,28,weekly,922
-ISR,Israel,2022,29,weekly,935
+ISR,Israel,2022,28,weekly,924
+ISR,Israel,2022,29,weekly,936
 ISR,Israel,2022,30,weekly,980
 ISR,Israel,2022,31,weekly,893
-ISR,Israel,2022,32,weekly,910
-ISR,Israel,2022,33,weekly,863
-ISR,Israel,2022,34,weekly,875
-ISR,Israel,2022,35,weekly,848
-ISR,Israel,2022,36,weekly,828
+ISR,Israel,2022,32,weekly,912
+ISR,Israel,2022,33,weekly,870
+ISR,Israel,2022,34,weekly,879
+ISR,Israel,2022,35,weekly,851
+ISR,Israel,2022,36,weekly,839
+ISR,Israel,2022,37,weekly,810
+ISR,Israel,2022,38,weekly,767
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -18341,6 +18345,7 @@ MKD,North Macedonia,2022,4,monthly,1476
 MKD,North Macedonia,2022,5,monthly,1509
 MKD,North Macedonia,2022,6,monthly,1775
 MKD,North Macedonia,2022,7,monthly,1528
+MKD,North Macedonia,2022,8,monthly,1992
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
@@ -26338,6 +26343,7 @@ USA,United States,2022,34,weekly,58308
 USA,United States,2022,35,weekly,58084
 USA,United States,2022,36,weekly,58568
 USA,United States,2022,37,weekly,57951
+USA,United States,2022,38,weekly,57946
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
