@@ -48,6 +48,8 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 Additionally, we collect weekly data from EuroStat for the five French Overseas Departments:
 French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk2_ts/default/table?lang=en
 
+Note: Montenegro's data has a gap in 2021 between weeks 43 to 51. We have contacted EuroStat and Montenegro's NSO on this. As a temporary measure we imputed the deaths in these weeks as the mean deaths of 2021 weeks 42 and 52.
+
 
 ### Albania (monthly)
 2016 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
