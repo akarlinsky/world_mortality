@@ -1,6 +1,6 @@
 # Preliminary Mortality Dataset
 
-This repository contains preliminary data on all-cause mortality in 2015 onward, which doesn't fit into [World Mortality](https://github.com/akarlinsky/world_mortality) or [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) for various reasons such as time format (not weekly, monthly or quarterly), un-official status, projections, early releases of more detailed data forthcoming, etc.
+This repository contains preliminary data on all-cause mortality in 2015 onward, which doesn't fit into [World Mortality](https://github.com/akarlinsky/world_mortality) or [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) for various reasons such as time format (not weekly, monthly or quarterly), un-official status, projections, early releases of more detailed data forthcoming, low estimated completeness of registration, etc.
 Each datum source, properties and limitations is listed below.
 As the time format varies substantially, each source is provided as a separate csv file.
 
@@ -27,6 +27,9 @@ Sources are listed below the figures. We welcome any contributions.
 ![Turkey](plot_turkey.png)
 ![Bengaluru](plot_bengaluru.png)
 ![Vietnam](plot_vietnam.png)
+
+![Lesotho](plot_lesotho.png)
+![Ivory Coast](plot_ivory_coast.png)
 
 
 
@@ -56,8 +59,19 @@ Sources are listed below the figures. We welcome any contributions.
 ### Curacao
 2015 onward: [Central Bureau of Statistics - Mortality](https://www.cbs.cw/population-tables).
 
+### Lesotho 
+2018 onward: [Lesotho Bureau of Statistics Vital Statistics (Births & Deaths)](https://www.bos.gov.ls/Publications.htm).
+Note that estimated death registration completeness in Lesotho is very low (https://github.com/akarlinsky/death_registration).
+
+### Ivory Coast
+2017 onward: [DIRECTION DES ETUDES, DE LA STATISTIQUE: Annuaire statistique d'état civil](https://www.despse.ci/annuaires/).
+Note that estimated death registration completeness in Ivory Coast is very low (https://github.com/akarlinsky/death_registration).
+
 ### Sri Lanka
 2015 onward: [Department of Statistics - Statistical Abstract](http://www.statistics.gov.lk/Abstract2021/preface).
+
+### Jakarta Province, indonesia
+https://jakarta.bps.go.id/indicator/12/418/1/registrasi-kelahiran-kematian-perkawinan-perceraian-dan-pengesahan-pengakuan-anak-menurut-kabupaten-kota-di-provinsi-dki-jakarta.html
 
 
 ### Albania (Quarterly)
@@ -83,10 +97,6 @@ Monthly counts for Albania are published when available on [World Mortality](htt
 ### Costa Rica (Half-Yearly)
 2015-2021: https://www.inec.cr/estadisticas-vitales
 Monthly data 2015 to 2020 is on [World Mortality](https://github.com/akarlinsky/world_mortality). Monthly data for 2021 is only expected by March 2022, while data for first half of 2021 already exists. 
-
-### Tajikistan
-2015-2020: [World Mortality](https://github.com/akarlinsky/world_mortality).
-2021: [Food Security and Poverty 2021](https://www.stat.tj/en/news/publications/food-security-and-poverty-4-2021).
 
 ### Tamil Nadu State, India
 Removed from Preliminary Mortality, now available on [Local Mortality](https://github.com/akarlinsky/world_mortality/tree/main/local_mortality) by month. 
