@@ -431,7 +431,10 @@ In order to account for this, all 2019 monthly data was increased by the mean mo
 
 
 ### Palestine (monthly)
-2018 onward: Palestinian Central Bureau of Statistics [Statstical Yearbook 2019-2021](https://pcbs.gov.ps/pcbs_2012/Publications_AR.aspx).
+2018 onward: Palestinian Central Bureau of Statistics [Statstical Yearbook 2019-2022](https://pcbs.gov.ps/pcbs_2012/Publications_AR.aspx).
+
+Note: Total annual deaths in Palestine 2021 from Yearbook (16755) is somewhat smaller than that reported in an annual report of the Ministry of health (17273). 
+Currently, we provide the data from the Yearbook and are investigating if and how to adjust.
 
 
 ### Panama (monthly)
