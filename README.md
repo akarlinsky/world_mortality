@@ -494,7 +494,7 @@ Starting with 2022, there are no data by date of death yet available, we we are 
 ### San Marino (monthly)
 2015 to 2020: San Marino Office of Economic Planning, Data Processing and Statistics - Bulletin of Statistics:   https://www.statistica.sm/on-line/en/home/publications/bulletin-of-statistics.html.
 
-2021 onward: Natural movement of the resident population (monthly): https://www.statistica.sm/on-line/home/dati-statistici/popolazione.html#.
+2021 onward: Natural movement of the resident population (monthly): https://www.statistica.sm/pub1/StatisticaSM/Dati-statistici/Popolazione/Dinamica-demografica.html
 
 
 ### Serbia (monthly)
