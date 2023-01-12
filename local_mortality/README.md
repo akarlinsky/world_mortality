@@ -1,11 +1,11 @@
 # Local Mortality Dataset
 
-This repository contains local-level data on all-cause mortality in 2015–2021.    
+This repository contains local-level data on all-cause mortality in 2015–2022.    
 Local is any sub-national unit - whether state, province, region, city etc.   
 Local Mortality is a sister-project of [World Mortality](https://github.com/akarlinsky/world_mortality), Priority is given to local mortality information from countries which are not present in World Mortality or have very partial information on World Mortality.   
 
 Sources vary by local unit, see below.   
-We are currently providing data for 18 Local Units from 10 Countries.   
+We are currently providing data for 20 Local Units from 10 Countries.   
 We welcome any contributions.   
 
 ![Local Mortality coverage](local_mortality_map.png)
@@ -51,6 +51,8 @@ https://www.bmj.com/content/372/bmj.n415
 
 ### Ahmedabad City
 https://www.reuters.com/article/us-health-coronavirus-india-casualties-idUSKBN24311A
+https://timesofindia.indiatimes.com/city/ahmedabad/deaths-in-city-in-may-21-were-4-times-those-of-may-20/articleshow/90831420.cms
+
 
 ### Andhra Pradesh State
 Andhra Pradesh Civil Registration System, as reported in: https://scroll.in/article/997427/andhra-pradesh-saw-400-increase-in-deaths-in-may-tamil-nadu-saw-more-modest-excess-mortality
@@ -166,6 +168,6 @@ https://www.thehindu.com/news/national/karnataka/32-increase-in-mortality-rate-i
 ### Mumbai City
 https://portal.mcgm.gov.in/irj/portal/anonymous/qlvitalstatsreport
 
-### Kerala City
+### Kerala State
 https://cr.lsgkerala.gov.in/Pages/map.php
 
