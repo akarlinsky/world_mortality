@@ -9615,6 +9615,10 @@ GRC,Greece,2022,41,weekly,2250
 GRC,Greece,2022,42,weekly,2280
 GRC,Greece,2022,43,weekly,2438
 GRC,Greece,2022,44,weekly,2441
+GRC,Greece,2022,45,weekly,2414
+GRC,Greece,2022,46,weekly,2596
+GRC,Greece,2022,47,weekly,2477
+GRC,Greece,2022,48,weekly,2742
 GRL,Greenland,2015,1,monthly,44
 GRL,Greenland,2015,2,monthly,33
 GRL,Greenland,2015,3,monthly,45
@@ -13107,6 +13111,8 @@ KAZ,Kazakhstan,2022,6,monthly,10730
 KAZ,Kazakhstan,2022,7,monthly,10628
 KAZ,Kazakhstan,2022,8,monthly,11644
 KAZ,Kazakhstan,2022,9,monthly,10213
+KAZ,Kazakhstan,2022,10,monthly,10473
+KAZ,Kazakhstan,2022,11,monthly,10857
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -13201,6 +13207,7 @@ KOS,Kosovo,2022,7,monthly,736
 KOS,Kosovo,2022,8,monthly,717
 KOS,Kosovo,2022,9,monthly,663
 KOS,Kosovo,2022,10,monthly,737
+KOS,Kosovo,2022,11,monthly,748
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -13795,6 +13802,7 @@ LVA,Latvia,2022,47,weekly,586
 LVA,Latvia,2022,48,weekly,561
 LVA,Latvia,2022,49,weekly,593
 LVA,Latvia,2022,50,weekly,673
+LVA,Latvia,2022,51,weekly,701
 LBN,Lebanon,2015,1,monthly,2291
 LBN,Lebanon,2015,2,monthly,2211
 LBN,Lebanon,2015,3,monthly,2502
@@ -18457,18 +18465,30 @@ NIC,Nicaragua,2019,9,monthly,2197
 NIC,Nicaragua,2019,10,monthly,2345
 NIC,Nicaragua,2019,11,monthly,2111
 NIC,Nicaragua,2019,12,monthly,2082
-NIC,Nicaragua,2020,1,monthly,2143
-NIC,Nicaragua,2020,2,monthly,1940
+NIC,Nicaragua,2020,1,monthly,2144
+NIC,Nicaragua,2020,2,monthly,1942
 NIC,Nicaragua,2020,3,monthly,1986
 NIC,Nicaragua,2020,4,monthly,2122
 NIC,Nicaragua,2020,5,monthly,5615
-NIC,Nicaragua,2020,6,monthly,5581
+NIC,Nicaragua,2020,6,monthly,5582
 NIC,Nicaragua,2020,7,monthly,3207
 NIC,Nicaragua,2020,8,monthly,2354
-NIC,Nicaragua,2020,9,monthly,2007
-NIC,Nicaragua,2020,10,monthly,2133
-NIC,Nicaragua,2020,11,monthly,2228
-NIC,Nicaragua,2020,12,monthly,2322
+NIC,Nicaragua,2020,9,monthly,2008
+NIC,Nicaragua,2020,10,monthly,2135
+NIC,Nicaragua,2020,11,monthly,2240
+NIC,Nicaragua,2020,12,monthly,2346
+NIC,Nicaragua,2021,1,monthly,2314
+NIC,Nicaragua,2021,2,monthly,1922
+NIC,Nicaragua,2021,3,monthly,2147
+NIC,Nicaragua,2021,4,monthly,2205
+NIC,Nicaragua,2021,5,monthly,2509
+NIC,Nicaragua,2021,6,monthly,2692
+NIC,Nicaragua,2021,7,monthly,3099
+NIC,Nicaragua,2021,8,monthly,3620
+NIC,Nicaragua,2021,9,monthly,6143
+NIC,Nicaragua,2021,10,monthly,3965
+NIC,Nicaragua,2021,11,monthly,2274
+NIC,Nicaragua,2021,12,monthly,2109
 MKD,North Macedonia,2015,1,monthly,2105
 MKD,North Macedonia,2015,2,monthly,1848
 MKD,North Macedonia,2015,3,monthly,1909
@@ -21950,6 +21970,7 @@ RUS,Russia,2022,7,monthly,131763
 RUS,Russia,2022,8,monthly,146524
 RUS,Russia,2022,9,monthly,150974
 RUS,Russia,2022,10,monthly,145406
+RUS,Russia,2022,11,monthly,147531
 KNA,Saint Kitts and Nevis,2016,1,monthly,42
 KNA,Saint Kitts and Nevis,2016,2,monthly,25
 KNA,Saint Kitts and Nevis,2016,3,monthly,33
