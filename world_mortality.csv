@@ -3473,18 +3473,18 @@ CAN,Canada,2020,53,weekly,6775
 CAN,Canada,2021,1,weekly,6815
 CAN,Canada,2021,2,weekly,6780
 CAN,Canada,2021,3,weekly,6765
-CAN,Canada,2021,4,weekly,6675
+CAN,Canada,2021,4,weekly,6680
 CAN,Canada,2021,5,weekly,6490
 CAN,Canada,2021,6,weekly,6115
 CAN,Canada,2021,7,weekly,6080
-CAN,Canada,2021,8,weekly,5975
+CAN,Canada,2021,8,weekly,5980
 CAN,Canada,2021,9,weekly,5990
 CAN,Canada,2021,10,weekly,5795
 CAN,Canada,2021,11,weekly,5630
 CAN,Canada,2021,12,weekly,5750
 CAN,Canada,2021,13,weekly,5680
-CAN,Canada,2021,14,weekly,5870
-CAN,Canada,2021,15,weekly,5745
+CAN,Canada,2021,14,weekly,5875
+CAN,Canada,2021,15,weekly,5750
 CAN,Canada,2021,16,weekly,5770
 CAN,Canada,2021,17,weekly,5985
 CAN,Canada,2021,18,weekly,5915
@@ -3492,69 +3492,75 @@ CAN,Canada,2021,19,weekly,5815
 CAN,Canada,2021,20,weekly,5830
 CAN,Canada,2021,21,weekly,5365
 CAN,Canada,2021,22,weekly,5670
-CAN,Canada,2021,23,weekly,5350
-CAN,Canada,2021,24,weekly,5415
-CAN,Canada,2021,25,weekly,5335
-CAN,Canada,2021,26,weekly,6160
-CAN,Canada,2021,27,weekly,5425
-CAN,Canada,2021,28,weekly,5405
+CAN,Canada,2021,23,weekly,5355
+CAN,Canada,2021,24,weekly,5425
+CAN,Canada,2021,25,weekly,5340
+CAN,Canada,2021,26,weekly,6165
+CAN,Canada,2021,27,weekly,5430
+CAN,Canada,2021,28,weekly,5410
 CAN,Canada,2021,29,weekly,5425
-CAN,Canada,2021,30,weekly,5555
-CAN,Canada,2021,31,weekly,5570
+CAN,Canada,2021,30,weekly,5560
+CAN,Canada,2021,31,weekly,5575
 CAN,Canada,2021,32,weekly,5480
-CAN,Canada,2021,33,weekly,5745
-CAN,Canada,2021,34,weekly,5655
-CAN,Canada,2021,35,weekly,5835
-CAN,Canada,2021,36,weekly,6100
-CAN,Canada,2021,37,weekly,5985
-CAN,Canada,2021,38,weekly,5980
-CAN,Canada,2021,39,weekly,6065
-CAN,Canada,2021,40,weekly,6020
-CAN,Canada,2021,41,weekly,6195
-CAN,Canada,2021,42,weekly,6205
-CAN,Canada,2021,43,weekly,6075
-CAN,Canada,2021,44,weekly,6275
-CAN,Canada,2021,45,weekly,6390
-CAN,Canada,2021,46,weekly,6185
-CAN,Canada,2021,47,weekly,6265
-CAN,Canada,2021,48,weekly,6370
-CAN,Canada,2021,49,weekly,6235
-CAN,Canada,2021,50,weekly,6430
-CAN,Canada,2021,51,weekly,6550
-CAN,Canada,2021,52,weekly,6510
-CAN,Canada,2022,1,weekly,6980
-CAN,Canada,2022,2,weekly,7620
-CAN,Canada,2022,3,weekly,7925
-CAN,Canada,2022,4,weekly,7660
-CAN,Canada,2022,5,weekly,7360
-CAN,Canada,2022,6,weekly,7035
-CAN,Canada,2022,7,weekly,6640
-CAN,Canada,2022,8,weekly,6370
-CAN,Canada,2022,9,weekly,6265
-CAN,Canada,2022,10,weekly,6035
-CAN,Canada,2022,11,weekly,5950
-CAN,Canada,2022,12,weekly,5805
-CAN,Canada,2022,13,weekly,5760
-CAN,Canada,2022,14,weekly,6160
-CAN,Canada,2022,15,weekly,6040
-CAN,Canada,2022,16,weekly,6040
-CAN,Canada,2022,17,weekly,6020
-CAN,Canada,2022,18,weekly,6120
-CAN,Canada,2022,19,weekly,6305
-CAN,Canada,2022,20,weekly,5830
-CAN,Canada,2022,21,weekly,5685
-CAN,Canada,2022,22,weekly,5610
-CAN,Canada,2022,23,weekly,5535
-CAN,Canada,2022,24,weekly,5420
-CAN,Canada,2022,25,weekly,5230
-CAN,Canada,2022,26,weekly,5360
-CAN,Canada,2022,27,weekly,5325
-CAN,Canada,2022,28,weekly,5665
-CAN,Canada,2022,29,weekly,5585
-CAN,Canada,2022,30,weekly,5490
-CAN,Canada,2022,31,weekly,5430
-CAN,Canada,2022,32,weekly,5350
-CAN,Canada,2022,33,weekly,5310
+CAN,Canada,2021,33,weekly,5755
+CAN,Canada,2021,34,weekly,5660
+CAN,Canada,2021,35,weekly,5840
+CAN,Canada,2021,36,weekly,6105
+CAN,Canada,2021,37,weekly,5990
+CAN,Canada,2021,38,weekly,5985
+CAN,Canada,2021,39,weekly,6070
+CAN,Canada,2021,40,weekly,6025
+CAN,Canada,2021,41,weekly,6200
+CAN,Canada,2021,42,weekly,6210
+CAN,Canada,2021,43,weekly,6085
+CAN,Canada,2021,44,weekly,6285
+CAN,Canada,2021,45,weekly,6400
+CAN,Canada,2021,46,weekly,6195
+CAN,Canada,2021,47,weekly,6275
+CAN,Canada,2021,48,weekly,6380
+CAN,Canada,2021,49,weekly,6245
+CAN,Canada,2021,50,weekly,6435
+CAN,Canada,2021,51,weekly,6560
+CAN,Canada,2021,52,weekly,6530
+CAN,Canada,2022,1,weekly,7035
+CAN,Canada,2022,2,weekly,7610
+CAN,Canada,2022,3,weekly,7920
+CAN,Canada,2022,4,weekly,7670
+CAN,Canada,2022,5,weekly,7380
+CAN,Canada,2022,6,weekly,7045
+CAN,Canada,2022,7,weekly,6660
+CAN,Canada,2022,8,weekly,6380
+CAN,Canada,2022,9,weekly,6280
+CAN,Canada,2022,10,weekly,6065
+CAN,Canada,2022,11,weekly,5965
+CAN,Canada,2022,12,weekly,5825
+CAN,Canada,2022,13,weekly,5790
+CAN,Canada,2022,14,weekly,6195
+CAN,Canada,2022,15,weekly,6070
+CAN,Canada,2022,16,weekly,6065
+CAN,Canada,2022,17,weekly,6060
+CAN,Canada,2022,18,weekly,6175
+CAN,Canada,2022,19,weekly,6355
+CAN,Canada,2022,20,weekly,5885
+CAN,Canada,2022,21,weekly,5750
+CAN,Canada,2022,22,weekly,5690
+CAN,Canada,2022,23,weekly,5620
+CAN,Canada,2022,24,weekly,5485
+CAN,Canada,2022,25,weekly,5305
+CAN,Canada,2022,26,weekly,5540
+CAN,Canada,2022,27,weekly,5540
+CAN,Canada,2022,28,weekly,5855
+CAN,Canada,2022,29,weekly,5845
+CAN,Canada,2022,30,weekly,5785
+CAN,Canada,2022,31,weekly,5745
+CAN,Canada,2022,32,weekly,5745
+CAN,Canada,2022,33,weekly,5725
+CAN,Canada,2022,34,weekly,5505
+CAN,Canada,2022,35,weekly,5610
+CAN,Canada,2022,36,weekly,5390
+CAN,Canada,2022,37,weekly,5290
+CAN,Canada,2022,38,weekly,5375
+CAN,Canada,2022,39,weekly,5535
 CHL,Chile,2016,1,weekly,1884
 CHL,Chile,2016,2,weekly,1885
 CHL,Chile,2016,3,weekly,1916
@@ -5750,6 +5756,10 @@ CZE,Czechia,2022,44,weekly,2142
 CZE,Czechia,2022,45,weekly,2184
 CZE,Czechia,2022,46,weekly,2146
 CZE,Czechia,2022,47,weekly,2190
+CZE,Czechia,2022,48,weekly,2413
+CZE,Czechia,2022,49,weekly,2405
+CZE,Czechia,2022,50,weekly,2688
+CZE,Czechia,2022,51,weekly,2953
 DNK,Denmark,2015,1,weekly,1127
 DNK,Denmark,2015,2,weekly,1108
 DNK,Denmark,2015,3,weekly,1093
@@ -6752,7 +6762,7 @@ EGY,Egypt,2021,7,monthly,54861
 EGY,Egypt,2021,8,monthly,56235
 EGY,Egypt,2021,9,monthly,57300
 EGY,Egypt,2021,10,monthly,65500
-EGY,Egypt,2021,11,monthly,60180
+EGY,Egypt,2021,11,monthly,61200
 EGY,Egypt,2021,12,monthly,59726
 EGY,Egypt,2022,1,monthly,69000
 EGY,Egypt,2022,2,monthly,68100
@@ -6764,6 +6774,7 @@ EGY,Egypt,2022,7,monthly,45300
 EGY,Egypt,2022,8,monthly,48000
 EGY,Egypt,2022,9,monthly,42200
 EGY,Egypt,2022,10,monthly,48000
+EGY,Egypt,2022,11,monthly,46900
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -7348,6 +7359,7 @@ FRO,Faroe Islands,2022,8,monthly,43
 FRO,Faroe Islands,2022,9,monthly,31
 FRO,Faroe Islands,2022,10,monthly,29
 FRO,Faroe Islands,2022,11,monthly,34
+FRO,Faroe Islands,2022,12,monthly,37
 FIN,Finland,2015,1,weekly,1084
 FIN,Finland,2015,2,weekly,1159
 FIN,Finland,2015,3,weekly,1151
@@ -9786,6 +9798,9 @@ GRL,Greenland,2022,6,monthly,33
 GRL,Greenland,2022,7,monthly,43
 GRL,Greenland,2022,8,monthly,52
 GRL,Greenland,2022,9,monthly,39
+GRL,Greenland,2022,10,monthly,58
+GRL,Greenland,2022,11,monthly,44
+GRL,Greenland,2022,12,monthly,43
 GLP,Guadeloupe,2015,1,weekly,56
 GLP,Guadeloupe,2015,2,weekly,43
 GLP,Guadeloupe,2015,3,weekly,51
@@ -12882,6 +12897,11 @@ ITA,Italy,2022,40,weekly,12216
 ITA,Italy,2022,41,weekly,12122
 ITA,Italy,2022,42,weekly,12128
 ITA,Italy,2022,43,weekly,11980
+ITA,Italy,2022,44,weekly,12070
+ITA,Italy,2022,45,weekly,12865
+ITA,Italy,2022,46,weekly,13497
+ITA,Italy,2022,47,weekly,13676
+ITA,Italy,2022,48,weekly,14637
 JAM,Jamaica,2015,1,monthly,1735
 JAM,Jamaica,2015,2,monthly,1511
 JAM,Jamaica,2015,3,monthly,1517
@@ -15014,17 +15034,18 @@ MAC,Macao,2021,9,monthly,178
 MAC,Macao,2021,10,monthly,196
 MAC,Macao,2021,11,monthly,181
 MAC,Macao,2021,12,monthly,231
-MAC,Macao,2022,1,monthly,205
-MAC,Macao,2022,2,monthly,190
+MAC,Macao,2022,1,monthly,206
+MAC,Macao,2022,2,monthly,191
 MAC,Macao,2022,3,monthly,218
-MAC,Macao,2022,4,monthly,209
-MAC,Macao,2022,5,monthly,202
+MAC,Macao,2022,4,monthly,210
+MAC,Macao,2022,5,monthly,203
 MAC,Macao,2022,6,monthly,228
-MAC,Macao,2022,7,monthly,203
-MAC,Macao,2022,8,monthly,201
-MAC,Macao,2022,9,monthly,158
-MAC,Macao,2022,10,monthly,186
-MAC,Macao,2022,11,monthly,142
+MAC,Macao,2022,7,monthly,205
+MAC,Macao,2022,8,monthly,202
+MAC,Macao,2022,9,monthly,163
+MAC,Macao,2022,10,monthly,190
+MAC,Macao,2022,11,monthly,203
+MAC,Macao,2022,12,monthly,773
 MYS,Malaysia,2015,1,monthly,14073
 MYS,Malaysia,2015,2,monthly,12247
 MYS,Malaysia,2015,3,monthly,13397
@@ -17251,6 +17272,7 @@ MNG,Mongolia,2022,9,monthly,1490
 MNG,Mongolia,2022,10,monthly,1485
 MNG,Mongolia,2022,11,monthly,1472
 MNG,Mongolia,2022,12,monthly,1671
+MNG,Mongolia,2023,1,monthly,1430
 MNE,Montenegro,2015,1,weekly,142
 MNE,Montenegro,2015,2,weekly,140
 MNE,Montenegro,2015,3,weekly,148
@@ -19175,6 +19197,7 @@ NOR,Norway,2022,52,weekly,1125
 NOR,Norway,2023,1,weekly,1089
 NOR,Norway,2023,2,weekly,1044
 NOR,Norway,2023,3,weekly,888
+NOR,Norway,2023,4,weekly,859
 OMN,Oman,2015,1,monthly,732
 OMN,Oman,2015,2,monthly,550
 OMN,Oman,2015,3,monthly,602
@@ -21096,56 +21119,57 @@ PRI,Puerto Rico,2021,51,weekly,629
 PRI,Puerto Rico,2021,52,weekly,696
 PRI,Puerto Rico,2022,1,weekly,825
 PRI,Puerto Rico,2022,2,weekly,869
-PRI,Puerto Rico,2022,3,weekly,868
+PRI,Puerto Rico,2022,3,weekly,869
 PRI,Puerto Rico,2022,4,weekly,801
-PRI,Puerto Rico,2022,5,weekly,666
+PRI,Puerto Rico,2022,5,weekly,665
 PRI,Puerto Rico,2022,6,weekly,696
 PRI,Puerto Rico,2022,7,weekly,662
-PRI,Puerto Rico,2022,8,weekly,636
-PRI,Puerto Rico,2022,9,weekly,632
+PRI,Puerto Rico,2022,8,weekly,637
+PRI,Puerto Rico,2022,9,weekly,633
 PRI,Puerto Rico,2022,10,weekly,597
 PRI,Puerto Rico,2022,11,weekly,577
 PRI,Puerto Rico,2022,12,weekly,605
-PRI,Puerto Rico,2022,13,weekly,635
+PRI,Puerto Rico,2022,13,weekly,636
 PRI,Puerto Rico,2022,14,weekly,605
 PRI,Puerto Rico,2022,15,weekly,615
 PRI,Puerto Rico,2022,16,weekly,572
 PRI,Puerto Rico,2022,17,weekly,641
 PRI,Puerto Rico,2022,18,weekly,622
-PRI,Puerto Rico,2022,19,weekly,636
-PRI,Puerto Rico,2022,20,weekly,720
-PRI,Puerto Rico,2022,21,weekly,609
+PRI,Puerto Rico,2022,19,weekly,637
+PRI,Puerto Rico,2022,20,weekly,721
+PRI,Puerto Rico,2022,21,weekly,610
 PRI,Puerto Rico,2022,22,weekly,619
 PRI,Puerto Rico,2022,23,weekly,648
-PRI,Puerto Rico,2022,24,weekly,610
-PRI,Puerto Rico,2022,25,weekly,658
+PRI,Puerto Rico,2022,24,weekly,611
+PRI,Puerto Rico,2022,25,weekly,659
 PRI,Puerto Rico,2022,26,weekly,681
 PRI,Puerto Rico,2022,27,weekly,701
 PRI,Puerto Rico,2022,28,weekly,668
 PRI,Puerto Rico,2022,29,weekly,658
 PRI,Puerto Rico,2022,30,weekly,652
 PRI,Puerto Rico,2022,31,weekly,725
-PRI,Puerto Rico,2022,32,weekly,712
+PRI,Puerto Rico,2022,32,weekly,708
 PRI,Puerto Rico,2022,33,weekly,612
-PRI,Puerto Rico,2022,34,weekly,679
+PRI,Puerto Rico,2022,34,weekly,678
 PRI,Puerto Rico,2022,35,weekly,667
 PRI,Puerto Rico,2022,36,weekly,590
 PRI,Puerto Rico,2022,37,weekly,609
 PRI,Puerto Rico,2022,38,weekly,739
-PRI,Puerto Rico,2022,39,weekly,681
+PRI,Puerto Rico,2022,39,weekly,680
 PRI,Puerto Rico,2022,40,weekly,674
-PRI,Puerto Rico,2022,41,weekly,684
-PRI,Puerto Rico,2022,42,weekly,672
-PRI,Puerto Rico,2022,43,weekly,699
-PRI,Puerto Rico,2022,44,weekly,661
-PRI,Puerto Rico,2022,45,weekly,683
-PRI,Puerto Rico,2022,46,weekly,711
-PRI,Puerto Rico,2022,47,weekly,763
-PRI,Puerto Rico,2022,48,weekly,711
-PRI,Puerto Rico,2022,49,weekly,751
-PRI,Puerto Rico,2022,50,weekly,751
-PRI,Puerto Rico,2022,51,weekly,778
-PRI,Puerto Rico,2022,52,weekly,710
+PRI,Puerto Rico,2022,41,weekly,681
+PRI,Puerto Rico,2022,42,weekly,669
+PRI,Puerto Rico,2022,43,weekly,696
+PRI,Puerto Rico,2022,44,weekly,657
+PRI,Puerto Rico,2022,45,weekly,685
+PRI,Puerto Rico,2022,46,weekly,712
+PRI,Puerto Rico,2022,47,weekly,765
+PRI,Puerto Rico,2022,48,weekly,710
+PRI,Puerto Rico,2022,49,weekly,742
+PRI,Puerto Rico,2022,50,weekly,746
+PRI,Puerto Rico,2022,51,weekly,750
+PRI,Puerto Rico,2022,52,weekly,788
+PRI,Puerto Rico,2023,1,weekly,742
 QAT,Qatar,2015,1,monthly,210
 QAT,Qatar,2015,2,monthly,196
 QAT,Qatar,2015,3,monthly,191
@@ -21976,105 +22000,109 @@ ROU,Romania,2020,50,weekly,8172
 ROU,Romania,2020,51,weekly,7425
 ROU,Romania,2020,52,weekly,7425
 ROU,Romania,2020,53,weekly,7047
-ROU,Romania,2021,1,weekly,6783
-ROU,Romania,2021,2,weekly,6524
-ROU,Romania,2021,3,weekly,6975
-ROU,Romania,2021,4,weekly,6334
-ROU,Romania,2021,5,weekly,6281
-ROU,Romania,2021,6,weekly,5936
-ROU,Romania,2021,7,weekly,5961
-ROU,Romania,2021,8,weekly,5958
-ROU,Romania,2021,9,weekly,6239
-ROU,Romania,2021,10,weekly,6402
-ROU,Romania,2021,11,weekly,6851
-ROU,Romania,2021,12,weekly,7132
-ROU,Romania,2021,13,weekly,7214
-ROU,Romania,2021,14,weekly,7180
-ROU,Romania,2021,15,weekly,7141
-ROU,Romania,2021,16,weekly,6769
-ROU,Romania,2021,17,weekly,6485
-ROU,Romania,2021,18,weekly,5886
-ROU,Romania,2021,19,weekly,5596
-ROU,Romania,2021,20,weekly,5291
-ROU,Romania,2021,21,weekly,4961
-ROU,Romania,2021,22,weekly,4839
-ROU,Romania,2021,23,weekly,4864
-ROU,Romania,2021,24,weekly,4648
-ROU,Romania,2021,25,weekly,5518
-ROU,Romania,2021,26,weekly,4810
-ROU,Romania,2021,27,weekly,4674
-ROU,Romania,2021,28,weekly,4937
-ROU,Romania,2021,29,weekly,4628
-ROU,Romania,2021,30,weekly,4992
-ROU,Romania,2021,31,weekly,4848
-ROU,Romania,2021,32,weekly,4502
-ROU,Romania,2021,33,weekly,4659
-ROU,Romania,2021,34,weekly,4579
-ROU,Romania,2021,35,weekly,4673
-ROU,Romania,2021,36,weekly,5322
-ROU,Romania,2021,37,weekly,5959
-ROU,Romania,2021,38,weekly,6342
-ROU,Romania,2021,39,weekly,7454
-ROU,Romania,2021,40,weekly,9420
-ROU,Romania,2021,41,weekly,10797
-ROU,Romania,2021,42,weekly,11607
-ROU,Romania,2021,43,weekly,11323
-ROU,Romania,2021,44,weekly,10768
-ROU,Romania,2021,45,weekly,8875
-ROU,Romania,2021,46,weekly,7922
-ROU,Romania,2021,47,weekly,6921
-ROU,Romania,2021,48,weekly,6226
-ROU,Romania,2021,49,weekly,5892
-ROU,Romania,2021,50,weekly,5704
-ROU,Romania,2021,51,weekly,5809
-ROU,Romania,2021,52,weekly,5617
-ROU,Romania,2022,1,weekly,5837
-ROU,Romania,2022,2,weekly,5823
-ROU,Romania,2022,3,weekly,6036
-ROU,Romania,2022,4,weekly,6607
-ROU,Romania,2022,5,weekly,7398
-ROU,Romania,2022,6,weekly,7735
-ROU,Romania,2022,7,weekly,7676
-ROU,Romania,2022,8,weekly,6920
-ROU,Romania,2022,9,weekly,6376
-ROU,Romania,2022,10,weekly,6097
-ROU,Romania,2022,11,weekly,5663
-ROU,Romania,2022,12,weekly,5632
-ROU,Romania,2022,13,weekly,5843
-ROU,Romania,2022,14,weekly,5328
-ROU,Romania,2022,15,weekly,5264
-ROU,Romania,2022,16,weekly,4943
-ROU,Romania,2022,17,weekly,5035
-ROU,Romania,2022,18,weekly,4710
-ROU,Romania,2022,19,weekly,4827
-ROU,Romania,2022,20,weekly,4599
-ROU,Romania,2022,21,weekly,4384
-ROU,Romania,2022,22,weekly,4526
-ROU,Romania,2022,23,weekly,4307
-ROU,Romania,2022,24,weekly,4257
-ROU,Romania,2022,25,weekly,4433
-ROU,Romania,2022,26,weekly,4683
-ROU,Romania,2022,27,weekly,4484
-ROU,Romania,2022,28,weekly,4275
-ROU,Romania,2022,29,weekly,4743
-ROU,Romania,2022,30,weekly,5171
-ROU,Romania,2022,31,weekly,5069
-ROU,Romania,2022,32,weekly,4925
-ROU,Romania,2022,33,weekly,5133
-ROU,Romania,2022,34,weekly,4997
-ROU,Romania,2022,35,weekly,4649
-ROU,Romania,2022,36,weekly,4479
-ROU,Romania,2022,37,weekly,4401
-ROU,Romania,2022,38,weekly,4567
-ROU,Romania,2022,39,weekly,4850
-ROU,Romania,2022,40,weekly,4653
-ROU,Romania,2022,41,weekly,4725
-ROU,Romania,2022,42,weekly,4836
-ROU,Romania,2022,43,weekly,4644
-ROU,Romania,2022,44,weekly,4567
-ROU,Romania,2022,45,weekly,4481
-ROU,Romania,2022,46,weekly,4826
-ROU,Romania,2022,47,weekly,4675
+ROU,Romania,2021,1,weekly,6788
+ROU,Romania,2021,2,weekly,6531
+ROU,Romania,2021,3,weekly,6986
+ROU,Romania,2021,4,weekly,6339
+ROU,Romania,2021,5,weekly,6287
+ROU,Romania,2021,6,weekly,5952
+ROU,Romania,2021,7,weekly,5971
+ROU,Romania,2021,8,weekly,5967
+ROU,Romania,2021,9,weekly,6247
+ROU,Romania,2021,10,weekly,6410
+ROU,Romania,2021,11,weekly,6864
+ROU,Romania,2021,12,weekly,7142
+ROU,Romania,2021,13,weekly,7225
+ROU,Romania,2021,14,weekly,7193
+ROU,Romania,2021,15,weekly,7152
+ROU,Romania,2021,16,weekly,6782
+ROU,Romania,2021,17,weekly,6496
+ROU,Romania,2021,18,weekly,5891
+ROU,Romania,2021,19,weekly,5605
+ROU,Romania,2021,20,weekly,5303
+ROU,Romania,2021,21,weekly,4974
+ROU,Romania,2021,22,weekly,4847
+ROU,Romania,2021,23,weekly,4876
+ROU,Romania,2021,24,weekly,4662
+ROU,Romania,2021,25,weekly,5527
+ROU,Romania,2021,26,weekly,4818
+ROU,Romania,2021,27,weekly,4686
+ROU,Romania,2021,28,weekly,4948
+ROU,Romania,2021,29,weekly,4639
+ROU,Romania,2021,30,weekly,5007
+ROU,Romania,2021,31,weekly,4863
+ROU,Romania,2021,32,weekly,4511
+ROU,Romania,2021,33,weekly,4681
+ROU,Romania,2021,34,weekly,4600
+ROU,Romania,2021,35,weekly,4686
+ROU,Romania,2021,36,weekly,5337
+ROU,Romania,2021,37,weekly,5977
+ROU,Romania,2021,38,weekly,6364
+ROU,Romania,2021,39,weekly,7471
+ROU,Romania,2021,40,weekly,9448
+ROU,Romania,2021,41,weekly,10830
+ROU,Romania,2021,42,weekly,11641
+ROU,Romania,2021,43,weekly,11351
+ROU,Romania,2021,44,weekly,10808
+ROU,Romania,2021,45,weekly,8909
+ROU,Romania,2021,46,weekly,7957
+ROU,Romania,2021,47,weekly,6989
+ROU,Romania,2021,48,weekly,6273
+ROU,Romania,2021,49,weekly,5956
+ROU,Romania,2021,50,weekly,5754
+ROU,Romania,2021,51,weekly,5885
+ROU,Romania,2021,52,weekly,5748
+ROU,Romania,2022,1,weekly,5841
+ROU,Romania,2022,2,weekly,5829
+ROU,Romania,2022,3,weekly,6038
+ROU,Romania,2022,4,weekly,6615
+ROU,Romania,2022,5,weekly,7408
+ROU,Romania,2022,6,weekly,7746
+ROU,Romania,2022,7,weekly,7689
+ROU,Romania,2022,8,weekly,6934
+ROU,Romania,2022,9,weekly,6390
+ROU,Romania,2022,10,weekly,6103
+ROU,Romania,2022,11,weekly,5678
+ROU,Romania,2022,12,weekly,5642
+ROU,Romania,2022,13,weekly,5859
+ROU,Romania,2022,14,weekly,5344
+ROU,Romania,2022,15,weekly,5281
+ROU,Romania,2022,16,weekly,4964
+ROU,Romania,2022,17,weekly,5047
+ROU,Romania,2022,18,weekly,4728
+ROU,Romania,2022,19,weekly,4839
+ROU,Romania,2022,20,weekly,4611
+ROU,Romania,2022,21,weekly,4393
+ROU,Romania,2022,22,weekly,4548
+ROU,Romania,2022,23,weekly,4332
+ROU,Romania,2022,24,weekly,4277
+ROU,Romania,2022,25,weekly,4451
+ROU,Romania,2022,26,weekly,4712
+ROU,Romania,2022,27,weekly,4502
+ROU,Romania,2022,28,weekly,4294
+ROU,Romania,2022,29,weekly,4770
+ROU,Romania,2022,30,weekly,5191
+ROU,Romania,2022,31,weekly,5076
+ROU,Romania,2022,32,weekly,4932
+ROU,Romania,2022,33,weekly,5142
+ROU,Romania,2022,34,weekly,5012
+ROU,Romania,2022,35,weekly,4663
+ROU,Romania,2022,36,weekly,4494
+ROU,Romania,2022,37,weekly,4418
+ROU,Romania,2022,38,weekly,4589
+ROU,Romania,2022,39,weekly,4861
+ROU,Romania,2022,40,weekly,4675
+ROU,Romania,2022,41,weekly,4745
+ROU,Romania,2022,42,weekly,4861
+ROU,Romania,2022,43,weekly,4689
+ROU,Romania,2022,44,weekly,4650
+ROU,Romania,2022,45,weekly,4576
+ROU,Romania,2022,46,weekly,4935
+ROU,Romania,2022,47,weekly,4812
+ROU,Romania,2022,48,weekly,4650
+ROU,Romania,2022,49,weekly,5062
+ROU,Romania,2022,50,weekly,4932
+ROU,Romania,2022,51,weekly,5083
 RUS,Russia,2015,1,monthly,176303.6
 RUS,Russia,2015,2,monthly,158059.7
 RUS,Russia,2015,3,monthly,173232.2
@@ -22429,6 +22457,7 @@ SMR,San Marino,2022,8,monthly,24
 SMR,San Marino,2022,9,monthly,15
 SMR,San Marino,2022,10,monthly,25
 SMR,San Marino,2022,11,monthly,19
+SMR,San Marino,2022,12,monthly,20
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
@@ -23534,6 +23563,11 @@ SVN,Slovenia,2022,47,weekly,455
 SVN,Slovenia,2022,48,weekly,431
 SVN,Slovenia,2022,49,weekly,466
 SVN,Slovenia,2022,50,weekly,484
+SVN,Slovenia,2022,51,weekly,563
+SVN,Slovenia,2022,52,weekly,541
+SVN,Slovenia,2023,1,weekly,534
+SVN,Slovenia,2023,2,weekly,493
+SVN,Slovenia,2023,3,weekly,492
 ZAF,South Africa,2015,1,weekly,10001
 ZAF,South Africa,2015,2,weekly,9603
 ZAF,South Africa,2015,3,weekly,9098
@@ -25765,6 +25799,7 @@ TWN,Taiwan,2022,9,monthly,16505
 TWN,Taiwan,2022,10,monthly,17099
 TWN,Taiwan,2022,11,monthly,17719
 TWN,Taiwan,2022,12,monthly,17685
+TWN,Taiwan,2023,1,monthly,17770
 TJK,Tajikistan,2015,1,monthly,3346
 TJK,Tajikistan,2015,2,monthly,2871
 TJK,Tajikistan,2015,3,monthly,3018
@@ -26916,109 +26951,110 @@ USA,United States,2020,51,weekly,82944
 USA,United States,2020,52,weekly,84373
 USA,United States,2020,53,weekly,87035
 USA,United States,2021,1,weekly,87074
-USA,United States,2021,2,weekly,87415
-USA,United States,2021,3,weekly,83703
+USA,United States,2021,2,weekly,87436
+USA,United States,2021,3,weekly,83682
 USA,United States,2021,4,weekly,79202
-USA,United States,2021,5,weekly,76528
+USA,United States,2021,5,weekly,76514
 USA,United States,2021,6,weekly,71513
 USA,United States,2021,7,weekly,69515
-USA,United States,2021,8,weekly,66740
-USA,United States,2021,9,weekly,63703
+USA,United States,2021,8,weekly,66754
+USA,United States,2021,9,weekly,63727
 USA,United States,2021,10,weekly,61867
-USA,United States,2021,11,weekly,60398
+USA,United States,2021,11,weekly,60374
 USA,United States,2021,12,weekly,60817
 USA,United States,2021,13,weekly,58699
 USA,United States,2021,14,weekly,60998
-USA,United States,2021,15,weekly,59149
-USA,United States,2021,16,weekly,60285
+USA,United States,2021,15,weekly,59174
+USA,United States,2021,16,weekly,60260
 USA,United States,2021,17,weekly,59833
 USA,United States,2021,18,weekly,59014
-USA,United States,2021,19,weekly,58484
+USA,United States,2021,19,weekly,58469
 USA,United States,2021,20,weekly,58760
-USA,United States,2021,21,weekly,57343
-USA,United States,2021,22,weekly,57478
+USA,United States,2021,21,weekly,57358
+USA,United States,2021,22,weekly,57459
 USA,United States,2021,23,weekly,57160
 USA,United States,2021,24,weekly,57243
 USA,United States,2021,25,weekly,56933
-USA,United States,2021,26,weekly,57530
+USA,United States,2021,26,weekly,57549
 USA,United States,2021,27,weekly,57219
 USA,United States,2021,28,weekly,57217
 USA,United States,2021,29,weekly,58475
 USA,United States,2021,30,weekly,60317
-USA,United States,2021,31,weekly,63800
+USA,United States,2021,31,weekly,63820
 USA,United States,2021,32,weekly,67050
-USA,United States,2021,33,weekly,69982
+USA,United States,2021,33,weekly,69962
 USA,United States,2021,34,weekly,72188
 USA,United States,2021,35,weekly,73524
 USA,United States,2021,36,weekly,73745
 USA,United States,2021,37,weekly,73335
 USA,United States,2021,38,weekly,72188
 USA,United States,2021,39,weekly,71350
-USA,United States,2021,40,weekly,69136
+USA,United States,2021,40,weekly,69160
 USA,United States,2021,41,weekly,67551
-USA,United States,2021,42,weekly,67088
+USA,United States,2021,42,weekly,67064
 USA,United States,2021,43,weekly,66479
 USA,United States,2021,44,weekly,66623
-USA,United States,2021,45,weekly,67492
-USA,United States,2021,46,weekly,66964
+USA,United States,2021,45,weekly,67467
+USA,United States,2021,46,weekly,66989
 USA,United States,2021,47,weekly,67969
-USA,United States,2021,48,weekly,70204
+USA,United States,2021,48,weekly,70184
 USA,United States,2021,49,weekly,72148
 USA,United States,2021,50,weekly,71335
 USA,United States,2021,51,weekly,72326
-USA,United States,2021,52,weekly,74434
-USA,United States,2022,1,weekly,79829
-USA,United States,2022,2,weekly,85062
-USA,United States,2022,3,weekly,85666
-USA,United States,2022,4,weekly,85042
-USA,United States,2022,5,weekly,81179
-USA,United States,2022,6,weekly,77068
-USA,United States,2022,7,weekly,70830
-USA,United States,2022,8,weekly,66033
-USA,United States,2022,9,weekly,64433
-USA,United States,2022,10,weekly,61822
-USA,United States,2022,11,weekly,60537
-USA,United States,2022,12,weekly,58589
-USA,United States,2022,13,weekly,58037
-USA,United States,2022,14,weekly,57784
-USA,United States,2022,15,weekly,57790
-USA,United States,2022,16,weekly,56737
-USA,United States,2022,17,weekly,57371
-USA,United States,2022,18,weekly,57569
-USA,United States,2022,19,weekly,57960
-USA,United States,2022,20,weekly,57731
-USA,United States,2022,21,weekly,57152
-USA,United States,2022,22,weekly,57673
-USA,United States,2022,23,weekly,58126
-USA,United States,2022,24,weekly,57868
-USA,United States,2022,25,weekly,58394
-USA,United States,2022,26,weekly,58185
-USA,United States,2022,27,weekly,58236
-USA,United States,2022,28,weekly,58541
-USA,United States,2022,29,weekly,59861
-USA,United States,2022,30,weekly,58836
-USA,United States,2022,31,weekly,59263
-USA,United States,2022,32,weekly,59002
-USA,United States,2022,33,weekly,58820
-USA,United States,2022,34,weekly,58641
-USA,United States,2022,35,weekly,58455
-USA,United States,2022,36,weekly,59026
-USA,United States,2022,37,weekly,58574
-USA,United States,2022,38,weekly,59069
-USA,United States,2022,39,weekly,58845
-USA,United States,2022,40,weekly,59828
-USA,United States,2022,41,weekly,59983
-USA,United States,2022,42,weekly,60302
-USA,United States,2022,43,weekly,60251
-USA,United States,2022,44,weekly,61131
-USA,United States,2022,45,weekly,61139
-USA,United States,2022,46,weekly,61671
-USA,United States,2022,47,weekly,64426
-USA,United States,2022,48,weekly,65519
-USA,United States,2022,49,weekly,66430
-USA,United States,2022,50,weekly,65305
-USA,United States,2022,51,weekly,65962
-USA,United States,2022,52,weekly,67176
+USA,United States,2021,52,weekly,74454
+USA,United States,2022,1,weekly,79830
+USA,United States,2022,2,weekly,85095
+USA,United States,2022,3,weekly,85639
+USA,United States,2022,4,weekly,85047
+USA,United States,2022,5,weekly,81185
+USA,United States,2022,6,weekly,77076
+USA,United States,2022,7,weekly,70831
+USA,United States,2022,8,weekly,66037
+USA,United States,2022,9,weekly,64437
+USA,United States,2022,10,weekly,61825
+USA,United States,2022,11,weekly,60540
+USA,United States,2022,12,weekly,58592
+USA,United States,2022,13,weekly,58024
+USA,United States,2022,14,weekly,57763
+USA,United States,2022,15,weekly,57816
+USA,United States,2022,16,weekly,56740
+USA,United States,2022,17,weekly,57373
+USA,United States,2022,18,weekly,57547
+USA,United States,2022,19,weekly,57990
+USA,United States,2022,20,weekly,57735
+USA,United States,2022,21,weekly,57154
+USA,United States,2022,22,weekly,57675
+USA,United States,2022,23,weekly,58116
+USA,United States,2022,24,weekly,57891
+USA,United States,2022,25,weekly,58400
+USA,United States,2022,26,weekly,58193
+USA,United States,2022,27,weekly,58243
+USA,United States,2022,28,weekly,58526
+USA,United States,2022,29,weekly,59866
+USA,United States,2022,30,weekly,58848
+USA,United States,2022,31,weekly,59276
+USA,United States,2022,32,weekly,58703
+USA,United States,2022,33,weekly,58834
+USA,United States,2022,34,weekly,58649
+USA,United States,2022,35,weekly,58457
+USA,United States,2022,36,weekly,59047
+USA,United States,2022,37,weekly,58597
+USA,United States,2022,38,weekly,59082
+USA,United States,2022,39,weekly,58911
+USA,United States,2022,40,weekly,59891
+USA,United States,2022,41,weekly,60053
+USA,United States,2022,42,weekly,60362
+USA,United States,2022,43,weekly,60324
+USA,United States,2022,44,weekly,61222
+USA,United States,2022,45,weekly,61215
+USA,United States,2022,46,weekly,61798
+USA,United States,2022,47,weekly,64620
+USA,United States,2022,48,weekly,65782
+USA,United States,2022,49,weekly,66826
+USA,United States,2022,50,weekly,65928
+USA,United States,2022,51,weekly,66958
+USA,United States,2022,52,weekly,68546
+USA,United States,2023,1,weekly,66082
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
