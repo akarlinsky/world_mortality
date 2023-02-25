@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
-We are currently providing data for 122 countries and territories.   
+We are currently providing data for 124 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -553,6 +553,10 @@ Social and economic development of the PMR: http://mer.gospmr.org/deyatelnost/go
 2015 onward: Tunisia National Institute of statistics Monthly Bulletin: http://www.ins.tn/en/publication/statistics-monthly-bulletin-february-2022
 
 
+### Turkey (monthly)
+2015 onward: Turkish Statistical Institute (TUIK) Death Statistics by month and year:
+https://biruni.tuik.gov.tr/medas/?kn=114&locale=en
+
 
 ### Uruguay (monthly)
 2015 - 2020: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
@@ -572,13 +576,10 @@ Access by: Statistical Information -> Population and migration -> Number of live
 
 2019 data can be found following links from: http://www.ukrstat.gov.ua/express/expr2020/expres_2020.html
 
+### United Arab Emirates (monthly)
+2018 onward: UNData http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a784&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
-### Uzbekistan (monthly)
-2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
-
-2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
-
-2021: https://stat.uz/images/uploads/reliz2021/demogpressreliz270122uz3.pdf
+Note: UNData reports 1,338 deaths in "unknown month" for 2019. These were distributed equally between months. These are provided with one decimal digit, to emphasize this correction.
 
 
 ### United States (weekly)
@@ -588,6 +589,13 @@ From 2017: Centers for Disease Control and Prevention: https://data.cdc.gov/api/
 We use the 'predicted' (weighted) time series that accounts for underreporting in recent weeks. See https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm for more information.  
 We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/grasp/fluview/mortality.html as being <90% complete.
 
+
+### Uzbekistan (monthly)
+2015 to 2018: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
+
+2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
+
+2021: https://stat.uz/images/uploads/reliz2021/demogpressreliz270122uz3.pdf
 ----------------------------
 
 ## Currently unused sources
