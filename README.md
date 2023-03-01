@@ -278,11 +278,11 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 
 ### Ireland (monthly)
-2015 - 2019: Ireland Central Statistics Office (CSO) - Measuring Mortality Using Public Data Sources 2019-2021: https://data.cso.ie/table/RIP02
+2015 - 2020: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: https://data.cso.ie/table/VSD39
 
-2020 onward: CSO PxStat Daily Deaths: https://data.cso.ie/table/RIP02
+2021 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02), aggregated to monthly.
 
-2015 to 2018 are official monthly data from CSO, 2019 onward is from the above CSO study which crawls and corrects [rip.ie](rip.ie) for up-to-date death notices. Note that These figures are preliminary and might change.
+Note that figures from rip.ie are preliminary and might change.
 
 
 ### Israel (weekly)
