@@ -596,6 +596,7 @@ We remove the last weeks (usually two) that are marked at https://gis.cdc.gov/gr
 2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf
 
 2021: https://stat.uz/images/uploads/reliz2021/demogpressreliz270122uz3.pdf
+
 ----------------------------
 
 ## Currently unused sources
