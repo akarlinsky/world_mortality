@@ -153,9 +153,9 @@ July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401
 ### Brazil (monthly)
 2015 to 2019: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sim-1979-2019 
 
-2020 - 2021: https://opendatasus.saude.gov.br/dataset/sim-2020-2021
+2020 - July 2022: https://opendatasus.saude.gov.br/dataset/sim-2020-2021
 
-2022 May onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
+2022 August onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
 In order to account for this, the 2022 monthly counts from the RC are corrected using the ratio between total deaths in SIM 2020 (1,581,645) to total deaths in RC 2020 (1,475,561). 
 
@@ -280,7 +280,7 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 ### Ireland (monthly)
 2015 - 2020: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: https://data.cso.ie/table/VSD39
 
-2021 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02), aggregated to monthly.
+2021 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02)), aggregated to monthly.
 
 Note that figures from rip.ie are preliminary and might change.
 
