@@ -517,7 +517,7 @@ Starting with 2022, there are no data by date of death yet available, we we are 
 ### Suriname (monthly)
 2015 to 2019: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-2020: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
+2020 onward: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
 
 ### Sweden (weekly)
 Statistics Sweden - Preliminary Statistics on Deaths (2015 onward, daily):
@@ -537,7 +537,7 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 
 
 ### Tajikistan (monthly)
-2015 to 2020: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released). 
+2015 to 2021: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released). 
 
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
