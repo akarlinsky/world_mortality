@@ -62,7 +62,7 @@ French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: https://ec.europa.eu/e
 
 
 ### Andorra (monthly)
-2015 to 2020: Email correspondence with [Andorra Department of Statistics](https://www.estadistica.ad/serveiestudis/web/index.asp?lang=1). 
+2015 to 2021: Email correspondence with [Andorra Department of Statistics](https://www.estadistica.ad/serveiestudis/web/index.asp?lang=1). 
 
 See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/noticies/noticia5913cat.pdf 
 
@@ -74,7 +74,7 @@ See publication on Natural Movement: https://www.estadistica.ad/serveiestudis/no
 ### Argentina (monthly)
 2015 to 2021: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-Notes: (1) December 2020 deaths are low due to registration in 2021. We have adjusted it to match 2020 from the vital statistics report (https://www.argentina.gob.ar/sites/default/files/serie5numero64_web.pdf).     
+Notes: (1) December 2021 deaths are low due to registration in 2022. We have adjusted it to match 2021 total from the [2021 vital statistics report](https://bancos.salud.gob.ar/recurso/estadisticas-vitales-informacion-basica-argentina-ano-2021).     
 (2) All years except 2016 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 
