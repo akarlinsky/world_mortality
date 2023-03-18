@@ -1499,6 +1499,7 @@ AZE,Azerbaijan,2022,9,monthly,4614
 AZE,Azerbaijan,2022,10,monthly,4085
 AZE,Azerbaijan,2022,11,monthly,5224
 AZE,Azerbaijan,2022,12,monthly,5129
+AZE,Azerbaijan,2023,1,monthly,5810
 BHS,Bahamas,2015,1,monthly,199
 BHS,Bahamas,2015,2,monthly,209
 BHS,Bahamas,2015,3,monthly,196
@@ -7447,6 +7448,7 @@ FRO,Faroe Islands,2022,9,monthly,31
 FRO,Faroe Islands,2022,10,monthly,29
 FRO,Faroe Islands,2022,11,monthly,34
 FRO,Faroe Islands,2022,12,monthly,37
+FRO,Faroe Islands,2023,1,monthly,41
 FIN,Finland,2015,1,weekly,1084
 FIN,Finland,2015,2,weekly,1159
 FIN,Finland,2015,3,weekly,1151
@@ -12565,15 +12567,15 @@ ISR,Israel,2022,2,weekly,1212
 ISR,Israel,2022,3,weekly,1394
 ISR,Israel,2022,4,weekly,1489
 ISR,Israel,2022,5,weekly,1568
-ISR,Israel,2022,6,weekly,1459
-ISR,Israel,2022,7,weekly,1288
+ISR,Israel,2022,6,weekly,1460
+ISR,Israel,2022,7,weekly,1287
 ISR,Israel,2022,8,weekly,1195
 ISR,Israel,2022,9,weekly,1105
 ISR,Israel,2022,10,weekly,1020
 ISR,Israel,2022,11,weekly,1029
 ISR,Israel,2022,12,weekly,1017
 ISR,Israel,2022,13,weekly,1134
-ISR,Israel,2022,14,weekly,1063
+ISR,Israel,2022,14,weekly,1064
 ISR,Israel,2022,15,weekly,891
 ISR,Israel,2022,16,weekly,923
 ISR,Israel,2022,17,weekly,926
@@ -12587,7 +12589,7 @@ ISR,Israel,2022,24,weekly,865
 ISR,Israel,2022,25,weekly,834
 ISR,Israel,2022,26,weekly,921
 ISR,Israel,2022,27,weekly,963
-ISR,Israel,2022,28,weekly,926
+ISR,Israel,2022,28,weekly,927
 ISR,Israel,2022,29,weekly,940
 ISR,Israel,2022,30,weekly,981
 ISR,Israel,2022,31,weekly,899
@@ -12600,7 +12602,7 @@ ISR,Israel,2022,37,weekly,841
 ISR,Israel,2022,38,weekly,851
 ISR,Israel,2022,39,weekly,900
 ISR,Israel,2022,40,weekly,922
-ISR,Israel,2022,41,weekly,866
+ISR,Israel,2022,41,weekly,867
 ISR,Israel,2022,42,weekly,883
 ISR,Israel,2022,43,weekly,887
 ISR,Israel,2022,44,weekly,880
@@ -12608,15 +12610,16 @@ ISR,Israel,2022,45,weekly,896
 ISR,Israel,2022,46,weekly,873
 ISR,Israel,2022,47,weekly,927
 ISR,Israel,2022,48,weekly,937
-ISR,Israel,2022,49,weekly,947
-ISR,Israel,2022,50,weekly,1057
+ISR,Israel,2022,49,weekly,948
+ISR,Israel,2022,50,weekly,1058
 ISR,Israel,2022,51,weekly,1018
-ISR,Israel,2022,52,weekly,1010
-ISR,Israel,2023,1,weekly,1089
-ISR,Israel,2023,2,weekly,1031
-ISR,Israel,2023,3,weekly,1056
-ISR,Israel,2023,4,weekly,1101
-ISR,Israel,2023,5,weekly,966
+ISR,Israel,2022,52,weekly,1013
+ISR,Israel,2023,1,weekly,1093
+ISR,Israel,2023,2,weekly,1033
+ISR,Israel,2023,3,weekly,1063
+ISR,Israel,2023,4,weekly,1108
+ISR,Israel,2023,5,weekly,989
+ISR,Israel,2023,6,weekly,993
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -13647,8 +13650,8 @@ KGZ,Kyrgyzstan,2021,9,monthly,3307
 KGZ,Kyrgyzstan,2021,10,monthly,3257
 KGZ,Kyrgyzstan,2021,11,monthly,3381
 KGZ,Kyrgyzstan,2021,12,monthly,3590
-KGZ,Kyrgyzstan,2022,1,monthly,2671
-KGZ,Kyrgyzstan,2022,2,monthly,3177
+KGZ,Kyrgyzstan,2022,1,monthly,2871
+KGZ,Kyrgyzstan,2022,2,monthly,2977
 KGZ,Kyrgyzstan,2022,3,monthly,2955
 KGZ,Kyrgyzstan,2022,4,monthly,2924
 KGZ,Kyrgyzstan,2022,5,monthly,1951
@@ -13659,6 +13662,7 @@ KGZ,Kyrgyzstan,2022,9,monthly,2799
 KGZ,Kyrgyzstan,2022,10,monthly,1656
 KGZ,Kyrgyzstan,2022,11,monthly,931
 KGZ,Kyrgyzstan,2022,12,monthly,3169
+KGZ,Kyrgyzstan,2023,1,monthly,2817
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -22678,6 +22682,7 @@ SMR,San Marino,2022,9,monthly,15
 SMR,San Marino,2022,10,monthly,25
 SMR,San Marino,2022,11,monthly,19
 SMR,San Marino,2022,12,monthly,20
+SMR,San Marino,2023,1,monthly,28
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
@@ -23376,6 +23381,9 @@ SVK,Slovakia,2022,52,weekly,1287
 SVK,Slovakia,2023,1,weekly,1230
 SVK,Slovakia,2023,2,weekly,1148
 SVK,Slovakia,2023,3,weekly,1113
+SVK,Slovakia,2023,4,weekly,1016
+SVK,Slovakia,2023,5,weekly,1039
+SVK,Slovakia,2023,6,weekly,1010
 SVN,Slovenia,2015,1,weekly,408
 SVN,Slovenia,2015,2,weekly,407
 SVN,Slovenia,2015,3,weekly,453
@@ -25033,6 +25041,10 @@ ESP,Spain,2023,1,weekly,9950
 ESP,Spain,2023,2,weekly,9836
 ESP,Spain,2023,3,weekly,9517
 ESP,Spain,2023,4,weekly,9231
+ESP,Spain,2023,5,weekly,10152
+ESP,Spain,2023,6,weekly,10146
+ESP,Spain,2023,7,weekly,9659
+ESP,Spain,2023,8,weekly,9155
 SUR,Suriname,2015,1,monthly,329
 SUR,Suriname,2015,2,monthly,284
 SUR,Suriname,2015,3,monthly,324
