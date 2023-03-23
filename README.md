@@ -328,7 +328,7 @@ We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
 
 ### Kuwait (monthly)
-2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths 2015 - 2020](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201).
+2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201).
 
 
 

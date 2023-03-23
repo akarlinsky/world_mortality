@@ -2525,6 +2525,9 @@ BIH,Bosnia,2022,6,monthly,2705
 BIH,Bosnia,2022,7,monthly,2779
 BIH,Bosnia,2022,8,monthly,3182
 BIH,Bosnia,2022,9,monthly,3075
+BIH,Bosnia,2022,10,monthly,2864
+BIH,Bosnia,2022,11,monthly,2887
+BIH,Bosnia,2022,12,monthly,3227
 BRA,Brazil,2015,1,monthly,106695
 BRA,Brazil,2015,2,monthly,90612
 BRA,Brazil,2015,3,monthly,102473
@@ -16317,6 +16320,12 @@ MUS,Mauritius,2022,3,monthly,1306
 MUS,Mauritius,2022,4,monthly,980
 MUS,Mauritius,2022,5,monthly,1008
 MUS,Mauritius,2022,6,monthly,1020
+MUS,Mauritius,2022,7,monthly,1252
+MUS,Mauritius,2022,8,monthly,1201
+MUS,Mauritius,2022,9,monthly,1002
+MUS,Mauritius,2022,10,monthly,1002
+MUS,Mauritius,2022,11,monthly,970
+MUS,Mauritius,2022,12,monthly,992
 MYT,Mayotte,2015,1,weekly,8
 MYT,Mayotte,2015,2,weekly,12
 MYT,Mayotte,2015,3,weekly,13
@@ -21329,8 +21338,8 @@ PRI,Puerto Rico,2022,2,weekly,869
 PRI,Puerto Rico,2022,3,weekly,869
 PRI,Puerto Rico,2022,4,weekly,801
 PRI,Puerto Rico,2022,5,weekly,665
-PRI,Puerto Rico,2022,6,weekly,697
-PRI,Puerto Rico,2022,7,weekly,662
+PRI,Puerto Rico,2022,6,weekly,696
+PRI,Puerto Rico,2022,7,weekly,663
 PRI,Puerto Rico,2022,8,weekly,636
 PRI,Puerto Rico,2022,9,weekly,633
 PRI,Puerto Rico,2022,10,weekly,598
@@ -21361,27 +21370,28 @@ PRI,Puerto Rico,2022,34,weekly,674
 PRI,Puerto Rico,2022,35,weekly,664
 PRI,Puerto Rico,2022,36,weekly,586
 PRI,Puerto Rico,2022,37,weekly,605
-PRI,Puerto Rico,2022,38,weekly,739
+PRI,Puerto Rico,2022,38,weekly,734
 PRI,Puerto Rico,2022,39,weekly,679
 PRI,Puerto Rico,2022,40,weekly,672
 PRI,Puerto Rico,2022,41,weekly,678
 PRI,Puerto Rico,2022,42,weekly,668
 PRI,Puerto Rico,2022,43,weekly,689
-PRI,Puerto Rico,2022,44,weekly,648
-PRI,Puerto Rico,2022,45,weekly,671
+PRI,Puerto Rico,2022,44,weekly,647
+PRI,Puerto Rico,2022,45,weekly,669
 PRI,Puerto Rico,2022,46,weekly,700
-PRI,Puerto Rico,2022,47,weekly,755
-PRI,Puerto Rico,2022,48,weekly,706
-PRI,Puerto Rico,2022,49,weekly,739
-PRI,Puerto Rico,2022,50,weekly,741
-PRI,Puerto Rico,2022,51,weekly,741
+PRI,Puerto Rico,2022,47,weekly,752
+PRI,Puerto Rico,2022,48,weekly,703
+PRI,Puerto Rico,2022,49,weekly,735
+PRI,Puerto Rico,2022,50,weekly,735
+PRI,Puerto Rico,2022,51,weekly,742
 PRI,Puerto Rico,2022,52,weekly,742
 PRI,Puerto Rico,2023,1,weekly,703
-PRI,Puerto Rico,2023,2,weekly,775
-PRI,Puerto Rico,2023,3,weekly,730
-PRI,Puerto Rico,2023,4,weekly,748
-PRI,Puerto Rico,2023,5,weekly,772
-PRI,Puerto Rico,2023,6,weekly,781
+PRI,Puerto Rico,2023,2,weekly,772
+PRI,Puerto Rico,2023,3,weekly,720
+PRI,Puerto Rico,2023,4,weekly,736
+PRI,Puerto Rico,2023,5,weekly,727
+PRI,Puerto Rico,2023,6,weekly,799
+PRI,Puerto Rico,2023,7,weekly,802
 QAT,Qatar,2015,1,monthly,210
 QAT,Qatar,2015,2,monthly,196
 QAT,Qatar,2015,3,monthly,191
@@ -27416,62 +27426,64 @@ USA,United States,2021,49,weekly,72150
 USA,United States,2021,50,weekly,71335
 USA,United States,2021,51,weekly,72326
 USA,United States,2021,52,weekly,74436
-USA,United States,2022,1,weekly,79815
-USA,United States,2022,2,weekly,85071
-USA,United States,2022,3,weekly,85680
-USA,United States,2022,4,weekly,85054
-USA,United States,2022,5,weekly,81226
-USA,United States,2022,6,weekly,77110
-USA,United States,2022,7,weekly,70842
-USA,United States,2022,8,weekly,66025
-USA,United States,2022,9,weekly,64469
-USA,United States,2022,10,weekly,61860
-USA,United States,2022,11,weekly,60549
-USA,United States,2022,12,weekly,58581
-USA,United States,2022,13,weekly,58034
-USA,United States,2022,14,weekly,57779
-USA,United States,2022,15,weekly,57833
-USA,United States,2022,16,weekly,56748
-USA,United States,2022,17,weekly,57386
-USA,United States,2022,18,weekly,57584
-USA,United States,2022,19,weekly,57974
-USA,United States,2022,20,weekly,57778
-USA,United States,2022,21,weekly,57172
-USA,United States,2022,22,weekly,57666
-USA,United States,2022,23,weekly,58138
-USA,United States,2022,24,weekly,57891
-USA,United States,2022,25,weekly,58424
-USA,United States,2022,26,weekly,58213
+USA,United States,2022,1,weekly,79813
+USA,United States,2022,2,weekly,85101
+USA,United States,2022,3,weekly,85651
+USA,United States,2022,4,weekly,85089
+USA,United States,2022,5,weekly,81202
+USA,United States,2022,6,weekly,77092
+USA,United States,2022,7,weekly,70861
+USA,United States,2022,8,weekly,66027
+USA,United States,2022,9,weekly,64452
+USA,United States,2022,10,weekly,61861
+USA,United States,2022,11,weekly,60555
+USA,United States,2022,12,weekly,58583
+USA,United States,2022,13,weekly,58053
+USA,United States,2022,14,weekly,57781
+USA,United States,2022,15,weekly,57835
+USA,United States,2022,16,weekly,56774
+USA,United States,2022,17,weekly,57365
+USA,United States,2022,18,weekly,57560
+USA,United States,2022,19,weekly,58001
+USA,United States,2022,20,weekly,57755
+USA,United States,2022,21,weekly,57199
+USA,United States,2022,22,weekly,57687
+USA,United States,2022,23,weekly,58143
+USA,United States,2022,24,weekly,57892
+USA,United States,2022,25,weekly,58422
+USA,United States,2022,26,weekly,58216
 USA,United States,2022,27,weekly,58265
-USA,United States,2022,28,weekly,58568
-USA,United States,2022,29,weekly,59911
-USA,United States,2022,30,weekly,58867
-USA,United States,2022,31,weekly,59327
-USA,United States,2022,32,weekly,58719
-USA,United States,2022,33,weekly,58540
-USA,United States,2022,34,weekly,58368
-USA,United States,2022,35,weekly,58222
-USA,United States,2022,36,weekly,58753
-USA,United States,2022,37,weekly,58303
-USA,United States,2022,38,weekly,59154
-USA,United States,2022,39,weekly,58950
-USA,United States,2022,40,weekly,59991
-USA,United States,2022,41,weekly,60145
-USA,United States,2022,42,weekly,60478
-USA,United States,2022,43,weekly,60439
-USA,United States,2022,44,weekly,61436
-USA,United States,2022,45,weekly,61398
-USA,United States,2022,46,weekly,62073
-USA,United States,2022,47,weekly,64957
-USA,United States,2022,48,weekly,66156
-USA,United States,2022,49,weekly,67379
-USA,United States,2022,50,weekly,66761
-USA,United States,2022,51,weekly,68251
-USA,United States,2022,52,weekly,70446
-USA,United States,2023,1,weekly,69192
-USA,United States,2023,2,weekly,66480
-USA,United States,2023,3,weekly,64212
-USA,United States,2023,4,weekly,62220
+USA,United States,2022,28,weekly,58570
+USA,United States,2022,29,weekly,59894
+USA,United States,2022,30,weekly,58894
+USA,United States,2022,31,weekly,59309
+USA,United States,2022,32,weekly,58747
+USA,United States,2022,33,weekly,58545
+USA,United States,2022,34,weekly,58377
+USA,United States,2022,35,weekly,58186
+USA,United States,2022,36,weekly,58783
+USA,United States,2022,37,weekly,58299
+USA,United States,2022,38,weekly,58829
+USA,United States,2022,39,weekly,58958
+USA,United States,2022,40,weekly,59975
+USA,United States,2022,41,weekly,60133
+USA,United States,2022,42,weekly,60512
+USA,United States,2022,43,weekly,60469
+USA,United States,2022,44,weekly,61458
+USA,United States,2022,45,weekly,61401
+USA,United States,2022,46,weekly,62093
+USA,United States,2022,47,weekly,65021
+USA,United States,2022,48,weekly,66183
+USA,United States,2022,49,weekly,67415
+USA,United States,2022,50,weekly,66803
+USA,United States,2022,51,weekly,68296
+USA,United States,2022,52,weekly,70473
+USA,United States,2023,1,weekly,69236
+USA,United States,2023,2,weekly,66517
+USA,United States,2023,3,weekly,64294
+USA,United States,2023,4,weekly,62476
+USA,United States,2023,5,weekly,62550
+USA,United States,2023,6,weekly,62677
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
