@@ -511,7 +511,7 @@ Starting with 2022, there are no data by date of death yet available, we we are 
 
 
 ### South Africa (weekly)
-2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa.
+2015 onward: South Africa Medical Research Council (SAMRC): https://www.samrc.ac.za/research-reports/report-weekly-deaths-south-africa.
 
 
 ### Suriname (monthly)
