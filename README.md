@@ -346,7 +346,9 @@ Monthly hospital deaths have been corrected to total deaths using the ratio betw
 
 
 ### Liechtenstein (monthly)
-Liechtenstein Office for Statistics: https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19  
+2015 - 2021: Liechtenstein Office for Statistics: https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19  
+
+2022 onwards: [EuroStat Deaths by Month](https://ec.europa.eu/eurostat/databrowser/bookmark/8ac2a264-1a4c-4c36-9c16-991686b4a279?lang=en)
 
 
 ### Macao (monthly)
