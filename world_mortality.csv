@@ -4374,51 +4374,71 @@ COL,Colombia,2021,49,weekly,5635
 COL,Colombia,2021,50,weekly,5510
 COL,Colombia,2021,51,weekly,5901
 COL,Colombia,2021,52,weekly,5959
-COL,Colombia,2022,1,weekly,6396
-COL,Colombia,2022,2,weekly,7070
-COL,Colombia,2022,3,weekly,7896
-COL,Colombia,2022,4,weekly,8279
-COL,Colombia,2022,5,weekly,7741
-COL,Colombia,2022,6,weekly,6898
-COL,Colombia,2022,7,weekly,6107
-COL,Colombia,2022,8,weekly,5448
-COL,Colombia,2022,9,weekly,5189
-COL,Colombia,2022,10,weekly,5063
-COL,Colombia,2022,11,weekly,4965
-COL,Colombia,2022,12,weekly,4964
-COL,Colombia,2022,13,weekly,4885
-COL,Colombia,2022,14,weekly,4912
-COL,Colombia,2022,15,weekly,4779
-COL,Colombia,2022,16,weekly,4987
-COL,Colombia,2022,17,weekly,4929
-COL,Colombia,2022,18,weekly,5173
+COL,Colombia,2022,1,weekly,6405
+COL,Colombia,2022,2,weekly,7083
+COL,Colombia,2022,3,weekly,7901
+COL,Colombia,2022,4,weekly,8288
+COL,Colombia,2022,5,weekly,7751
+COL,Colombia,2022,6,weekly,6910
+COL,Colombia,2022,7,weekly,6120
+COL,Colombia,2022,8,weekly,5456
+COL,Colombia,2022,9,weekly,5195
+COL,Colombia,2022,10,weekly,5076
+COL,Colombia,2022,11,weekly,4972
+COL,Colombia,2022,12,weekly,4972
+COL,Colombia,2022,13,weekly,4888
+COL,Colombia,2022,14,weekly,4917
+COL,Colombia,2022,15,weekly,4784
+COL,Colombia,2022,16,weekly,4994
+COL,Colombia,2022,17,weekly,4940
+COL,Colombia,2022,18,weekly,5180
 COL,Colombia,2022,19,weekly,5129
-COL,Colombia,2022,20,weekly,5113
-COL,Colombia,2022,21,weekly,5155
-COL,Colombia,2022,22,weekly,5300
-COL,Colombia,2022,23,weekly,5344
-COL,Colombia,2022,24,weekly,5378
-COL,Colombia,2022,25,weekly,5403
-COL,Colombia,2022,26,weekly,5882
-COL,Colombia,2022,27,weekly,5945
-COL,Colombia,2022,28,weekly,5952
-COL,Colombia,2022,29,weekly,5420
-COL,Colombia,2022,30,weekly,5455
-COL,Colombia,2022,31,weekly,5286
-COL,Colombia,2022,32,weekly,5259
-COL,Colombia,2022,33,weekly,5047
-COL,Colombia,2022,34,weekly,5165
-COL,Colombia,2022,35,weekly,5212
-COL,Colombia,2022,36,weekly,5136
-COL,Colombia,2022,37,weekly,4879
-COL,Colombia,2022,38,weekly,4876
-COL,Colombia,2022,39,weekly,4861
-COL,Colombia,2022,40,weekly,4970
-COL,Colombia,2022,41,weekly,5030
-COL,Colombia,2022,42,weekly,5095
-COL,Colombia,2022,43,weekly,4968
-COL,Colombia,2022,44,weekly,4961
-COL,Colombia,2022,45,weekly,4889
+COL,Colombia,2022,20,weekly,5118
+COL,Colombia,2022,21,weekly,5167
+COL,Colombia,2022,22,weekly,5302
+COL,Colombia,2022,23,weekly,5348
+COL,Colombia,2022,24,weekly,5394
+COL,Colombia,2022,25,weekly,5419
+COL,Colombia,2022,26,weekly,5892
+COL,Colombia,2022,27,weekly,5960
+COL,Colombia,2022,28,weekly,5967
+COL,Colombia,2022,29,weekly,5443
+COL,Colombia,2022,30,weekly,5473
+COL,Colombia,2022,31,weekly,5301
+COL,Colombia,2022,32,weekly,5271
+COL,Colombia,2022,33,weekly,5065
+COL,Colombia,2022,34,weekly,5182
+COL,Colombia,2022,35,weekly,5225
+COL,Colombia,2022,36,weekly,5147
+COL,Colombia,2022,37,weekly,4894
+COL,Colombia,2022,38,weekly,4891
+COL,Colombia,2022,39,weekly,4871
+COL,Colombia,2022,40,weekly,4986
+COL,Colombia,2022,41,weekly,5045
+COL,Colombia,2022,42,weekly,5115
+COL,Colombia,2022,43,weekly,4992
+COL,Colombia,2022,44,weekly,5000
+COL,Colombia,2022,45,weekly,4948
+COL,Colombia,2022,46,weekly,5040
+COL,Colombia,2022,47,weekly,5314
+COL,Colombia,2022,48,weekly,5233
+COL,Colombia,2022,49,weekly,5383
+COL,Colombia,2022,50,weekly,5391
+COL,Colombia,2022,51,weekly,5561
+COL,Colombia,2022,52,weekly,5727
+COL,Colombia,2023,1,weekly,5219
+COL,Colombia,2023,2,weekly,5238
+COL,Colombia,2023,3,weekly,5224
+COL,Colombia,2023,4,weekly,5200
+COL,Colombia,2023,5,weekly,4953
+COL,Colombia,2023,6,weekly,4991
+COL,Colombia,2023,7,weekly,4908
+COL,Colombia,2023,8,weekly,5011
+COL,Colombia,2023,9,weekly,5118
+COL,Colombia,2023,10,weekly,4898
+COL,Colombia,2023,11,weekly,4990
+COL,Colombia,2023,12,weekly,5103
+COL,Colombia,2023,13,weekly,5051
 CRI,Costa Rica,2015,1,monthly,1926
 CRI,Costa Rica,2015,2,monthly,1544
 CRI,Costa Rica,2015,3,monthly,1764
@@ -13595,6 +13615,7 @@ KOS,Kosovo,2022,10,monthly,737
 KOS,Kosovo,2022,11,monthly,748
 KOS,Kosovo,2022,12,monthly,758
 KOS,Kosovo,2023,1,monthly,871
+KOS,Kosovo,2023,2,monthly,786
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -13776,6 +13797,7 @@ KGZ,Kyrgyzstan,2022,10,monthly,1656
 KGZ,Kyrgyzstan,2022,11,monthly,931
 KGZ,Kyrgyzstan,2022,12,monthly,3169
 KGZ,Kyrgyzstan,2023,1,monthly,2817
+KGZ,Kyrgyzstan,2023,2,monthly,2513
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -14205,6 +14227,7 @@ LVA,Latvia,2023,8,weekly,614
 LVA,Latvia,2023,9,weekly,555
 LVA,Latvia,2023,10,weekly,533
 LVA,Latvia,2023,11,weekly,496
+LVA,Latvia,2023,12,weekly,560
 LBN,Lebanon,2015,1,monthly,2291
 LBN,Lebanon,2015,2,monthly,2211
 LBN,Lebanon,2015,3,monthly,2502
@@ -20274,13 +20297,15 @@ PHL,Philippines,2021,9,monthly,119758
 PHL,Philippines,2021,10,monthly,84428
 PHL,Philippines,2021,11,monthly,58202
 PHL,Philippines,2021,12,monthly,56202
-PHL,Philippines,2022,1,monthly,69941
-PHL,Philippines,2022,2,monthly,52310
-PHL,Philippines,2022,3,monthly,52049
-PHL,Philippines,2022,4,monthly,50348
-PHL,Philippines,2022,5,monthly,53785
-PHL,Philippines,2022,6,monthly,51180
-PHL,Philippines,2022,7,monthly,49375
+PHL,Philippines,2022,1,monthly,70108
+PHL,Philippines,2022,2,monthly,52455
+PHL,Philippines,2022,3,monthly,52296
+PHL,Philippines,2022,4,monthly,50567
+PHL,Philippines,2022,5,monthly,54176
+PHL,Philippines,2022,6,monthly,52198
+PHL,Philippines,2022,7,monthly,56134
+PHL,Philippines,2022,8,monthly,58268
+PHL,Philippines,2022,9,monthly,51449
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800
@@ -21507,8 +21532,8 @@ PRI,Puerto Rico,2022,1,weekly,825
 PRI,Puerto Rico,2022,2,weekly,869
 PRI,Puerto Rico,2022,3,weekly,869
 PRI,Puerto Rico,2022,4,weekly,801
-PRI,Puerto Rico,2022,5,weekly,665
-PRI,Puerto Rico,2022,6,weekly,697
+PRI,Puerto Rico,2022,5,weekly,666
+PRI,Puerto Rico,2022,6,weekly,696
 PRI,Puerto Rico,2022,7,weekly,662
 PRI,Puerto Rico,2022,8,weekly,636
 PRI,Puerto Rico,2022,9,weekly,633
@@ -21535,35 +21560,36 @@ PRI,Puerto Rico,2022,29,weekly,658
 PRI,Puerto Rico,2022,30,weekly,652
 PRI,Puerto Rico,2022,31,weekly,726
 PRI,Puerto Rico,2022,32,weekly,708
-PRI,Puerto Rico,2022,33,weekly,608
+PRI,Puerto Rico,2022,33,weekly,609
 PRI,Puerto Rico,2022,34,weekly,674
 PRI,Puerto Rico,2022,35,weekly,664
 PRI,Puerto Rico,2022,36,weekly,586
 PRI,Puerto Rico,2022,37,weekly,605
-PRI,Puerto Rico,2022,38,weekly,734
+PRI,Puerto Rico,2022,38,weekly,735
 PRI,Puerto Rico,2022,39,weekly,675
 PRI,Puerto Rico,2022,40,weekly,668
-PRI,Puerto Rico,2022,41,weekly,679
+PRI,Puerto Rico,2022,41,weekly,675
 PRI,Puerto Rico,2022,42,weekly,667
 PRI,Puerto Rico,2022,43,weekly,689
 PRI,Puerto Rico,2022,44,weekly,647
 PRI,Puerto Rico,2022,45,weekly,669
 PRI,Puerto Rico,2022,46,weekly,698
-PRI,Puerto Rico,2022,47,weekly,752
-PRI,Puerto Rico,2022,48,weekly,700
+PRI,Puerto Rico,2022,47,weekly,753
+PRI,Puerto Rico,2022,48,weekly,699
 PRI,Puerto Rico,2022,49,weekly,728
-PRI,Puerto Rico,2022,50,weekly,729
-PRI,Puerto Rico,2022,51,weekly,735
-PRI,Puerto Rico,2022,52,weekly,737
-PRI,Puerto Rico,2023,1,weekly,711
+PRI,Puerto Rico,2022,50,weekly,727
+PRI,Puerto Rico,2022,51,weekly,733
+PRI,Puerto Rico,2022,52,weekly,734
+PRI,Puerto Rico,2023,1,weekly,708
 PRI,Puerto Rico,2023,2,weekly,776
 PRI,Puerto Rico,2023,3,weekly,718
-PRI,Puerto Rico,2023,4,weekly,713
-PRI,Puerto Rico,2023,5,weekly,702
-PRI,Puerto Rico,2023,6,weekly,736
-PRI,Puerto Rico,2023,7,weekly,772
-PRI,Puerto Rico,2023,8,weekly,752
-PRI,Puerto Rico,2023,9,weekly,766
+PRI,Puerto Rico,2023,4,weekly,714
+PRI,Puerto Rico,2023,5,weekly,700
+PRI,Puerto Rico,2023,6,weekly,725
+PRI,Puerto Rico,2023,7,weekly,755
+PRI,Puerto Rico,2023,8,weekly,705
+PRI,Puerto Rico,2023,9,weekly,773
+PRI,Puerto Rico,2023,10,weekly,786
 QAT,Qatar,2015,1,monthly,210
 QAT,Qatar,2015,2,monthly,196
 QAT,Qatar,2015,3,monthly,191
@@ -21662,436 +21688,6 @@ QAT,Qatar,2022,11,monthly,226
 QAT,Qatar,2022,12,monthly,226
 QAT,Qatar,2023,1,monthly,236
 QAT,Qatar,2023,2,monthly,213
-REU,Réunion,2015,1,weekly,74
-REU,Réunion,2015,2,weekly,108
-REU,Réunion,2015,3,weekly,76
-REU,Réunion,2015,4,weekly,84
-REU,Réunion,2015,5,weekly,82
-REU,Réunion,2015,6,weekly,82
-REU,Réunion,2015,7,weekly,89
-REU,Réunion,2015,8,weekly,86
-REU,Réunion,2015,9,weekly,79
-REU,Réunion,2015,10,weekly,94
-REU,Réunion,2015,11,weekly,96
-REU,Réunion,2015,12,weekly,90
-REU,Réunion,2015,13,weekly,84
-REU,Réunion,2015,14,weekly,98
-REU,Réunion,2015,15,weekly,78
-REU,Réunion,2015,16,weekly,78
-REU,Réunion,2015,17,weekly,72
-REU,Réunion,2015,18,weekly,75
-REU,Réunion,2015,19,weekly,100
-REU,Réunion,2015,20,weekly,80
-REU,Réunion,2015,21,weekly,80
-REU,Réunion,2015,22,weekly,69
-REU,Réunion,2015,23,weekly,102
-REU,Réunion,2015,24,weekly,71
-REU,Réunion,2015,25,weekly,83
-REU,Réunion,2015,26,weekly,111
-REU,Réunion,2015,27,weekly,84
-REU,Réunion,2015,28,weekly,98
-REU,Réunion,2015,29,weekly,78
-REU,Réunion,2015,30,weekly,105
-REU,Réunion,2015,31,weekly,96
-REU,Réunion,2015,32,weekly,94
-REU,Réunion,2015,33,weekly,96
-REU,Réunion,2015,34,weekly,82
-REU,Réunion,2015,35,weekly,98
-REU,Réunion,2015,36,weekly,77
-REU,Réunion,2015,37,weekly,81
-REU,Réunion,2015,38,weekly,96
-REU,Réunion,2015,39,weekly,91
-REU,Réunion,2015,40,weekly,80
-REU,Réunion,2015,41,weekly,100
-REU,Réunion,2015,42,weekly,80
-REU,Réunion,2015,43,weekly,96
-REU,Réunion,2015,44,weekly,87
-REU,Réunion,2015,45,weekly,89
-REU,Réunion,2015,46,weekly,72
-REU,Réunion,2015,47,weekly,93
-REU,Réunion,2015,48,weekly,82
-REU,Réunion,2015,49,weekly,80
-REU,Réunion,2015,50,weekly,85
-REU,Réunion,2015,51,weekly,76
-REU,Réunion,2015,52,weekly,98
-REU,Réunion,2015,53,weekly,112
-REU,Réunion,2016,1,weekly,92
-REU,Réunion,2016,2,weekly,72
-REU,Réunion,2016,3,weekly,106
-REU,Réunion,2016,4,weekly,84
-REU,Réunion,2016,5,weekly,83
-REU,Réunion,2016,6,weekly,74
-REU,Réunion,2016,7,weekly,89
-REU,Réunion,2016,8,weekly,102
-REU,Réunion,2016,9,weekly,68
-REU,Réunion,2016,10,weekly,92
-REU,Réunion,2016,11,weekly,105
-REU,Réunion,2016,12,weekly,105
-REU,Réunion,2016,13,weekly,81
-REU,Réunion,2016,14,weekly,77
-REU,Réunion,2016,15,weekly,76
-REU,Réunion,2016,16,weekly,83
-REU,Réunion,2016,17,weekly,71
-REU,Réunion,2016,18,weekly,97
-REU,Réunion,2016,19,weekly,102
-REU,Réunion,2016,20,weekly,88
-REU,Réunion,2016,21,weekly,98
-REU,Réunion,2016,22,weekly,87
-REU,Réunion,2016,23,weekly,96
-REU,Réunion,2016,24,weekly,92
-REU,Réunion,2016,25,weekly,99
-REU,Réunion,2016,26,weekly,95
-REU,Réunion,2016,27,weekly,103
-REU,Réunion,2016,28,weekly,98
-REU,Réunion,2016,29,weekly,101
-REU,Réunion,2016,30,weekly,112
-REU,Réunion,2016,31,weekly,96
-REU,Réunion,2016,32,weekly,81
-REU,Réunion,2016,33,weekly,100
-REU,Réunion,2016,34,weekly,88
-REU,Réunion,2016,35,weekly,85
-REU,Réunion,2016,36,weekly,104
-REU,Réunion,2016,37,weekly,97
-REU,Réunion,2016,38,weekly,86
-REU,Réunion,2016,39,weekly,103
-REU,Réunion,2016,40,weekly,94
-REU,Réunion,2016,41,weekly,81
-REU,Réunion,2016,42,weekly,81
-REU,Réunion,2016,43,weekly,89
-REU,Réunion,2016,44,weekly,90
-REU,Réunion,2016,45,weekly,101
-REU,Réunion,2016,46,weekly,83
-REU,Réunion,2016,47,weekly,83
-REU,Réunion,2016,48,weekly,87
-REU,Réunion,2016,49,weekly,82
-REU,Réunion,2016,50,weekly,80
-REU,Réunion,2016,51,weekly,87
-REU,Réunion,2016,52,weekly,95
-REU,Réunion,2017,1,weekly,109
-REU,Réunion,2017,2,weekly,96
-REU,Réunion,2017,3,weekly,91
-REU,Réunion,2017,4,weekly,103
-REU,Réunion,2017,5,weekly,95
-REU,Réunion,2017,6,weekly,95
-REU,Réunion,2017,7,weekly,83
-REU,Réunion,2017,8,weekly,101
-REU,Réunion,2017,9,weekly,100
-REU,Réunion,2017,10,weekly,75
-REU,Réunion,2017,11,weekly,75
-REU,Réunion,2017,12,weekly,93
-REU,Réunion,2017,13,weekly,84
-REU,Réunion,2017,14,weekly,66
-REU,Réunion,2017,15,weekly,70
-REU,Réunion,2017,16,weekly,94
-REU,Réunion,2017,17,weekly,66
-REU,Réunion,2017,18,weekly,81
-REU,Réunion,2017,19,weekly,91
-REU,Réunion,2017,20,weekly,88
-REU,Réunion,2017,21,weekly,70
-REU,Réunion,2017,22,weekly,77
-REU,Réunion,2017,23,weekly,71
-REU,Réunion,2017,24,weekly,92
-REU,Réunion,2017,25,weekly,90
-REU,Réunion,2017,26,weekly,88
-REU,Réunion,2017,27,weekly,73
-REU,Réunion,2017,28,weekly,97
-REU,Réunion,2017,29,weekly,81
-REU,Réunion,2017,30,weekly,92
-REU,Réunion,2017,31,weekly,99
-REU,Réunion,2017,32,weekly,79
-REU,Réunion,2017,33,weekly,90
-REU,Réunion,2017,34,weekly,101
-REU,Réunion,2017,35,weekly,102
-REU,Réunion,2017,36,weekly,84
-REU,Réunion,2017,37,weekly,103
-REU,Réunion,2017,38,weekly,99
-REU,Réunion,2017,39,weekly,106
-REU,Réunion,2017,40,weekly,83
-REU,Réunion,2017,41,weekly,96
-REU,Réunion,2017,42,weekly,118
-REU,Réunion,2017,43,weekly,98
-REU,Réunion,2017,44,weekly,103
-REU,Réunion,2017,45,weekly,93
-REU,Réunion,2017,46,weekly,99
-REU,Réunion,2017,47,weekly,90
-REU,Réunion,2017,48,weekly,104
-REU,Réunion,2017,49,weekly,97
-REU,Réunion,2017,50,weekly,95
-REU,Réunion,2017,51,weekly,84
-REU,Réunion,2017,52,weekly,80
-REU,Réunion,2018,1,weekly,98
-REU,Réunion,2018,2,weekly,89
-REU,Réunion,2018,3,weekly,101
-REU,Réunion,2018,4,weekly,100
-REU,Réunion,2018,5,weekly,95
-REU,Réunion,2018,6,weekly,90
-REU,Réunion,2018,7,weekly,98
-REU,Réunion,2018,8,weekly,95
-REU,Réunion,2018,9,weekly,102
-REU,Réunion,2018,10,weekly,100
-REU,Réunion,2018,11,weekly,91
-REU,Réunion,2018,12,weekly,97
-REU,Réunion,2018,13,weekly,112
-REU,Réunion,2018,14,weekly,90
-REU,Réunion,2018,15,weekly,89
-REU,Réunion,2018,16,weekly,91
-REU,Réunion,2018,17,weekly,97
-REU,Réunion,2018,18,weekly,82
-REU,Réunion,2018,19,weekly,104
-REU,Réunion,2018,20,weekly,111
-REU,Réunion,2018,21,weekly,97
-REU,Réunion,2018,22,weekly,89
-REU,Réunion,2018,23,weekly,98
-REU,Réunion,2018,24,weekly,99
-REU,Réunion,2018,25,weekly,113
-REU,Réunion,2018,26,weekly,100
-REU,Réunion,2018,27,weekly,97
-REU,Réunion,2018,28,weekly,100
-REU,Réunion,2018,29,weekly,84
-REU,Réunion,2018,30,weekly,119
-REU,Réunion,2018,31,weekly,98
-REU,Réunion,2018,32,weekly,99
-REU,Réunion,2018,33,weekly,88
-REU,Réunion,2018,34,weekly,98
-REU,Réunion,2018,35,weekly,94
-REU,Réunion,2018,36,weekly,88
-REU,Réunion,2018,37,weekly,83
-REU,Réunion,2018,38,weekly,77
-REU,Réunion,2018,39,weekly,111
-REU,Réunion,2018,40,weekly,109
-REU,Réunion,2018,41,weekly,116
-REU,Réunion,2018,42,weekly,97
-REU,Réunion,2018,43,weekly,107
-REU,Réunion,2018,44,weekly,112
-REU,Réunion,2018,45,weekly,96
-REU,Réunion,2018,46,weekly,96
-REU,Réunion,2018,47,weekly,96
-REU,Réunion,2018,48,weekly,83
-REU,Réunion,2018,49,weekly,95
-REU,Réunion,2018,50,weekly,74
-REU,Réunion,2018,51,weekly,89
-REU,Réunion,2018,52,weekly,94
-REU,Réunion,2019,1,weekly,107
-REU,Réunion,2019,2,weekly,98
-REU,Réunion,2019,3,weekly,97
-REU,Réunion,2019,4,weekly,94
-REU,Réunion,2019,5,weekly,107
-REU,Réunion,2019,6,weekly,95
-REU,Réunion,2019,7,weekly,94
-REU,Réunion,2019,8,weekly,99
-REU,Réunion,2019,9,weekly,114
-REU,Réunion,2019,10,weekly,93
-REU,Réunion,2019,11,weekly,118
-REU,Réunion,2019,12,weekly,93
-REU,Réunion,2019,13,weekly,91
-REU,Réunion,2019,14,weekly,87
-REU,Réunion,2019,15,weekly,72
-REU,Réunion,2019,16,weekly,96
-REU,Réunion,2019,17,weekly,88
-REU,Réunion,2019,18,weekly,74
-REU,Réunion,2019,19,weekly,105
-REU,Réunion,2019,20,weekly,86
-REU,Réunion,2019,21,weekly,91
-REU,Réunion,2019,22,weekly,84
-REU,Réunion,2019,23,weekly,94
-REU,Réunion,2019,24,weekly,81
-REU,Réunion,2019,25,weekly,97
-REU,Réunion,2019,26,weekly,102
-REU,Réunion,2019,27,weekly,94
-REU,Réunion,2019,28,weekly,112
-REU,Réunion,2019,29,weekly,104
-REU,Réunion,2019,30,weekly,104
-REU,Réunion,2019,31,weekly,97
-REU,Réunion,2019,32,weekly,88
-REU,Réunion,2019,33,weekly,84
-REU,Réunion,2019,34,weekly,89
-REU,Réunion,2019,35,weekly,96
-REU,Réunion,2019,36,weekly,104
-REU,Réunion,2019,37,weekly,106
-REU,Réunion,2019,38,weekly,111
-REU,Réunion,2019,39,weekly,102
-REU,Réunion,2019,40,weekly,100
-REU,Réunion,2019,41,weekly,101
-REU,Réunion,2019,42,weekly,119
-REU,Réunion,2019,43,weekly,116
-REU,Réunion,2019,44,weekly,100
-REU,Réunion,2019,45,weekly,113
-REU,Réunion,2019,46,weekly,82
-REU,Réunion,2019,47,weekly,112
-REU,Réunion,2019,48,weekly,90
-REU,Réunion,2019,49,weekly,100
-REU,Réunion,2019,50,weekly,80
-REU,Réunion,2019,51,weekly,109
-REU,Réunion,2019,52,weekly,120
-REU,Réunion,2020,1,weekly,87
-REU,Réunion,2020,2,weekly,96
-REU,Réunion,2020,3,weekly,93
-REU,Réunion,2020,4,weekly,106
-REU,Réunion,2020,5,weekly,87
-REU,Réunion,2020,6,weekly,99
-REU,Réunion,2020,7,weekly,107
-REU,Réunion,2020,8,weekly,83
-REU,Réunion,2020,9,weekly,77
-REU,Réunion,2020,10,weekly,99
-REU,Réunion,2020,11,weekly,102
-REU,Réunion,2020,12,weekly,102
-REU,Réunion,2020,13,weekly,87
-REU,Réunion,2020,14,weekly,93
-REU,Réunion,2020,15,weekly,80
-REU,Réunion,2020,16,weekly,102
-REU,Réunion,2020,17,weekly,69
-REU,Réunion,2020,18,weekly,100
-REU,Réunion,2020,19,weekly,106
-REU,Réunion,2020,20,weekly,84
-REU,Réunion,2020,21,weekly,89
-REU,Réunion,2020,22,weekly,103
-REU,Réunion,2020,23,weekly,108
-REU,Réunion,2020,24,weekly,120
-REU,Réunion,2020,25,weekly,101
-REU,Réunion,2020,26,weekly,105
-REU,Réunion,2020,27,weekly,98
-REU,Réunion,2020,28,weekly,101
-REU,Réunion,2020,29,weekly,99
-REU,Réunion,2020,30,weekly,113
-REU,Réunion,2020,31,weekly,108
-REU,Réunion,2020,32,weekly,99
-REU,Réunion,2020,33,weekly,124
-REU,Réunion,2020,34,weekly,103
-REU,Réunion,2020,35,weekly,107
-REU,Réunion,2020,36,weekly,105
-REU,Réunion,2020,37,weekly,99
-REU,Réunion,2020,38,weekly,105
-REU,Réunion,2020,39,weekly,92
-REU,Réunion,2020,40,weekly,109
-REU,Réunion,2020,41,weekly,103
-REU,Réunion,2020,42,weekly,87
-REU,Réunion,2020,43,weekly,93
-REU,Réunion,2020,44,weekly,98
-REU,Réunion,2020,45,weekly,106
-REU,Réunion,2020,46,weekly,101
-REU,Réunion,2020,47,weekly,112
-REU,Réunion,2020,48,weekly,101
-REU,Réunion,2020,49,weekly,103
-REU,Réunion,2020,50,weekly,87
-REU,Réunion,2020,51,weekly,95
-REU,Réunion,2020,52,weekly,108
-REU,Réunion,2020,53,weekly,114
-REU,Réunion,2021,1,weekly,102
-REU,Réunion,2021,2,weekly,107
-REU,Réunion,2021,3,weekly,106
-REU,Réunion,2021,4,weekly,92
-REU,Réunion,2021,5,weekly,97
-REU,Réunion,2021,6,weekly,109
-REU,Réunion,2021,7,weekly,95
-REU,Réunion,2021,8,weekly,106
-REU,Réunion,2021,9,weekly,97
-REU,Réunion,2021,10,weekly,119
-REU,Réunion,2021,11,weekly,121
-REU,Réunion,2021,12,weekly,123
-REU,Réunion,2021,13,weekly,95
-REU,Réunion,2021,14,weekly,107
-REU,Réunion,2021,15,weekly,102
-REU,Réunion,2021,16,weekly,108
-REU,Réunion,2021,17,weekly,115
-REU,Réunion,2021,18,weekly,101
-REU,Réunion,2021,19,weekly,124
-REU,Réunion,2021,20,weekly,90
-REU,Réunion,2021,21,weekly,114
-REU,Réunion,2021,22,weekly,133
-REU,Réunion,2021,23,weekly,130
-REU,Réunion,2021,24,weekly,108
-REU,Réunion,2021,25,weekly,101
-REU,Réunion,2021,26,weekly,134
-REU,Réunion,2021,27,weekly,130
-REU,Réunion,2021,28,weekly,110
-REU,Réunion,2021,29,weekly,126
-REU,Réunion,2021,30,weekly,99
-REU,Réunion,2021,31,weekly,133
-REU,Réunion,2021,32,weekly,108
-REU,Réunion,2021,33,weekly,125
-REU,Réunion,2021,34,weekly,121
-REU,Réunion,2021,35,weekly,107
-REU,Réunion,2021,36,weekly,132
-REU,Réunion,2021,37,weekly,114
-REU,Réunion,2021,38,weekly,90
-REU,Réunion,2021,39,weekly,109
-REU,Réunion,2021,40,weekly,110
-REU,Réunion,2021,41,weekly,106
-REU,Réunion,2021,42,weekly,112
-REU,Réunion,2021,43,weekly,107
-REU,Réunion,2021,44,weekly,116
-REU,Réunion,2021,45,weekly,97
-REU,Réunion,2021,46,weekly,127
-REU,Réunion,2021,47,weekly,94
-REU,Réunion,2021,48,weekly,97
-REU,Réunion,2021,49,weekly,109
-REU,Réunion,2021,50,weekly,124
-REU,Réunion,2021,51,weekly,128
-REU,Réunion,2021,52,weekly,119
-REU,Réunion,2022,1,weekly,152
-REU,Réunion,2022,2,weekly,175
-REU,Réunion,2022,3,weekly,177
-REU,Réunion,2022,4,weekly,162
-REU,Réunion,2022,5,weekly,167
-REU,Réunion,2022,6,weekly,164
-REU,Réunion,2022,7,weekly,153
-REU,Réunion,2022,8,weekly,112
-REU,Réunion,2022,9,weekly,134
-REU,Réunion,2022,10,weekly,124
-REU,Réunion,2022,11,weekly,135
-REU,Réunion,2022,12,weekly,117
-REU,Réunion,2022,13,weekly,100
-REU,Réunion,2022,14,weekly,118
-REU,Réunion,2022,15,weekly,111
-REU,Réunion,2022,16,weekly,100
-REU,Réunion,2022,17,weekly,136
-REU,Réunion,2022,18,weekly,114
-REU,Réunion,2022,19,weekly,111
-REU,Réunion,2022,20,weekly,118
-REU,Réunion,2022,21,weekly,94
-REU,Réunion,2022,22,weekly,119
-REU,Réunion,2022,23,weekly,118
-REU,Réunion,2022,24,weekly,95
-REU,Réunion,2022,25,weekly,99
-REU,Réunion,2022,26,weekly,107
-REU,Réunion,2022,27,weekly,148
-REU,Réunion,2022,28,weekly,112
-REU,Réunion,2022,29,weekly,133
-REU,Réunion,2022,30,weekly,141
-REU,Réunion,2022,31,weekly,141
-REU,Réunion,2022,32,weekly,155
-REU,Réunion,2022,33,weekly,131
-REU,Réunion,2022,34,weekly,133
-REU,Réunion,2022,35,weekly,115
-REU,Réunion,2022,36,weekly,123
-REU,Réunion,2022,37,weekly,122
-REU,Réunion,2022,38,weekly,109
-REU,Réunion,2022,39,weekly,120
-REU,Réunion,2022,40,weekly,105
-REU,Réunion,2022,41,weekly,118
-REU,Réunion,2022,42,weekly,105
-REU,Réunion,2022,43,weekly,97
-REU,Réunion,2022,44,weekly,116
-REU,Réunion,2022,45,weekly,102
-REU,Réunion,2022,46,weekly,105
-REU,Réunion,2022,47,weekly,95
-REU,Réunion,2022,48,weekly,115
-REU,Réunion,2022,49,weekly,114
-REU,Réunion,2022,50,weekly,115
-REU,Réunion,2022,51,weekly,81
-REU,Réunion,2022,52,weekly,136
-REU,Réunion,2023,1,weekly,102
-REU,Réunion,2023,2,weekly,95
-REU,Réunion,2023,3,weekly,114
-REU,Réunion,2023,4,weekly,128
-REU,Réunion,2023,5,weekly,95
-REU,Réunion,2023,6,weekly,111
-REU,Réunion,2023,7,weekly,111
-REU,Réunion,2023,8,weekly,100
-REU,Réunion,2023,9,weekly,106
-REU,Réunion,2023,10,weekly,92
-REU,Réunion,2023,11,weekly,91
-REU,Réunion,2023,12,weekly,97
 ROU,Romania,2015,1,weekly,5803
 ROU,Romania,2015,2,weekly,5848
 ROU,Romania,2015,3,weekly,5602
@@ -22615,6 +22211,437 @@ RUS,Russia,2022,10,monthly,145406
 RUS,Russia,2022,11,monthly,147531
 RUS,Russia,2022,12,monthly,164540
 RUS,Russia,2023,1,monthly,168418
+RUS,Russia,2023,2,monthly,132809
+REU,Réunion,2015,1,weekly,74
+REU,Réunion,2015,2,weekly,108
+REU,Réunion,2015,3,weekly,76
+REU,Réunion,2015,4,weekly,84
+REU,Réunion,2015,5,weekly,82
+REU,Réunion,2015,6,weekly,82
+REU,Réunion,2015,7,weekly,89
+REU,Réunion,2015,8,weekly,86
+REU,Réunion,2015,9,weekly,79
+REU,Réunion,2015,10,weekly,94
+REU,Réunion,2015,11,weekly,96
+REU,Réunion,2015,12,weekly,90
+REU,Réunion,2015,13,weekly,84
+REU,Réunion,2015,14,weekly,98
+REU,Réunion,2015,15,weekly,78
+REU,Réunion,2015,16,weekly,78
+REU,Réunion,2015,17,weekly,72
+REU,Réunion,2015,18,weekly,75
+REU,Réunion,2015,19,weekly,100
+REU,Réunion,2015,20,weekly,80
+REU,Réunion,2015,21,weekly,80
+REU,Réunion,2015,22,weekly,69
+REU,Réunion,2015,23,weekly,102
+REU,Réunion,2015,24,weekly,71
+REU,Réunion,2015,25,weekly,83
+REU,Réunion,2015,26,weekly,111
+REU,Réunion,2015,27,weekly,84
+REU,Réunion,2015,28,weekly,98
+REU,Réunion,2015,29,weekly,78
+REU,Réunion,2015,30,weekly,105
+REU,Réunion,2015,31,weekly,96
+REU,Réunion,2015,32,weekly,94
+REU,Réunion,2015,33,weekly,96
+REU,Réunion,2015,34,weekly,82
+REU,Réunion,2015,35,weekly,98
+REU,Réunion,2015,36,weekly,77
+REU,Réunion,2015,37,weekly,81
+REU,Réunion,2015,38,weekly,96
+REU,Réunion,2015,39,weekly,91
+REU,Réunion,2015,40,weekly,80
+REU,Réunion,2015,41,weekly,100
+REU,Réunion,2015,42,weekly,80
+REU,Réunion,2015,43,weekly,96
+REU,Réunion,2015,44,weekly,87
+REU,Réunion,2015,45,weekly,89
+REU,Réunion,2015,46,weekly,72
+REU,Réunion,2015,47,weekly,93
+REU,Réunion,2015,48,weekly,82
+REU,Réunion,2015,49,weekly,80
+REU,Réunion,2015,50,weekly,85
+REU,Réunion,2015,51,weekly,76
+REU,Réunion,2015,52,weekly,98
+REU,Réunion,2015,53,weekly,112
+REU,Réunion,2016,1,weekly,92
+REU,Réunion,2016,2,weekly,72
+REU,Réunion,2016,3,weekly,106
+REU,Réunion,2016,4,weekly,84
+REU,Réunion,2016,5,weekly,83
+REU,Réunion,2016,6,weekly,74
+REU,Réunion,2016,7,weekly,89
+REU,Réunion,2016,8,weekly,102
+REU,Réunion,2016,9,weekly,68
+REU,Réunion,2016,10,weekly,92
+REU,Réunion,2016,11,weekly,105
+REU,Réunion,2016,12,weekly,105
+REU,Réunion,2016,13,weekly,81
+REU,Réunion,2016,14,weekly,77
+REU,Réunion,2016,15,weekly,76
+REU,Réunion,2016,16,weekly,83
+REU,Réunion,2016,17,weekly,71
+REU,Réunion,2016,18,weekly,97
+REU,Réunion,2016,19,weekly,102
+REU,Réunion,2016,20,weekly,88
+REU,Réunion,2016,21,weekly,98
+REU,Réunion,2016,22,weekly,87
+REU,Réunion,2016,23,weekly,96
+REU,Réunion,2016,24,weekly,92
+REU,Réunion,2016,25,weekly,99
+REU,Réunion,2016,26,weekly,95
+REU,Réunion,2016,27,weekly,103
+REU,Réunion,2016,28,weekly,98
+REU,Réunion,2016,29,weekly,101
+REU,Réunion,2016,30,weekly,112
+REU,Réunion,2016,31,weekly,96
+REU,Réunion,2016,32,weekly,81
+REU,Réunion,2016,33,weekly,100
+REU,Réunion,2016,34,weekly,88
+REU,Réunion,2016,35,weekly,85
+REU,Réunion,2016,36,weekly,104
+REU,Réunion,2016,37,weekly,97
+REU,Réunion,2016,38,weekly,86
+REU,Réunion,2016,39,weekly,103
+REU,Réunion,2016,40,weekly,94
+REU,Réunion,2016,41,weekly,81
+REU,Réunion,2016,42,weekly,81
+REU,Réunion,2016,43,weekly,89
+REU,Réunion,2016,44,weekly,90
+REU,Réunion,2016,45,weekly,101
+REU,Réunion,2016,46,weekly,83
+REU,Réunion,2016,47,weekly,83
+REU,Réunion,2016,48,weekly,87
+REU,Réunion,2016,49,weekly,82
+REU,Réunion,2016,50,weekly,80
+REU,Réunion,2016,51,weekly,87
+REU,Réunion,2016,52,weekly,95
+REU,Réunion,2017,1,weekly,109
+REU,Réunion,2017,2,weekly,96
+REU,Réunion,2017,3,weekly,91
+REU,Réunion,2017,4,weekly,103
+REU,Réunion,2017,5,weekly,95
+REU,Réunion,2017,6,weekly,95
+REU,Réunion,2017,7,weekly,83
+REU,Réunion,2017,8,weekly,101
+REU,Réunion,2017,9,weekly,100
+REU,Réunion,2017,10,weekly,75
+REU,Réunion,2017,11,weekly,75
+REU,Réunion,2017,12,weekly,93
+REU,Réunion,2017,13,weekly,84
+REU,Réunion,2017,14,weekly,66
+REU,Réunion,2017,15,weekly,70
+REU,Réunion,2017,16,weekly,94
+REU,Réunion,2017,17,weekly,66
+REU,Réunion,2017,18,weekly,81
+REU,Réunion,2017,19,weekly,91
+REU,Réunion,2017,20,weekly,88
+REU,Réunion,2017,21,weekly,70
+REU,Réunion,2017,22,weekly,77
+REU,Réunion,2017,23,weekly,71
+REU,Réunion,2017,24,weekly,92
+REU,Réunion,2017,25,weekly,90
+REU,Réunion,2017,26,weekly,88
+REU,Réunion,2017,27,weekly,73
+REU,Réunion,2017,28,weekly,97
+REU,Réunion,2017,29,weekly,81
+REU,Réunion,2017,30,weekly,92
+REU,Réunion,2017,31,weekly,99
+REU,Réunion,2017,32,weekly,79
+REU,Réunion,2017,33,weekly,90
+REU,Réunion,2017,34,weekly,101
+REU,Réunion,2017,35,weekly,102
+REU,Réunion,2017,36,weekly,84
+REU,Réunion,2017,37,weekly,103
+REU,Réunion,2017,38,weekly,99
+REU,Réunion,2017,39,weekly,106
+REU,Réunion,2017,40,weekly,83
+REU,Réunion,2017,41,weekly,96
+REU,Réunion,2017,42,weekly,118
+REU,Réunion,2017,43,weekly,98
+REU,Réunion,2017,44,weekly,103
+REU,Réunion,2017,45,weekly,93
+REU,Réunion,2017,46,weekly,99
+REU,Réunion,2017,47,weekly,90
+REU,Réunion,2017,48,weekly,104
+REU,Réunion,2017,49,weekly,97
+REU,Réunion,2017,50,weekly,95
+REU,Réunion,2017,51,weekly,84
+REU,Réunion,2017,52,weekly,80
+REU,Réunion,2018,1,weekly,98
+REU,Réunion,2018,2,weekly,89
+REU,Réunion,2018,3,weekly,101
+REU,Réunion,2018,4,weekly,100
+REU,Réunion,2018,5,weekly,95
+REU,Réunion,2018,6,weekly,90
+REU,Réunion,2018,7,weekly,98
+REU,Réunion,2018,8,weekly,95
+REU,Réunion,2018,9,weekly,102
+REU,Réunion,2018,10,weekly,100
+REU,Réunion,2018,11,weekly,91
+REU,Réunion,2018,12,weekly,97
+REU,Réunion,2018,13,weekly,112
+REU,Réunion,2018,14,weekly,90
+REU,Réunion,2018,15,weekly,89
+REU,Réunion,2018,16,weekly,91
+REU,Réunion,2018,17,weekly,97
+REU,Réunion,2018,18,weekly,82
+REU,Réunion,2018,19,weekly,104
+REU,Réunion,2018,20,weekly,111
+REU,Réunion,2018,21,weekly,97
+REU,Réunion,2018,22,weekly,89
+REU,Réunion,2018,23,weekly,98
+REU,Réunion,2018,24,weekly,99
+REU,Réunion,2018,25,weekly,113
+REU,Réunion,2018,26,weekly,100
+REU,Réunion,2018,27,weekly,97
+REU,Réunion,2018,28,weekly,100
+REU,Réunion,2018,29,weekly,84
+REU,Réunion,2018,30,weekly,119
+REU,Réunion,2018,31,weekly,98
+REU,Réunion,2018,32,weekly,99
+REU,Réunion,2018,33,weekly,88
+REU,Réunion,2018,34,weekly,98
+REU,Réunion,2018,35,weekly,94
+REU,Réunion,2018,36,weekly,88
+REU,Réunion,2018,37,weekly,83
+REU,Réunion,2018,38,weekly,77
+REU,Réunion,2018,39,weekly,111
+REU,Réunion,2018,40,weekly,109
+REU,Réunion,2018,41,weekly,116
+REU,Réunion,2018,42,weekly,97
+REU,Réunion,2018,43,weekly,107
+REU,Réunion,2018,44,weekly,112
+REU,Réunion,2018,45,weekly,96
+REU,Réunion,2018,46,weekly,96
+REU,Réunion,2018,47,weekly,96
+REU,Réunion,2018,48,weekly,83
+REU,Réunion,2018,49,weekly,95
+REU,Réunion,2018,50,weekly,74
+REU,Réunion,2018,51,weekly,89
+REU,Réunion,2018,52,weekly,94
+REU,Réunion,2019,1,weekly,107
+REU,Réunion,2019,2,weekly,98
+REU,Réunion,2019,3,weekly,97
+REU,Réunion,2019,4,weekly,94
+REU,Réunion,2019,5,weekly,107
+REU,Réunion,2019,6,weekly,95
+REU,Réunion,2019,7,weekly,94
+REU,Réunion,2019,8,weekly,99
+REU,Réunion,2019,9,weekly,114
+REU,Réunion,2019,10,weekly,93
+REU,Réunion,2019,11,weekly,118
+REU,Réunion,2019,12,weekly,93
+REU,Réunion,2019,13,weekly,91
+REU,Réunion,2019,14,weekly,87
+REU,Réunion,2019,15,weekly,72
+REU,Réunion,2019,16,weekly,96
+REU,Réunion,2019,17,weekly,88
+REU,Réunion,2019,18,weekly,74
+REU,Réunion,2019,19,weekly,105
+REU,Réunion,2019,20,weekly,86
+REU,Réunion,2019,21,weekly,91
+REU,Réunion,2019,22,weekly,84
+REU,Réunion,2019,23,weekly,94
+REU,Réunion,2019,24,weekly,81
+REU,Réunion,2019,25,weekly,97
+REU,Réunion,2019,26,weekly,102
+REU,Réunion,2019,27,weekly,94
+REU,Réunion,2019,28,weekly,112
+REU,Réunion,2019,29,weekly,104
+REU,Réunion,2019,30,weekly,104
+REU,Réunion,2019,31,weekly,97
+REU,Réunion,2019,32,weekly,88
+REU,Réunion,2019,33,weekly,84
+REU,Réunion,2019,34,weekly,89
+REU,Réunion,2019,35,weekly,96
+REU,Réunion,2019,36,weekly,104
+REU,Réunion,2019,37,weekly,106
+REU,Réunion,2019,38,weekly,111
+REU,Réunion,2019,39,weekly,102
+REU,Réunion,2019,40,weekly,100
+REU,Réunion,2019,41,weekly,101
+REU,Réunion,2019,42,weekly,119
+REU,Réunion,2019,43,weekly,116
+REU,Réunion,2019,44,weekly,100
+REU,Réunion,2019,45,weekly,113
+REU,Réunion,2019,46,weekly,82
+REU,Réunion,2019,47,weekly,112
+REU,Réunion,2019,48,weekly,90
+REU,Réunion,2019,49,weekly,100
+REU,Réunion,2019,50,weekly,80
+REU,Réunion,2019,51,weekly,109
+REU,Réunion,2019,52,weekly,120
+REU,Réunion,2020,1,weekly,87
+REU,Réunion,2020,2,weekly,96
+REU,Réunion,2020,3,weekly,93
+REU,Réunion,2020,4,weekly,106
+REU,Réunion,2020,5,weekly,87
+REU,Réunion,2020,6,weekly,99
+REU,Réunion,2020,7,weekly,107
+REU,Réunion,2020,8,weekly,83
+REU,Réunion,2020,9,weekly,77
+REU,Réunion,2020,10,weekly,99
+REU,Réunion,2020,11,weekly,102
+REU,Réunion,2020,12,weekly,102
+REU,Réunion,2020,13,weekly,87
+REU,Réunion,2020,14,weekly,93
+REU,Réunion,2020,15,weekly,80
+REU,Réunion,2020,16,weekly,102
+REU,Réunion,2020,17,weekly,69
+REU,Réunion,2020,18,weekly,100
+REU,Réunion,2020,19,weekly,106
+REU,Réunion,2020,20,weekly,84
+REU,Réunion,2020,21,weekly,89
+REU,Réunion,2020,22,weekly,103
+REU,Réunion,2020,23,weekly,108
+REU,Réunion,2020,24,weekly,120
+REU,Réunion,2020,25,weekly,101
+REU,Réunion,2020,26,weekly,105
+REU,Réunion,2020,27,weekly,98
+REU,Réunion,2020,28,weekly,101
+REU,Réunion,2020,29,weekly,99
+REU,Réunion,2020,30,weekly,113
+REU,Réunion,2020,31,weekly,108
+REU,Réunion,2020,32,weekly,99
+REU,Réunion,2020,33,weekly,124
+REU,Réunion,2020,34,weekly,103
+REU,Réunion,2020,35,weekly,107
+REU,Réunion,2020,36,weekly,105
+REU,Réunion,2020,37,weekly,99
+REU,Réunion,2020,38,weekly,105
+REU,Réunion,2020,39,weekly,92
+REU,Réunion,2020,40,weekly,109
+REU,Réunion,2020,41,weekly,103
+REU,Réunion,2020,42,weekly,87
+REU,Réunion,2020,43,weekly,93
+REU,Réunion,2020,44,weekly,98
+REU,Réunion,2020,45,weekly,106
+REU,Réunion,2020,46,weekly,101
+REU,Réunion,2020,47,weekly,112
+REU,Réunion,2020,48,weekly,101
+REU,Réunion,2020,49,weekly,103
+REU,Réunion,2020,50,weekly,87
+REU,Réunion,2020,51,weekly,95
+REU,Réunion,2020,52,weekly,108
+REU,Réunion,2020,53,weekly,114
+REU,Réunion,2021,1,weekly,102
+REU,Réunion,2021,2,weekly,107
+REU,Réunion,2021,3,weekly,106
+REU,Réunion,2021,4,weekly,92
+REU,Réunion,2021,5,weekly,97
+REU,Réunion,2021,6,weekly,109
+REU,Réunion,2021,7,weekly,95
+REU,Réunion,2021,8,weekly,106
+REU,Réunion,2021,9,weekly,97
+REU,Réunion,2021,10,weekly,119
+REU,Réunion,2021,11,weekly,121
+REU,Réunion,2021,12,weekly,123
+REU,Réunion,2021,13,weekly,95
+REU,Réunion,2021,14,weekly,107
+REU,Réunion,2021,15,weekly,102
+REU,Réunion,2021,16,weekly,108
+REU,Réunion,2021,17,weekly,115
+REU,Réunion,2021,18,weekly,101
+REU,Réunion,2021,19,weekly,124
+REU,Réunion,2021,20,weekly,90
+REU,Réunion,2021,21,weekly,114
+REU,Réunion,2021,22,weekly,133
+REU,Réunion,2021,23,weekly,130
+REU,Réunion,2021,24,weekly,108
+REU,Réunion,2021,25,weekly,101
+REU,Réunion,2021,26,weekly,134
+REU,Réunion,2021,27,weekly,130
+REU,Réunion,2021,28,weekly,110
+REU,Réunion,2021,29,weekly,126
+REU,Réunion,2021,30,weekly,99
+REU,Réunion,2021,31,weekly,133
+REU,Réunion,2021,32,weekly,108
+REU,Réunion,2021,33,weekly,125
+REU,Réunion,2021,34,weekly,121
+REU,Réunion,2021,35,weekly,107
+REU,Réunion,2021,36,weekly,132
+REU,Réunion,2021,37,weekly,114
+REU,Réunion,2021,38,weekly,90
+REU,Réunion,2021,39,weekly,109
+REU,Réunion,2021,40,weekly,110
+REU,Réunion,2021,41,weekly,106
+REU,Réunion,2021,42,weekly,112
+REU,Réunion,2021,43,weekly,107
+REU,Réunion,2021,44,weekly,116
+REU,Réunion,2021,45,weekly,97
+REU,Réunion,2021,46,weekly,127
+REU,Réunion,2021,47,weekly,94
+REU,Réunion,2021,48,weekly,97
+REU,Réunion,2021,49,weekly,109
+REU,Réunion,2021,50,weekly,124
+REU,Réunion,2021,51,weekly,128
+REU,Réunion,2021,52,weekly,119
+REU,Réunion,2022,1,weekly,152
+REU,Réunion,2022,2,weekly,175
+REU,Réunion,2022,3,weekly,177
+REU,Réunion,2022,4,weekly,162
+REU,Réunion,2022,5,weekly,167
+REU,Réunion,2022,6,weekly,164
+REU,Réunion,2022,7,weekly,153
+REU,Réunion,2022,8,weekly,112
+REU,Réunion,2022,9,weekly,134
+REU,Réunion,2022,10,weekly,124
+REU,Réunion,2022,11,weekly,135
+REU,Réunion,2022,12,weekly,117
+REU,Réunion,2022,13,weekly,100
+REU,Réunion,2022,14,weekly,118
+REU,Réunion,2022,15,weekly,111
+REU,Réunion,2022,16,weekly,100
+REU,Réunion,2022,17,weekly,136
+REU,Réunion,2022,18,weekly,114
+REU,Réunion,2022,19,weekly,111
+REU,Réunion,2022,20,weekly,118
+REU,Réunion,2022,21,weekly,94
+REU,Réunion,2022,22,weekly,119
+REU,Réunion,2022,23,weekly,118
+REU,Réunion,2022,24,weekly,95
+REU,Réunion,2022,25,weekly,99
+REU,Réunion,2022,26,weekly,107
+REU,Réunion,2022,27,weekly,148
+REU,Réunion,2022,28,weekly,112
+REU,Réunion,2022,29,weekly,133
+REU,Réunion,2022,30,weekly,141
+REU,Réunion,2022,31,weekly,141
+REU,Réunion,2022,32,weekly,155
+REU,Réunion,2022,33,weekly,131
+REU,Réunion,2022,34,weekly,133
+REU,Réunion,2022,35,weekly,115
+REU,Réunion,2022,36,weekly,123
+REU,Réunion,2022,37,weekly,122
+REU,Réunion,2022,38,weekly,109
+REU,Réunion,2022,39,weekly,120
+REU,Réunion,2022,40,weekly,105
+REU,Réunion,2022,41,weekly,118
+REU,Réunion,2022,42,weekly,105
+REU,Réunion,2022,43,weekly,97
+REU,Réunion,2022,44,weekly,116
+REU,Réunion,2022,45,weekly,102
+REU,Réunion,2022,46,weekly,105
+REU,Réunion,2022,47,weekly,95
+REU,Réunion,2022,48,weekly,115
+REU,Réunion,2022,49,weekly,114
+REU,Réunion,2022,50,weekly,115
+REU,Réunion,2022,51,weekly,81
+REU,Réunion,2022,52,weekly,136
+REU,Réunion,2023,1,weekly,102
+REU,Réunion,2023,2,weekly,95
+REU,Réunion,2023,3,weekly,114
+REU,Réunion,2023,4,weekly,128
+REU,Réunion,2023,5,weekly,95
+REU,Réunion,2023,6,weekly,111
+REU,Réunion,2023,7,weekly,111
+REU,Réunion,2023,8,weekly,100
+REU,Réunion,2023,9,weekly,106
+REU,Réunion,2023,10,weekly,92
+REU,Réunion,2023,11,weekly,91
+REU,Réunion,2023,12,weekly,97
 KNA,Saint Kitts and Nevis,2016,1,monthly,42
 KNA,Saint Kitts and Nevis,2016,2,monthly,25
 KNA,Saint Kitts and Nevis,2016,3,monthly,33
@@ -25745,14 +25772,18 @@ SWE,Sweden,2022,48,weekly,1851.4
 SWE,Sweden,2022,49,weekly,2027.2
 SWE,Sweden,2022,50,weekly,2276.2
 SWE,Sweden,2022,51,weekly,2391.2
-SWE,Sweden,2022,52,weekly,2392.2
-SWE,Sweden,2023,1,weekly,2437.6
-SWE,Sweden,2023,2,weekly,2202.6
-SWE,Sweden,2023,3,weekly,2062.6
-SWE,Sweden,2023,4,weekly,1910.6
-SWE,Sweden,2023,5,weekly,1842.1
-SWE,Sweden,2023,6,weekly,1780.9
-SWE,Sweden,2023,7,weekly,1718.9
+SWE,Sweden,2022,52,weekly,2392.8
+SWE,Sweden,2023,1,weekly,2446.6
+SWE,Sweden,2023,2,weekly,2211.6
+SWE,Sweden,2023,3,weekly,2072.6
+SWE,Sweden,2023,4,weekly,1922.6
+SWE,Sweden,2023,5,weekly,1864.8
+SWE,Sweden,2023,6,weekly,1821.7
+SWE,Sweden,2023,7,weekly,1795.7
+SWE,Sweden,2023,8,weekly,1796.7
+SWE,Sweden,2023,9,weekly,1843.9
+SWE,Sweden,2023,10,weekly,1855
+SWE,Sweden,2023,11,weekly,1784
 CHE,Switzerland,2015,1,weekly,1423
 CHE,Switzerland,2015,2,weekly,1494
 CHE,Switzerland,2015,3,weekly,1524
@@ -27625,64 +27656,64 @@ USA,United States,2021,49,weekly,72150
 USA,United States,2021,50,weekly,71335
 USA,United States,2021,51,weekly,72326
 USA,United States,2021,52,weekly,74436
-USA,United States,2022,1,weekly,79813
-USA,United States,2022,2,weekly,85103
-USA,United States,2022,3,weekly,85652
-USA,United States,2022,4,weekly,85093
+USA,United States,2022,1,weekly,79843
+USA,United States,2022,2,weekly,85074
+USA,United States,2022,3,weekly,85682
+USA,United States,2022,4,weekly,85070
 USA,United States,2022,5,weekly,81202
-USA,United States,2022,6,weekly,77110
-USA,United States,2022,7,weekly,70848
+USA,United States,2022,6,weekly,77093
+USA,United States,2022,7,weekly,70865
 USA,United States,2022,8,weekly,66027
-USA,United States,2022,9,weekly,64455
-USA,United States,2022,10,weekly,61860
-USA,United States,2022,11,weekly,60577
-USA,United States,2022,12,weekly,58590
-USA,United States,2022,13,weekly,58041
-USA,United States,2022,14,weekly,57808
-USA,United States,2022,15,weekly,57815
-USA,United States,2022,16,weekly,56780
-USA,United States,2022,17,weekly,57370
-USA,United States,2022,18,weekly,57584
-USA,United States,2022,19,weekly,57983
-USA,United States,2022,20,weekly,57761
+USA,United States,2022,9,weekly,64456
+USA,United States,2022,10,weekly,61842
+USA,United States,2022,11,weekly,60578
+USA,United States,2022,12,weekly,58592
+USA,United States,2022,13,weekly,58066
+USA,United States,2022,14,weekly,57789
+USA,United States,2022,15,weekly,57817
+USA,United States,2022,16,weekly,56756
+USA,United States,2022,17,weekly,57396
+USA,United States,2022,18,weekly,57559
+USA,United States,2022,19,weekly,58008
+USA,United States,2022,20,weekly,57787
 USA,United States,2022,21,weekly,57183
-USA,United States,2022,22,weekly,57699
-USA,United States,2022,23,weekly,58149
-USA,United States,2022,24,weekly,57901
-USA,United States,2022,25,weekly,58429
-USA,United States,2022,26,weekly,58240
-USA,United States,2022,27,weekly,58289
-USA,United States,2022,28,weekly,58558
+USA,United States,2022,22,weekly,57697
+USA,United States,2022,23,weekly,58168
+USA,United States,2022,24,weekly,57905
+USA,United States,2022,25,weekly,58411
+USA,United States,2022,26,weekly,58223
+USA,United States,2022,27,weekly,58292
+USA,United States,2022,28,weekly,58563
 USA,United States,2022,29,weekly,59896
-USA,United States,2022,30,weekly,58880
-USA,United States,2022,31,weekly,59344
-USA,United States,2022,32,weekly,58727
-USA,United States,2022,33,weekly,58560
-USA,United States,2022,34,weekly,58404
-USA,United States,2022,35,weekly,58197
-USA,United States,2022,36,weekly,58780
-USA,United States,2022,37,weekly,58321
-USA,United States,2022,38,weekly,58853
-USA,United States,2022,39,weekly,58647
-USA,United States,2022,40,weekly,59640
-USA,United States,2022,41,weekly,60170
-USA,United States,2022,42,weekly,60536
-USA,United States,2022,43,weekly,60481
-USA,United States,2022,44,weekly,61475
-USA,United States,2022,45,weekly,61416
-USA,United States,2022,46,weekly,62113
-USA,United States,2022,47,weekly,65060
-USA,United States,2022,48,weekly,66272
-USA,United States,2022,49,weekly,67516
-USA,United States,2022,50,weekly,66868
-USA,United States,2022,51,weekly,68453
-USA,United States,2022,52,weekly,70614
-USA,United States,2023,1,weekly,69435
-USA,United States,2023,2,weekly,66780
-USA,United States,2023,3,weekly,64594
-USA,United States,2023,4,weekly,62801
-USA,United States,2023,5,weekly,63149
-USA,United States,2023,6,weekly,63899
+USA,United States,2022,30,weekly,58883
+USA,United States,2022,31,weekly,59320
+USA,United States,2022,32,weekly,58730
+USA,United States,2022,33,weekly,58588
+USA,United States,2022,34,weekly,58406
+USA,United States,2022,35,weekly,58200
+USA,United States,2022,36,weekly,58806
+USA,United States,2022,37,weekly,58333
+USA,United States,2022,38,weekly,58841
+USA,United States,2022,39,weekly,58634
+USA,United States,2022,40,weekly,59644
+USA,United States,2022,41,weekly,59800
+USA,United States,2022,42,weekly,60557
+USA,United States,2022,43,weekly,60500
+USA,United States,2022,44,weekly,61495
+USA,United States,2022,45,weekly,61452
+USA,United States,2022,46,weekly,62106
+USA,United States,2022,47,weekly,65094
+USA,United States,2022,48,weekly,66262
+USA,United States,2022,49,weekly,67544
+USA,United States,2022,50,weekly,66928
+USA,United States,2022,51,weekly,68480
+USA,United States,2022,52,weekly,70651
+USA,United States,2023,1,weekly,69429
+USA,United States,2023,2,weekly,66784
+USA,United States,2023,3,weekly,64601
+USA,United States,2023,4,weekly,62836
+USA,United States,2023,5,weekly,63199
+USA,United States,2023,6,weekly,63881
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
