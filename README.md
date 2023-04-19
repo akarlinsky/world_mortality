@@ -199,7 +199,7 @@ Queried from https://github.com/sociedatos.
 ### Dominican Republic (monthly)
 2015 onward: Oficina Nacional de Estadística (ONE) [Estadísticas Vitales - Defunciones](https://one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estadisticas-vitales/)
 
-Note: ONE has information on deaths up to end of 2021, yet deaths in the Dominican Republic may have a significant delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2021.  
+Note: ONE has information on deaths up to end of 2022, yet deaths in the Dominican Republic have a some delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2022.  
 
 
 ### Ecuador (weekly)
