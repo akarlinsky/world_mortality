@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
-We are currently providing data for 124 countries and territories.   
+We are currently providing data for 125 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -138,6 +138,10 @@ July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401
 2015 to 2018: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1   
 
 2019 to 2020: Email correspondence with [Bermuda Department of Statistics](https://www.gov.bm/department/statistics). 
+
+
+### Bhutan (monthly)
+2019 onward: [Bhutan National Statistics Bureau Vital Statistics Reports](https://www.nsb.gov.bt/publications/vital-statistics/)
 
 
 ### Bolivia (monthly)
