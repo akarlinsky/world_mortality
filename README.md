@@ -155,9 +155,7 @@ July 2020 to March 2021: https://www.currenttime.tv/a/smertnost-v-belarusi/31401
 
 
 ### Brazil (monthly)
-2015 to 2019: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sim-1979-2019 
-
-2020 - July 2022: https://opendatasus.saude.gov.br/dataset/sim-2020-2021
+2015 to 2022: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): https://opendatasus.saude.gov.br/dataset/sim-1979-2022
 
 2022 August onward: Brazilian Civil Registry (RC): https://transparencia.registrocivil.org.br/registros  
 In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.   
@@ -566,8 +564,8 @@ https://biruni.tuik.gov.tr/medas/?kn=114&locale=en
 
 
 ### Uruguay (monthly)
-2015 - 2020: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
-2021: [El Pais - Uruguay](https://www.elpais.com.uy/informacion/salud/covid-principal-causa-muerte-semestre-represento-fallecimientos.html) as obtained from Uruguay Ministry of Public Health
+2015 - 2021: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
+2022 - 2023: [Uruguay Ministry of Public Health - Public Information](https://www.gub.uy/ministerio-salud-publica/institucional/informacion-gestion/informes-solicitudes-acceso-informacion-publica/informes-sobre-solicitudes-acceso-informacion-publica-2023)
 
 
 ### Thailand (monthly)
