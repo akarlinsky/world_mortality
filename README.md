@@ -565,7 +565,8 @@ https://biruni.tuik.gov.tr/medas/?kn=114&locale=en
 
 ### Uruguay (monthly)
 2015 - 2021: [Uruguay Ministry of Public Health - Vital Statistics Generator](http://colo1.msp.gub.uy/redbin/RpWebEngine.exe/Portal?BASE=VITAL_DEF1&lang=esp).      
-2022 - 2023: [Uruguay Ministry of Public Health - Public Information](https://www.gub.uy/ministerio-salud-publica/institucional/informacion-gestion/informes-solicitudes-acceso-informacion-publica/informes-sobre-solicitudes-acceso-informacion-publica-2023)
+2022: [Uruguay Ministry of Public Health - Public Information 2021-2022](https://www.gub.uy/ministerio-salud-publica/institucional/informacion-gestion/informes-solicitudes-acceso-informacion-publica/informes-sobre-solicitudes-acceso-informacion-publica-2021-2022).
+2023: [Uruguay Ministry of Public Health - Public Information 2023](https://www.gub.uy/ministerio-salud-publica/institucional/informacion-gestion/informes-solicitudes-acceso-informacion-publica/informes-sobre-solicitudes-acceso-informacion-publica-2023).
 
 
 ### Thailand (monthly)
