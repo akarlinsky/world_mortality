@@ -484,6 +484,8 @@ ARM,Armenia,2022,11,monthly,2055
 ARM,Armenia,2022,12,monthly,2169
 ARM,Armenia,2023,1,monthly,2487
 ARM,Armenia,2023,2,monthly,2056
+ARM,Armenia,2023,3,monthly,2220
+ARM,Armenia,2023,4,monthly,1951
 ABW,Aruba,2015,1,monthly,51
 ABW,Aruba,2015,2,monthly,55
 ABW,Aruba,2015,3,monthly,57
@@ -15963,6 +15965,7 @@ MAC,Macao,2022,12,monthly,785
 MAC,Macao,2023,1,monthly,812
 MAC,Macao,2023,2,monthly,196
 MAC,Macao,2023,3,monthly,206
+MAC,Macao,2023,4,monthly,193
 MYS,Malaysia,2015,1,monthly,14073
 MYS,Malaysia,2015,2,monthly,12247
 MYS,Malaysia,2015,3,monthly,13397
@@ -18620,15 +18623,15 @@ MNE,Montenegro,2021,50,weekly,173
 MNE,Montenegro,2021,51,weekly,154
 MNE,Montenegro,2021,52,weekly,170
 MNE,Montenegro,2022,1,weekly,188
-MNE,Montenegro,2022,2,weekly,219
-MNE,Montenegro,2022,3,weekly,235
-MNE,Montenegro,2022,4,weekly,260
+MNE,Montenegro,2022,2,weekly,221
+MNE,Montenegro,2022,3,weekly,236
+MNE,Montenegro,2022,4,weekly,261
 MNE,Montenegro,2022,5,weekly,228
 MNE,Montenegro,2022,6,weekly,177
-MNE,Montenegro,2022,7,weekly,169
-MNE,Montenegro,2022,8,weekly,163
-MNE,Montenegro,2022,9,weekly,129
-MNE,Montenegro,2022,10,weekly,129
+MNE,Montenegro,2022,7,weekly,170
+MNE,Montenegro,2022,8,weekly,164
+MNE,Montenegro,2022,9,weekly,130
+MNE,Montenegro,2022,10,weekly,130
 MNE,Montenegro,2022,11,weekly,129
 MNE,Montenegro,2022,12,weekly,130
 MNE,Montenegro,2022,13,weekly,127
@@ -18636,22 +18639,40 @@ MNE,Montenegro,2022,14,weekly,130
 MNE,Montenegro,2022,15,weekly,109
 MNE,Montenegro,2022,16,weekly,130
 MNE,Montenegro,2022,17,weekly,112
-MNE,Montenegro,2022,18,weekly,114
-MNE,Montenegro,2022,19,weekly,125
+MNE,Montenegro,2022,18,weekly,115
+MNE,Montenegro,2022,19,weekly,127
 MNE,Montenegro,2022,20,weekly,129
-MNE,Montenegro,2022,21,weekly,141
-MNE,Montenegro,2022,22,weekly,126
+MNE,Montenegro,2022,21,weekly,142
+MNE,Montenegro,2022,22,weekly,127
 MNE,Montenegro,2022,23,weekly,123
 MNE,Montenegro,2022,25,weekly,108
 MNE,Montenegro,2022,26,weekly,116
-MNE,Montenegro,2022,27,weekly,134
-MNE,Montenegro,2022,28,weekly,125
-MNE,Montenegro,2022,29,weekly,126
+MNE,Montenegro,2022,27,weekly,135
+MNE,Montenegro,2022,28,weekly,128
+MNE,Montenegro,2022,29,weekly,127
 MNE,Montenegro,2022,30,weekly,143
-MNE,Montenegro,2022,31,weekly,137
-MNE,Montenegro,2022,32,weekly,121
+MNE,Montenegro,2022,31,weekly,139
+MNE,Montenegro,2022,32,weekly,125
 MNE,Montenegro,2022,33,weekly,121
 MNE,Montenegro,2022,34,weekly,115
+MNE,Montenegro,2022,35,weekly,133
+MNE,Montenegro,2022,36,weekly,113
+MNE,Montenegro,2022,37,weekly,109
+MNE,Montenegro,2022,38,weekly,113
+MNE,Montenegro,2022,39,weekly,124
+MNE,Montenegro,2022,40,weekly,112
+MNE,Montenegro,2022,41,weekly,118
+MNE,Montenegro,2022,42,weekly,112
+MNE,Montenegro,2022,43,weekly,125
+MNE,Montenegro,2022,44,weekly,114
+MNE,Montenegro,2022,45,weekly,110
+MNE,Montenegro,2022,46,weekly,127
+MNE,Montenegro,2022,47,weekly,107
+MNE,Montenegro,2022,48,weekly,115
+MNE,Montenegro,2022,49,weekly,130
+MNE,Montenegro,2022,50,weekly,115
+MNE,Montenegro,2022,51,weekly,138
+MNE,Montenegro,2022,52,weekly,119
 NLD,Netherlands,2015,1,weekly,3259
 NLD,Netherlands,2015,2,weekly,3430
 NLD,Netherlands,2015,3,weekly,3378
@@ -19798,6 +19819,7 @@ MKD,North Macedonia,2022,11,monthly,1757
 MKD,North Macedonia,2022,12,monthly,1753
 MKD,North Macedonia,2023,1,monthly,1706
 MKD,North Macedonia,2023,2,monthly,1694
+MKD,North Macedonia,2023,3,monthly,1833
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
