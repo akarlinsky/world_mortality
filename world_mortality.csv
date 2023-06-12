@@ -2708,12 +2708,12 @@ BRA,Brazil,2022,6,monthly,136780
 BRA,Brazil,2022,7,monthly,138613
 BRA,Brazil,2022,8,monthly,136440.5
 BRA,Brazil,2022,9,monthly,124861.5
-BRA,Brazil,2022,10,monthly,120441.3
-BRA,Brazil,2022,11,monthly,119824.9
-BRA,Brazil,2022,12,monthly,121219.7
-BRA,Brazil,2023,1,monthly,122871.6
-BRA,Brazil,2023,2,monthly,105953.2
-BRA,Brazil,2023,3,monthly,125325.4
+BRA,Brazil,2022,10,monthly,125036.4
+BRA,Brazil,2022,11,monthly,120097.9
+BRA,Brazil,2022,12,monthly,121468.2
+BRA,Brazil,2023,1,monthly,123187.2
+BRA,Brazil,2023,2,monthly,106225.1
+BRA,Brazil,2023,3,monthly,125677.3
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -20602,22 +20602,22 @@ PRY,Paraguay,2021,9,monthly,2980
 PRY,Paraguay,2021,10,monthly,2992
 PRY,Paraguay,2021,11,monthly,2927
 PRY,Paraguay,2021,12,monthly,3457
-PRY,Paraguay,2022,1,monthly,6258
+PRY,Paraguay,2022,1,monthly,6259
 PRY,Paraguay,2022,2,monthly,3904
 PRY,Paraguay,2022,3,monthly,2947
 PRY,Paraguay,2022,4,monthly,2720
 PRY,Paraguay,2022,5,monthly,3085
-PRY,Paraguay,2022,6,monthly,3478
+PRY,Paraguay,2022,6,monthly,3479
 PRY,Paraguay,2022,7,monthly,3518
 PRY,Paraguay,2022,8,monthly,2977
 PRY,Paraguay,2022,9,monthly,2719
-PRY,Paraguay,2022,10,monthly,2721
-PRY,Paraguay,2022,11,monthly,2584
+PRY,Paraguay,2022,10,monthly,2722
+PRY,Paraguay,2022,11,monthly,2585
 PRY,Paraguay,2022,12,monthly,2898
-PRY,Paraguay,2023,1,monthly,2875
-PRY,Paraguay,2023,2,monthly,2913
-PRY,Paraguay,2023,3,monthly,3292
-PRY,Paraguay,2023,4,monthly,2943
+PRY,Paraguay,2023,1,monthly,2878
+PRY,Paraguay,2023,2,monthly,2918
+PRY,Paraguay,2023,3,monthly,3302
+PRY,Paraguay,2023,4,monthly,2962
 PER,Peru,2017,1,weekly,2404.1
 PER,Peru,2017,2,weekly,2534.5
 PER,Peru,2017,3,weekly,2637.6
@@ -22421,6 +22421,7 @@ QAT,Qatar,2022,12,monthly,226
 QAT,Qatar,2023,1,monthly,236
 QAT,Qatar,2023,2,monthly,213
 QAT,Qatar,2023,3,monthly,233
+QAT,Qatar,2023,4,monthly,192
 ROU,Romania,2015,1,weekly,5803
 ROU,Romania,2015,2,weekly,5848
 ROU,Romania,2015,3,weekly,5602
@@ -22950,6 +22951,7 @@ RUS,Russia,2022,12,monthly,164540
 RUS,Russia,2023,1,monthly,168418
 RUS,Russia,2023,2,monthly,132809
 RUS,Russia,2023,3,monthly,158551
+RUS,Russia,2023,4,monthly,135915
 REU,Réunion,2015,1,weekly,74
 REU,Réunion,2015,2,weekly,108
 REU,Réunion,2015,3,weekly,76
@@ -23651,6 +23653,7 @@ SMR,San Marino,2022,12,monthly,20
 SMR,San Marino,2023,1,monthly,28
 SMR,San Marino,2023,2,monthly,29
 SMR,San Marino,2023,3,monthly,29
+SMR,San Marino,2023,4,monthly,21
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
@@ -27104,6 +27107,7 @@ TWN,Taiwan,2023,1,monthly,17770
 TWN,Taiwan,2023,2,monthly,18506
 TWN,Taiwan,2023,3,monthly,20572
 TWN,Taiwan,2023,4,monthly,15572
+TWN,Taiwan,2023,5,monthly,17530
 TJK,Tajikistan,2015,1,monthly,3346
 TJK,Tajikistan,2015,2,monthly,2871
 TJK,Tajikistan,2015,3,monthly,3018
@@ -27449,8 +27453,13 @@ TUN,Tunisia,2021,9,monthly,6867
 TUN,Tunisia,2021,10,monthly,5668
 TUN,Tunisia,2021,11,monthly,5795
 TUN,Tunisia,2021,12,monthly,7168
-TUN,Tunisia,2022,1,monthly,8047
-TUN,Tunisia,2022,2,monthly,7883
+TUN,Tunisia,2022,1,monthly,9236
+TUN,Tunisia,2022,2,monthly,9105
+TUN,Tunisia,2022,3,monthly,7061
+TUN,Tunisia,2022,4,monthly,5259
+TUN,Tunisia,2022,5,monthly,5351
+TUN,Tunisia,2022,6,monthly,5261
+TUN,Tunisia,2022,7,monthly,6705
 TUR,Turkey,2015,1,monthly,34918
 TUR,Turkey,2015,2,monthly,32870
 TUR,Turkey,2015,3,monthly,37925
