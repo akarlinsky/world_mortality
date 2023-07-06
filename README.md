@@ -481,9 +481,9 @@ The CDC reports death counts for Puerto Rico and the US separately, as thus the 
 
 ### Russia (monthly)
 
-For 2015--2021 we use monthly data by date of death, as obtained by us via an information request to [Rosstat](https://rosstat.gov.ru). The raw data contain a small fraction of deaths each year with an unknown month of date. We redistributed those deaths into individual months, proportionally to the deaths with the known month of death, so that the yearly sum equals the yearly sum reported by Rosstat. We provide the numbers with one decimal digit, to emphasize our procedure. We thank [Alexey Raksha](https://www.facebook.com/100001739601178) for the help with obtaining these data.
+For 2015--2022 we use monthly data by date of death, as obtained by us via an information request to [Rosstat](https://rosstat.gov.ru). The raw data contain a small fraction of deaths each year with an unknown month of date. We redistributed those deaths into individual months, proportionally to the deaths with the known month of death, so that the yearly sum equals the yearly sum reported by Rosstat. We provide the numbers with one decimal digit, to emphasize our procedure. We thank [Alexey Raksha](https://www.facebook.com/100001739601178) for the help with obtaining these data.
 
-Starting with 2022, there are no data by date of death yet available, we we are using monthly data by death of registration. It can be found here https://www.fedstat.ru/indicator/33556. The latest month is published on https://rosstat.gov.ru first and it takes several weeks for the data to appear on https://www.fedstat.ru.
+Starting with 2023, there are no data by date of death yet available, we we are using monthly data by death of registration. It can be found here https://www.fedstat.ru/indicator/33556. The latest month is published on https://rosstat.gov.ru first and it takes several weeks for the data to appear on https://www.fedstat.ru.
 
 
 ### Saint Kitts and Nevis (monthly)
