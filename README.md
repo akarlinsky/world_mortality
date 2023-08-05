@@ -464,7 +464,7 @@ The adjusted deaths numbers were rounded to one significant digit to emphasize t
 
 
 ### Philippines (monthly)
-2015 onward: Philippines Statistics Authority: https://psa.gov.ph/vital-statistics/table.
+2015 onward: Philippines Statistics Authority: https://psa.gov.ph/statistics/vital-statistics/stat-tables. 
 
 
 ### Puerto Rico (weekly)
