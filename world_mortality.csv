@@ -989,23 +989,27 @@ AUS,Australia,2022,49,weekly,3582
 AUS,Australia,2022,50,weekly,3513
 AUS,Australia,2022,51,weekly,3557
 AUS,Australia,2022,52,weekly,3417
-AUS,Australia,2023,1,weekly,3481
-AUS,Australia,2023,2,weekly,3276
-AUS,Australia,2023,3,weekly,3311
-AUS,Australia,2023,4,weekly,3203
-AUS,Australia,2023,5,weekly,3347
-AUS,Australia,2023,6,weekly,3179
-AUS,Australia,2023,7,weekly,3270
-AUS,Australia,2023,8,weekly,3209
-AUS,Australia,2023,9,weekly,3270
-AUS,Australia,2023,10,weekly,3337
-AUS,Australia,2023,11,weekly,3371
-AUS,Australia,2023,12,weekly,3294
-AUS,Australia,2023,13,weekly,3258
-AUS,Australia,2023,14,weekly,3230
-AUS,Australia,2023,15,weekly,3419
-AUS,Australia,2023,16,weekly,3470
-AUS,Australia,2023,17,weekly,3424
+AUS,Australia,2023,1,weekly,3482
+AUS,Australia,2023,2,weekly,3281
+AUS,Australia,2023,3,weekly,3314
+AUS,Australia,2023,4,weekly,3206
+AUS,Australia,2023,5,weekly,3353
+AUS,Australia,2023,6,weekly,3189
+AUS,Australia,2023,7,weekly,3281
+AUS,Australia,2023,8,weekly,3220
+AUS,Australia,2023,9,weekly,3278
+AUS,Australia,2023,10,weekly,3347
+AUS,Australia,2023,11,weekly,3385
+AUS,Australia,2023,12,weekly,3304
+AUS,Australia,2023,13,weekly,3266
+AUS,Australia,2023,14,weekly,3246
+AUS,Australia,2023,15,weekly,3444
+AUS,Australia,2023,16,weekly,3496
+AUS,Australia,2023,17,weekly,3463
+AUS,Australia,2023,18,weekly,3483
+AUS,Australia,2023,19,weekly,3709
+AUS,Australia,2023,20,weekly,3738
+AUS,Australia,2023,21,weekly,3764
 AUT,Austria,2015,1,weekly,1704
 AUT,Austria,2015,2,weekly,1768
 AUT,Austria,2015,3,weekly,1837
@@ -13490,7 +13494,7 @@ ISR,Israel,2022,2,weekly,1213
 ISR,Israel,2022,3,weekly,1395
 ISR,Israel,2022,4,weekly,1489
 ISR,Israel,2022,5,weekly,1570
-ISR,Israel,2022,6,weekly,1459
+ISR,Israel,2022,6,weekly,1460
 ISR,Israel,2022,7,weekly,1287
 ISR,Israel,2022,8,weekly,1195
 ISR,Israel,2022,9,weekly,1105
@@ -13510,14 +13514,14 @@ ISR,Israel,2022,22,weekly,843
 ISR,Israel,2022,23,weekly,868
 ISR,Israel,2022,24,weekly,865
 ISR,Israel,2022,25,weekly,835
-ISR,Israel,2022,26,weekly,921
+ISR,Israel,2022,26,weekly,922
 ISR,Israel,2022,27,weekly,963
 ISR,Israel,2022,28,weekly,927
 ISR,Israel,2022,29,weekly,942
 ISR,Israel,2022,30,weekly,981
 ISR,Israel,2022,31,weekly,898
 ISR,Israel,2022,32,weekly,919
-ISR,Israel,2022,33,weekly,877
+ISR,Israel,2022,33,weekly,878
 ISR,Israel,2022,34,weekly,883
 ISR,Israel,2022,35,weekly,862
 ISR,Israel,2022,36,weekly,856
@@ -13525,18 +13529,18 @@ ISR,Israel,2022,37,weekly,843
 ISR,Israel,2022,38,weekly,851
 ISR,Israel,2022,39,weekly,904
 ISR,Israel,2022,40,weekly,924
-ISR,Israel,2022,41,weekly,867
+ISR,Israel,2022,41,weekly,868
 ISR,Israel,2022,42,weekly,888
-ISR,Israel,2022,43,weekly,887
+ISR,Israel,2022,43,weekly,888
 ISR,Israel,2022,44,weekly,880
-ISR,Israel,2022,45,weekly,898
+ISR,Israel,2022,45,weekly,900
 ISR,Israel,2022,46,weekly,876
 ISR,Israel,2022,47,weekly,931
 ISR,Israel,2022,48,weekly,941
 ISR,Israel,2022,49,weekly,950
 ISR,Israel,2022,50,weekly,1065
 ISR,Israel,2022,51,weekly,1023
-ISR,Israel,2022,52,weekly,1020
+ISR,Israel,2022,52,weekly,1021
 ISR,Israel,2023,1,weekly,1103
 ISR,Israel,2023,2,weekly,1046
 ISR,Israel,2023,3,weekly,1068
@@ -13551,20 +13555,21 @@ ISR,Israel,2023,11,weekly,1012
 ISR,Israel,2023,12,weekly,1006
 ISR,Israel,2023,13,weekly,899
 ISR,Israel,2023,14,weekly,992
-ISR,Israel,2023,15,weekly,957
+ISR,Israel,2023,15,weekly,958
 ISR,Israel,2023,16,weekly,945
 ISR,Israel,2023,17,weekly,902
-ISR,Israel,2023,18,weekly,874
+ISR,Israel,2023,18,weekly,873
 ISR,Israel,2023,19,weekly,913
-ISR,Israel,2023,20,weekly,900
-ISR,Israel,2023,21,weekly,916
-ISR,Israel,2023,22,weekly,892
+ISR,Israel,2023,20,weekly,903
+ISR,Israel,2023,21,weekly,917
+ISR,Israel,2023,22,weekly,895
 ISR,Israel,2023,23,weekly,815
-ISR,Israel,2023,24,weekly,772
-ISR,Israel,2023,25,weekly,842
-ISR,Israel,2023,26,weekly,802
-ISR,Israel,2023,27,weekly,808
-ISR,Israel,2023,28,weekly,748
+ISR,Israel,2023,24,weekly,774
+ISR,Israel,2023,25,weekly,843
+ISR,Israel,2023,26,weekly,805
+ISR,Israel,2023,27,weekly,822
+ISR,Israel,2023,28,weekly,771
+ISR,Israel,2023,29,weekly,765
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -22718,31 +22723,35 @@ PRI,Puerto Rico,2022,49,weekly,723
 PRI,Puerto Rico,2022,50,weekly,722
 PRI,Puerto Rico,2022,51,weekly,725
 PRI,Puerto Rico,2022,52,weekly,723
-PRI,Puerto Rico,2023,1,weekly,697
+PRI,Puerto Rico,2023,1,weekly,698
 PRI,Puerto Rico,2023,2,weekly,757
 PRI,Puerto Rico,2023,3,weekly,702
-PRI,Puerto Rico,2023,4,weekly,692
-PRI,Puerto Rico,2023,5,weekly,686
-PRI,Puerto Rico,2023,6,weekly,712
-PRI,Puerto Rico,2023,7,weekly,725
-PRI,Puerto Rico,2023,8,weekly,666
+PRI,Puerto Rico,2023,4,weekly,693
+PRI,Puerto Rico,2023,5,weekly,684
+PRI,Puerto Rico,2023,6,weekly,708
+PRI,Puerto Rico,2023,7,weekly,721
+PRI,Puerto Rico,2023,8,weekly,662
 PRI,Puerto Rico,2023,9,weekly,688
-PRI,Puerto Rico,2023,10,weekly,686
+PRI,Puerto Rico,2023,10,weekly,685
 PRI,Puerto Rico,2023,11,weekly,672
-PRI,Puerto Rico,2023,12,weekly,611
-PRI,Puerto Rico,2023,13,weekly,631
-PRI,Puerto Rico,2023,14,weekly,551
-PRI,Puerto Rico,2023,15,weekly,652
-PRI,Puerto Rico,2023,16,weekly,639
-PRI,Puerto Rico,2023,17,weekly,614
-PRI,Puerto Rico,2023,18,weekly,644
-PRI,Puerto Rico,2023,19,weekly,665
-PRI,Puerto Rico,2023,20,weekly,622
-PRI,Puerto Rico,2023,21,weekly,640
-PRI,Puerto Rico,2023,22,weekly,630
-PRI,Puerto Rico,2023,23,weekly,780
-PRI,Puerto Rico,2023,24,weekly,731
-PRI,Puerto Rico,2023,25,weekly,722
+PRI,Puerto Rico,2023,12,weekly,610
+PRI,Puerto Rico,2023,13,weekly,630
+PRI,Puerto Rico,2023,14,weekly,550
+PRI,Puerto Rico,2023,15,weekly,646
+PRI,Puerto Rico,2023,16,weekly,633
+PRI,Puerto Rico,2023,17,weekly,605
+PRI,Puerto Rico,2023,18,weekly,634
+PRI,Puerto Rico,2023,19,weekly,658
+PRI,Puerto Rico,2023,20,weekly,619
+PRI,Puerto Rico,2023,21,weekly,638
+PRI,Puerto Rico,2023,22,weekly,620
+PRI,Puerto Rico,2023,23,weekly,749
+PRI,Puerto Rico,2023,24,weekly,660
+PRI,Puerto Rico,2023,25,weekly,667
+PRI,Puerto Rico,2023,26,weekly,716
+PRI,Puerto Rico,2023,27,weekly,691
+PRI,Puerto Rico,2023,28,weekly,706
+PRI,Puerto Rico,2023,29,weekly,700
 QAT,Qatar,2015,1,monthly,210
 QAT,Qatar,2015,2,monthly,196
 QAT,Qatar,2015,3,monthly,191
@@ -24203,6 +24212,7 @@ SRB,Serbia,2023,3,monthly,8648
 SRB,Serbia,2023,4,monthly,7488
 SRB,Serbia,2023,5,monthly,8156
 SRB,Serbia,2023,6,monthly,7289
+SRB,Serbia,2023,7,monthly,7710
 SYC,Seychelles,2015,1,monthly,52
 SYC,Seychelles,2015,2,monthly,50
 SYC,Seychelles,2015,3,monthly,69
@@ -29078,20 +29088,20 @@ USA,United States,2022,1,weekly,79823
 USA,United States,2022,2,weekly,85107
 USA,United States,2022,3,weekly,85695
 USA,United States,2022,4,weekly,85088
-USA,United States,2022,5,weekly,81201
+USA,United States,2022,5,weekly,81200
 USA,United States,2022,6,weekly,77101
 USA,United States,2022,7,weekly,70852
-USA,United States,2022,8,weekly,66035
-USA,United States,2022,9,weekly,64459
+USA,United States,2022,8,weekly,66034
+USA,United States,2022,9,weekly,64460
 USA,United States,2022,10,weekly,61855
 USA,United States,2022,11,weekly,60576
 USA,United States,2022,12,weekly,58600
-USA,United States,2022,13,weekly,58055
-USA,United States,2022,14,weekly,57806
+USA,United States,2022,13,weekly,58054
+USA,United States,2022,14,weekly,57805
 USA,United States,2022,15,weekly,57838
 USA,United States,2022,16,weekly,56780
 USA,United States,2022,17,weekly,57397
-USA,United States,2022,18,weekly,57570
+USA,United States,2022,18,weekly,57571
 USA,United States,2022,19,weekly,58005
 USA,United States,2022,20,weekly,57785
 USA,United States,2022,21,weekly,57200
@@ -29114,42 +29124,47 @@ USA,United States,2022,37,weekly,58396
 USA,United States,2022,38,weekly,58885
 USA,United States,2022,39,weekly,58687
 USA,United States,2022,40,weekly,59702
-USA,United States,2022,41,weekly,59870
-USA,United States,2022,42,weekly,60248
-USA,United States,2022,43,weekly,60195
+USA,United States,2022,41,weekly,59871
+USA,United States,2022,42,weekly,60247
+USA,United States,2022,43,weekly,60194
 USA,United States,2022,44,weekly,61210
 USA,United States,2022,45,weekly,61213
 USA,United States,2022,46,weekly,61802
 USA,United States,2022,47,weekly,64789
 USA,United States,2022,48,weekly,65953
 USA,United States,2022,49,weekly,67226
-USA,United States,2022,50,weekly,66573
+USA,United States,2022,50,weekly,66574
 USA,United States,2022,51,weekly,68140
-USA,United States,2022,52,weekly,70368
-USA,United States,2023,1,weekly,69101
-USA,United States,2023,2,weekly,66478
-USA,United States,2023,3,weekly,64259
-USA,United States,2023,4,weekly,62500
-USA,United States,2023,5,weekly,63220
-USA,United States,2023,6,weekly,63287
-USA,United States,2023,7,weekly,62182
-USA,United States,2023,8,weekly,62468
-USA,United States,2023,9,weekly,61737
-USA,United States,2023,10,weekly,61106
-USA,United States,2023,11,weekly,61394
-USA,United States,2023,12,weekly,61062
-USA,United States,2023,13,weekly,60384
-USA,United States,2023,14,weekly,59310
-USA,United States,2023,15,weekly,59971
-USA,United States,2023,16,weekly,58774
-USA,United States,2023,17,weekly,58121
-USA,United States,2023,18,weekly,58362
-USA,United States,2023,19,weekly,58134
-USA,United States,2023,20,weekly,56926
-USA,United States,2023,21,weekly,56076
-USA,United States,2023,22,weekly,57097
-USA,United States,2023,23,weekly,56458
-USA,United States,2023,24,weekly,56382
+USA,United States,2022,52,weekly,70367
+USA,United States,2023,1,weekly,69117
+USA,United States,2023,2,weekly,66479
+USA,United States,2023,3,weekly,64276
+USA,United States,2023,4,weekly,62549
+USA,United States,2023,5,weekly,62848
+USA,United States,2023,6,weekly,62935
+USA,United States,2023,7,weekly,61830
+USA,United States,2023,8,weekly,62135
+USA,United States,2023,9,weekly,61766
+USA,United States,2023,10,weekly,61167
+USA,United States,2023,11,weekly,61429
+USA,United States,2023,12,weekly,61049
+USA,United States,2023,13,weekly,60389
+USA,United States,2023,14,weekly,59338
+USA,United States,2023,15,weekly,59990
+USA,United States,2023,16,weekly,58826
+USA,United States,2023,17,weekly,58130
+USA,United States,2023,18,weekly,58417
+USA,United States,2023,19,weekly,58160
+USA,United States,2023,20,weekly,56981
+USA,United States,2023,21,weekly,56085
+USA,United States,2023,22,weekly,57173
+USA,United States,2023,23,weekly,56591
+USA,United States,2023,24,weekly,56577
+USA,United States,2023,25,weekly,56072
+USA,United States,2023,26,weekly,56022
+USA,United States,2023,27,weekly,56281
+USA,United States,2023,28,weekly,55735
+USA,United States,2023,29,weekly,55550
 URY,Uruguay,2015,1,monthly,2514
 URY,Uruguay,2015,2,monthly,2219
 URY,Uruguay,2015,3,monthly,2474
