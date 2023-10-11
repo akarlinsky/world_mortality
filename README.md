@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
-We are currently providing data for 125 countries and territories.   
+We are currently providing data for 126 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -19,7 +19,7 @@ Notes:
 * Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
 * Countries are only included if the data exist until at least June 2020. 
 * We only collect weekly, monthly, or quarterly data. 
-* The latest data points (weeks/months/quarters) for each country are **preliminary** and subject to (sometimes large) revisions.   
+* The latest data points (weeks/months) for each country are **preliminary** and subject to (sometimes large) revisions.   
 * We only provide all-cause mortality numbers, without splitting by age or gender.
 * We only provide country-level data, without splitting it by regions or individual cities.
 * The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org/Data/STMF) (HMD) is integrated into this dataset. See the STMF dataset for mortality by age and gender; here we only provide the total numbers.
@@ -224,7 +224,6 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 
 2021: Egypt in Figures 2022 - Vital: https://www.capmas.gov.eg/Pages/StaticPages.aspx?page_id=5035.
 
-2022: CAPMAS monthly bulletin skipped July 2022 data. Until final 2022 data is avilable, we have interpolated the number of deaths in Egypt July 2022 as mean between June and August 2022.
 
 ### El Salvador (monthly)
 2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/).
@@ -232,6 +231,12 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 
 ### Faroe Islands (monthly)
 2015 onward: [Statistics Faroe Islands](https://hagstova.fo/en/population/births-and-deaths/deaths).
+
+
+### Fiji (monthly)
+2015 onward: [Republic of Fiji Vital Statistics Report](https://sdd.spc.int/news/2023/09/26/republic-fiji-vital-statistics-report-2016-2021) digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+
+Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here) and 2020, 2021. It also includes annual counts. The digitized values were scaled to match the annual totals.
 
 
 ### French Polynesia (monthly)
@@ -458,9 +463,10 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 Peru provides daily death counts. We summed them up to form weekly death counts.
 
-From July 1st 2022, we adjust SINADEF's figures to the total number of registered deaths in Peru using the ratio between it and Peru's stats office (INEI). The completeness rates are: 2017: 66%; 2018: 74%; 2019: 73%; 2020 onward: 94%. 
+Notes: From July 1st 2022, we adjust SINADEF's figures to the total number of registered deaths in Peru using the ratio between it and Peru's stats office (INEI). The completeness rates are: 2017: 66%; 2018: 74%; 2019: 73%; 2020 onward: 94%. 
 For more details see the [discussion in our repo](https://github.com/akarlinsky/world_mortality/issues/4#issuecomment-1166526485).
-The adjusted deaths numbers were rounded to one significant digit to emphasize that they were adjusted.
+The adjusted deaths numbers were rounded to one significant digit to emphasize that they were adjusted.   
+SINADEFF reports death registrations after October 2022, but after a cyber attack, many registrations have reverted back to paper format such that SINADEF is under-registering deaths. We thus only report death registrations until October 2022.
 
 
 ### Philippines (monthly)
