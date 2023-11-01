@@ -285,10 +285,10 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 
 ### Ireland (weekly)
-2015 - 2020: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: https://data.cso.ie/table/VSD39.
+2015 - 2021: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: https://data.cso.ie/table/VSD39.
 Ireland provides daily death counts. We summed them up to form weekly death counts.
 
-2021 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02)).
+2022 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02)).
 
 Note that figures from rip.ie are preliminary and might change.
 
