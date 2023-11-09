@@ -1477,6 +1477,10 @@ AUT,Austria,2023,33,weekly,1546
 AUT,Austria,2023,34,weekly,1607
 AUT,Austria,2023,35,weekly,1396
 AUT,Austria,2023,36,weekly,1508
+AUT,Austria,2023,37,weekly,1585
+AUT,Austria,2023,38,weekly,1501
+AUT,Austria,2023,39,weekly,1487
+AUT,Austria,2023,40,weekly,1537
 AZE,Azerbaijan,2015,1,monthly,5000
 AZE,Azerbaijan,2015,2,monthly,4400
 AZE,Azerbaijan,2015,3,monthly,4200
@@ -2294,6 +2298,10 @@ BEL,Belgium,2023,34,weekly,1937
 BEL,Belgium,2023,35,weekly,1808
 BEL,Belgium,2023,36,weekly,1990
 BEL,Belgium,2023,37,weekly,2022
+BEL,Belgium,2023,38,weekly,1858
+BEL,Belgium,2023,39,weekly,1950
+BEL,Belgium,2023,40,weekly,1953
+BEL,Belgium,2023,41,weekly,1939
 BLZ,Belize,2015,1,monthly,149
 BLZ,Belize,2015,2,monthly,147
 BLZ,Belize,2015,3,monthly,167
@@ -3327,6 +3335,10 @@ BGR,Bulgaria,2023,32,weekly,1647
 BGR,Bulgaria,2023,33,weekly,1704
 BGR,Bulgaria,2023,34,weekly,1840
 BGR,Bulgaria,2023,35,weekly,1664
+BGR,Bulgaria,2023,36,weekly,1589
+BGR,Bulgaria,2023,37,weekly,1676
+BGR,Bulgaria,2023,38,weekly,1694
+BGR,Bulgaria,2023,39,weekly,1699
 CPV,Cabo Verde,2015,1,monthly,273
 CPV,Cabo Verde,2015,2,monthly,235
 CPV,Cabo Verde,2015,3,monthly,275
@@ -3772,82 +3784,88 @@ CAN,Canada,2021,44,weekly,6285
 CAN,Canada,2021,45,weekly,6395
 CAN,Canada,2021,46,weekly,6190
 CAN,Canada,2021,47,weekly,6265
-CAN,Canada,2021,48,weekly,6375
-CAN,Canada,2021,49,weekly,6245
+CAN,Canada,2021,48,weekly,6370
+CAN,Canada,2021,49,weekly,6240
 CAN,Canada,2021,50,weekly,6445
 CAN,Canada,2021,51,weekly,6555
 CAN,Canada,2021,52,weekly,6530
-CAN,Canada,2022,1,weekly,7145
-CAN,Canada,2022,2,weekly,7790
-CAN,Canada,2022,3,weekly,8005
-CAN,Canada,2022,4,weekly,7745
-CAN,Canada,2022,5,weekly,7430
-CAN,Canada,2022,6,weekly,7110
-CAN,Canada,2022,7,weekly,6720
-CAN,Canada,2022,8,weekly,6420
-CAN,Canada,2022,9,weekly,6325
-CAN,Canada,2022,10,weekly,6130
-CAN,Canada,2022,11,weekly,6025
-CAN,Canada,2022,12,weekly,5900
-CAN,Canada,2022,13,weekly,5860
-CAN,Canada,2022,14,weekly,6230
-CAN,Canada,2022,15,weekly,6110
-CAN,Canada,2022,16,weekly,6100
-CAN,Canada,2022,17,weekly,6130
-CAN,Canada,2022,18,weekly,6270
-CAN,Canada,2022,19,weekly,6435
-CAN,Canada,2022,20,weekly,5990
-CAN,Canada,2022,21,weekly,5905
-CAN,Canada,2022,22,weekly,5870
-CAN,Canada,2022,23,weekly,5850
-CAN,Canada,2022,24,weekly,5770
-CAN,Canada,2022,25,weekly,5605
-CAN,Canada,2022,26,weekly,5805
-CAN,Canada,2022,27,weekly,5805
-CAN,Canada,2022,28,weekly,6080
-CAN,Canada,2022,29,weekly,6085
-CAN,Canada,2022,30,weekly,6045
-CAN,Canada,2022,31,weekly,6030
-CAN,Canada,2022,32,weekly,6095
+CAN,Canada,2022,1,weekly,7150
+CAN,Canada,2022,2,weekly,7800
+CAN,Canada,2022,3,weekly,8020
+CAN,Canada,2022,4,weekly,7750
+CAN,Canada,2022,5,weekly,7435
+CAN,Canada,2022,6,weekly,7120
+CAN,Canada,2022,7,weekly,6730
+CAN,Canada,2022,8,weekly,6430
+CAN,Canada,2022,9,weekly,6340
+CAN,Canada,2022,10,weekly,6135
+CAN,Canada,2022,11,weekly,6030
+CAN,Canada,2022,12,weekly,5905
+CAN,Canada,2022,13,weekly,5870
+CAN,Canada,2022,14,weekly,6245
+CAN,Canada,2022,15,weekly,6120
+CAN,Canada,2022,16,weekly,6110
+CAN,Canada,2022,17,weekly,6145
+CAN,Canada,2022,18,weekly,6280
+CAN,Canada,2022,19,weekly,6445
+CAN,Canada,2022,20,weekly,6005
+CAN,Canada,2022,21,weekly,5920
+CAN,Canada,2022,22,weekly,5885
+CAN,Canada,2022,23,weekly,5860
+CAN,Canada,2022,24,weekly,5780
+CAN,Canada,2022,25,weekly,5610
+CAN,Canada,2022,26,weekly,5820
+CAN,Canada,2022,27,weekly,5815
+CAN,Canada,2022,28,weekly,6090
+CAN,Canada,2022,29,weekly,6095
+CAN,Canada,2022,30,weekly,6050
+CAN,Canada,2022,31,weekly,6045
+CAN,Canada,2022,32,weekly,6100
 CAN,Canada,2022,33,weekly,6055
-CAN,Canada,2022,34,weekly,6005
-CAN,Canada,2022,35,weekly,6180
-CAN,Canada,2022,36,weekly,6055
-CAN,Canada,2022,37,weekly,6130
-CAN,Canada,2022,38,weekly,6280
-CAN,Canada,2022,39,weekly,6545
-CAN,Canada,2022,40,weekly,6630
-CAN,Canada,2022,41,weekly,6560
-CAN,Canada,2022,42,weekly,6720
-CAN,Canada,2022,43,weekly,6830
-CAN,Canada,2022,44,weekly,6895
-CAN,Canada,2022,45,weekly,6765
-CAN,Canada,2022,46,weekly,6955
-CAN,Canada,2022,47,weekly,7120
+CAN,Canada,2022,34,weekly,6010
+CAN,Canada,2022,35,weekly,6185
+CAN,Canada,2022,36,weekly,6040
+CAN,Canada,2022,37,weekly,6095
+CAN,Canada,2022,38,weekly,6235
+CAN,Canada,2022,39,weekly,6480
+CAN,Canada,2022,40,weekly,6585
+CAN,Canada,2022,41,weekly,6520
+CAN,Canada,2022,42,weekly,6695
+CAN,Canada,2022,43,weekly,6810
+CAN,Canada,2022,44,weekly,6900
+CAN,Canada,2022,45,weekly,6750
+CAN,Canada,2022,46,weekly,6940
+CAN,Canada,2022,47,weekly,7130
 CAN,Canada,2022,48,weekly,7310
-CAN,Canada,2022,49,weekly,7300
-CAN,Canada,2022,50,weekly,7140
-CAN,Canada,2022,51,weekly,7260
-CAN,Canada,2022,52,weekly,7510
-CAN,Canada,2023,1,weekly,7160
-CAN,Canada,2023,2,weekly,7135
-CAN,Canada,2023,3,weekly,6930
-CAN,Canada,2023,4,weekly,6675
-CAN,Canada,2023,5,weekly,6620
-CAN,Canada,2023,6,weekly,6785
-CAN,Canada,2023,7,weekly,6495
-CAN,Canada,2023,8,weekly,6300
-CAN,Canada,2023,9,weekly,6480
-CAN,Canada,2023,10,weekly,6335
-CAN,Canada,2023,11,weekly,6360
-CAN,Canada,2023,12,weekly,6250
-CAN,Canada,2023,13,weekly,6270
-CAN,Canada,2023,14,weekly,6100
-CAN,Canada,2023,15,weekly,6075
-CAN,Canada,2023,16,weekly,5985
-CAN,Canada,2023,17,weekly,6040
-CAN,Canada,2023,18,weekly,5915
-CAN,Canada,2023,19,weekly,5800
+CAN,Canada,2022,49,weekly,7310
+CAN,Canada,2022,50,weekly,7145
+CAN,Canada,2022,51,weekly,7265
+CAN,Canada,2022,52,weekly,7520
+CAN,Canada,2023,1,weekly,7175
+CAN,Canada,2023,2,weekly,7145
+CAN,Canada,2023,3,weekly,6945
+CAN,Canada,2023,4,weekly,6685
+CAN,Canada,2023,5,weekly,6625
+CAN,Canada,2023,6,weekly,6800
+CAN,Canada,2023,7,weekly,6570
+CAN,Canada,2023,8,weekly,6415
+CAN,Canada,2023,9,weekly,6670
+CAN,Canada,2023,10,weekly,6510
+CAN,Canada,2023,11,weekly,6530
+CAN,Canada,2023,12,weekly,6435
+CAN,Canada,2023,13,weekly,6470
+CAN,Canada,2023,14,weekly,6315
+CAN,Canada,2023,15,weekly,6355
+CAN,Canada,2023,16,weekly,6185
+CAN,Canada,2023,17,weekly,6280
+CAN,Canada,2023,18,weekly,6050
+CAN,Canada,2023,19,weekly,5990
+CAN,Canada,2023,20,weekly,5740
+CAN,Canada,2023,21,weekly,5560
+CAN,Canada,2023,22,weekly,5880
+CAN,Canada,2023,23,weekly,5460
+CAN,Canada,2023,24,weekly,5690
+CAN,Canada,2023,25,weekly,5655
 CHL,Chile,2016,1,weekly,1884
 CHL,Chile,2016,2,weekly,1885
 CHL,Chile,2016,3,weekly,1916
@@ -5229,6 +5247,10 @@ HRV,Croatia,2023,32,weekly,800
 HRV,Croatia,2023,33,weekly,962
 HRV,Croatia,2023,34,weekly,912
 HRV,Croatia,2023,35,weekly,838
+HRV,Croatia,2023,36,weekly,920
+HRV,Croatia,2023,37,weekly,853
+HRV,Croatia,2023,38,weekly,904
+HRV,Croatia,2023,39,weekly,868
 CUB,Cuba,2015,1,monthly,8543
 CUB,Cuba,2015,2,monthly,8692
 CUB,Cuba,2015,3,monthly,7986
@@ -5744,39 +5766,43 @@ CYP,Cyprus,2022,50,weekly,140
 CYP,Cyprus,2022,51,weekly,145
 CYP,Cyprus,2022,52,weekly,168
 CYP,Cyprus,2023,1,weekly,156
-CYP,Cyprus,2023,2,weekly,156
-CYP,Cyprus,2023,3,weekly,139
-CYP,Cyprus,2023,4,weekly,149
+CYP,Cyprus,2023,2,weekly,155
+CYP,Cyprus,2023,3,weekly,140
+CYP,Cyprus,2023,4,weekly,150
 CYP,Cyprus,2023,5,weekly,139
-CYP,Cyprus,2023,6,weekly,163
+CYP,Cyprus,2023,6,weekly,164
 CYP,Cyprus,2023,7,weekly,151
-CYP,Cyprus,2023,8,weekly,181
-CYP,Cyprus,2023,9,weekly,172
-CYP,Cyprus,2023,10,weekly,133
+CYP,Cyprus,2023,8,weekly,182
+CYP,Cyprus,2023,9,weekly,171
+CYP,Cyprus,2023,10,weekly,134
 CYP,Cyprus,2023,11,weekly,130
-CYP,Cyprus,2023,12,weekly,125
-CYP,Cyprus,2023,13,weekly,103
+CYP,Cyprus,2023,12,weekly,126
+CYP,Cyprus,2023,13,weekly,102
 CYP,Cyprus,2023,14,weekly,110
 CYP,Cyprus,2023,15,weekly,109
 CYP,Cyprus,2023,16,weekly,112
 CYP,Cyprus,2023,17,weekly,128
-CYP,Cyprus,2023,18,weekly,103
+CYP,Cyprus,2023,18,weekly,102
 CYP,Cyprus,2023,19,weekly,104
 CYP,Cyprus,2023,20,weekly,107
 CYP,Cyprus,2023,21,weekly,110
 CYP,Cyprus,2023,22,weekly,99
 CYP,Cyprus,2023,23,weekly,123
 CYP,Cyprus,2023,24,weekly,108
-CYP,Cyprus,2023,25,weekly,108
-CYP,Cyprus,2023,26,weekly,103
-CYP,Cyprus,2023,27,weekly,101
-CYP,Cyprus,2023,28,weekly,123
-CYP,Cyprus,2023,29,weekly,134
-CYP,Cyprus,2023,30,weekly,131
-CYP,Cyprus,2023,31,weekly,96
-CYP,Cyprus,2023,32,weekly,108
-CYP,Cyprus,2023,33,weekly,105
-CYP,Cyprus,2023,34,weekly,93
+CYP,Cyprus,2023,25,weekly,109
+CYP,Cyprus,2023,26,weekly,104
+CYP,Cyprus,2023,27,weekly,102
+CYP,Cyprus,2023,28,weekly,124
+CYP,Cyprus,2023,29,weekly,136
+CYP,Cyprus,2023,30,weekly,133
+CYP,Cyprus,2023,31,weekly,95
+CYP,Cyprus,2023,32,weekly,111
+CYP,Cyprus,2023,33,weekly,107
+CYP,Cyprus,2023,34,weekly,98
+CYP,Cyprus,2023,35,weekly,107
+CYP,Cyprus,2023,36,weekly,103
+CYP,Cyprus,2023,37,weekly,95
+CYP,Cyprus,2023,38,weekly,121
 CZE,Czechia,2015,1,weekly,2378
 CZE,Czechia,2015,2,weekly,2432
 CZE,Czechia,2015,3,weekly,2396
@@ -7868,6 +7894,7 @@ EST,Estonia,2023,37,weekly,245
 EST,Estonia,2023,38,weekly,272
 EST,Estonia,2023,39,weekly,265
 EST,Estonia,2023,40,weekly,259
+EST,Estonia,2023,41,weekly,315
 FRO,Faroe Islands,2015,1,monthly,41
 FRO,Faroe Islands,2015,2,monthly,29
 FRO,Faroe Islands,2015,3,monthly,32
@@ -8458,6 +8485,11 @@ FIN,Finland,2023,32,weekly,1052
 FIN,Finland,2023,33,weekly,996
 FIN,Finland,2023,34,weekly,1018
 FIN,Finland,2023,35,weekly,943
+FIN,Finland,2023,36,weekly,902
+FIN,Finland,2023,37,weekly,1098
+FIN,Finland,2023,38,weekly,1109
+FIN,Finland,2023,39,weekly,1083
+FIN,Finland,2023,40,weekly,1089
 FRA,France,2015,1,weekly,12804
 FRA,France,2015,2,weekly,13142
 FRA,France,2015,3,weekly,12803
@@ -8913,6 +8945,10 @@ FRA,France,2023,34,weekly,11377
 FRA,France,2023,35,weekly,10810
 FRA,France,2023,36,weekly,11062
 FRA,France,2023,37,weekly,10224
+FRA,France,2023,38,weekly,10902
+FRA,France,2023,39,weekly,11329
+FRA,France,2023,40,weekly,11276
+FRA,France,2023,41,weekly,11097
 GUF,French Guiana,2015,1,weekly,14
 GUF,French Guiana,2015,2,weekly,17
 GUF,French Guiana,2015,3,weekly,18
@@ -9352,22 +9388,26 @@ GUF,French Guiana,2023,18,weekly,23
 GUF,French Guiana,2023,19,weekly,12
 GUF,French Guiana,2023,20,weekly,23
 GUF,French Guiana,2023,21,weekly,21
-GUF,French Guiana,2023,22,weekly,30
+GUF,French Guiana,2023,22,weekly,31
 GUF,French Guiana,2023,23,weekly,25
 GUF,French Guiana,2023,24,weekly,30
 GUF,French Guiana,2023,25,weekly,24
-GUF,French Guiana,2023,26,weekly,11
+GUF,French Guiana,2023,26,weekly,12
 GUF,French Guiana,2023,27,weekly,21
 GUF,French Guiana,2023,28,weekly,23
 GUF,French Guiana,2023,29,weekly,23
 GUF,French Guiana,2023,30,weekly,29
-GUF,French Guiana,2023,31,weekly,24
-GUF,French Guiana,2023,32,weekly,16
+GUF,French Guiana,2023,31,weekly,25
+GUF,French Guiana,2023,32,weekly,17
 GUF,French Guiana,2023,33,weekly,17
-GUF,French Guiana,2023,34,weekly,19
-GUF,French Guiana,2023,35,weekly,20
+GUF,French Guiana,2023,34,weekly,21
+GUF,French Guiana,2023,35,weekly,21
 GUF,French Guiana,2023,36,weekly,21
-GUF,French Guiana,2023,37,weekly,15
+GUF,French Guiana,2023,37,weekly,18
+GUF,French Guiana,2023,38,weekly,20
+GUF,French Guiana,2023,39,weekly,31
+GUF,French Guiana,2023,40,weekly,25
+GUF,French Guiana,2023,41,weekly,23
 PYF,French Polynesia,2015,1,monthly,155
 PYF,French Polynesia,2015,2,monthly,95
 PYF,French Polynesia,2015,3,monthly,105
@@ -10011,6 +10051,9 @@ DEU,Germany,2023,36,weekly,17904
 DEU,Germany,2023,37,weekly,18058
 DEU,Germany,2023,38,weekly,17812
 DEU,Germany,2023,39,weekly,17743
+DEU,Germany,2023,40,weekly,18067
+DEU,Germany,2023,41,weekly,18893
+DEU,Germany,2023,42,weekly,19829
 GIB,Gibraltar,2015,1,monthly,25
 GIB,Gibraltar,2015,2,monthly,26
 GIB,Gibraltar,2015,3,monthly,22
@@ -10537,6 +10580,10 @@ GRC,Greece,2023,32,weekly,2120
 GRC,Greece,2023,33,weekly,2381
 GRC,Greece,2023,34,weekly,2610
 GRC,Greece,2023,35,weekly,2341
+GRC,Greece,2023,36,weekly,2159
+GRC,Greece,2023,37,weekly,2250
+GRC,Greece,2023,38,weekly,2267
+GRC,Greece,2023,39,weekly,2182
 GRL,Greenland,2015,1,monthly,44
 GRL,Greenland,2015,2,monthly,33
 GRL,Greenland,2015,3,monthly,45
@@ -11074,7 +11121,7 @@ GLP,Guadeloupe,2023,14,weekly,59
 GLP,Guadeloupe,2023,15,weekly,56
 GLP,Guadeloupe,2023,16,weekly,67
 GLP,Guadeloupe,2023,17,weekly,56
-GLP,Guadeloupe,2023,18,weekly,64
+GLP,Guadeloupe,2023,18,weekly,65
 GLP,Guadeloupe,2023,19,weekly,86
 GLP,Guadeloupe,2023,20,weekly,74
 GLP,Guadeloupe,2023,21,weekly,68
@@ -11084,16 +11131,20 @@ GLP,Guadeloupe,2023,24,weekly,82
 GLP,Guadeloupe,2023,25,weekly,79
 GLP,Guadeloupe,2023,26,weekly,78
 GLP,Guadeloupe,2023,27,weekly,74
-GLP,Guadeloupe,2023,28,weekly,69
+GLP,Guadeloupe,2023,28,weekly,70
 GLP,Guadeloupe,2023,29,weekly,95
-GLP,Guadeloupe,2023,30,weekly,67
+GLP,Guadeloupe,2023,30,weekly,68
 GLP,Guadeloupe,2023,31,weekly,80
 GLP,Guadeloupe,2023,32,weekly,62
 GLP,Guadeloupe,2023,33,weekly,80
-GLP,Guadeloupe,2023,34,weekly,77
-GLP,Guadeloupe,2023,35,weekly,88
-GLP,Guadeloupe,2023,36,weekly,76
-GLP,Guadeloupe,2023,37,weekly,72
+GLP,Guadeloupe,2023,34,weekly,78
+GLP,Guadeloupe,2023,35,weekly,91
+GLP,Guadeloupe,2023,36,weekly,80
+GLP,Guadeloupe,2023,37,weekly,82
+GLP,Guadeloupe,2023,38,weekly,101
+GLP,Guadeloupe,2023,39,weekly,68
+GLP,Guadeloupe,2023,40,weekly,59
+GLP,Guadeloupe,2023,41,weekly,57
 GTM,Guatemala,2015,1,weekly,1690
 GTM,Guatemala,2015,2,weekly,1616
 GTM,Guatemala,2015,3,weekly,1604
@@ -12067,6 +12118,10 @@ HUN,Hungary,2023,33,weekly,2341
 HUN,Hungary,2023,34,weekly,2401
 HUN,Hungary,2023,35,weekly,2081
 HUN,Hungary,2023,36,weekly,2088
+HUN,Hungary,2023,37,weekly,2215
+HUN,Hungary,2023,38,weekly,2141
+HUN,Hungary,2023,39,weekly,2064
+HUN,Hungary,2023,40,weekly,2218
 ISL,Iceland,2015,1,weekly,49
 ISL,Iceland,2015,2,weekly,42
 ISL,Iceland,2015,3,weekly,44
@@ -12520,6 +12575,10 @@ ISL,Iceland,2023,32,weekly,44
 ISL,Iceland,2023,33,weekly,44
 ISL,Iceland,2023,34,weekly,38
 ISL,Iceland,2023,35,weekly,47
+ISL,Iceland,2023,36,weekly,63
+ISL,Iceland,2023,37,weekly,52
+ISL,Iceland,2023,38,weekly,41
+ISL,Iceland,2023,39,weekly,45
 IRN,Iran,2015,1,weekly,7917.9
 IRN,Iran,2015,2,weekly,7478.6
 IRN,Iran,2015,3,weekly,7367.1
@@ -13376,8 +13435,12 @@ IRL,Ireland,2023,30,weekly,587
 IRL,Ireland,2023,31,weekly,619
 IRL,Ireland,2023,32,weekly,602
 IRL,Ireland,2023,33,weekly,648
-IRL,Ireland,2023,34,weekly,662
-IRL,Ireland,2023,35,weekly,631
+IRL,Ireland,2023,34,weekly,665
+IRL,Ireland,2023,35,weekly,633
+IRL,Ireland,2023,36,weekly,630
+IRL,Ireland,2023,37,weekly,621
+IRL,Ireland,2023,38,weekly,625
+IRL,Ireland,2023,39,weekly,620
 ISR,Israel,2015,1,weekly,936
 ISR,Israel,2015,2,weekly,1020
 ISR,Israel,2015,3,weekly,988
@@ -13826,16 +13889,17 @@ ISR,Israel,2023,27,weekly,830
 ISR,Israel,2023,28,weekly,787
 ISR,Israel,2023,29,weekly,804
 ISR,Israel,2023,30,weekly,762
-ISR,Israel,2023,31,weekly,871
-ISR,Israel,2023,32,weekly,889
-ISR,Israel,2023,33,weekly,841
+ISR,Israel,2023,31,weekly,872
+ISR,Israel,2023,32,weekly,890
+ISR,Israel,2023,33,weekly,842
 ISR,Israel,2023,34,weekly,808
-ISR,Israel,2023,35,weekly,830
-ISR,Israel,2023,36,weekly,845
-ISR,Israel,2023,37,weekly,810
-ISR,Israel,2023,38,weekly,873
-ISR,Israel,2023,39,weekly,836
-ISR,Israel,2023,40,weekly,1791
+ISR,Israel,2023,35,weekly,834
+ISR,Israel,2023,36,weekly,851
+ISR,Israel,2023,37,weekly,830
+ISR,Israel,2023,38,weekly,883
+ISR,Israel,2023,39,weekly,850
+ISR,Israel,2023,40,weekly,1841
+ISR,Israel,2023,41,weekly,859
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -14284,7 +14348,11 @@ ITA,Italy,2023,27,weekly,10911
 ITA,Italy,2023,28,weekly,11723
 ITA,Italy,2023,29,weekly,13382
 ITA,Italy,2023,30,weekly,13027
-ITA,Italy,2023,31,weekly,11137
+ITA,Italy,2023,31,weekly,11296
+ITA,Italy,2023,32,weekly,10718
+ITA,Italy,2023,33,weekly,11445
+ITA,Italy,2023,34,weekly,12704
+ITA,Italy,2023,35,weekly,10789
 JAM,Jamaica,2015,1,monthly,1735
 JAM,Jamaica,2015,2,monthly,1511
 JAM,Jamaica,2015,3,monthly,1517
@@ -15413,6 +15481,10 @@ LVA,Latvia,2023,32,weekly,475
 LVA,Latvia,2023,33,weekly,494
 LVA,Latvia,2023,34,weekly,445
 LVA,Latvia,2023,35,weekly,432
+LVA,Latvia,2023,36,weekly,449
+LVA,Latvia,2023,37,weekly,478
+LVA,Latvia,2023,38,weekly,472
+LVA,Latvia,2023,39,weekly,483
 LBN,Lebanon,2015,1,monthly,2291
 LBN,Lebanon,2015,2,monthly,2211
 LBN,Lebanon,2015,3,monthly,2502
@@ -16043,6 +16115,10 @@ LTU,Lithuania,2023,32,weekly,628
 LTU,Lithuania,2023,33,weekly,696
 LTU,Lithuania,2023,34,weekly,666
 LTU,Lithuania,2023,35,weekly,633
+LTU,Lithuania,2023,36,weekly,633
+LTU,Lithuania,2023,37,weekly,691
+LTU,Lithuania,2023,38,weekly,676
+LTU,Lithuania,2023,39,weekly,693
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -16496,6 +16572,10 @@ LUX,Luxembourg,2023,32,weekly,70
 LUX,Luxembourg,2023,33,weekly,85
 LUX,Luxembourg,2023,34,weekly,80
 LUX,Luxembourg,2023,35,weekly,76
+LUX,Luxembourg,2023,36,weekly,82
+LUX,Luxembourg,2023,37,weekly,88
+LUX,Luxembourg,2023,38,weekly,63
+LUX,Luxembourg,2023,39,weekly,93
 MAC,Macao,2015,1,monthly,193
 MAC,Macao,2015,2,monthly,163
 MAC,Macao,2015,3,monthly,186
@@ -17240,6 +17320,12 @@ MLT,Malta,2023,32,weekly,70
 MLT,Malta,2023,33,weekly,72
 MLT,Malta,2023,34,weekly,71
 MLT,Malta,2023,35,weekly,70
+MLT,Malta,2023,36,weekly,67
+MLT,Malta,2023,37,weekly,74
+MLT,Malta,2023,38,weekly,56
+MLT,Malta,2023,39,weekly,51
+MLT,Malta,2023,40,weekly,63
+MLT,Malta,2023,41,weekly,75
 MTQ,Martinique,2015,1,weekly,61
 MTQ,Martinique,2015,2,weekly,54
 MTQ,Martinique,2015,3,weekly,58
@@ -17669,7 +17755,7 @@ MTQ,Martinique,2023,8,weekly,57
 MTQ,Martinique,2023,9,weekly,75
 MTQ,Martinique,2023,10,weekly,72
 MTQ,Martinique,2023,11,weekly,72
-MTQ,Martinique,2023,12,weekly,63
+MTQ,Martinique,2023,12,weekly,64
 MTQ,Martinique,2023,13,weekly,60
 MTQ,Martinique,2023,14,weekly,77
 MTQ,Martinique,2023,15,weekly,68
@@ -17686,15 +17772,19 @@ MTQ,Martinique,2023,25,weekly,68
 MTQ,Martinique,2023,26,weekly,70
 MTQ,Martinique,2023,27,weekly,63
 MTQ,Martinique,2023,28,weekly,69
-MTQ,Martinique,2023,29,weekly,70
+MTQ,Martinique,2023,29,weekly,71
 MTQ,Martinique,2023,30,weekly,82
 MTQ,Martinique,2023,31,weekly,81
 MTQ,Martinique,2023,32,weekly,99
-MTQ,Martinique,2023,33,weekly,75
-MTQ,Martinique,2023,34,weekly,109
-MTQ,Martinique,2023,35,weekly,92
-MTQ,Martinique,2023,36,weekly,80
-MTQ,Martinique,2023,37,weekly,77
+MTQ,Martinique,2023,33,weekly,76
+MTQ,Martinique,2023,34,weekly,111
+MTQ,Martinique,2023,35,weekly,96
+MTQ,Martinique,2023,36,weekly,88
+MTQ,Martinique,2023,37,weekly,83
+MTQ,Martinique,2023,38,weekly,79
+MTQ,Martinique,2023,39,weekly,81
+MTQ,Martinique,2023,40,weekly,67
+MTQ,Martinique,2023,41,weekly,61
 MUS,Mauritius,2015,1,monthly,845
 MUS,Mauritius,2015,2,monthly,711
 MUS,Mauritius,2015,3,monthly,773
@@ -18245,7 +18335,11 @@ MYT,Mayotte,2023,33,weekly,16
 MYT,Mayotte,2023,34,weekly,17
 MYT,Mayotte,2023,35,weekly,18
 MYT,Mayotte,2023,36,weekly,24
-MYT,Mayotte,2023,37,weekly,19
+MYT,Mayotte,2023,37,weekly,21
+MYT,Mayotte,2023,38,weekly,16
+MYT,Mayotte,2023,39,weekly,16
+MYT,Mayotte,2023,40,weekly,13
+MYT,Mayotte,2023,41,weekly,19
 MEX,Mexico,2015,1,weekly,15101
 MEX,Mexico,2015,2,weekly,15449
 MEX,Mexico,2015,3,weekly,14820
@@ -19879,6 +19973,10 @@ NLD,Netherlands,2023,34,weekly,2883
 NLD,Netherlands,2023,35,weekly,2834
 NLD,Netherlands,2023,36,weekly,2930
 NLD,Netherlands,2023,37,weekly,2865
+NLD,Netherlands,2023,38,weekly,2992
+NLD,Netherlands,2023,39,weekly,3065
+NLD,Netherlands,2023,40,weekly,3089
+NLD,Netherlands,2023,41,weekly,3040
 NCL,New Caledonia,2015,1,monthly,126
 NCL,New Caledonia,2015,2,monthly,124
 NCL,New Caledonia,2015,3,monthly,118
@@ -21077,6 +21175,8 @@ NOR,Norway,2023,36,weekly,797
 NOR,Norway,2023,37,weekly,826
 NOR,Norway,2023,38,weekly,797
 NOR,Norway,2023,39,weekly,795
+NOR,Norway,2023,40,weekly,764
+NOR,Norway,2023,41,weekly,774
 OMN,Oman,2015,1,monthly,799
 OMN,Oman,2015,2,monthly,546
 OMN,Oman,2015,3,monthly,602
@@ -21801,21 +21901,21 @@ PHL,Philippines,2021,9,monthly,119758
 PHL,Philippines,2021,10,monthly,84428
 PHL,Philippines,2021,11,monthly,58202
 PHL,Philippines,2021,12,monthly,56202
-PHL,Philippines,2022,1,monthly,70276
-PHL,Philippines,2022,2,monthly,52596
-PHL,Philippines,2022,3,monthly,52436
-PHL,Philippines,2022,4,monthly,50742
-PHL,Philippines,2022,5,monthly,54384
-PHL,Philippines,2022,6,monthly,52420
-PHL,Philippines,2022,7,monthly,56660
-PHL,Philippines,2022,8,monthly,60267
-PHL,Philippines,2022,9,monthly,56917
-PHL,Philippines,2022,10,monthly,57118
-PHL,Philippines,2022,11,monthly,55160
-PHL,Philippines,2022,12,monthly,57225
-PHL,Philippines,2023,1,monthly,58340
-PHL,Philippines,2023,2,monthly,46139
-PHL,Philippines,2023,3,monthly,46694
+PHL,Philippines,2022,1,monthly,70323
+PHL,Philippines,2022,2,monthly,52633
+PHL,Philippines,2022,3,monthly,52464
+PHL,Philippines,2022,4,monthly,50786
+PHL,Philippines,2022,5,monthly,54427
+PHL,Philippines,2022,6,monthly,52456
+PHL,Philippines,2022,7,monthly,56752
+PHL,Philippines,2022,8,monthly,60529
+PHL,Philippines,2022,9,monthly,57146
+PHL,Philippines,2022,10,monthly,57829
+PHL,Philippines,2022,11,monthly,55953
+PHL,Philippines,2022,12,monthly,58468
+PHL,Philippines,2023,1,monthly,60153
+PHL,Philippines,2023,2,monthly,51565
+PHL,Philippines,2023,3,monthly,54136
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800
@@ -22272,6 +22372,10 @@ POL,Poland,2023,35,weekly,6509
 POL,Poland,2023,36,weekly,6774
 POL,Poland,2023,37,weekly,6720
 POL,Poland,2023,38,weekly,6740
+POL,Poland,2023,39,weekly,7078
+POL,Poland,2023,40,weekly,6989
+POL,Poland,2023,41,weekly,7337
+POL,Poland,2023,42,weekly,7395
 PRT,Portugal,2015,1,weekly,2813
 PRT,Portugal,2015,2,weekly,3054
 PRT,Portugal,2015,3,weekly,3167
@@ -22725,6 +22829,10 @@ PRT,Portugal,2023,32,weekly,2211
 PRT,Portugal,2023,33,weekly,2076
 PRT,Portugal,2023,34,weekly,2282
 PRT,Portugal,2023,35,weekly,1953
+PRT,Portugal,2023,36,weekly,2048
+PRT,Portugal,2023,37,weekly,2033
+PRT,Portugal,2023,38,weekly,2019
+PRT,Portugal,2023,39,weekly,1895
 PRI,Puerto Rico,2015,1,weekly,637
 PRI,Puerto Rico,2015,2,weekly,633
 PRI,Puerto Rico,2015,3,weekly,620
@@ -24219,7 +24327,7 @@ REU,Réunion,2022,14,weekly,118
 REU,Réunion,2022,15,weekly,111
 REU,Réunion,2022,16,weekly,100
 REU,Réunion,2022,17,weekly,136
-REU,Réunion,2022,18,weekly,114
+REU,Réunion,2022,18,weekly,115
 REU,Réunion,2022,19,weekly,111
 REU,Réunion,2022,20,weekly,118
 REU,Réunion,2022,21,weekly,94
@@ -24253,7 +24361,7 @@ REU,Réunion,2022,48,weekly,115
 REU,Réunion,2022,49,weekly,115
 REU,Réunion,2022,50,weekly,115
 REU,Réunion,2022,51,weekly,81
-REU,Réunion,2022,52,weekly,136
+REU,Réunion,2022,52,weekly,137
 REU,Réunion,2023,1,weekly,102
 REU,Réunion,2023,2,weekly,95
 REU,Réunion,2023,3,weekly,114
@@ -24277,20 +24385,24 @@ REU,Réunion,2023,20,weekly,90
 REU,Réunion,2023,21,weekly,100
 REU,Réunion,2023,22,weekly,97
 REU,Réunion,2023,23,weekly,119
-REU,Réunion,2023,24,weekly,105
+REU,Réunion,2023,24,weekly,106
 REU,Réunion,2023,25,weekly,103
 REU,Réunion,2023,26,weekly,107
 REU,Réunion,2023,27,weekly,117
 REU,Réunion,2023,28,weekly,100
 REU,Réunion,2023,29,weekly,112
-REU,Réunion,2023,30,weekly,115
+REU,Réunion,2023,30,weekly,116
 REU,Réunion,2023,31,weekly,98
 REU,Réunion,2023,32,weekly,111
 REU,Réunion,2023,33,weekly,102
 REU,Réunion,2023,34,weekly,85
-REU,Réunion,2023,35,weekly,100
-REU,Réunion,2023,36,weekly,98
-REU,Réunion,2023,37,weekly,103
+REU,Réunion,2023,35,weekly,101
+REU,Réunion,2023,36,weekly,102
+REU,Réunion,2023,37,weekly,106
+REU,Réunion,2023,38,weekly,115
+REU,Réunion,2023,39,weekly,102
+REU,Réunion,2023,40,weekly,96
+REU,Réunion,2023,41,weekly,114
 KNA,Saint Kitts and Nevis,2016,1,monthly,42
 KNA,Saint Kitts and Nevis,2016,2,monthly,25
 KNA,Saint Kitts and Nevis,2016,3,monthly,33
@@ -25313,6 +25425,10 @@ SVK,Slovakia,2023,29,weekly,931
 SVK,Slovakia,2023,30,weekly,903
 SVK,Slovakia,2023,31,weekly,897
 SVK,Slovakia,2023,32,weekly,840
+SVK,Slovakia,2023,33,weekly,945
+SVK,Slovakia,2023,34,weekly,974
+SVK,Slovakia,2023,35,weekly,924
+SVK,Slovakia,2023,36,weekly,935
 SVN,Slovenia,2015,1,weekly,408
 SVN,Slovenia,2015,2,weekly,407
 SVN,Slovenia,2015,3,weekly,453
@@ -27120,7 +27236,11 @@ ESP,Spain,2023,31,weekly,7532
 ESP,Spain,2023,32,weekly,7586
 ESP,Spain,2023,33,weekly,7641
 ESP,Spain,2023,34,weekly,8092
-ESP,Spain,2023,35,weekly,7704
+ESP,Spain,2023,35,weekly,7813
+ESP,Spain,2023,36,weekly,7534
+ESP,Spain,2023,37,weekly,7212
+ESP,Spain,2023,38,weekly,7243
+ESP,Spain,2023,39,weekly,7341
 SUR,Suriname,2015,1,monthly,329
 SUR,Suriname,2015,2,monthly,284
 SUR,Suriname,2015,3,monthly,324
@@ -28110,6 +28230,11 @@ CHE,Switzerland,2023,32,weekly,1212
 CHE,Switzerland,2023,33,weekly,1300
 CHE,Switzerland,2023,34,weekly,1280
 CHE,Switzerland,2023,35,weekly,1134
+CHE,Switzerland,2023,36,weekly,1323
+CHE,Switzerland,2023,37,weekly,1227
+CHE,Switzerland,2023,38,weekly,1177
+CHE,Switzerland,2023,39,weekly,1193
+CHE,Switzerland,2023,40,weekly,1231
 TWN,Taiwan,2015,1,monthly,14310
 TWN,Taiwan,2015,2,monthly,12122
 TWN,Taiwan,2015,3,monthly,16092
