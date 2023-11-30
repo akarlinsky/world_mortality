@@ -1001,34 +1001,38 @@ AUS,Australia,2022,51,weekly,3557
 AUS,Australia,2022,52,weekly,3417
 AUS,Australia,2023,1,weekly,3487
 AUS,Australia,2023,2,weekly,3282
-AUS,Australia,2023,3,weekly,3320
-AUS,Australia,2023,4,weekly,3209
-AUS,Australia,2023,5,weekly,3362
-AUS,Australia,2023,6,weekly,3198
-AUS,Australia,2023,7,weekly,3287
-AUS,Australia,2023,8,weekly,3228
-AUS,Australia,2023,9,weekly,3286
-AUS,Australia,2023,10,weekly,3359
-AUS,Australia,2023,11,weekly,3393
-AUS,Australia,2023,12,weekly,3314
-AUS,Australia,2023,13,weekly,3284
-AUS,Australia,2023,14,weekly,3260
-AUS,Australia,2023,15,weekly,3463
-AUS,Australia,2023,16,weekly,3519
-AUS,Australia,2023,17,weekly,3485
-AUS,Australia,2023,18,weekly,3513
-AUS,Australia,2023,19,weekly,3745
-AUS,Australia,2023,20,weekly,3786
-AUS,Australia,2023,21,weekly,3808
-AUS,Australia,2023,22,weekly,3902
-AUS,Australia,2023,23,weekly,3679
-AUS,Australia,2023,24,weekly,3601
-AUS,Australia,2023,25,weekly,3814
-AUS,Australia,2023,26,weekly,3718
-AUS,Australia,2023,27,weekly,3766
-AUS,Australia,2023,28,weekly,3660
-AUS,Australia,2023,29,weekly,3676
-AUS,Australia,2023,30,weekly,3658
+AUS,Australia,2023,3,weekly,3323
+AUS,Australia,2023,4,weekly,3212
+AUS,Australia,2023,5,weekly,3363
+AUS,Australia,2023,6,weekly,3200
+AUS,Australia,2023,7,weekly,3288
+AUS,Australia,2023,8,weekly,3230
+AUS,Australia,2023,9,weekly,3291
+AUS,Australia,2023,10,weekly,3362
+AUS,Australia,2023,11,weekly,3398
+AUS,Australia,2023,12,weekly,3317
+AUS,Australia,2023,13,weekly,3287
+AUS,Australia,2023,14,weekly,3261
+AUS,Australia,2023,15,weekly,3470
+AUS,Australia,2023,16,weekly,3522
+AUS,Australia,2023,17,weekly,3490
+AUS,Australia,2023,18,weekly,3517
+AUS,Australia,2023,19,weekly,3754
+AUS,Australia,2023,20,weekly,3793
+AUS,Australia,2023,21,weekly,3819
+AUS,Australia,2023,22,weekly,3916
+AUS,Australia,2023,23,weekly,3698
+AUS,Australia,2023,24,weekly,3614
+AUS,Australia,2023,25,weekly,3829
+AUS,Australia,2023,26,weekly,3733
+AUS,Australia,2023,27,weekly,3793
+AUS,Australia,2023,28,weekly,3692
+AUS,Australia,2023,29,weekly,3705
+AUS,Australia,2023,30,weekly,3709
+AUS,Australia,2023,31,weekly,3603
+AUS,Australia,2023,32,weekly,3585
+AUS,Australia,2023,33,weekly,3627
+AUS,Australia,2023,34,weekly,3467
 AUT,Austria,2015,1,weekly,1704
 AUT,Austria,2015,2,weekly,1768
 AUT,Austria,2015,3,weekly,1837
@@ -1772,9 +1776,15 @@ BRB,Barbados,2022,9,monthly,255
 BRB,Barbados,2022,10,monthly,277
 BRB,Barbados,2022,11,monthly,238
 BRB,Barbados,2022,12,monthly,252
-BRB,Barbados,2023,1,monthly,354
-BRB,Barbados,2023,2,monthly,294
-BRB,Barbados,2023,3,monthly,281
+BRB,Barbados,2023,1,monthly,310
+BRB,Barbados,2023,2,monthly,288
+BRB,Barbados,2023,3,monthly,279
+BRB,Barbados,2023,4,monthly,206
+BRB,Barbados,2023,5,monthly,333
+BRB,Barbados,2023,6,monthly,307
+BRB,Barbados,2023,7,monthly,231
+BRB,Barbados,2023,8,monthly,306
+BRB,Barbados,2023,9,monthly,272
 BLR,Belarus,2015,1,monthly,11366
 BLR,Belarus,2015,2,monthly,10005
 BLR,Belarus,2015,3,monthly,11148
@@ -13905,34 +13915,35 @@ ISR,Israel,2023,12,weekly,1007
 ISR,Israel,2023,13,weekly,901
 ISR,Israel,2023,14,weekly,994
 ISR,Israel,2023,15,weekly,960
-ISR,Israel,2023,16,weekly,946
+ISR,Israel,2023,16,weekly,947
 ISR,Israel,2023,17,weekly,904
 ISR,Israel,2023,18,weekly,874
-ISR,Israel,2023,19,weekly,919
+ISR,Israel,2023,19,weekly,920
 ISR,Israel,2023,20,weekly,904
 ISR,Israel,2023,21,weekly,925
 ISR,Israel,2023,22,weekly,899
 ISR,Israel,2023,23,weekly,816
 ISR,Israel,2023,24,weekly,775
-ISR,Israel,2023,25,weekly,851
+ISR,Israel,2023,25,weekly,852
 ISR,Israel,2023,26,weekly,813
-ISR,Israel,2023,27,weekly,829
+ISR,Israel,2023,27,weekly,830
 ISR,Israel,2023,28,weekly,786
-ISR,Israel,2023,29,weekly,804
+ISR,Israel,2023,29,weekly,805
 ISR,Israel,2023,30,weekly,763
-ISR,Israel,2023,31,weekly,871
+ISR,Israel,2023,31,weekly,872
 ISR,Israel,2023,32,weekly,892
 ISR,Israel,2023,33,weekly,843
-ISR,Israel,2023,34,weekly,811
+ISR,Israel,2023,34,weekly,813
 ISR,Israel,2023,35,weekly,837
-ISR,Israel,2023,36,weekly,853
-ISR,Israel,2023,37,weekly,836
-ISR,Israel,2023,38,weekly,896
-ISR,Israel,2023,39,weekly,889
-ISR,Israel,2023,40,weekly,1898
-ISR,Israel,2023,41,weekly,911
-ISR,Israel,2023,42,weekly,927
-ISR,Israel,2023,43,weekly,915
+ISR,Israel,2023,36,weekly,854
+ISR,Israel,2023,37,weekly,838
+ISR,Israel,2023,38,weekly,899
+ISR,Israel,2023,39,weekly,892
+ISR,Israel,2023,40,weekly,1906
+ISR,Israel,2023,41,weekly,914
+ISR,Israel,2023,42,weekly,933
+ISR,Israel,2023,43,weekly,925
+ISR,Israel,2023,44,weekly,847
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -14577,6 +14588,7 @@ JPN,Japan,2023,5,monthly,122193
 JPN,Japan,2023,6,monthly,113500
 JPN,Japan,2023,7,monthly,120524
 JPN,Japan,2023,8,monthly,130848
+JPN,Japan,2023,9,monthly,127242
 JOR,Jordan,2015,1,monthly,2840
 JOR,Jordan,2015,2,monthly,2270
 JOR,Jordan,2015,3,monthly,2426
@@ -20114,6 +20126,12 @@ NCL,New Caledonia,2022,9,monthly,153
 NCL,New Caledonia,2022,10,monthly,147
 NCL,New Caledonia,2022,11,monthly,128
 NCL,New Caledonia,2022,12,monthly,143
+NCL,New Caledonia,2023,1,monthly,129
+NCL,New Caledonia,2023,2,monthly,136
+NCL,New Caledonia,2023,3,monthly,167
+NCL,New Caledonia,2023,4,monthly,158
+NCL,New Caledonia,2023,5,monthly,151
+NCL,New Caledonia,2023,6,monthly,152
 NZL,New Zealand,2015,1,weekly,564
 NZL,New Zealand,2015,2,weekly,566
 NZL,New Zealand,2015,3,weekly,595
@@ -24830,6 +24848,7 @@ SRB,Serbia,2023,6,monthly,7289
 SRB,Serbia,2023,7,monthly,7710
 SRB,Serbia,2023,8,monthly,7622
 SRB,Serbia,2023,9,monthly,6931
+SRB,Serbia,2023,10,monthly,8427
 SYC,Seychelles,2015,1,monthly,52
 SYC,Seychelles,2015,2,monthly,50
 SYC,Seychelles,2015,3,monthly,69
@@ -30019,6 +30038,8 @@ URY,Uruguay,2022,12,monthly,2838
 URY,Uruguay,2023,1,monthly,2867
 URY,Uruguay,2023,2,monthly,2428
 URY,Uruguay,2023,3,monthly,2681
+URY,Uruguay,2023,4,monthly,2777
+URY,Uruguay,2023,5,monthly,2997
 UZB,Uzbekistan,2015,1,monthly,9402
 UZB,Uzbekistan,2015,2,monthly,13028
 UZB,Uzbekistan,2015,3,monthly,12873

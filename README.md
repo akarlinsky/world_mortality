@@ -234,7 +234,7 @@ https://www.capmas.gov.eg/Pages/Publications.aspx?page_id=5104&Year=23595 & Stat
 
 
 ### Fiji (monthly)
-2015 onward: [Republic of Fiji Vital Statistics Report](https://sdd.spc.int/news/2023/09/26/republic-fiji-vital-statistics-report-2016-2021) digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
+2015 onward: [Republic of Fiji Vital Statistics Report](https://www.statsfiji.gov.fj/statistics/social-statistics/vital-statistics-report.html) digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). 
 
 Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here) and 2020, 2021. It also includes annual counts. The digitized values were scaled to match the annual totals.
 
