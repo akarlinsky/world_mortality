@@ -350,7 +350,7 @@ We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
 2017 - 2021: [Lebanon Ministry of Public Health Hospital-based Cause Of Death Notification System](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/20380/hospital-based-cause-of-death-statistics)
 
-Monthly hospital deaths have been corrected to total deaths using the ratio between total deaths to hospital deaths in 2019 (1.34). 
+Monthly hospital deaths (2020 onward) have been corrected to total deaths using the ratio between total deaths (available [here](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/138/health-indicators)) to hospital deaths. 
 
 
 ### Liechtenstein (monthly)
