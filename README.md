@@ -314,9 +314,9 @@ Note that figures from rip.ie are preliminary and might change.
 Kazakhstan Bureau of National Statistics 
 2015 to 2018: Monthly Socio-Economic Development of the Republic of Kazakhstan:  https://stat.gov.kz/edition/publication/month?lang=en  
 
-2019 onward: https://stat.gov.kz/official/industry/61/statistic/7
+2019 - 2022: https://stat.gov.kz/official/industry/61/statistic/7
 
-Direct link to Excel file: https://stat.gov.kz/api/getFile/?docId=ESTAT334793
+2023 onward: https://stat.gov.kz/industries/social-statistics/demography/dynamic-tables/
 
 Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018.
 
@@ -328,7 +328,9 @@ Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps
 
 2020: [Death Statistics 2020](https://ask.rks-gov.net/media/6529/vdekjet-2020-vjetore.pdf)
 
-2021: [Deaths by place of death and place of permanents residence in the municipality](https://askdata.rks-gov.net/PXWeb/pxweb/en/askdata/askdata__09%20Population__Demography%20and%20Migration__Monthly%20indicators__Births,%20deaths,%20marriages%20and%20divorces/tab03.px/?rxid=02560921-b63c-4973-81c9-4ceae84f5b04)
+2021 - 2022: [Deaths by place of death and place of permanents residence in the municipality](https://askdata.rks-gov.net/PXWeb/pxweb/en/askdata/askdata__09%20Population__Demography%20and%20Migration__Monthly%20indicators__Births,%20deaths,%20marriages%20and%20divorces/tab03.px/?rxid=02560921-b63c-4973-81c9-4ceae84f5b04)
+
+2023 Onward: https://askdata.rks-gov.net/pxweb/en/ASKdata/ASKdata__Population__Births%20and%20deaths__Mortality__Monthly%20indicators/tab03.px/
 
 Note: Since 2020, Kosovo's NSO has released monthly mortality data disaggregated by place of death, with a substantial share occurring outside Kosovo due to a large diaspora. Data from previous years is for deaths that occur in Kosovo only. Thus, for consistency - all values are for deaths that occur in Kosovo.
 

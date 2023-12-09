@@ -2901,6 +2901,18 @@ BRN,Brunei,2021,9,monthly,59
 BRN,Brunei,2021,10,monthly,132
 BRN,Brunei,2021,11,monthly,313
 BRN,Brunei,2021,12,monthly,272
+BRN,Brunei,2022,1,monthly,195
+BRN,Brunei,2022,2,monthly,139
+BRN,Brunei,2022,3,monthly,274
+BRN,Brunei,2022,4,monthly,197
+BRN,Brunei,2022,5,monthly,185
+BRN,Brunei,2022,6,monthly,214
+BRN,Brunei,2022,7,monthly,189
+BRN,Brunei,2022,8,monthly,215
+BRN,Brunei,2022,9,monthly,180
+BRN,Brunei,2022,10,monthly,206
+BRN,Brunei,2022,11,monthly,168
+BRN,Brunei,2022,12,monthly,160
 BGR,Bulgaria,2015,1,weekly,2501
 BGR,Bulgaria,2015,2,weekly,2512
 BGR,Bulgaria,2015,3,weekly,2419
@@ -7401,6 +7413,7 @@ EGY,Egypt,2023,5,monthly,45400
 EGY,Egypt,2023,6,monthly,43400
 EGY,Egypt,2023,7,monthly,53600
 EGY,Egypt,2023,8,monthly,52900
+EGY,Egypt,2023,9,monthly,45300
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -14781,6 +14794,7 @@ KAZ,Kazakhstan,2023,6,monthly,10346
 KAZ,Kazakhstan,2023,7,monthly,11243
 KAZ,Kazakhstan,2023,8,monthly,11145
 KAZ,Kazakhstan,2023,9,monthly,10152
+KAZ,Kazakhstan,2023,10,monthly,11148
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -14880,7 +14894,12 @@ KOS,Kosovo,2022,12,monthly,758
 KOS,Kosovo,2023,1,monthly,871
 KOS,Kosovo,2023,2,monthly,786
 KOS,Kosovo,2023,3,monthly,763
-KOS,Kosovo,2023,4,monthly,716
+KOS,Kosovo,2023,4,monthly,749
+KOS,Kosovo,2023,5,monthly,727
+KOS,Kosovo,2023,6,monthly,662
+KOS,Kosovo,2023,7,monthly,754
+KOS,Kosovo,2023,8,monthly,742
+KOS,Kosovo,2023,9,monthly,726
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -28450,6 +28469,7 @@ TWN,Taiwan,2023,7,monthly,17992
 TWN,Taiwan,2023,8,monthly,17139
 TWN,Taiwan,2023,9,monthly,14610
 TWN,Taiwan,2023,10,monthly,16594
+TWN,Taiwan,2023,11,monthly,15965
 TJK,Tajikistan,2015,1,monthly,3346
 TJK,Tajikistan,2015,2,monthly,2871
 TJK,Tajikistan,2015,3,monthly,3018
