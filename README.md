@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.   
-We are currently providing data for 126 countries and territories.   
+We are currently providing data for 127 countries and territories.   
 We welcome any contributions.
 
 If you use this data, please cite it as:    
@@ -414,6 +414,12 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 2015: UNData: http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a496%3brefYear%3a2015&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1
 
 2016 onward: Mongolian Statistical Information Service: https://www.1212.mn/mn/statistic/statcate/573056/table-view/DT_NSO_2100_027V2
+
+
+### Namibia (monthly)
+2015 - 2017: Namibia Statistics Agency (NSA) [Namibia Vital Statistics Report](https://nsa.nsa.org.na/wp-content/uploads/2021/09/Namibia-Vital-Statistics-Report.pdf)
+
+2018 - 2021: NSA [Namibia Mortality and Causes of Deaths Report, 2018 – 2021](https://nsa.nsa.org.na/wp-content/uploads/2023/12/Namibia-CoD-Report-15-November-2023.pdf)
 
 
 ### New Caledonia (monthly)
