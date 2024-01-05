@@ -2824,16 +2824,17 @@ BRA,Brazil,2022,9,monthly,125418.2
 BRA,Brazil,2022,10,monthly,121040.6
 BRA,Brazil,2022,11,monthly,120588.4
 BRA,Brazil,2022,12,monthly,122126.2
-BRA,Brazil,2023,1,monthly,124144.9
-BRA,Brazil,2023,2,monthly,107141.1
-BRA,Brazil,2023,3,monthly,127483.8
-BRA,Brazil,2023,4,monthly,119054.9
-BRA,Brazil,2023,5,monthly,137423.7
-BRA,Brazil,2023,6,monthly,134430.3
-BRA,Brazil,2023,7,monthly,133889.6
-BRA,Brazil,2023,8,monthly,131258.8
-BRA,Brazil,2023,9,monthly,119772.6
-BRA,Brazil,2023,10,monthly,124968.1
+BRA,Brazil,2023,1,monthly,124345.4
+BRA,Brazil,2023,2,monthly,107255.2
+BRA,Brazil,2023,3,monthly,127594.7
+BRA,Brazil,2023,4,monthly,119125.3
+BRA,Brazil,2023,5,monthly,137718
+BRA,Brazil,2023,6,monthly,134668.1
+BRA,Brazil,2023,7,monthly,134514.5
+BRA,Brazil,2023,8,monthly,131712
+BRA,Brazil,2023,9,monthly,120486.1
+BRA,Brazil,2023,10,monthly,126006.8
+BRA,Brazil,2023,11,monthly,124763.4
 BRN,Brunei,2015,1,monthly,120
 BRN,Brunei,2015,2,monthly,97
 BRN,Brunei,2015,3,monthly,140
@@ -7456,6 +7457,7 @@ EGY,Egypt,2023,6,monthly,43400
 EGY,Egypt,2023,7,monthly,53600
 EGY,Egypt,2023,8,monthly,52900
 EGY,Egypt,2023,9,monthly,45300
+EGY,Egypt,2023,10,monthly,44700
 SLV,El Salvador,2015,1,monthly,4361
 SLV,El Salvador,2015,2,monthly,2957
 SLV,El Salvador,2015,3,monthly,3078
@@ -8092,6 +8094,11 @@ FRO,Faroe Islands,2023,2,monthly,41
 FRO,Faroe Islands,2023,3,monthly,21
 FRO,Faroe Islands,2023,4,monthly,37
 FRO,Faroe Islands,2023,5,monthly,37
+FRO,Faroe Islands,2023,6,monthly,33
+FRO,Faroe Islands,2023,7,monthly,31
+FRO,Faroe Islands,2023,8,monthly,30
+FRO,Faroe Islands,2023,9,monthly,35
+FRO,Faroe Islands,2023,10,monthly,35
 FJI,Fiji,0,1,monthly,648.5
 FJI,Fiji,0,2,monthly,600.8
 FJI,Fiji,0,3,monthly,634.8
@@ -14023,7 +14030,7 @@ ISR,Israel,2023,15,weekly,960
 ISR,Israel,2023,16,weekly,947
 ISR,Israel,2023,17,weekly,905
 ISR,Israel,2023,18,weekly,874
-ISR,Israel,2023,19,weekly,920
+ISR,Israel,2023,19,weekly,921
 ISR,Israel,2023,20,weekly,905
 ISR,Israel,2023,21,weekly,926
 ISR,Israel,2023,22,weekly,901
@@ -14038,20 +14045,22 @@ ISR,Israel,2023,30,weekly,764
 ISR,Israel,2023,31,weekly,872
 ISR,Israel,2023,32,weekly,894
 ISR,Israel,2023,33,weekly,843
-ISR,Israel,2023,34,weekly,814
+ISR,Israel,2023,34,weekly,815
 ISR,Israel,2023,35,weekly,840
-ISR,Israel,2023,36,weekly,857
-ISR,Israel,2023,37,weekly,842
+ISR,Israel,2023,36,weekly,859
+ISR,Israel,2023,37,weekly,844
 ISR,Israel,2023,38,weekly,905
-ISR,Israel,2023,39,weekly,896
-ISR,Israel,2023,40,weekly,1928
-ISR,Israel,2023,41,weekly,923
-ISR,Israel,2023,42,weekly,941
-ISR,Israel,2023,43,weekly,937
-ISR,Israel,2023,44,weekly,870
-ISR,Israel,2023,45,weekly,855
-ISR,Israel,2023,46,weekly,836
-ISR,Israel,2023,47,weekly,816
+ISR,Israel,2023,39,weekly,898
+ISR,Israel,2023,40,weekly,1930
+ISR,Israel,2023,41,weekly,927
+ISR,Israel,2023,42,weekly,943
+ISR,Israel,2023,43,weekly,940
+ISR,Israel,2023,44,weekly,874
+ISR,Israel,2023,45,weekly,862
+ISR,Israel,2023,46,weekly,848
+ISR,Israel,2023,47,weekly,843
+ISR,Israel,2023,48,weekly,890
+ISR,Israel,2023,49,weekly,902
 ITA,Italy,2015,1,weekly,15178
 ITA,Italy,2015,2,weekly,15811
 ITA,Italy,2015,3,weekly,15480
@@ -14998,6 +15007,7 @@ KOS,Kosovo,2023,6,monthly,662
 KOS,Kosovo,2023,7,monthly,754
 KOS,Kosovo,2023,8,monthly,742
 KOS,Kosovo,2023,9,monthly,726
+KOS,Kosovo,2023,10,monthly,718
 KWT,Kuwait,2015,1,monthly,596
 KWT,Kuwait,2015,2,monthly,504
 KWT,Kuwait,2015,3,monthly,552
@@ -21031,6 +21041,7 @@ MKD,North Macedonia,2023,6,monthly,1435
 MKD,North Macedonia,2023,7,monthly,1563
 MKD,North Macedonia,2023,8,monthly,1603
 MKD,North Macedonia,2023,9,monthly,1581
+MKD,North Macedonia,2023,10,monthly,1654
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
@@ -25020,6 +25031,8 @@ SMR,San Marino,2023,5,monthly,17
 SMR,San Marino,2023,6,monthly,12
 SMR,San Marino,2023,7,monthly,19
 SMR,San Marino,2023,8,monthly,23
+SMR,San Marino,2023,9,monthly,19
+SMR,San Marino,2023,10,monthly,27
 SRB,Serbia,2015,1,monthly,10121
 SRB,Serbia,2015,2,monthly,9316
 SRB,Serbia,2015,3,monthly,9794
