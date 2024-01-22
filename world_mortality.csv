@@ -1612,6 +1612,7 @@ AZE,Azerbaijan,2023,7,monthly,4977
 AZE,Azerbaijan,2023,8,monthly,5330
 AZE,Azerbaijan,2023,9,monthly,4544
 AZE,Azerbaijan,2023,10,monthly,5024
+AZE,Azerbaijan,2023,11,monthly,4754
 BHS,Bahamas,2015,1,monthly,199
 BHS,Bahamas,2015,2,monthly,209
 BHS,Bahamas,2015,3,monthly,196
@@ -11884,6 +11885,8 @@ HKG,Hong Kong,2023,5,monthly,4918
 HKG,Hong Kong,2023,6,monthly,3253
 HKG,Hong Kong,2023,7,monthly,4438
 HKG,Hong Kong,2023,8,monthly,4037
+HKG,Hong Kong,2023,9,monthly,4429
+HKG,Hong Kong,2023,10,monthly,4203
 HUN,Hungary,2015,1,weekly,2800
 HUN,Hungary,2015,2,weekly,3005
 HUN,Hungary,2015,3,weekly,2900
@@ -15001,6 +15004,7 @@ KAZ,Kazakhstan,2023,7,monthly,11243
 KAZ,Kazakhstan,2023,8,monthly,11145
 KAZ,Kazakhstan,2023,9,monthly,10152
 KAZ,Kazakhstan,2023,10,monthly,11148
+KAZ,Kazakhstan,2023,11,monthly,10716
 KOS,Kosovo,2015,1,monthly,762
 KOS,Kosovo,2015,2,monthly,704
 KOS,Kosovo,2015,3,monthly,729
@@ -15309,6 +15313,7 @@ KGZ,Kyrgyzstan,2023,7,monthly,2575
 KGZ,Kyrgyzstan,2023,8,monthly,2681
 KGZ,Kyrgyzstan,2023,9,monthly,2350
 KGZ,Kyrgyzstan,2023,10,monthly,2692
+KGZ,Kyrgyzstan,2023,11,monthly,2786
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -16418,6 +16423,10 @@ LTU,Lithuania,2023,45,weekly,745
 LTU,Lithuania,2023,46,weekly,741
 LTU,Lithuania,2023,47,weekly,823
 LTU,Lithuania,2023,48,weekly,770
+LTU,Lithuania,2023,49,weekly,836
+LTU,Lithuania,2023,50,weekly,832
+LTU,Lithuania,2023,51,weekly,831
+LTU,Lithuania,2023,52,weekly,841
 LUX,Luxembourg,2015,1,weekly,81
 LUX,Luxembourg,2015,2,weekly,87
 LUX,Luxembourg,2015,3,weekly,80
@@ -21647,6 +21656,7 @@ NOR,Norway,2023,49,weekly,921
 NOR,Norway,2023,50,weekly,896
 NOR,Norway,2023,51,weekly,951
 NOR,Norway,2023,52,weekly,871
+NOR,Norway,2024,1,weekly,935
 OMN,Oman,2015,1,monthly,799
 OMN,Oman,2015,2,monthly,546
 OMN,Oman,2015,3,monthly,602
@@ -22385,10 +22395,12 @@ PHL,Philippines,2022,9,monthly,57146
 PHL,Philippines,2022,10,monthly,57829
 PHL,Philippines,2022,11,monthly,55953
 PHL,Philippines,2022,12,monthly,58468
-PHL,Philippines,2023,1,monthly,60524
-PHL,Philippines,2023,2,monthly,52219
-PHL,Philippines,2023,3,monthly,57196
-PHL,Philippines,2023,4,monthly,54119
+PHL,Philippines,2023,1,monthly,60640
+PHL,Philippines,2023,2,monthly,52342
+PHL,Philippines,2023,3,monthly,57462
+PHL,Philippines,2023,4,monthly,55387
+PHL,Philippines,2023,5,monthly,58617
+PHL,Philippines,2023,6,monthly,54318
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800
@@ -24452,6 +24464,7 @@ RUS,Russia,2023,7,monthly,135277
 RUS,Russia,2023,8,monthly,145772
 RUS,Russia,2023,9,monthly,135794
 RUS,Russia,2023,10,monthly,148812
+RUS,Russia,2023,11,monthly,146371
 REU,Réunion,2015,1,weekly,74
 REU,Réunion,2015,2,weekly,108
 REU,Réunion,2015,3,weekly,76
@@ -29140,6 +29153,7 @@ THA,Thailand,2023,8,monthly,48242
 THA,Thailand,2023,9,monthly,42890
 THA,Thailand,2023,10,monthly,48268
 THA,Thailand,2023,11,monthly,46446
+THA,Thailand,2023,12,monthly,47000
 TRA,Transnistria,2016,7,monthly,479
 TRA,Transnistria,2016,8,monthly,572
 TRA,Transnistria,2016,9,monthly,474
