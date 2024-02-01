@@ -15780,6 +15780,10 @@ LVA,Latvia,2023,45,weekly,502
 LVA,Latvia,2023,46,weekly,558
 LVA,Latvia,2023,47,weekly,587
 LVA,Latvia,2023,48,weekly,585
+LVA,Latvia,2023,49,weekly,632
+LVA,Latvia,2023,50,weekly,620
+LVA,Latvia,2023,51,weekly,606
+LVA,Latvia,2023,52,weekly,577
 LBN,Lebanon,2015,1,monthly,2291
 LBN,Lebanon,2015,2,monthly,2211
 LBN,Lebanon,2015,3,monthly,2502
@@ -20425,6 +20429,7 @@ NLD,Netherlands,2023,48,weekly,3541
 NLD,Netherlands,2023,49,weekly,3587
 NLD,Netherlands,2023,50,weekly,3605
 NLD,Netherlands,2023,51,weekly,3835
+NLD,Netherlands,2023,52,weekly,3435
 NCL,New Caledonia,2015,1,monthly,126
 NCL,New Caledonia,2015,2,monthly,124
 NCL,New Caledonia,2015,3,monthly,118
@@ -21186,6 +21191,7 @@ MKD,North Macedonia,2023,7,monthly,1563
 MKD,North Macedonia,2023,8,monthly,1603
 MKD,North Macedonia,2023,9,monthly,1581
 MKD,North Macedonia,2023,10,monthly,1654
+MKD,North Macedonia,2023,11,monthly,1678
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
@@ -21763,7 +21769,8 @@ OMN,Oman,2023,7,monthly,772
 OMN,Oman,2023,8,monthly,744
 OMN,Oman,2023,9,monthly,697
 OMN,Oman,2023,10,monthly,820
-OMN,Oman,2023,11,monthly,777
+OMN,Oman,2023,11,monthly,778
+OMN,Oman,2023,12,monthly,791
 PSE,Palestine,2018,1,monthly,1159
 PSE,Palestine,2018,2,monthly,1093
 PSE,Palestine,2018,3,monthly,1003
@@ -23893,6 +23900,7 @@ QAT,Qatar,2023,7,monthly,218
 QAT,Qatar,2023,8,monthly,204
 QAT,Qatar,2023,9,monthly,217
 QAT,Qatar,2023,10,monthly,262
+QAT,Qatar,2023,11,monthly,243
 ROU,Romania,2015,1,weekly,5803
 ROU,Romania,2015,2,weekly,5848
 ROU,Romania,2015,3,weekly,5602
@@ -27828,15 +27836,19 @@ ESP,Spain,2023,36,weekly,7529
 ESP,Spain,2023,37,weekly,7209
 ESP,Spain,2023,38,weekly,7241
 ESP,Spain,2023,39,weekly,7340
-ESP,Spain,2023,40,weekly,7792
-ESP,Spain,2023,41,weekly,7549
-ESP,Spain,2023,42,weekly,7560
-ESP,Spain,2023,43,weekly,7668
-ESP,Spain,2023,44,weekly,7641
-ESP,Spain,2023,45,weekly,8075
-ESP,Spain,2023,46,weekly,8170
-ESP,Spain,2023,47,weekly,7976
-ESP,Spain,2023,48,weekly,8403
+ESP,Spain,2023,40,weekly,7798
+ESP,Spain,2023,41,weekly,7560
+ESP,Spain,2023,42,weekly,7572
+ESP,Spain,2023,43,weekly,7685
+ESP,Spain,2023,44,weekly,7663
+ESP,Spain,2023,45,weekly,8168
+ESP,Spain,2023,46,weekly,8496
+ESP,Spain,2023,47,weekly,8368
+ESP,Spain,2023,48,weekly,8841
+ESP,Spain,2023,49,weekly,8519
+ESP,Spain,2023,50,weekly,8872
+ESP,Spain,2023,51,weekly,9253
+ESP,Spain,2023,52,weekly,9951
 SUR,Suriname,2015,1,monthly,329
 SUR,Suriname,2015,2,monthly,284
 SUR,Suriname,2015,3,monthly,324
@@ -29046,6 +29058,18 @@ TJK,Tajikistan,2021,9,monthly,2659
 TJK,Tajikistan,2021,10,monthly,2829
 TJK,Tajikistan,2021,11,monthly,3037
 TJK,Tajikistan,2021,12,monthly,2800
+TJK,Tajikistan,2022,1,monthly,3001
+TJK,Tajikistan,2022,2,monthly,2696
+TJK,Tajikistan,2022,3,monthly,2409
+TJK,Tajikistan,2022,4,monthly,2404
+TJK,Tajikistan,2022,5,monthly,2487
+TJK,Tajikistan,2022,6,monthly,2464
+TJK,Tajikistan,2022,7,monthly,2669
+TJK,Tajikistan,2022,8,monthly,2510
+TJK,Tajikistan,2022,9,monthly,2188
+TJK,Tajikistan,2022,10,monthly,2445
+TJK,Tajikistan,2022,11,monthly,2542
+TJK,Tajikistan,2022,12,monthly,3391
 THA,Thailand,2015,1,monthly,44867
 THA,Thailand,2015,2,monthly,38000
 THA,Thailand,2015,3,monthly,38987
