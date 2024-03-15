@@ -141,6 +141,8 @@ July 2020 to March 2021: <https://www.currenttime.tv/a/smertnost-v-belarusi/3140
 
 2015 onward: Information obtained from The Bolivian Civil Registry - [Servicio de Registro Cívico (SERECI)](https://www.oep.org.bo/registro-civico/) by [G. J. Andrés Uzín P. & Luis Salas from Bolivian Private University](https://www.upb.edu/es/contenido/seguimiento-las-muertes-en-exceso-y-muertes-por-covid-19)
 
+Monthly numbers were corrected to total annual deaths from the national statistics office - [Instituto Nacional de Estadística (INE) Registros Administrativos](https://www.ine.gob.bo/index.php/registros-administrativos-sociales/).
+
 ### Bosnia (monthly)
 
 2015 to 2016: Email correspondence with [Agency for Statistics of Bosnia & Herzegovina (BHAS)](http://www.bhas.ba/Home/).
@@ -285,8 +287,9 @@ Note that figures from rip.ie are preliminary and might change.
 
 ### Jamaica (monthly)
 
-2015: Jamaica Registrar General's 2015 Vital Statistics: <https://www.rgd.gov.jm/index.php/vital-statistic>\
-2016 to 2020: Email correspondence with [Jamaica Registrar General](https://www.rgd.gov.jm).
+2015 onward: Statistical Institute of Jamaica [Registered Deaths by Month of Registration](https://statinja.gov.jm/Demo_SocialStats/newbirthdeathmarriage.aspx)
+
+Monthly numbers were corrected to total annual deaths from the above link at section "Components of Annual Population Growth".
 
 ### Japan (monthly)
 
@@ -449,8 +452,9 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 Peru provides daily death counts. We summed them up to form weekly death counts.
 
-Notes: From July 1st 2022, we adjust SINADEF's figures to the total number of registered deaths in Peru using the ratio between it and Peru's stats office (INEI). The completeness rates are: 2017: 66%; 2018: 74%; 2019: 73%; 2020 onward: 94%. For more details see the [discussion in our repo](https://github.com/akarlinsky/world_mortality/issues/4#issuecomment-1166526485). The adjusted deaths numbers were rounded to one significant digit to emphasize that they were adjusted.\
-SINADEFF reports death registrations after October 2022, but after a cyber attack, many registrations have reverted back to paper format such that SINADEF is under-registering deaths. We thus only report death registrations until October 2022.
+Daily numbers were corrected to total annual deaths from the national statistics office - [Instituto Nacional de Estadística e Informática (INEI) Estadísticas Vitales](https://www.inei.gob.pe/estadisticas/indice-tematico/estadisticas-vitales-12079/).
+
+Notes: SINADEFF reports death registrations after October 2022, but after a cyber attack, many registrations have reverted back to paper format such that SINADEF is under-registering deaths. We thus only report death registrations until October 2022.
 
 ### Philippines (monthly)
 
@@ -543,6 +547,8 @@ Social and economic development of the PMR: <http://mer.gospmr.org/deyatelnost/g
 ### Tunisia (monthly)
 
 2015 onward: Tunisia National Institute of statistics Monthly Bulletin: <http://www.ins.tn/en/publication/statistics-monthly-bulletin-february-2022>
+
+Monthly numbers were corrected to total annual deaths from the national statistics office - [Décés corrigés](https://www.ins.tn/statistiques/115).
 
 ### Turkey (monthly)
 
