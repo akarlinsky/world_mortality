@@ -1,6 +1,6 @@
 # World Mortality Dataset
 
-This repository contains country-level data on all-cause mortality in 2015–2022 collected from various sources, see below.\
+This repository contains country-level data on all-cause mortality in 2015–2024 collected from various sources, see below.\
 We are currently providing data for 127 countries and territories.\
 We welcome any contributions.
 
@@ -14,7 +14,7 @@ For the excess mortality analysis using this data see <https://github.com/dkobak
 For our sister-project of sub-national mortality data, see <https://github.com/akarlinsky/world_mortality/tree/main/local_mortality>
 
 Notes:
-
+-   We will not provide any excess mortality estimates starting from 2024. Our excess mortality calculations are based on linear extrapolation of 2015--2019 trends, and this becomes more and more tenuous as the years go by. We will continue to provide and update data for 2024 and beyond, but [excess mortality estimates](https://github.com/dkobak/excess-mortality) will only be avilable up to end of 2023.
 -   Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
 -   Countries are only included if the data exist until at least June 2020.
 -   We only collect weekly, monthly, or quarterly data.
@@ -195,7 +195,7 @@ Queried from <https://github.com/sociedatos>.
 
 2015 onward: Oficina Nacional de Estadística (ONE) [Estadísticas Vitales - Defunciones](https://one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estadisticas-vitales/)
 
-Note: ONE has information on deaths up to end of 2022, yet deaths in the Dominican Republic have a some delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2022.
+Note: ONE has information on deaths up to end of 2023, yet deaths in the Dominican Republic have a some delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2023.
 
 ### Ecuador (weekly)
 

@@ -6943,100 +6943,112 @@ DNK,Denmark,2024,2,weekly,1358
 DNK,Denmark,2024,3,weekly,1241
 DNK,Denmark,2024,4,weekly,1162
 DNK,Denmark,2024,5,weekly,1175
-DOM,Dominican Republic,2015,1,monthly,3650
-DOM,Dominican Republic,2015,2,monthly,3219
-DOM,Dominican Republic,2015,3,monthly,3653
-DOM,Dominican Republic,2015,4,monthly,3438
-DOM,Dominican Republic,2015,5,monthly,3270
-DOM,Dominican Republic,2015,6,monthly,3252
-DOM,Dominican Republic,2015,7,monthly,3425
-DOM,Dominican Republic,2015,8,monthly,3390
-DOM,Dominican Republic,2015,9,monthly,3406
-DOM,Dominican Republic,2015,10,monthly,3782
-DOM,Dominican Republic,2015,11,monthly,3606
-DOM,Dominican Republic,2015,12,monthly,3789
-DOM,Dominican Republic,2016,1,monthly,3836
-DOM,Dominican Republic,2016,2,monthly,3616
-DOM,Dominican Republic,2016,3,monthly,3781
-DOM,Dominican Republic,2016,4,monthly,3505
-DOM,Dominican Republic,2016,5,monthly,3576
-DOM,Dominican Republic,2016,6,monthly,3776
-DOM,Dominican Republic,2016,7,monthly,3692
-DOM,Dominican Republic,2016,8,monthly,3593
-DOM,Dominican Republic,2016,9,monthly,3440
-DOM,Dominican Republic,2016,10,monthly,3685
-DOM,Dominican Republic,2016,11,monthly,3825
-DOM,Dominican Republic,2016,12,monthly,3910
-DOM,Dominican Republic,2017,1,monthly,4165
-DOM,Dominican Republic,2017,2,monthly,3506
-DOM,Dominican Republic,2017,3,monthly,3733
-DOM,Dominican Republic,2017,4,monthly,3434
-DOM,Dominican Republic,2017,5,monthly,3659
-DOM,Dominican Republic,2017,6,monthly,3426
-DOM,Dominican Republic,2017,7,monthly,3560
-DOM,Dominican Republic,2017,8,monthly,3468
-DOM,Dominican Republic,2017,9,monthly,3382
-DOM,Dominican Republic,2017,10,monthly,3675
-DOM,Dominican Republic,2017,11,monthly,3583
-DOM,Dominican Republic,2017,12,monthly,3776
-DOM,Dominican Republic,2018,1,monthly,3657
-DOM,Dominican Republic,2018,2,monthly,3614
-DOM,Dominican Republic,2018,3,monthly,4143
-DOM,Dominican Republic,2018,4,monthly,3562
-DOM,Dominican Republic,2018,5,monthly,3426
-DOM,Dominican Republic,2018,6,monthly,3337
-DOM,Dominican Republic,2018,7,monthly,3544
-DOM,Dominican Republic,2018,8,monthly,3397
-DOM,Dominican Republic,2018,9,monthly,3338
-DOM,Dominican Republic,2018,10,monthly,3508
-DOM,Dominican Republic,2018,11,monthly,3550
-DOM,Dominican Republic,2018,12,monthly,3601
-DOM,Dominican Republic,2019,1,monthly,3842
-DOM,Dominican Republic,2019,2,monthly,3485
-DOM,Dominican Republic,2019,3,monthly,3763
-DOM,Dominican Republic,2019,4,monthly,3467
-DOM,Dominican Republic,2019,5,monthly,3651
-DOM,Dominican Republic,2019,6,monthly,3625
-DOM,Dominican Republic,2019,7,monthly,3930
-DOM,Dominican Republic,2019,8,monthly,3705
-DOM,Dominican Republic,2019,9,monthly,3855
-DOM,Dominican Republic,2019,10,monthly,3859
-DOM,Dominican Republic,2019,11,monthly,3663
-DOM,Dominican Republic,2019,12,monthly,3872
-DOM,Dominican Republic,2020,1,monthly,4207
-DOM,Dominican Republic,2020,2,monthly,3723
-DOM,Dominican Republic,2020,3,monthly,3598
-DOM,Dominican Republic,2020,4,monthly,3190
-DOM,Dominican Republic,2020,5,monthly,3179
-DOM,Dominican Republic,2020,6,monthly,3926
-DOM,Dominican Republic,2020,7,monthly,5074
-DOM,Dominican Republic,2020,8,monthly,4650
-DOM,Dominican Republic,2020,9,monthly,3620
-DOM,Dominican Republic,2020,10,monthly,3620
-DOM,Dominican Republic,2020,11,monthly,3669
-DOM,Dominican Republic,2020,12,monthly,4225
-DOM,Dominican Republic,2021,1,monthly,4788
-DOM,Dominican Republic,2021,2,monthly,3711
-DOM,Dominican Republic,2021,3,monthly,3958
-DOM,Dominican Republic,2021,4,monthly,3745
-DOM,Dominican Republic,2021,5,monthly,4418
-DOM,Dominican Republic,2021,6,monthly,4925
-DOM,Dominican Republic,2021,7,monthly,4251
-DOM,Dominican Republic,2021,8,monthly,3885
-DOM,Dominican Republic,2021,9,monthly,3811
-DOM,Dominican Republic,2021,10,monthly,4402
-DOM,Dominican Republic,2021,11,monthly,4152
-DOM,Dominican Republic,2021,12,monthly,4033
-DOM,Dominican Republic,2022,1,monthly,5589
-DOM,Dominican Republic,2022,2,monthly,3519
-DOM,Dominican Republic,2022,3,monthly,3554
-DOM,Dominican Republic,2022,4,monthly,3327
-DOM,Dominican Republic,2022,5,monthly,3688
-DOM,Dominican Republic,2022,6,monthly,3621
-DOM,Dominican Republic,2022,7,monthly,3555
-DOM,Dominican Republic,2022,8,monthly,3508
-DOM,Dominican Republic,2022,9,monthly,3405
-DOM,Dominican Republic,2022,10,monthly,3565
+DOM,Dominican Republic,2015,1,monthly,3658
+DOM,Dominican Republic,2015,2,monthly,3228
+DOM,Dominican Republic,2015,3,monthly,3664
+DOM,Dominican Republic,2015,4,monthly,3449
+DOM,Dominican Republic,2015,5,monthly,3280
+DOM,Dominican Republic,2015,6,monthly,3259
+DOM,Dominican Republic,2015,7,monthly,3434
+DOM,Dominican Republic,2015,8,monthly,3400
+DOM,Dominican Republic,2015,9,monthly,3418
+DOM,Dominican Republic,2015,10,monthly,3791
+DOM,Dominican Republic,2015,11,monthly,3615
+DOM,Dominican Republic,2015,12,monthly,3798
+DOM,Dominican Republic,2016,1,monthly,3846
+DOM,Dominican Republic,2016,2,monthly,3626
+DOM,Dominican Republic,2016,3,monthly,3791
+DOM,Dominican Republic,2016,4,monthly,3512
+DOM,Dominican Republic,2016,5,monthly,3585
+DOM,Dominican Republic,2016,6,monthly,3782
+DOM,Dominican Republic,2016,7,monthly,3706
+DOM,Dominican Republic,2016,8,monthly,3600
+DOM,Dominican Republic,2016,9,monthly,3453
+DOM,Dominican Republic,2016,10,monthly,3692
+DOM,Dominican Republic,2016,11,monthly,3832
+DOM,Dominican Republic,2016,12,monthly,3923
+DOM,Dominican Republic,2017,1,monthly,4176
+DOM,Dominican Republic,2017,2,monthly,3515
+DOM,Dominican Republic,2017,3,monthly,3737
+DOM,Dominican Republic,2017,4,monthly,3442
+DOM,Dominican Republic,2017,5,monthly,3668
+DOM,Dominican Republic,2017,6,monthly,3436
+DOM,Dominican Republic,2017,7,monthly,3570
+DOM,Dominican Republic,2017,8,monthly,3478
+DOM,Dominican Republic,2017,9,monthly,3390
+DOM,Dominican Republic,2017,10,monthly,3686
+DOM,Dominican Republic,2017,11,monthly,3592
+DOM,Dominican Republic,2017,12,monthly,3789
+DOM,Dominican Republic,2018,1,monthly,3665
+DOM,Dominican Republic,2018,2,monthly,3624
+DOM,Dominican Republic,2018,3,monthly,4163
+DOM,Dominican Republic,2018,4,monthly,3575
+DOM,Dominican Republic,2018,5,monthly,3440
+DOM,Dominican Republic,2018,6,monthly,3347
+DOM,Dominican Republic,2018,7,monthly,3559
+DOM,Dominican Republic,2018,8,monthly,3408
+DOM,Dominican Republic,2018,9,monthly,3347
+DOM,Dominican Republic,2018,10,monthly,3522
+DOM,Dominican Republic,2018,11,monthly,3568
+DOM,Dominican Republic,2018,12,monthly,3620
+DOM,Dominican Republic,2019,1,monthly,3855
+DOM,Dominican Republic,2019,2,monthly,3495
+DOM,Dominican Republic,2019,3,monthly,3781
+DOM,Dominican Republic,2019,4,monthly,3485
+DOM,Dominican Republic,2019,5,monthly,3665
+DOM,Dominican Republic,2019,6,monthly,3635
+DOM,Dominican Republic,2019,7,monthly,3950
+DOM,Dominican Republic,2019,8,monthly,3718
+DOM,Dominican Republic,2019,9,monthly,3873
+DOM,Dominican Republic,2019,10,monthly,3887
+DOM,Dominican Republic,2019,11,monthly,3685
+DOM,Dominican Republic,2019,12,monthly,3896
+DOM,Dominican Republic,2020,1,monthly,4226
+DOM,Dominican Republic,2020,2,monthly,3746
+DOM,Dominican Republic,2020,3,monthly,3647
+DOM,Dominican Republic,2020,4,monthly,3279
+DOM,Dominican Republic,2020,5,monthly,3227
+DOM,Dominican Republic,2020,6,monthly,3986
+DOM,Dominican Republic,2020,7,monthly,5132
+DOM,Dominican Republic,2020,8,monthly,4706
+DOM,Dominican Republic,2020,9,monthly,3661
+DOM,Dominican Republic,2020,10,monthly,3658
+DOM,Dominican Republic,2020,11,monthly,3718
+DOM,Dominican Republic,2020,12,monthly,4278
+DOM,Dominican Republic,2021,1,monthly,4845
+DOM,Dominican Republic,2021,2,monthly,3754
+DOM,Dominican Republic,2021,3,monthly,3998
+DOM,Dominican Republic,2021,4,monthly,3784
+DOM,Dominican Republic,2021,5,monthly,4473
+DOM,Dominican Republic,2021,6,monthly,4976
+DOM,Dominican Republic,2021,7,monthly,4312
+DOM,Dominican Republic,2021,8,monthly,3930
+DOM,Dominican Republic,2021,9,monthly,3866
+DOM,Dominican Republic,2021,10,monthly,4453
+DOM,Dominican Republic,2021,11,monthly,4222
+DOM,Dominican Republic,2021,12,monthly,4089
+DOM,Dominican Republic,2022,1,monthly,5678
+DOM,Dominican Republic,2022,2,monthly,3572
+DOM,Dominican Republic,2022,3,monthly,3599
+DOM,Dominican Republic,2022,4,monthly,3385
+DOM,Dominican Republic,2022,5,monthly,3766
+DOM,Dominican Republic,2022,6,monthly,3693
+DOM,Dominican Republic,2022,7,monthly,3638
+DOM,Dominican Republic,2022,8,monthly,3589
+DOM,Dominican Republic,2022,9,monthly,3521
+DOM,Dominican Republic,2022,10,monthly,3693
+DOM,Dominican Republic,2022,11,monthly,3778
+DOM,Dominican Republic,2022,12,monthly,4116
+DOM,Dominican Republic,2023,1,monthly,4080
+DOM,Dominican Republic,2023,2,monthly,3585
+DOM,Dominican Republic,2023,3,monthly,3974
+DOM,Dominican Republic,2023,4,monthly,3654
+DOM,Dominican Republic,2023,5,monthly,3630
+DOM,Dominican Republic,2023,6,monthly,3814
+DOM,Dominican Republic,2023,7,monthly,3816
+DOM,Dominican Republic,2023,8,monthly,3642
+DOM,Dominican Republic,2023,9,monthly,3560
+DOM,Dominican Republic,2023,10,monthly,3553
 ECU,Ecuador,2015,1,weekly,1327
 ECU,Ecuador,2015,2,weekly,1234
 ECU,Ecuador,2015,3,weekly,1305
@@ -7349,16 +7361,16 @@ ECU,Ecuador,2020,48,weekly,1721
 ECU,Ecuador,2020,49,weekly,1802
 ECU,Ecuador,2020,50,weekly,1670
 ECU,Ecuador,2020,51,weekly,1787
-ECU,Ecuador,2020,52,weekly,1783
+ECU,Ecuador,2020,52,weekly,1784
 ECU,Ecuador,2020,53,weekly,1918
-ECU,Ecuador,2021,1,weekly,2008
+ECU,Ecuador,2021,1,weekly,2009
 ECU,Ecuador,2021,2,weekly,2203
 ECU,Ecuador,2021,3,weekly,2350
 ECU,Ecuador,2021,4,weekly,2218
 ECU,Ecuador,2021,5,weekly,2242
 ECU,Ecuador,2021,6,weekly,2221
 ECU,Ecuador,2021,7,weekly,2259
-ECU,Ecuador,2021,8,weekly,2284
+ECU,Ecuador,2021,8,weekly,2285
 ECU,Ecuador,2021,9,weekly,2230
 ECU,Ecuador,2021,10,weekly,2427
 ECU,Ecuador,2021,11,weekly,2641
@@ -7373,8 +7385,8 @@ ECU,Ecuador,2021,19,weekly,2587
 ECU,Ecuador,2021,20,weekly,2396
 ECU,Ecuador,2021,21,weekly,2190
 ECU,Ecuador,2021,22,weekly,2006
-ECU,Ecuador,2021,23,weekly,1988
-ECU,Ecuador,2021,24,weekly,1938
+ECU,Ecuador,2021,23,weekly,1989
+ECU,Ecuador,2021,24,weekly,1939
 ECU,Ecuador,2021,25,weekly,1922
 ECU,Ecuador,2021,26,weekly,1839
 ECU,Ecuador,2021,27,weekly,1888
@@ -7395,9 +7407,9 @@ ECU,Ecuador,2021,41,weekly,1563
 ECU,Ecuador,2021,42,weekly,1488
 ECU,Ecuador,2021,43,weekly,1481
 ECU,Ecuador,2021,44,weekly,1485
-ECU,Ecuador,2021,45,weekly,1592
+ECU,Ecuador,2021,45,weekly,1593
 ECU,Ecuador,2021,46,weekly,1617
-ECU,Ecuador,2021,47,weekly,1599
+ECU,Ecuador,2021,47,weekly,1600
 ECU,Ecuador,2021,48,weekly,1538
 ECU,Ecuador,2021,49,weekly,1648
 ECU,Ecuador,2021,50,weekly,1658
@@ -7415,12 +7427,12 @@ ECU,Ecuador,2022,9,weekly,1812
 ECU,Ecuador,2022,10,weekly,1630
 ECU,Ecuador,2022,11,weekly,1639
 ECU,Ecuador,2022,12,weekly,1743
-ECU,Ecuador,2022,13,weekly,1688
+ECU,Ecuador,2022,13,weekly,1689
 ECU,Ecuador,2022,14,weekly,1626
 ECU,Ecuador,2022,15,weekly,1615
 ECU,Ecuador,2022,16,weekly,1626
 ECU,Ecuador,2022,17,weekly,1548
-ECU,Ecuador,2022,18,weekly,1544
+ECU,Ecuador,2022,18,weekly,1545
 ECU,Ecuador,2022,19,weekly,1620
 ECU,Ecuador,2022,20,weekly,1576
 ECU,Ecuador,2022,21,weekly,1609
@@ -7432,7 +7444,7 @@ ECU,Ecuador,2022,26,weekly,1667
 ECU,Ecuador,2022,27,weekly,1650
 ECU,Ecuador,2022,28,weekly,1712
 ECU,Ecuador,2022,29,weekly,1737
-ECU,Ecuador,2022,30,weekly,1758
+ECU,Ecuador,2022,30,weekly,1759
 ECU,Ecuador,2022,31,weekly,1723
 ECU,Ecuador,2022,32,weekly,1805
 ECU,Ecuador,2022,33,weekly,1729
@@ -7452,7 +7464,7 @@ ECU,Ecuador,2022,46,weekly,1557
 ECU,Ecuador,2022,47,weekly,1647
 ECU,Ecuador,2022,48,weekly,1737
 ECU,Ecuador,2022,49,weekly,1713
-ECU,Ecuador,2022,50,weekly,1741
+ECU,Ecuador,2022,50,weekly,1742
 ECU,Ecuador,2022,51,weekly,1841
 ECU,Ecuador,2022,52,weekly,1873
 ECU,Ecuador,2023,1,weekly,1728
@@ -7460,64 +7472,65 @@ ECU,Ecuador,2023,2,weekly,1663
 ECU,Ecuador,2023,3,weekly,1658
 ECU,Ecuador,2023,4,weekly,1652
 ECU,Ecuador,2023,5,weekly,1665
-ECU,Ecuador,2023,6,weekly,1615
-ECU,Ecuador,2023,7,weekly,1683
+ECU,Ecuador,2023,6,weekly,1616
+ECU,Ecuador,2023,7,weekly,1684
 ECU,Ecuador,2023,8,weekly,1652
 ECU,Ecuador,2023,9,weekly,1594
 ECU,Ecuador,2023,10,weekly,1720
-ECU,Ecuador,2023,11,weekly,1714
-ECU,Ecuador,2023,12,weekly,1829
+ECU,Ecuador,2023,11,weekly,1715
+ECU,Ecuador,2023,12,weekly,1830
 ECU,Ecuador,2023,13,weekly,1711
 ECU,Ecuador,2023,14,weekly,1724
 ECU,Ecuador,2023,15,weekly,1738
 ECU,Ecuador,2023,16,weekly,1648
-ECU,Ecuador,2023,17,weekly,1733
+ECU,Ecuador,2023,17,weekly,1736
 ECU,Ecuador,2023,18,weekly,1815
-ECU,Ecuador,2023,19,weekly,1713
-ECU,Ecuador,2023,20,weekly,1708
-ECU,Ecuador,2023,21,weekly,1716
+ECU,Ecuador,2023,19,weekly,1714
+ECU,Ecuador,2023,20,weekly,1709
+ECU,Ecuador,2023,21,weekly,1718
 ECU,Ecuador,2023,22,weekly,1697
 ECU,Ecuador,2023,23,weekly,1714
 ECU,Ecuador,2023,24,weekly,1633
-ECU,Ecuador,2023,25,weekly,1782
+ECU,Ecuador,2023,25,weekly,1783
 ECU,Ecuador,2023,26,weekly,1690
 ECU,Ecuador,2023,27,weekly,1675
 ECU,Ecuador,2023,28,weekly,1720
-ECU,Ecuador,2023,29,weekly,1697
+ECU,Ecuador,2023,29,weekly,1698
 ECU,Ecuador,2023,30,weekly,1622
 ECU,Ecuador,2023,31,weekly,1626
 ECU,Ecuador,2023,32,weekly,1652
 ECU,Ecuador,2023,33,weekly,1597
-ECU,Ecuador,2023,34,weekly,1635
+ECU,Ecuador,2023,34,weekly,1636
 ECU,Ecuador,2023,35,weekly,1613
-ECU,Ecuador,2023,36,weekly,1660
+ECU,Ecuador,2023,36,weekly,1664
 ECU,Ecuador,2023,37,weekly,1567
-ECU,Ecuador,2023,38,weekly,1679
+ECU,Ecuador,2023,38,weekly,1680
 ECU,Ecuador,2023,39,weekly,1672
-ECU,Ecuador,2023,40,weekly,1714
+ECU,Ecuador,2023,40,weekly,1715
 ECU,Ecuador,2023,41,weekly,1604
-ECU,Ecuador,2023,42,weekly,1606
-ECU,Ecuador,2023,43,weekly,1695
-ECU,Ecuador,2023,44,weekly,1721
-ECU,Ecuador,2023,45,weekly,1685
-ECU,Ecuador,2023,46,weekly,1703
-ECU,Ecuador,2023,47,weekly,1826
-ECU,Ecuador,2023,48,weekly,1731
+ECU,Ecuador,2023,42,weekly,1609
+ECU,Ecuador,2023,43,weekly,1697
+ECU,Ecuador,2023,44,weekly,1722
+ECU,Ecuador,2023,45,weekly,1686
+ECU,Ecuador,2023,46,weekly,1706
+ECU,Ecuador,2023,47,weekly,1827
+ECU,Ecuador,2023,48,weekly,1733
 ECU,Ecuador,2023,49,weekly,1705
-ECU,Ecuador,2023,50,weekly,1736
+ECU,Ecuador,2023,50,weekly,1737
 ECU,Ecuador,2023,51,weekly,1803
 ECU,Ecuador,2023,52,weekly,1818
-ECU,Ecuador,2024,1,weekly,1791
+ECU,Ecuador,2024,1,weekly,1794
 ECU,Ecuador,2024,2,weekly,1694
-ECU,Ecuador,2024,3,weekly,1626
-ECU,Ecuador,2024,4,weekly,1682
+ECU,Ecuador,2024,3,weekly,1627
+ECU,Ecuador,2024,4,weekly,1683
 ECU,Ecuador,2024,5,weekly,1622
-ECU,Ecuador,2024,6,weekly,1549
-ECU,Ecuador,2024,7,weekly,1596
-ECU,Ecuador,2024,8,weekly,1607
-ECU,Ecuador,2024,9,weekly,1630
-ECU,Ecuador,2024,10,weekly,1641
-ECU,Ecuador,2024,11,weekly,1624
+ECU,Ecuador,2024,6,weekly,1550
+ECU,Ecuador,2024,7,weekly,1600
+ECU,Ecuador,2024,8,weekly,1609
+ECU,Ecuador,2024,9,weekly,1633
+ECU,Ecuador,2024,10,weekly,1645
+ECU,Ecuador,2024,11,weekly,1649
+ECU,Ecuador,2024,12,weekly,1666
 EGY,Egypt,2015,1,monthly,59713
 EGY,Egypt,2015,2,monthly,47678
 EGY,Egypt,2015,3,monthly,46524
@@ -29669,6 +29682,7 @@ THA,Thailand,2023,11,monthly,46446
 THA,Thailand,2023,12,monthly,47000
 THA,Thailand,2024,1,monthly,51432
 THA,Thailand,2024,2,monthly,44422
+THA,Thailand,2024,3,monthly,44565
 TRA,Transnistria,2016,7,monthly,479
 TRA,Transnistria,2016,8,monthly,572
 TRA,Transnistria,2016,9,monthly,474
