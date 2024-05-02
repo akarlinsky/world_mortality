@@ -18,7 +18,7 @@ Notes:
 -   Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
 -   Countries are only included if the data exist until at least June 2020.
 -   We only collect weekly, monthly, or quarterly data.
--   The latest data points (weeks/months) for each country are **preliminary** and subject to (sometimes large) revisions.\
+-   The latest data points (weeks/months) for each country are **preliminary** and subject to (sometimes large) revisions.
 -   We only provide all-cause mortality numbers, without splitting by age or gender.
 -   We only provide country-level data, without splitting it by regions or individual cities.
 -   The Short Term Mortality Fluctuations (STMF) dataset from the [Human Mortality Database](https://www.mortality.org/Data/STMF) (HMD) is integrated into this dataset. See the STMF dataset for mortality by age and gender; here we only provide the total numbers.
@@ -523,6 +523,8 @@ Starting with 2023, there are no data by date of death yet available, we we are 
 Note: Sweden has a significant number of deaths which occurred in an "unknown" date (and thus week) in all years. However, 95% these have a [known month of death](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101G/ManadFoddDod/). In order to account for this, we have adjusted the daily number of deaths in Sweden by the difference between monthly deaths from daily deaths and total monthly deaths, and the residual with unknown month, distributed throughout the year. For example, the sum of daily deaths in April 2020 is 10376. The total monthly deaths in April 2020 is 10555, which yields a daily mean difference of 5.97 added to each day in April 2020. The 254 additional deaths in 2020 with unknown month, were distributed uniformly across months and then daily within each month. Thus, each day in April 2020 is increased by 6.67 deaths.
 
 2023: SCB has changed its reporting. For 2023 we take weekly deaths from *EuroStat* and account for deaths in unknown week (2,920 deaths as of December 23rd, 2023) by adjusting to number of deaths in known month and unknown month, [available here](https://www.scb.se/en/finding-statistics/statistics-by-subject-area/population/population-composition/population-statistics/pong/tables-and-graphs/population-statistics---month-quarter-half-year/population-statistics-2020-2023-month-and-1998-2023-year/) using the same method as above.
+
+2024: [Deaths by Known and Unknown Month](https://www.scb.se/en/finding-statistics/statistics-by-subject-area/population/population-composition/population-statistics/pong/tables-and-graphs/population-statistics---month-quarter-half-year/population-statistics-2021-2024-month-and-1998-2023-year/)
 
 Weekly deaths in Sweden have been rounded to one significant digit to emphasize they were adjusted.
 
