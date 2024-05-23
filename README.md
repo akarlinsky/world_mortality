@@ -151,11 +151,10 @@ Monthly numbers were corrected to total annual deaths from the national statisti
 
 ### Brazil (monthly)
 
-2015 to 2022: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): <https://opendatasus.saude.gov.br/dataset/sim>
+2015 to 2023: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): <https://opendatasus.saude.gov.br/dataset/sim>
 
-2022 August onward: Brazilian Civil Registry (RC): <https://transparencia.registrocivil.org.br/registros>\
-In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration.\
-In order to account for this, the 2022 monthly counts from the RC are corrected using the ratio between total deaths in SIM 2020 (1,581,645) to total deaths in RC 2020 (1,475,561).
+2024 January onward: Brazilian Civil Registry (RC): <https://transparencia.registrocivil.org.br/registros>\
+In Brazil, the RC is the most up to date source of all-cause mortality. However, it is downward biased compared to the official final figures from SIM due to delayed registration. In order to account for this, the monthly counts from the RC are corrected using the ratio between total deaths in SIM 2022 (1,544,266) to total deaths in RC 2022 (1,503,262).
 
 Monthly deaths in Brazil that have been corrected for delayed registration were rounded to one significant digit to emphasize they were adjusted. When comprehensive SIM data is available, no correction is conducted.
 
