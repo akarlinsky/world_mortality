@@ -166,7 +166,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 ### Cabo Verde (monthly)
 
-2015 to 2020: [National Institute of Statistics - Vital Statistics](https://ine.cv/publicacoes/estatisticas-vitais-nascimentos-obitos-casamentos-2019-2020/)
+2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/publicacoes/estatisticas-vitais-nascimentos-obitos-casamentos-2019-2020/)
 
 ### Canada (weekly)
 
