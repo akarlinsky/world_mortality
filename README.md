@@ -52,7 +52,7 @@ Additionally, we collect weekly data from EuroStat for the five French Overseas 
 
 ### Algeria (monthly)
 
-2018 to 2020: Office National des Statistiques [Démographie Algérienne](https://www.ons.dz/spip.php?rubrique182).
+2018 to 2023: Office National des Statistiques [Démographie Algérienne](https://www.ons.dz/spip.php?rubrique182).
 
 2018-2019 values were digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer). These are shown with one significant digit to emphasize this.
 
