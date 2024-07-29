@@ -32,7 +32,7 @@ Notes:
 
 ### Human Mortality Database, Short-Term Mortality Fluctuations
 
-We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland).
+We collect the weekly [STMF data](https://mpidr.shinyapps.io/stmortality/) for the following countries: Austria, Belgium, Bulgaria, Chile, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, South Korea, Slovakia, Slovenia, Spain, Switzerland, United Kingdom (England & Wales + Northern Ireland + Scotland), United States.
 
 We do not use Taiwan data from STMF because the monthly data (see below) is more frequently updated.
 
@@ -401,9 +401,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 ### Namibia (monthly)
 
-2015 - 2017: Namibia Statistics Agency (NSA) [Namibia Vital Statistics Report](https://nsa.nsa.org.na/wp-content/uploads/2021/09/Namibia-Vital-Statistics-Report.pdf)
-
-2018 - 2021: NSA [Namibia Mortality and Causes of Deaths Report, 2018 – 2021](https://nsa.nsa.org.na/wp-content/uploads/2023/12/Namibia-CoD-Report-15-November-2023.pdf)
+2015 Onward: Namibia Statistics Agency (NSA) [Namibia Vital Statistics Report](https://nsa.org.na/publications/). Access through Vital Statistics category.
 
 ### New Caledonia (monthly)
 
@@ -463,7 +461,7 @@ Notes: SINADEFF reports death registrations after October 2022, but after a cybe
 
 2015 onward: [CDC Weekly Counts of Deaths by Jurisdiction and Age](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-Jurisdiction-and-Age/y5bj-9g5w).
 
-The CDC reports death counts for Puerto Rico and the US separately, as thus the WHO for COVID deaths. We are thus reporting death counts for the territory of Puerto Rico separately from the rest of the US.
+The CDC reports death counts for Puerto Rico and the US separately, as does the WHO for COVID deaths. We are thus reporting death counts for the territory of Puerto Rico separately from the rest of the US.
 
 ### Qatar (monthly)
 
@@ -584,11 +582,8 @@ Note: UNData reports 1,338 deaths in "unknown month" for 2019. These were distri
 
 ### United States (weekly)
 
-2015--2017: [Centers for Disease Control and Prevention](https://data.cdc.gov/api/views/y5bj-9g5w/rows.csv?accessType=DOWNLOAD)
-
-From 2017: Centers for Disease Control and Prevention: <https://data.cdc.gov/api/views/xkkf-xrst/rows.csv>\
-We use the 'predicted' (weighted) time series that accounts for underreporting in recent weeks. See <https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm> for more information.\
-We remove the last weeks (usually two) that are marked at <https://gis.cdc.gov/grasp/fluview/mortality.html> as being \<90% complete.
+Notes: the CDC stopped updating the 'predicted' (weighted) time-series in September 27, 2023. We switched to STMF to provide data for the US. 
+Description of previous sources for US is now under Currently unused sources.
 
 ### Uzbekistan (monthly)
 
@@ -622,3 +617,11 @@ The weekly figures for Uruguay are not used because the monthly numbers are much
 The report presents weekly deaths in 2020 and a forecast of expected deaths based on the median of weekly deaths in 2015-2019 up to week 30. The data from the report's figure 3 was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
 this forecast is denoted as `year = 0` in the data.
+
+### United States (weekly)
+2015--2017: [Centers for Disease Control and Prevention](https://data.cdc.gov/api/views/y5bj-9g5w/rows.csv?accessType=DOWNLOAD)
+
+From 2017: Centers for Disease Control and Prevention: <https://data.cdc.gov/api/views/xkkf-xrst/rows.csv>\
+We use the 'predicted' (weighted) time series that accounts for underreporting in recent weeks. See <https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm> for more information.\
+We remove the last weeks (usually two) that are marked at <https://gis.cdc.gov/grasp/fluview/mortality.html> as being \<90% complete.
+
