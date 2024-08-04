@@ -1109,19 +1109,23 @@ AUS,Australia,2023,49,weekly,3404
 AUS,Australia,2023,50,weekly,3355
 AUS,Australia,2023,51,weekly,3402
 AUS,Australia,2023,52,weekly,3318
-AUS,Australia,2024,1,weekly,3429
-AUS,Australia,2024,2,weekly,3383
-AUS,Australia,2024,3,weekly,3330
-AUS,Australia,2024,4,weekly,3421
-AUS,Australia,2024,5,weekly,3236
-AUS,Australia,2024,6,weekly,3305
-AUS,Australia,2024,7,weekly,3348
-AUS,Australia,2024,8,weekly,3323
-AUS,Australia,2024,9,weekly,3250
-AUS,Australia,2024,10,weekly,3419
-AUS,Australia,2024,11,weekly,3327
-AUS,Australia,2024,12,weekly,3186
-AUS,Australia,2024,13,weekly,3348
+AUS,Australia,2024,1,weekly,3435
+AUS,Australia,2024,2,weekly,3385
+AUS,Australia,2024,3,weekly,3336
+AUS,Australia,2024,4,weekly,3433
+AUS,Australia,2024,5,weekly,3245
+AUS,Australia,2024,6,weekly,3316
+AUS,Australia,2024,7,weekly,3358
+AUS,Australia,2024,8,weekly,3338
+AUS,Australia,2024,9,weekly,3265
+AUS,Australia,2024,10,weekly,3443
+AUS,Australia,2024,11,weekly,3349
+AUS,Australia,2024,12,weekly,3220
+AUS,Australia,2024,13,weekly,3377
+AUS,Australia,2024,14,weekly,3400
+AUS,Australia,2024,15,weekly,3407
+AUS,Australia,2024,16,weekly,3320
+AUS,Australia,2024,17,weekly,3324
 AUT,Austria,2015,1,weekly,1704
 AUT,Austria,2015,2,weekly,1768
 AUT,Austria,2015,3,weekly,1837
@@ -10814,6 +10818,10 @@ DEU,Germany,2024,22,weekly,17525
 DEU,Germany,2024,23,weekly,17527
 DEU,Germany,2024,24,weekly,17987
 DEU,Germany,2024,25,weekly,18359
+DEU,Germany,2024,26,weekly,19243
+DEU,Germany,2024,27,weekly,17431
+DEU,Germany,2024,28,weekly,18559
+DEU,Germany,2024,29,weekly,18609
 GIB,Gibraltar,2015,1,monthly,25
 GIB,Gibraltar,2015,2,monthly,26
 GIB,Gibraltar,2015,3,monthly,22
@@ -16115,6 +16123,7 @@ KGZ,Kyrgyzstan,2024,1,monthly,3275
 KGZ,Kyrgyzstan,2024,2,monthly,2595
 KGZ,Kyrgyzstan,2024,3,monthly,2644
 KGZ,Kyrgyzstan,2024,4,monthly,2601
+KGZ,Kyrgyzstan,2024,5,monthly,2670
 LVA,Latvia,2015,1,weekly,617
 LVA,Latvia,2015,2,weekly,608
 LVA,Latvia,2015,3,weekly,622
@@ -22295,6 +22304,7 @@ MKD,North Macedonia,2024,1,monthly,1874
 MKD,North Macedonia,2024,2,monthly,1742
 MKD,North Macedonia,2024,3,monthly,1583
 MKD,North Macedonia,2024,4,monthly,1548
+MKD,North Macedonia,2024,5,monthly,1592
 NOR,Norway,2015,1,weekly,937
 NOR,Norway,2015,2,weekly,977
 NOR,Norway,2015,3,weekly,913
@@ -23542,16 +23552,16 @@ PHL,Philippines,2022,9,monthly,57146
 PHL,Philippines,2022,10,monthly,57829
 PHL,Philippines,2022,11,monthly,55953
 PHL,Philippines,2022,12,monthly,58468
-PHL,Philippines,2023,1,monthly,60784
-PHL,Philippines,2023,2,monthly,52463
-PHL,Philippines,2023,3,monthly,57661
-PHL,Philippines,2023,4,monthly,55706
-PHL,Philippines,2023,5,monthly,59241
-PHL,Philippines,2023,6,monthly,57300
-PHL,Philippines,2023,7,monthly,59070
-PHL,Philippines,2023,8,monthly,57495
-PHL,Philippines,2023,9,monthly,51949
-PHL,Philippines,2023,10,monthly,46437
+PHL,Philippines,2023,1,monthly,60799
+PHL,Philippines,2023,2,monthly,52476
+PHL,Philippines,2023,3,monthly,57669
+PHL,Philippines,2023,4,monthly,55730
+PHL,Philippines,2023,5,monthly,59267
+PHL,Philippines,2023,6,monthly,57324
+PHL,Philippines,2023,7,monthly,59107
+PHL,Philippines,2023,8,monthly,57561
+PHL,Philippines,2023,9,monthly,53234
+PHL,Philippines,2023,10,monthly,52401
 POL,Poland,2015,1,weekly,7984
 POL,Poland,2015,2,weekly,7754
 POL,Poland,2015,3,weekly,7800
@@ -27293,6 +27303,11 @@ SVK,Slovakia,2024,16,weekly,862
 SVK,Slovakia,2024,17,weekly,921
 SVK,Slovakia,2024,18,weekly,955
 SVK,Slovakia,2024,19,weekly,855
+SVK,Slovakia,2024,20,weekly,953
+SVK,Slovakia,2024,21,weekly,951
+SVK,Slovakia,2024,22,weekly,927
+SVK,Slovakia,2024,23,weekly,930
+SVK,Slovakia,2024,24,weekly,849
 SVN,Slovenia,2015,1,weekly,408
 SVN,Slovenia,2015,2,weekly,407
 SVN,Slovenia,2015,3,weekly,453
@@ -30278,6 +30293,10 @@ CHE,Switzerland,2024,20,weekly,1160
 CHE,Switzerland,2024,21,weekly,1196
 CHE,Switzerland,2024,22,weekly,1180
 CHE,Switzerland,2024,23,weekly,1198
+CHE,Switzerland,2024,24,weekly,1136
+CHE,Switzerland,2024,25,weekly,1142
+CHE,Switzerland,2024,26,weekly,1273
+CHE,Switzerland,2024,27,weekly,1211
 TWN,Taiwan,2015,1,monthly,14310
 TWN,Taiwan,2015,2,monthly,12122
 TWN,Taiwan,2015,3,monthly,16092
@@ -30602,6 +30621,7 @@ THA,Thailand,2024,3,monthly,44565
 THA,Thailand,2024,4,monthly,58857
 THA,Thailand,2024,5,monthly,52843
 THA,Thailand,2024,6,monthly,42109
+THA,Thailand,2024,7,monthly,47897
 TRA,Transnistria,2016,7,monthly,479
 TRA,Transnistria,2016,8,monthly,572
 TRA,Transnistria,2016,9,monthly,474
