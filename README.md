@@ -202,7 +202,7 @@ Note: ONE has information on deaths up to end of 2023, yet deaths in the Dominic
 2017: <https://www.ecuadorencifras.gob.ec/nacimientos-y-defunciones-2017/>\
 2018: <https://www.ecuadorencifras.gob.ec/category/poblacion-y-demografia/>\
 2019: <https://www.ecuadorencifras.gob.ec/defunciones-generales-2019/>\
-2020 onward: <https://www.registrocivil.gob.ec/registro-civil-cifras-defunciones-3/>
+2020 onward: <https://www.registrocivil.gob.ec/registro-civil-del-ecuador-cifras-de-defunciones/>
 
 Ecuador provides daily death counts. We summed them up to form weekly death counts.
 
