@@ -14,7 +14,7 @@ For the excess mortality analysis using this data see <https://github.com/dkobak
 For our sister-project of sub-national mortality data, see <https://github.com/akarlinsky/world_mortality/tree/main/local_mortality>
 
 Notes:
--   We will not provide any excess mortality estimates starting from 2024. Our excess mortality calculations are based on linear extrapolation of 2015--2019 trends, and this becomes more and more tenuous as the years go by. We will continue to provide and update data for 2024 and beyond, but [excess mortality estimates](https://github.com/dkobak/excess-mortality) will only be avilable up to end of 2023.
+-   We will not provide any excess mortality estimates starting from 2024. Our excess mortality calculations are based on linear extrapolation of 2015--2019 trends, and this becomes more and more tenuous as the years go by. We provide and update data for 2015--2024, but [excess mortality estimates](https://github.com/dkobak/excess-mortality) will only be avilable up to end of 2023.
 -   Our aim is to provide data from 2015 onward. In some cases the coverage starts later, but we require at least full 2019 data.
 -   Countries are only included if the data exist until at least June 2020.
 -   We only collect weekly, monthly, or quarterly data.
@@ -129,9 +129,7 @@ July 2020 to March 2021: <https://www.currenttime.tv/a/smertnost-v-belarusi/3140
 
 ### Bermuda (monthly)
 
-2015 to 2018: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
-
-2019 to 2020: Email correspondence with [Bermuda Department of Statistics](https://www.gov.bm/department/statistics).
+2015 Onward: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
 ### Bhutan (monthly)
 
@@ -226,7 +224,7 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 
 ### Fiji (monthly)
 
-2015 onward: [Republic of Fiji Vital Statistics Report](https://www.statsfiji.gov.fj/statistics/social-statistics/vital-statistics-report.html) digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
+2015 onward: [Republic of Fiji Vital Statistics Report](https://www.statsfiji.gov.fj/statistics/social-statistics/vital-statistics/#report) digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
 Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here) and 2020, 2021. It also includes annual counts. The digitized values were scaled to match the annual totals.
 
@@ -234,7 +232,9 @@ Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here)
 
 2015 to 2020: Email correspondence with [Institut de la Statistique de la Polynésie Française (ISPF)](https://www.ispf.pf/).
 
-2021 onward: [ISPF Les dernières publications - Bilan démographique 2021](https://www.ispf.pf/publication/1325).
+2021: [ISPF Les dernières publications - Bilan démographique 2021](https://www.ispf.pf/publication/1325).
+
+2022: [UNData](https://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a258&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
 ### Georgia (monthly)
 
@@ -379,9 +379,9 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 ### Moldova (monthly)
 
-2015 to 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
+2015--2019, 2022 Onward: [UNData](https://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-2020: Moldova National Bureau of Statistics Quarterly Statistical Bulletin: <https://statistica.gov.md/newsview.php?l=en&idc=30&id=6945&parent=0>
+2020--2021: Moldova National Bureau of Statistics Quarterly Statistical Bulletin: <https://statistica.gov.md/newsview.php?l=en&idc=30&id=6945&parent=0>
 
 ### Monaco (monthly)
 
@@ -509,9 +509,9 @@ Starting with 2024, there are no data by date of death yet available, we we are 
 
 ### Suriname (monthly)
 
-2015 to 2019: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
+2015--2019, 2022: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-2020 onward: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
+2020-2021: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
 
 ### Sweden (weekly)
 
@@ -548,6 +548,7 @@ Social and economic development of the PMR: <http://mer.gospmr.org/deyatelnost/g
 2015 onward: Tunisia National Institute of statistics Monthly Bulletin: <http://www.ins.tn/en/publication/statistics-monthly-bulletin-february-2022>
 
 Monthly numbers were corrected to total annual deaths from the national statistics office - [Décés corrigés](https://www.ins.tn/statistiques/115).
+For 2023-2024, we use the latest currently available correction factor (2022).
 
 ### Turkey (monthly)
 
