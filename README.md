@@ -533,7 +533,7 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 
 ### Tajikistan (monthly)
 
-2015 to 2021: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released).
+2015 to 2022: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released).
 
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
 
