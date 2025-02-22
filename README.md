@@ -68,9 +68,10 @@ See publication on Natural Movement: <https://www.estadistica.ad/serveiestudis/n
 
 ### Argentina - Monthly 
 
-2015 to 2022: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
+2015 to 2023: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-Notes: (1) December 2022 deaths are low due to registration in 2023. We have adjusted it to match 2022 total from the [2022 vital statistics report](https://www.argentina.gob.ar/salud/deis).
+Notes: (1) December 2023 deaths are low due to registration in 2024. 
+We have adjusted it to match 2023 total from the [2023 vital statistics report](https://www.argentina.gob.ar/salud/deis).
 (2) All years except 2016 and 2022 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 ### Armenia - Monthly (complete)
@@ -97,7 +98,7 @@ Notes: (1) December 2022 deaths are low due to registration in 2023. We have adj
 
 On April 28th 2022, ABS released weekly data as all deaths (doctor + coroner), such that a correction is no longer needed. WMD now reports and analyzes total deaths for Australia.
 
-### Azerbaijan - Monthly 
+### Azerbaijan - Monthly (complete)
 
 2015: <https://www.stat.gov.az/news/source/2016_01ay.zip> <https://unstats.un.org/unsd/mbs/app/DataView.aspx?tid=3&cid=31&yearfrom=2015&yearto=2015&p=A>\
 2016 to 2017: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a31&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>\
@@ -218,7 +219,7 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 
 2015 to 2020: Public Information Request by [LAB-DAT](https://lab-dat.com/) from [RNPN](https://www.rnpn.gob.sv/).
 
-### Faroe Islands - Monthly 
+### Faroe Islands - Monthly (complete)
 
 2015 onward: [Statistics Faroe Islands](https://hagstova.fo/en/population/births-and-deaths/deaths).
 
@@ -310,7 +311,7 @@ Thanks to Noah Katz for culling Kazakhstan's data 2015 to 2018.
 
 Thanks to [Mikhail Zelenskiy](https://twitter.com/Zforever) for filling the gaps in 2016 and 2017.
 
-### Kosovo - Monthly 
+### Kosovo - Monthly (complete)
 
 2015 - 2019: [Statistical Yearbook of the Republic of Kosovo](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/vjetari-statistikor-i-republikes-se-kosoves-2021)
 
@@ -328,7 +329,7 @@ We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
 2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201).
 
-### Kyrgyzstan - Monthly 
+### Kyrgyzstan - Monthly (complete)
 
 2015 - 2018: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a417&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>\
 2019 onward: National Statistical Committee of the Kyrgyz Republic - The main results of natural population January - December 2020: <http://www.stat.kg/kg/statistics/naselenie/>
@@ -347,7 +348,7 @@ Monthly hospital deaths (2020 onward) have been corrected to total deaths using 
 
 2022 onwards: [EuroStat Deaths by Month](https://ec.europa.eu/eurostat/databrowser/bookmark/8ac2a264-1a4c-4c36-9c16-991686b4a279?lang=en)
 
-### Macao - Monthly 
+### Macao - Monthly (complete)
 
 2015 - 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:446&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
@@ -417,7 +418,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 2015 onward: Nicaragua Instituto Nacional de Información de Desarrollo (INIDE) Compendio de Estadísticas Vitales: <https://www.inide.gob.ni/Home/Compendios>
 
-### Oman - Monthly 
+### Oman - Monthly (complete)
 
 Oman National Center for Statistics and Information 2015 to 2021: Deaths and Births Statistical Bulletin: <https://www.ncsi.gov.om/Elibrary/Pages/LibraryContentDetails.aspx?ItemID=L61grnjbbbpxeUKErBemkg%3d%3d>
 
