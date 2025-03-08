@@ -207,7 +207,7 @@ Ecuador provides daily death counts. We summed them up to form weekly death coun
 
 We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providing us with 2015-2016 data.
 
-### Egypt - Monthly 
+### Egypt - Monthly (complete)
 
 2015 to 2019: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a818&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
@@ -291,7 +291,7 @@ Note that figures from rip.ie are preliminary and might change.
 
 Monthly numbers were corrected to total annual deaths from the above link at section "Components of Annual Population Growth".
 
-### Japan - Monthly 
+### Japan - Monthly (complete) 
 
 2015 onward: Japanese Government Statistics Portal: <https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0>
 
@@ -354,7 +354,7 @@ Monthly hospital deaths (2020 onward) have been corrected to total deaths using 
 
 2020 onward: Macao Special Administrative Region Statistics and Census Service Monthly Bulletin: <https://www.dsec.gov.mo/en-US/Home/Publication/MonthlyBulletinOfStatistics>
 
-### Malaysia - Monthly 
+### Malaysia - Monthly (complete)
 
 Department of Statistics Malaysia:
 
@@ -408,7 +408,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 2015 onward: [Institute of Statistics and Economic Studies (ISEE): DEATH - MORTALITY - LIFE EXPECTANCY](https://www.isee.nc/population/demographie/deces-mortalite-esperance-de-vie)
 
-### North Macedonia - Monthly 
+### North Macedonia - Monthly (complete)
 
 2015 to 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a807&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
@@ -470,7 +470,7 @@ The CDC reports death counts for Puerto Rico and the US separately, as does the 
 
 2020 onward: Qatar Planning and Statistics Authority Monthly Statistics: <https://www.psa.gov.qa/en/statistics1/pages/topicslisting.aspx?parent=General&child=QMS>
 
-### Russia - Monthly 
+### Russia - Monthly (complete)
 
 For 2015--2023 we use monthly data by date of death, as obtained by us via an information request to [Rosstat](https://rosstat.gov.ru). The raw data contain a small fraction of deaths each year with an unknown month of date. We redistributed those deaths into individual months, proportionally to the deaths with the known month of death, so that the yearly sum equals the yearly sum reported by Rosstat. We provide the numbers with one decimal digit, to emphasize our procedure. We thank [Alexey Raksha](https://www.facebook.com/100001739601178) for the help with obtaining these data.
 
@@ -500,7 +500,7 @@ Starting with 2024, there are no data by date of death yet available, we we are 
 
 2015 onward: Email correspondence with [Seychelles National Bureau of Statistics](https://www.nbs.gov.sc/).
 
-### Singapore - Monthly 
+### Singapore - Monthly (complete)
 
 2015 onward: Department of Statistics Singapore: <https://tablebuilder.singstat.gov.sg/table/TS/M810121>.
 
@@ -587,7 +587,7 @@ Note: UNData reports 1,338 deaths in "unknown month" for 2019. These were distri
 Notes: the CDC stopped updating the 'predicted' (weighted) time-series in September 27, 2023. We switched to STMF to provide data for the US. 
 Description of previous sources for US is now under Currently unused sources.
 
-### Uzbekistan - Monthly 
+### Uzbekistan - Monthly
 
 2015 to 2018: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
