@@ -142,7 +142,7 @@ July 2020 to March 2021: <https://www.currenttime.tv/a/smertnost-v-belarusi/3140
 
 Monthly numbers were corrected to total annual deaths from the national statistics office - [Instituto Nacional de Estadística (INE) Registros Administrativos](https://www.ine.gob.bo/index.php/registros-administrativos-sociales/).
 
-### Bosnia - Monthly 
+### Bosnia - Monthly (complete)
 
 2015 to 2016: Email correspondence with [Agency for Statistics of Bosnia & Herzegovina (BHAS)](http://www.bhas.ba/Home/).
 
