@@ -165,7 +165,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 ### Cabo Verde - Monthly 
 
-2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/publicacoes/estatisticas-vitais-nascimentos-obitos-casamentos-2019-2020/)
+2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/ine_publicacoes_category/estatisticas-vitais/)
 
 ### Canada - Weekly
 
@@ -237,13 +237,12 @@ Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here)
 
 2022: [UNData](https://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a258&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-### Georgia - Monthly 
+### Georgia - Monthly (complete)
 
-2015-2020: Georgia National Office of Statistics (GEOSTAT): <https://www.geostat.ge/en/modules/categories/320/deaths>
+2015 Onward: Georgia National Office of Statistics (GEOSTAT): <https://www.geostat.ge/en/modules/categories/320/deaths>
 
 Access by: Number of Deaths Per Month -\> Download XLS file.
 
-2021: [SUMMARY VITAL STATISTICS 2021 JANUARY-JUNE (PRELIMINARY RESULTS)](https://www.geostat.ge/en/single-news/2329/summary-vital-statistics-2021-january-june-preliminary-results)
 
 ### Gibraltar - Monthly 
 
@@ -346,7 +345,7 @@ Monthly hospital deaths (2020 onward) have been corrected to total deaths using 
 
 2015 - 2021: Liechtenstein Office for Statistics: <https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19>
 
-2022 onwards: [EuroStat Deaths by Month](https://ec.europa.eu/eurostat/databrowser/bookmark/8ac2a264-1a4c-4c36-9c16-991686b4a279?lang=en)
+2022 onwards: [EuroStat Deaths by Month](https://doi.org/10.2908/DEMO_MMONTH)
 
 ### Macao - Monthly (complete)
 
