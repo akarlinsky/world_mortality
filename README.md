@@ -44,7 +44,7 @@ We collect the weekly data from Eurostat for the following countries: Cyprus, Ma
 
 Additionally, we collect weekly data from EuroStat for the five French Overseas Departments: French Guiana, Guadeloupe, Martinique, Mayotte, Réunion: <https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk2_ts/default/table?lang=en>
 
-### Albania - Monthly 
+### Albania - Monthly (complete)
 
 2016 to 2018: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:8&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
@@ -92,7 +92,7 @@ We have adjusted it to match 2023 total from the [2023 vital statistics report](
 
 2021: [Monthly deaths data](https://www.facebook.com/permalink.php?story_fbid=2005136112986868&id=143358652497966) was digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
-### Australia - Weekly
+### Australia - Weekly (complete)
 
 2015 onward: Australian Bureau of Statistics (ABS) - [Provisional Mortality Statistics](https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release).
 
@@ -193,7 +193,7 @@ Queried from <https://github.com/sociedatos>.
 
 2015 onward: Oficina Nacional de Estadística (ONE) [Estadísticas Vitales - Defunciones](https://one.gob.do/datos-y-estadisticas/temas/estadisticas-demograficas/estadisticas-vitales/)
 
-Note: ONE has information on deaths up to end of 2023, yet deaths in the Dominican Republic have a some delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times, a delay that COVID-19 might have increased. Thus, we are currently only displaying data up to October 2023.
+Note: ONE has information on deaths up to end of 2024, yet deaths in the Dominican Republic have a some delay in registration, especially in the last months of the year, where deaths will only be registered in the next year in ordinary times. Thus, we are currently only displaying data up to October 2024.
 
 ### Ecuador - Weekly (complete)
 
@@ -467,7 +467,7 @@ The CDC reports death counts for Puerto Rico and the US separately, as does the 
 
 2015 to 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:634&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
-2020 onward: Qatar Planning and Statistics Authority Monthly Statistics: <https://www.psa.gov.qa/en/statistics1/pages/topicslisting.aspx?parent=General&child=QMS>
+2020 onward: Qatar Planning and Statistics Authority Monthly Statistics: <https://www.npc.qa/en/statistics/pages/subjectdetails.aspx>
 
 ### Russia - Monthly (complete)
 
@@ -503,7 +503,7 @@ Starting with 2024, there are no data by date of death yet available, we we are 
 
 2015 onward: Department of Statistics Singapore: <https://tablebuilder.singstat.gov.sg/table/TS/M810121>.
 
-### South Africa - Weekly
+### South Africa - Weekly (complete)
 
 2015 onward: South Africa Medical Research Council (SAMRC): <https://www.samrc.ac.za/research-reports/report-weekly-deaths-south-africa>.
 
