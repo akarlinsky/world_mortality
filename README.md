@@ -550,7 +550,7 @@ Social and economic development of the PMR: <http://mer.gospmr.org/deyatelnost/g
 Monthly numbers were corrected to total annual deaths from the national statistics office - [Décés corrigés](https://www.ins.tn/statistiques/115).
 For 2023-2024, we use the latest currently available correction factor (2022).
 
-### Turkey - Monthly 
+### Turkey - Monthly (complete)
 
 2015 onward: Turkish Statistical Institute (TUIK) Death Statistics by month and year: <https://biruni.tuik.gov.tr/medas/?kn=114&locale=en>
 
