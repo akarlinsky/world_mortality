@@ -159,7 +159,7 @@ Monthly deaths in Brazil that have been corrected for delayed registration were 
 
 We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](https://github.com/oranzani/) for their help on this.
 
-### Brunei - Monthly 
+### Brunei - Monthly (complete)
 
 2015 onward: [Department of Economic Planning and Statistics - Vital Statistics](http://www.deps.gov.bn/SitePages/Vital%20Statistics.aspx)
 
