@@ -167,7 +167,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/ine_publicacoes_category/estatisticas-vitais/)
 
-### Canada - Weekly
+### Canada - Weekly (complete)
 
 StatCan - <https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2024004-eng.htm>
 
@@ -185,7 +185,7 @@ Queried from <https://github.com/sociedatos>.
 
 2020 onward: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: <https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf>
 
-### Cuba - Monthly 
+### Cuba - Monthly (complete)
 
 2015 onward: Oficina Nacional de Estadistica e Informacion (ONEI) [Anuario Demográfico 2020](http://www.onei.gob.cu/node/16425)
 
@@ -229,7 +229,7 @@ We thank [Andrés N. Robalino](https://github.com/andrab/ecuacovid) for providin
 
 Note: Fiji's vital stats report provides mean 2015-2019 (denoted as year 0 here) and 2020, 2021. It also includes annual counts. The digitized values were scaled to match the annual totals.
 
-### French Polynesia - Monthly 
+### French Polynesia - Monthly (complete)
 
 2015 to 2020: Email correspondence with [Institut de la Statistique de la Polynésie Française (ISPF)](https://www.ispf.pf/).
 
@@ -284,11 +284,11 @@ Note that figures from rip.ie are preliminary and might change.
 
 2015 onward: Israeli Central Bureau of Statistics: <https://www.cbs.gov.il/he/subjects/Pages/%D7%AA%D7%9E%D7%95%D7%AA%D7%94-%D7%95%D7%AA%D7%95%D7%97%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D.aspx>
 
-### Jamaica - Monthly 
+### Jamaica - Monthly (complete)
 
 2015 onward: Statistical Institute of Jamaica [Registered Deaths by Month of Registration](https://statinja.gov.jm/Demo_SocialStats/newbirthdeathmarriage.aspx)
 
-Monthly numbers were corrected to total annual deaths from the above link at section "Components of Annual Population Growth".
+Monthly numbers were corrected to total annual deaths from the above link at section "Occurrences of Death by Sex".
 
 ### Japan - Monthly (complete) 
 
@@ -363,7 +363,7 @@ Access by selecting: Main Category - Social, Sub-Category - Demography. Publicat
 
 2020 onward: Demographic Statistics Quarterly 2020: <https://www.dosm.gov.my/v1/index.php?r=column/ctwoByCat&parent_id=115&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09>
 
-### Mauritius - Monthly 
+### Mauritius - Monthly (complete)
 
 2015 to 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a480&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
