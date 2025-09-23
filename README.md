@@ -294,7 +294,7 @@ Monthly numbers were corrected to total annual deaths from the above link at sec
 
 2015 onward: Japanese Government Statistics Portal: <https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450011&kikan=00450&tstat=000001028897&cycle=1&tclass1=000001053058&tclass2=000001053059&tclass3val=0>
 
-### Jordan - Monthly 
+### Jordan - Monthly (complete)
 
 2015, 2017 onward: [Jordan Civil Status and Passports Department - Annual Report](https://www.cspd.gov.jo/Ar/List/%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A%D8%A9).
 
@@ -324,7 +324,7 @@ Note: Since 2020, Kosovo's NSO has released monthly mortality data disaggregated
 
 We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
-### Kuwait - Monthly 
+### Kuwait - Monthly (complete)
 
 2015 onward: Kuwait Central Statistical Bureau [Annual Bulletin For Vital Statistics Births and Deaths](https://www.csb.gov.kw/Pages/Statistics_en?ID=10&ParentCatID=%201).
 
@@ -403,7 +403,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 2015 Onward: Namibia Statistics Agency (NSA) [Namibia Vital Statistics Report](https://nsa.org.na/publications/). Access through Vital Statistics category.
 
-### New Caledonia - Monthly 
+### New Caledonia - Monthly (complete)
 
 2015 onward: [Institute of Statistics and Economic Studies (ISEE): DEATH - MORTALITY - LIFE EXPECTANCY](https://www.isee.nc/population/demographie/deces-mortalite-esperance-de-vie)
 
