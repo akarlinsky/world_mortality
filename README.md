@@ -132,7 +132,7 @@ July 2020 to March 2021: <https://www.currenttime.tv/a/smertnost-v-belarusi/3140
 
 2015 Onward: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a60&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
-### Bhutan - Monthly 
+### Bhutan - Monthly (complete) 
 
 2019 onward: [Bhutan National Statistics Bureau Vital Statistics Reports](https://www.nsb.gov.bt/publications/vital-statistics/)
 
@@ -254,9 +254,9 @@ Access by: Number of Deaths Per Month -\> Download XLS file.
 
 2020 onward: Statistics Greenland StatBank Deaths (monthly, quarterly update): <https://bank.stat.gl:443/sq/ace5d79c-0f75-41fc-a705-609506ca25e3?lang=en&select>
 
-### Guatemala - Weekly
+### Guatemala - Weekly (complete)
 
-2015-2021: Guatemala Instituto Nacional de Estadística (INE) Estadísticas Vitales <https://www.ine.gob.gt/ine/vitales/> Access by: Base de datos, select appropriate year under Año and then select Defunciones.
+2015-2021, 2023-2024: Guatemala Instituto Nacional de Estadística (INE) Estadísticas Vitales <https://www.ine.gob.gt/ine/vitales/> Access by: Base de datos, select appropriate year under Año and then select Defunciones.
 
 2022: Public Information Request from [RENAP](https://www.renap.gob.gt/solicitud-de-informacion-publica-decreto-57-2008).
 
@@ -439,7 +439,7 @@ Note: Total annual deaths in Palestine 2021 from Yearbook (16755) is somewhat sm
 
 Only 69 deaths were recorded in April 2020, this is probably due to disruption in the registry offices.
 
-### Paraguay - Monthly 
+### Paraguay - Monthly (complete)
 
 2015 onward: Paraguay Ministry of Health Sub-Sistema Informático de Estadísticas Vitales (SSIEV): <https://ssiev.mspbs.gov.py/20220618/defuncion_reportes/multireporte_defuncion.php>
 
@@ -495,7 +495,7 @@ Starting with 2024, there are no data by date of death yet available, we we are 
 
 2021 onward: [Statistical Office of the Republic of Serbia Births and Deaths](https://www.stat.gov.rs/sr-Cyrl/oblasti/stanovnistvo/rodjeni-i-umrli).
 
-### Seychelles - Monthly 
+### Seychelles - Monthly (complete)
 
 2015 onward: Email correspondence with [Seychelles National Bureau of Statistics](https://www.nbs.gov.sc/).
 
@@ -533,9 +533,14 @@ Taiwan also has weekly data from STMF, but it is less updated, so we opted to ke
 
 ### Tajikistan - Monthly 
 
-2015 to 2022: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released).
+2015 to 2023: [Tajikistan Agency on Statistics Demographic Yearbook of the Republic of Tajikistan 2022 (paper copy)](https://www.stat.tj/en/news/publications/-demographic-yearbook-of-the-republic-of-tajikistan-30th-anniversary-of-the-state-independence-of-the-republic-of-tajikistan-was-released).
 
 We wish to thank the reporters from [Eurasianet](https://eurasianet.org/) for providing us this information.
+
+Note: In 2023, the total of deaths by month are lower than the annual total, with an especially low January figure. 
+To account for this, we adjusted the monthly totals such that in January 2023 they represent the same share as January 2022 deaths.
+The reminder (514.5) was distributed equally to each of the other months (46.8 deaths per month). 
+Monthly deaths in Tajikistan 2023 have been rounded to one significant digit to emphasize they were adjusted.
 
 ### Transnistria - Monthly 
 
