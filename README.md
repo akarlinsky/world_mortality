@@ -181,9 +181,7 @@ Queried from <https://github.com/sociedatos>.
 
 ### Costa Rica - Monthly 
 
-2015 to 2019: UNData - <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
-
-2020 onward: Costa Rica Instituto Nacional De Estadística Y Censos (INEC) Defunciones 2020, el impacto de la enfermedad COVID-19 - DATOS PRELIMINARES: <https://www.inec.cr/sites/default/files/documetos-biblioteca-virtual/repoblacdef2020covid-19preliminar.pdf>
+2015 onward: UNData - <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
 ### Cuba - Monthly (complete)
 
@@ -274,9 +272,9 @@ On June 2nd, 2021 - We obtained monthly number of deaths in Hong Kong by month o
 
 ### Ireland - Weekly
 
-2015 - 2022: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: <https://data.cso.ie/table/VSD39>. Ireland provides daily death counts. We summed them up to form weekly death counts.
+2015 - 2023: Ireland Central Statistics Office (CSO) - Vital Statistics Annual Reports: <https://data.cso.ie/table/VSD39>. Ireland provides daily death counts. We summed them up to form weekly death counts.
 
-2023 onward: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02)).
+2024: Ireland Central Statistics Office (CSO) - weekly data based on the web-scarped series from rip.ie as available from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/demo_r_mwk_ts) (See [Measuring Mortality Using Public Data Sources](https://data.cso.ie/table/RIP02)).
 
 Note that figures from rip.ie are preliminary and might change.
 
@@ -453,7 +451,7 @@ Daily numbers were corrected to total annual deaths from the national statistics
 
 Notes: SINADEFF reports death registrations after October 2022, but after a cyber attack, many registrations have reverted back to paper format such that SINADEF is under-registering deaths. We thus only report death registrations until October 2022.
 
-### Philippines - Monthly 
+### Philippines - Monthly (complete)
 
 2015 onward: Philippines Statistics Authority: <https://psa.gov.ph/statistics/vital-statistics/stat-tables>.
 
@@ -463,7 +461,7 @@ Notes: SINADEFF reports death registrations after October 2022, but after a cybe
 
 The CDC reports death counts for Puerto Rico and the US separately, as does the WHO for COVID deaths. We are thus reporting death counts for the territory of Puerto Rico separately from the rest of the US.
 
-### Qatar - Monthly 
+### Qatar - Monthly (complete)
 
 2015 to 2019: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode:65;countryCode:634&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
@@ -591,13 +589,13 @@ Note: UNData reports 1,338 deaths in "unknown month" for 2019. These were distri
 Notes: the CDC stopped updating the 'predicted' (weighted) time-series in September 27, 2023. We switched to STMF to provide data for the US. 
 Description of previous sources for US is now under Currently unused sources.
 
-### Uzbekistan - Monthly
+### Uzbekistan - Monthly (complete)
 
 2015 to 2018: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a860&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
 2019 to 2020: Uzbekistan State Committee on Statistics - Demographic situation January - December (Direct link to PDF): <https://www.stat.uz/images/uploads/docs/demografiya_uz_18012021.pdf>
 
-2021: <https://stat.uz/images/uploads/reliz2021/demogpressreliz270122uz3.pdf>
+2021 onward: <https://stat.uz/images/uploads/reliz2021/demogpressreliz270122uz3.pdf>
 
 ------------------------------------------------------------------------
 
