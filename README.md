@@ -551,7 +551,7 @@ Social and economic development of the PMR: <http://mer.gospmr.org/deyatelnost/g
 2015 onward: Tunisia National Institute of statistics Monthly Bulletin: <http://www.ins.tn/en/publication/statistics-monthly-bulletin-february-2022>
 
 Monthly numbers were corrected to total annual deaths from the national statistics office - [Décés corrigés](https://www.ins.tn/statistiques/115).
-For 2023-2024, we use the latest currently available correction factor (2022).
+For 2024, we use the latest currently available correction factor (2023).
 
 ### Turkey - Monthly (complete)
 
