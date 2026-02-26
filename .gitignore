@@ -6,3 +6,4 @@ preliminary_mortality/raw_data
 .Rproj.user
 .Rhistory
 countries_sources.csv
+icd10_codes_by_country.dta

@@ -339,7 +339,7 @@ We thank [Dren Morina](https://github.com/Nerdm) for his help on this.
 
 Monthly hospital deaths (2020 onward) have been corrected to total deaths using the ratio between total deaths (available [here](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/138/health-indicators)) to hospital deaths.
 
-### Liechtenstein - Monthly 
+### Liechtenstein - Monthly (complete) 
 
 2015 - 2021: Liechtenstein Office for Statistics: <https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19>
 
