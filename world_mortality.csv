@@ -32790,12 +32790,13 @@ TUN,Tunisia,2024,2,monthly,7442
 TUN,Tunisia,2024,3,monthly,6810
 TUN,Tunisia,2024,4,monthly,5810
 TUN,Tunisia,2024,5,monthly,5774
-TUN,Tunisia,2024,6,monthly,5175
-TUN,Tunisia,2024,7,monthly,6268
-TUN,Tunisia,2024,8,monthly,6029
-TUN,Tunisia,2024,9,monthly,5537
-TUN,Tunisia,2024,10,monthly,5748
-TUN,Tunisia,2024,11,monthly,5514
+TUN,Tunisia,2024,6,monthly,5245
+TUN,Tunisia,2024,7,monthly,6269
+TUN,Tunisia,2024,8,monthly,6153
+TUN,Tunisia,2024,9,monthly,5740
+TUN,Tunisia,2024,10,monthly,5965
+TUN,Tunisia,2024,11,monthly,6055
+TUN,Tunisia,2024,12,monthly,7225
 TUR,Turkey,2015,1,monthly,34918
 TUR,Turkey,2015,2,monthly,32870
 TUR,Turkey,2015,3,monthly,37925
@@ -33049,6 +33050,30 @@ ARE,United Arab Emirates,2021,9,monthly,743
 ARE,United Arab Emirates,2021,10,monthly,750
 ARE,United Arab Emirates,2021,11,monthly,733
 ARE,United Arab Emirates,2021,12,monthly,760
+ARE,United Arab Emirates,2022,1,monthly,1202
+ARE,United Arab Emirates,2022,2,monthly,1006
+ARE,United Arab Emirates,2022,3,monthly,1006
+ARE,United Arab Emirates,2022,4,monthly,896
+ARE,United Arab Emirates,2022,5,monthly,910
+ARE,United Arab Emirates,2022,6,monthly,954
+ARE,United Arab Emirates,2022,7,monthly,1037
+ARE,United Arab Emirates,2022,8,monthly,907
+ARE,United Arab Emirates,2022,9,monthly,912
+ARE,United Arab Emirates,2022,10,monthly,916
+ARE,United Arab Emirates,2022,11,monthly,968
+ARE,United Arab Emirates,2022,12,monthly,1048
+ARE,United Arab Emirates,2023,1,monthly,1051
+ARE,United Arab Emirates,2023,2,monthly,853
+ARE,United Arab Emirates,2023,3,monthly,953
+ARE,United Arab Emirates,2023,4,monthly,946
+ARE,United Arab Emirates,2023,5,monthly,921
+ARE,United Arab Emirates,2023,6,monthly,923
+ARE,United Arab Emirates,2023,7,monthly,980
+ARE,United Arab Emirates,2023,8,monthly,950
+ARE,United Arab Emirates,2023,9,monthly,903
+ARE,United Arab Emirates,2023,10,monthly,931
+ARE,United Arab Emirates,2023,11,monthly,1002
+ARE,United Arab Emirates,2023,12,monthly,1101
 GBR,United Kingdom,2015,1,weekly,12559
 GBR,United Kingdom,2015,2,weekly,18317
 GBR,United Kingdom,2015,3,weekly,16735
