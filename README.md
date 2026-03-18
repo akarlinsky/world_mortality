@@ -66,12 +66,12 @@ See publication on Natural Movement: <https://www.estadistica.ad/serveiestudis/n
 
 2015 onward: [Statistics Division of Antigua and Barbuda: Deaths by month and sex 2008 to 2020](https://statistics.gov.ag/subjects/population-and-demography/deaths-by-month-and-sex-2008-2020/)
 
-### Argentina - Monthly 
+### Argentina - Monthly (complete) 
 
-2015 to 2023: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
+2015 to 2024: [Argentina Ministry of Health: Monthly General Deaths occurred and registered in the Argentine Republic](http://datos.salud.gob.ar/dataset/datos-salud-gob-ar-dataset-defunciones-mensuales-ocurridas-en-la-republica-argentina).
 
-Notes: (1) December 2023 deaths are low due to registration in 2024. 
-We have adjusted it to match 2023 total from the [2023 vital statistics report](https://www.argentina.gob.ar/salud/deis).
+Notes: (1) December 2024 deaths are low due to registration in 2025. 
+We have adjusted it to match 2024 total from the [2024 vital statistics report](https://www.argentina.gob.ar/salud/deis).
 (2) All years except 2016 and 2022 record some deaths in unknown month (from 3 in 2017 to 782 in 2019). These were distributed uniformly across months.
 
 ### Armenia - Monthly (complete)
