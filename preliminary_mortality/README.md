@@ -9,6 +9,7 @@ We advise not to use Preliminary Mortality for comparisons and analysis, as we c
 Sources are listed below the figures. We welcome any contributions.
 
 ![Andorra](plot_andorra.png)
+![China](plot_china.png)
 ![Jordan](plot_jordan.png)
 ![Honduras](plot_honduras.png)
 ![Nicaragua](plot_nicaragua.png)
