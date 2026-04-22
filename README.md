@@ -120,9 +120,9 @@ Note: The data we obtained from BSS listed 0 deaths for September 2017 and April
 
 ### Belarus - Monthly 
 
-2015 to June 2020: UNData - <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112%3brefYear%3a2015%2c2016%2c2017%2c2018%2c2019%2c2020&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
+2015 to June 2020: [UNData](https://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a112&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-July 2020 to 2023: Cyber Partisans - <https://www.by.cpartisans.org/en/post/mortality-in-belarus-during-the-covid-19-pandemic-real-statistics>
+July 2020 to 2023: [Cyber Partisans](https://www.by.cpartisans.org/en/post/mortality-in-belarus-during-the-covid-19-pandemic-real-statistics)
 
 Note: At time of writing (March 3rd, 2026), Belarus has yet to officially report monthly deaths after June 2020. We use mortality data released by Cyber Partisans (CP). 
 We note that CP data is slightly higher than offical Belarus data for the overlapping period (2018 to June 2020) by about 200 deaths a month, possibly due to inclusion of revisions and late registrations.
@@ -168,7 +168,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 ### Cabo Verde - Monthly 
 
-2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/ine_publicacoes_category/estatisticas-vitais/)
+2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/estatisticas-por-tema/21)
 
 ### Canada - Weekly (complete)
 
@@ -448,7 +448,7 @@ Only 69 deaths were recorded in April 2020, this is probably due to disruption i
 
 2017 onward: Peruvian Ministry of Health - National Deaths Registration System (SINADEF): <https://www.minsa.gob.pe/reunis/data/defunciones_registradas.asp>.
 
-Peru provides daily death counts. We summed them up to form weekly death counts.
+Peru provides daily death counts. We sum them up to weekly.
 
 Daily numbers were corrected to total annual deaths from the national statistics office - [Instituto Nacional de Estadística e Informática (INEI) Estadísticas Vitales](https://www.inei.gob.pe/estadisticas/indice-tematico/estadisticas-vitales-12079/).
 

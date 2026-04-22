@@ -9,9 +9,11 @@ We advise not to use Preliminary Mortality for comparisons and analysis, as we c
 Sources are listed below the figures. We welcome any contributions.
 
 ![Andorra](plot_andorra.png)
+![Bolivia](plot_bolivia.png)
 ![China](plot_china.png)
 ![Jordan](plot_jordan.png)
 ![Honduras](plot_honduras.png)
+![Lebanon](plot_lebanon.png)
 ![Nicaragua](plot_nicaragua.png)
 ![Cuba](plot_cuba.png)
 ![Curacao](plot_curacao.png)
@@ -41,6 +43,10 @@ Sources are listed below the figures. We welcome any contributions.
 2021: [A004 Estadística del moviment natural de població](https://www.estadistica.ad/serveiestudis/noticies/noticia6603cat.pdf)
 
 
+### Bolivia
+2015 - 2014: [Instituto Nacional de Estadística (INE) Registros Administrativos](https://www.ine.gob.bo/index.php/registros-administrativos-sociales/)
+
+
 ### Jordan
 2015 - 2020: [World Mortality](https://github.com/akarlinsky/world_mortality) (monthly).
 2021: [Jordan Statistical Yearbook 2021](http://dosweb.dos.gov.jo/products/jordan-statistical-yearbook-2021/)
@@ -59,6 +65,9 @@ Sources are listed below the figures. We welcome any contributions.
 
 ### Curacao
 2015 onward: [Central Bureau of Statistics - Mortality](https://www.cbs.cw/population-tables).
+
+### Lebanon
+2015 - 2024: [Lebanon Ministry of Public Health - Demographic and Socioeconomic Determinants](https://www.moph.gov.lb/en/Pages/8/327/statistical-bulletins#/en/Pages/8/138/health-indicators)
 
 ### Lesotho 
 2018 onward: [Lesotho Bureau of Statistics Vital Statistics (Births & Deaths)](https://www.bos.gov.ls/Publications.htm).
@@ -131,6 +140,9 @@ Public Authority for Civil Information.
 2021: Kosovo Agency of Statistics (ASK): [Monthly Bulletin of Vital Statistics](https://ask.rks-gov.net/sq/agjencia-e-statistikave-te-kosoves/add-news/statistikat-e-lindjeve-vdekjeve-kurorezimeve-dhe-shurorezimeve-mars-2021).
 
 The monthly bulletin of vital statistics is consistent with the quarterly bulletin which contains information from 2015 in [World Mortality](https://github.com/akarlinsky/world_mortality). For now, we are separating these two offical counts to avoid consistency issues.
+
+### Peru
+2015-2024: [Instituto Nacional de Estadística e Informática (INEI) Estadísticas Vitales](https://www.inei.gob.pe/estadisticas/indice-tematico/estadisticas-vitales-12079/)
 
 ### Vietnam
 2018-2020: Vietnam General Statistics Office: [Vietnam Statistical Yearbook](https://www.gso.gov.vn/en/data-and-statistics/2021/07/statistical-yearbook-of-2020/) 
