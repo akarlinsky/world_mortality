@@ -388,7 +388,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 2020 onward: <https://www.imsee.mc/Publications/Rapports-COVID-19> digitized using [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer).
 
-### Maldives - Monthly 
+### Maldives - Monthly (complete)
 
 2015 onward: [Maldives Statistical Yearbook - Monthly Records of Births and Deaths](http://statisticsmaldives.gov.mv/yearbook/2021/#).
 
