@@ -1,7 +1,7 @@
 # World Mortality Dataset
 
 This repository contains country-level data on all-cause mortality in 2015–2024 collected from various sources, see below.\
-We are currently providing data for 127 countries and territories.\
+We are currently providing data for 128 countries and territories.\
 We welcome any contributions.
 
 If you use this data, please cite it as:\
@@ -151,6 +151,9 @@ Monthly numbers were corrected to total annual deaths from the national statisti
 
 2017 onward: BHAS Natural Population Change Quarterly: <http://www.bhas.ba/Calendar/Category/14#tab-releases>
 
+### Botswana - Monthly (complete)
+2015 onward: [Statistics Botswana - Vital Statistics](https://www.statsbots.org.bw/latest-publications?title=&field_keywords_value=&field_release_date_value%5Bmin%5D%5Bdate%5D=&field_release_date_value%5Bmax%5D%5Bdate%5D=&field_sector_nid=782)
+
 ### Brazil - Monthly 
 
 2015 to 2023: Brazil Ministry of Health Sistema de Informação sobre Mortalidade (SIM): <https://opendatasus.saude.gov.br/dataset/sim>
@@ -245,7 +248,8 @@ Access by: Number of Deaths Per Month -\> Download XLS file.
 
 ### Gibraltar - Monthly 
 
-2015 onward: Gibraltar Broadcasting Corporation (GBC) public request from Government of Gibraltar Press Office <https://www.gbc.gi/news/187-increase-deaths-january-compared-10-year-average>
+2015-2020: [Gibraltar Broadcasting Corporation (GBC) public request from Government of Gibraltar Press Office](https://www.gbc.gi/news/187-increase-deaths-january-compared-10-year-average)
+2021-2022: [Gibraltar Parliament - Meeting of Parliament - Wednesday 18th Jan 2023 Hansard (page 66)](https://www.parliament.gi/proceedings-of-parliament/meetings-of-parliament/meeting-of-parliament-150)
 
 ### Greenland - Monthly (complete)
 
@@ -376,11 +380,11 @@ Mexican Ministry of Health Excess deaths database: 2020 onward: <http://www.dgis
 
 We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne Despeghel](https://github.com/lauriannedsp) for helping us obtain this information.
 
-### Moldova - Monthly 
+### Moldova - Monthly (complete)
 
 2015--2019, 2022 Onward: [UNData](https://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a498&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
-2020--2021: Moldova National Bureau of Statistics Quarterly Statistical Bulletin: <https://statistica.gov.md/newsview.php?l=en&idc=30&id=6945&parent=0>
+2020--2021: Moldova [National Bureau of Statistics Quarterly Statistical Bulletin](https://statistica.gov.md/newsview.php?l=en&idc=30&id=6945&parent=0)
 
 ### Monaco - Monthly 
 
@@ -396,7 +400,7 @@ We wish to thank [Mario Romero Zavala](https://github.com/mariorz) & [Laurianne 
 
 2015: UNData: <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a496%3brefYear%3a2015&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
-2016 onward: Mongolian Statistical Information Service: <https://www.1212.mn/mn/statistic/statcate/573056/table-view/DT_NSO_2100_027V2>
+2016 onward: [Mongolian Statistical Information Service](https://www.1212.mn/mn/statistic/statcate/573056/table-view/DT_NSO_2100_027V2)
 
 ### Namibia - Monthly 
 
@@ -506,9 +510,9 @@ Starting with 2024, there are no data by date of death yet available, we we are 
 
 2015 onward: South Africa Medical Research Council (SAMRC): <https://www.samrc.ac.za/research-reports/report-weekly-deaths-south-africa>.
 
-### Suriname - Monthly 
+### Suriname - Monthly (complete)
 
-2015--2019, 2022: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
+2015--2019, 2022--2024: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a740&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
 2020-2021: Email correspondence with with [Suriname General Bureau of Statistics](https://statistics-suriname.org/).
 
@@ -581,7 +585,7 @@ Access by: Statistical Information -\> Population and migration -\> Number of li
 
 ### United Arab Emirates - Monthly 
 
-2018 onward: UNData <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a784&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
+2018-2024: [UNData](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a784&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1)
 
 Note: UNData reports 1,338 deaths in "unknown month" for 2019. These were distributed equally between months. These are provided with one decimal digit, to emphasize this correction.
 
