@@ -169,7 +169,7 @@ We thank [Marcelo Oliveira](https://github.com/capyvara) and [Otavio Ranzani](ht
 
 2015 onward: [Department of Economic Planning and Statistics - Vital Statistics](http://www.deps.gov.bn/SitePages/Vital%20Statistics.aspx)
 
-### Cabo Verde - Monthly 
+### Cabo Verde - Monthly (complete)
 
 2015 onward: [National Institute of Statistics - Vital Statistics](https://ine.cv/estatisticas-por-tema/21)
 
@@ -185,7 +185,7 @@ Colombia Health Dashboard: <https://experience.arcgis.com/experience/d9bfa6a650a
 
 Queried from <https://github.com/sociedatos>.
 
-### Costa Rica - Monthly 
+### Costa Rica - Monthly (complete)
 
 2015 onward: UNData - <http://data.un.org/Data.aspx?d=POP&f=tableCode%3a65%3bcountryCode%3a188&c=2,3,6,8,10,12,13,14&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc&v=1>
 
